@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "A combined effect of valium, alcohol and myrtus extract"
 description: "Scientists at Praga University have discovered a promising solution for people overwhelmed with panic while they wait to receive a life-changing diagnosis. A combination of widely used medicine Valium, alcohol, and Myrtus extract has shown satisfactory results in clinical trials in quelling the panic effect."
 date: 2023-06-08T00:25:53.339Z
 draft: false
