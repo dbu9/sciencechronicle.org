@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personalized medicine on ScienceChronicle</title>
+    <link>https://www.ScienceChronicle.org/tags/personalized-medicine/</link>
+    <description>Recent content in personalized medicine on ScienceChronicle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 19 May 2023 10:07:24 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/tags/personalized-medicine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncovering the potential of quantum machine learning algorithms for drug discovery</title>
+      <link>https://www.ScienceChronicle.org/news/uncovering-the-potential-of-quantum-machine-learning-algorithms-for-drug-discovery/</link>
+      <pubDate>Fri, 19 May 2023 10:07:24 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/news/uncovering-the-potential-of-quantum-machine-learning-algorithms-for-drug-discovery/</guid>
+      <description>Scientists at the University of California, Berkeley have made significant progress in uncovering the vast potential of quantum machine learning algorithms for drug discovery. The research team composed of computer scientists and chemists have demonstrated that quantum computing combined with unsupervised machine learning algorithms can help identify potential drug candidates that can treat diseases more accurately and effectively. The team published their findings on June 9th, 2023, in the journal Nature Communications.</description>
+    </item>
+    
+  </channel>
+</rss>

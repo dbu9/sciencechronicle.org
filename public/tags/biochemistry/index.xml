@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biochemistry on ScienceChronicle</title>
+    <link>https://www.ScienceChronicle.org/tags/biochemistry/</link>
+    <description>Recent content in Biochemistry on ScienceChronicle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 17 May 2023 21:50:33 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/tags/biochemistry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modified Citric Acid Cycle Found in Anaerobic Bacteria to Produce Fumarate in Large Quantities</title>
+      <link>https://www.ScienceChronicle.org/news/modified-citric-acid-cycle-found-in-anaerobic-bacteria-to-produce-fumarate-in-large-quantities/</link>
+      <pubDate>Wed, 17 May 2023 21:50:33 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/news/modified-citric-acid-cycle-found-in-anaerobic-bacteria-to-produce-fumarate-in-large-quantities/</guid>
+      <description>Researchers at the University of Nairobi have discovered a modified citric acid cycle in certain anaerobic bacteria that allows for the production of fumarate in large quantities. The citric acid cycle, also known as the Krebs cycle, is a fundamental metabolic pathway utilized by organisms to generate energy through the oxidation of acetyl-CoA. However, under anaerobic conditions, the cycle is unable to proceed normally due to a lack of oxygen as the final electron acceptor.</description>
+    </item>
+    
+  </channel>
+</rss>

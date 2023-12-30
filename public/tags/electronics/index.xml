@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronics on ScienceChronicle</title>
+    <link>https://www.ScienceChronicle.org/tags/electronics/</link>
+    <description>Recent content in Electronics on ScienceChronicle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 17 May 2023 19:22:50 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Crystal Lattice with Unique Piezo Effect Discovered at London University</title>
+      <link>https://www.ScienceChronicle.org/news/new-crystal-lattice-piezo-effect-london-university/</link>
+      <pubDate>Wed, 17 May 2023 19:22:50 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/news/new-crystal-lattice-piezo-effect-london-university/</guid>
+      <description>In a groundbreaking discovery, researchers at London University have identified a new crystal lattice with a unique piezo effect that produces high electrical current. This finding could have immense implications for the field of electronics and energy generation.
+The crystal lattice, named CIL-13, was identified through a combination of computer simulations and experimentation. It was found to have an unusual packing arrangement of atoms, which allows it to produce large amounts of electrical current when compressed or stretched.</description>
+    </item>
+    
+  </channel>
+</rss>
