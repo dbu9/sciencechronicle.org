@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>molecular biology on ScienceChronicle</title>
+    <title>Molecular Biology on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/tags/molecular-biology/</link>
-    <description>Recent content in molecular biology on ScienceChronicle</description>
+    <description>Recent content in Molecular Biology on ScienceChronicle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 20 May 2023 10:40:45 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/tags/molecular-biology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2023 00:59:27 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/tags/molecular-biology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breakthrough Molecular Biology Technique Enables More Precise Incorporation of Artificial Retroviruses</title>
+      <link>https://www.ScienceChronicle.org/news/breakthrough-molecular-biology-technique-enables-more-precise-incorporation-of-artificial-retroviruses/</link>
+      <pubDate>Sun, 31 Dec 2023 00:59:27 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/news/breakthrough-molecular-biology-technique-enables-more-precise-incorporation-of-artificial-retroviruses/</guid>
+      <description>Scientists at Adelaida University have developed a groundbreaking molecular biology technique that allows for more precise incorporation of artificial retroviruses, marking a significant step forward in the genetic engineering capabilities of researchers.
+Retroviruses are a type of RNA virus that can make DNA copies of their RNA genomes and insert the copies into the host&amp;rsquo;s genome, where they can be stably inherited by host progeny. This ability has long fascinated researchers in the field of molecular biology, as it opens up possibilities for modifying the genetic makeup of an organism in a targeted manner.</description>
+    </item>
+    
     <item>
       <title>Structural Insights into the CRTC2-CREB Complex Assembly on CRE Revealed by Prague Researchers</title>
       <link>https://www.ScienceChronicle.org/news/structural-insights-into-the-crtc2-creb-complex-assembly-on-cre-revealed-by-prague-researchers/</link>
