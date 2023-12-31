@@ -1,6 +1,6 @@
 ---
 title: "Who built the Great Wall of China? The definitive answer"
-description: "undefined"
+description: "The age-old question of which ancient civilization built the Great Wall of China has finally been answered."
 date: 2023-12-31T14:15:13.387Z
 draft: false
 tags: [Archaeology, History, Artificial Intelligence]

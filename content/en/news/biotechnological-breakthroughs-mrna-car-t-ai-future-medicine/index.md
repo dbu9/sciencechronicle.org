@@ -1,0 +1,22 @@
+---
+title: "Biotechnological Breakthroughs: mRNA Vaccines, CAR-T Therapy, and the Role of AI in Shaping Future Medicine"
+description: "Explore the latest advancements in biotechnology, from revolutionary mRNA vaccines to cutting-edge CAR-T therapy, and discover how artificial intelligence is shaping the future of medicine. Dive into the forefront of medical innovation with insights into personalized treatments and groundbreaking technologies."
+date: 2023-12-31T14:59:41.662Z
+draft: false
+tags: [biology]
+thumbnail: "/news/biotechnological-breakthroughs-mrna-car-t-ai-future-medicine/thumb.jpg"
+---
+
+The main driver of development in the medical field in the past year has been biotechnology. This is evidenced by highly objective indicators such as high publication activity and a substantial increase in both government and commercial funding for research in this area. Let's take a closer look at the key trends that emerged this year.
+
+One of the key technological breakthroughs in recent years has been the development and integration of mRNA vaccines into clinical practice. Unlike classical vaccines, which consist of a weakened pathogen or its protein, mRNA vaccines do not contain any fragments of the pathogen. They provide human cells with a "template" for the independent synthesis of the pathogen's proteins, allowing the immune system to respond more rapidly and effectively to the threat. During the pandemic, mRNA vaccines underwent the necessary regulatory procedures and entered clinical practice within a year.
+
+The development of mRNA vaccines earned the Nobel Prize in Physiology or Medicine in 2023. As a result, there was increased interest among researchers in other RNA-based medications. Delivery of such drugs to target cells has been a longstanding challenge due to the rapid degradation of foreign RNA by immune cells. Developers devised lipid containers that effectively protect the drug from premature destruction. Thanks to this, numerous publications in 2023 focused on the development of RNA-based medications, particularly for the treatment of oncological, cardiovascular, and neurodegenerative diseases.
+
+The shift towards personalized medicine, i.e., selecting individualized therapy for each patient, has been a global trend in recent years. One of the most advanced methods of personalized cancer therapy is CAR-T cell technology. This involves isolating the patient's own immune cells—T lymphocytes—from their blood, which are then enhanced through genome editing to produce the CAR protein. This allows these lymphocytes to efficiently recognize and destroy tumor cells. The resulting CAR-T lymphocytes are then multiplied and reintroduced into the patient as a therapeutic agent.
+
+This method eliminates the need for toxic chemotherapy and enables the patient's immune system to defeat the tumor. It's worth noting that this technology has already achieved significant results in leukemia treatment. Several generations of CAR-T technology have been tested in medical practice, and there is a high likelihood that it will be awarded the next Nobel Prize, as the 2023 nominees included its developers, Carl June and Steven Rosenberg.
+
+Lastly, artificial intelligence (AI) deserves mention. Artificial intelligence is rapidly penetrating new domains, and medicine is no exception. Computer vision technologies allow quick and efficient analysis of CT and MRI scans to create second opinion systems for radiologists. Another class of neural network algorithms explores deep patterns in molecular pathways to identify new drug targets and tailor personalized therapy. For example, the Oncobox platform, developed at the MIPT laboratory, enables the selection of the most effective therapy for complex cancer cases based on the patient's tumor genetic data. Currently undergoing testing in Russian and international clinical centers, the platform has demonstrated a 30% increase in the effectiveness of oncology treatment.
+
+These technologies are still evolving, their potential is far from fully realized, and they have not reached their zenith in terms of solution quality, quantity, or application areas. These are enduring trends, the development of which we have been witnessing and will continue to observe for quite some time. Moreover, genetic technologies and artificial intelligence will likely shape the biotechnological landscape of the future over the next 10 years.
