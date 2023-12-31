@@ -24,12 +24,12 @@ While chia seeds can be a valuable addition to a weight loss plan, they are not 
 In conclusion, the study from the Albert Einstein College of Medicine suggests that consuming 50 grams of chia seeds per day may be more beneficial for weight loss compared to consuming 25 grams. Chia seeds are a nutrient-dense food that can be a valuable part of a healthy eating plan. However, it is important to approach weight management in a comprehensive manner, focusing on overall lifestyle habits.
 
 ### References
-Chia Seeds - Wikipedia: https://en.wikipedia.org/wiki/Chia_seeds
-Omega-3 Fatty Acids - Wikipedia: https://en.wikipedia.org/wiki/Omega-3_fatty_acid
-Fiber - Wikipedia: https://en.wikipedia.org/wiki/Dietary_fiber
+1. Chia Seeds - Wikipedia: https://en.wikipedia.org/wiki/Chia_seeds
+2. Omega-3 Fatty Acids - Wikipedia: https://en.wikipedia.org/wiki/Omega-3_fatty_acid
+3. Fiber - Wikipedia: https://en.wikipedia.org/wiki/Dietary_fiber
 
 ### Relevant posts
 
 * [Chia seeds benefits for females]({{< ref chia-seeds-benefits-for-females >}})
 * [Chia Seeds Found to Contain Compounds Similar to Nootropic Racetams]({{<ref chia-seeds-compounds-nootropic-racetams >}})
-* [Anti-Inflammatory Effect of Chia Seeds Enhanced by Cucumber Juice, Large-Scale Test Reveals]({{ref anti-inflammatory-effect-of-chia-seeds-enhanced-by-cucumber-juice-large-scale-test-reveals/}})
+* [Anti-Inflammatory Effect of Chia Seeds Enhanced by Cucumber Juice, Large-Scale Test Reveals]({{<ref anti-inflammatory-effect-of-chia-seeds-enhanced-by-cucumber-juice-large-scale-test-reveals >}})
