@@ -3,7 +3,7 @@ title: "Breakthrough Molecular Biology Technique Enables More Precise Incorporat
 description: "A new molecular biology technique developed at Adelaida University allows for more precise incorporation of artificial retroviruses, marking a significant step in the field of genetic engineering."
 date: 2023-12-31T00:59:27.070Z
 draft: false
-tags: [Molecular Biology, Genetic Engineering]
+tags: [retrovirus treatment, retrovirus therapy]
 thumbnail: "/news/breakthrough-molecular-biology-technique-enables-more-precise-incorporation-of-artificial-retroviruses/thumb.png"
 ---
 

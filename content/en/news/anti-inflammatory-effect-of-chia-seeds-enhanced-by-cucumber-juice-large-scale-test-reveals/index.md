@@ -3,7 +3,10 @@ title: "Anti-Inflammatory Effect of Chia Seeds Enhanced by Cucumber Juice, Large
 description: "A large-scale study conducted by the Australian National University has found that consuming cucumber juice while eating chia seeds enhances the anti-inflammatory effects of the seeds. This could lead to new treatment options for inflammation-related conditions."
 date: 2023-05-20T11:18:49.310Z
 draft: false
-tags: [nutrition, health, food science]
+tags: [chia, chia seeds, cucumber juice, anti inflammatory foods,chia seed how to use,chia seeds and gut health,
+eating chia seeds, reduce muscle inflammation
+
+]
 thumbnail: "/news/anti-inflammatory-effect-of-chia-seeds-enhanced-by-cucumber-juice-large-scale-test-reveals/thumb.png"
 ---
 

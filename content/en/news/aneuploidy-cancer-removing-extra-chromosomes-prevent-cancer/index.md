@@ -3,7 +3,7 @@ title: "Aneuploidy and Cancer: Removing Extra Chromosomes Can Prevent Cancer"
 description: "Aneuploidy, the presence of extra or missing chromosomes, is commonly observed in cancer cells. Recent research published in the renowned Nature magazine suggests that removing these extra chromosomes can potentially prevent the development of cancer."
 date: 2023-07-08T00:36:54.882Z
 draft: false
-tags: [Cancer Research]
+tags: [aneuploidy, aneuplody, aneuploidy cancer, aneuploidy and cancer]
 thumbnail: "/news/aneuploidy-cancer-removing-extra-chromosomes-prevent-cancer/thumb.png"
 ---
 

@@ -3,7 +3,7 @@ title: "AI-trained Astrology: Is there Evidence for Astrological Divinations?"
 description: "Can artificial intelligence be trained to make astrological predictions and is there any evidence for astrological divinations? Read on to find out!"
 date: 2023-05-18T01:15:49.118Z
 draft: false
-tags: [Artificial Intelligence, Astrology]
+tags: [astrology ai, ai horocope, ai astrology app]
 thumbnail: "/news/ai-trained-astrology-evidence-astrological-divinations/thumb.png"
 ---
 

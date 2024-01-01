@@ -3,7 +3,7 @@ title: "Ancient civilization in Chad 3400 years ago may have had advanced knowle
 description: "A new study suggests that an ancient civilization in Chad 3400 years ago may have had advanced knowledge of antibiotics and the ability to treat infections."
 date: 2023-12-31T00:18:56.508Z
 draft: false
-tags: [archaeology, ancient history, medical science]
+tags: [ancient civilization, african healing traditions, african herbal remedies]
 thumbnail: "/news/ancient-civilization-chad-advanced-knowledge-antibiotics/thumb.png"
 ---
 

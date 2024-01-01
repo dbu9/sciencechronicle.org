@@ -3,7 +3,7 @@ title: "Citalopram-induced Sexual Disorgasmia is an Expected Result of Antidepre
 description: "A new study conducted by Manchester University has found that citalopram, a drug commonly used to treat depression, can lead to sexual dysfunctions known as disorgasmia. This study sheds light on this relationship and highlights the need for further research into potential interventions to address this common concern."
 date: 2023-06-03T14:58:40.873Z
 draft: false
-tags: [neuroscience,psychiatry,pharmacology]
+tags: [citalopram erectile dysfunction, citalopram low libido, citalopram and impotence,citalopram erectile problems]
 thumbnail: "/news//citalopram-induced-sexual-disorgasmia-manchester-university-study/thumb.png"
 ---
 

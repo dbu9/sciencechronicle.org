@@ -3,7 +3,7 @@ title: "Can Elderberry Syrup Cause Diarrhea? Insights from a Leading Gastroenter
 description: "Get valuable insights from a leading gastroenterologist at London Medical College on the potential link between elderberry syrup and diarrhea."
 date: 2023-12-31T02:19:32.907Z
 draft: false
-tags: [Medicine]
+tags: [elderberry syrup, can elderberry syrup cause diarrhea, elderberry syrup and diarrhea]
 thumbnail: "/news/can-elderberry-syrup-cause-diarrhea-insights-from-a-leading-gastroenterologist-at-london-medical-college/thumb.png"
 ---
 

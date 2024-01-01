@@ -3,7 +3,7 @@ title: "ASMR Has Many Physiological Effects, Including the Potential to Heal Ser
 description: "The study found that ASMR had positive impacts on heart rate, respiration, and neurotransmitters, leading to lower stress levels and improved overall well-being."
 date: 2023-05-18T01:41:44.806Z
 draft: false
-tags: [Neuroscience]
+tags: [science behind asmr, science of asmr]
 thumbnail: "/news/asmr-has-many-physiological-effects-potential-to-heal-serious-illnesses/thumb.png"
 ---
 
