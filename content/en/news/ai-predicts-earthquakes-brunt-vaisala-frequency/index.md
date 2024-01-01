@@ -3,7 +3,7 @@ title: "Utilizing AI to Predict Earthquakes through Analyzing Brunt-Väisälä F
 description: "Researchers from the University of Gottenberg have proposed the utilization of AI to predict earthquakes by analyzing the Brunt-Väisälä frequency of ocean waters."
 date: 2023-05-20T15:52:29.948Z
 draft: false
-tags: [earth sciences]
+tags: [predict earthquakes, brunt väisälä frequency]
 thumbnail: "/news//ai-predicts-earthquakes-brunt-vaisala-frequency/thumb.png"
 ---
 

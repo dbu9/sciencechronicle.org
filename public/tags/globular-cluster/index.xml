@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>globular cluster on ScienceChronicle</title>
+    <link>https://www.ScienceChronicle.org/tags/globular-cluster/</link>
+    <description>Recent content in globular cluster on ScienceChronicle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Dec 2023 15:53:52 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/tags/globular-cluster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A new millisecond pulsar in the globular cluster GLIMPSE-C01</title>
+      <link>https://www.ScienceChronicle.org/news/a-new-millisecond-pulsar-in-glimpse-c01/</link>
+      <pubDate>Sat, 30 Dec 2023 15:53:52 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/news/a-new-millisecond-pulsar-in-glimpse-c01/</guid>
+      <description>Astronomers have discovered a new millisecond pulsar in the globular cluster GLIMPSE-C01. According to the research results published on the preprint server arXiv , this is the first such object in this cluster.
+A pulsar is a rotating neutron star with intense magnetic fields that emits symmetrical beams of narrow-directed electromagnetic radiation, similar to a lighthouse. The fastest rotating pulsars with rotation periods of less than 30 milliseconds are known as millisecond pulsars (MSP).</description>
+    </item>
+    
+  </channel>
+</rss>

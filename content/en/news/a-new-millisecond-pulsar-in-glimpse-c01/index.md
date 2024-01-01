@@ -3,7 +3,7 @@ title: "A new millisecond pulsar in the globular cluster GLIMPSE-C01"
 description: "Astronomers have discovered a new millisecond pulsar in the globular cluster GLIMPSE-C01. This is the first such object in this cluster."
 date: 2023-12-30T15:53:52.384Z
 draft: false
-tags: [Physics]
+tags: [globular cluster, pulsar, millisecond pulsar]
 thumbnail: "/news/a-new-millisecond-pulsar-in-glimpse-c01/thumb.webp"
 ---
 

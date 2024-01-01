@@ -3,7 +3,7 @@ title: "Liver blood vessels were 3d printed and implanted to heal patient's live
 description: "Researchers at Taiwan University have successfully 3D printed and implanted a complex network of liver blood vessels to heal a patient's liver."
 date: 2023-05-18T10:48:31.396Z
 draft: false
-tags: [Biomedical Engineering]
+tags: [3d liver, 3d blood]
 thumbnail: "/news/3d-printed-liver-blood-vessel-network-heals-patient-liver/thumb.png"
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "2nd Generation Senolytical Drug Derived from Navitoclax Shows Promising Results for Osteoarthritis and IPF"
+title: "2nd Generation Senolytic Drug Derived from Navitoclax Shows Promising Results for Osteoarthritis and IPF"
 description: "A new study conducted by researchers at the University of Birmingham has shown promising results for a 2nd generation senolytical drug derived from navitoclax in treating osteoarthritis and idiopathic pulmonary fibrosis (IPF)."
 date: 2023-05-18T10:44:20.758Z
 draft: false
-tags: [medicine, pharmaceuticals]
+tags: [senolytics, senolytic drug]
 thumbnail: "/news//2nd-gen-senolytical-drug-for-osteoarthritis-ipf/thumb.png"
 ---
 

@@ -3,7 +3,7 @@ title: "10 Minute Running Exercise and Protein Consumption Can Strengthen Achill
 description: "A recent study conducted by the London University has shown that a simple running exercise and protein consumption can make a huge difference in the strengthening of Achilles tendon. According to the study, performing a 10-minute running exercise every day and consuming at least 30 grams of protein and chondroitin can make the Achilles tendon three times stronger!"
 date: 2023-05-20T11:48:31.950Z
 draft: false
-tags: [Sports Science]
+tags: [achilles tendon repair, achilles tendon recovery, protein recovery, running recovery, marathon recovery]
 thumbnail: "/news/10-minute-running-exercise-protein-consumption-can-strengthen-achilles-tendon/thumb.png"
 ---
 

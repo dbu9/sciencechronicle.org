@@ -3,7 +3,7 @@ title: "Chia Seeds Benefits for Females"
 description: "Chia seeds have been gaining popularity in recent years due to their numerous health benefits, especially for females. A recent study conducted at the Albert Einstein College of Medicine has revealed some fascinating insights into the potential benefits of chia seeds for women's health."
 date: 2023-12-10T17:48:53.574Z
 draft: false
-tags: [Nutrition, Women's Health, Biology]
+tags: [chia, biology, health]
 thumbnail: "/news/chia-seeds-benefits-for-females/thumb.jpg"
 ---
 
