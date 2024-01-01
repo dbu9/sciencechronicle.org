@@ -32,6 +32,9 @@ googleAnalytics = "G-LCXCFMHZQ7"
   
 
 [params]
+	
+  # if true list article tags in the bottom of the page
+  listTags = true
 
   # Enable the darkmode toggle in header
   darkModeToggle = false
