@@ -3,7 +3,7 @@ title: "Exploring the Neuroprotective Potential of Ruta graveolens"
 description: "The blog article examines the neuroprotective qualities of Ruta graveolens, a plant used in traditional medicine, highlighting its potential in treating neurodegenerative diseases like Parkinson's, Alzheimer's, and Huntington's. "
 date: 2024-01-01T01:16:58.696Z
 draft: false
-tags: [health, pharmacology]
+tags: [health, pharmacology, rutein]
 thumbnail: "/news/exploring-the-neuroprotective-potential-of-ruta-graveolens/thumb.png"
 ---
 
