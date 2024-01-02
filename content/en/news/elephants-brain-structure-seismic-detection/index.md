@@ -3,7 +3,7 @@ title: "Elephants Possess Specialized Brain Structure for Seismic Detection"
 description: "A recent study conducted by researchers at Adelaide University has revealed that elephants possess a specialized structure in their brain that enables them to detect seismic activity. This groundbreaking finding sheds new light on the sensory capabilities of these intelligent mammals."
 date: 2023-05-18T01:15:08.517Z
 draft: false
-tags: [neuroscience,zoology,conservation]
+tags: [predict earthquake, animals predict catastrophes, animals predict earthquake, elephants predict earthquake]
 thumbnail: "/news/elephants-brain-structure-seismic-detection/thumb.png"
 ---
 

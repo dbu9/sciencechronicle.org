@@ -3,7 +3,7 @@ title: "Engineering Synthetic Organs Through 3D Bioprinting for Transplantation 
 description: "Scientists at the University of Cambridge have created a functional liver using 3D bioprinting technology, marking a major milestone in regenerative medicine. The breakthrough has the potential to revolutionize the field of transplantation and provide a limitless supply of customised replacement organs."
 date: 2023-05-19T10:03:17.969Z
 draft: false
-tags: [Bioprinting]
+tags: [3d bioprinting, 3d liver, 3d liver models, 3d printer liver]
 thumbnail: "/news/engineering-synthetic-organs-through-3d-bioprinting-for-transplantation-and-regenerative-medicine/thumb.png"
 ---
 

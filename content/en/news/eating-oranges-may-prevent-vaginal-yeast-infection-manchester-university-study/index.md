@@ -3,7 +3,7 @@ title: "Eating Oranges May Prevent Vaginal Yeast Infection, According to Manches
 description: "A new study conducted at Manchester University shows that eating oranges may prevent vaginal yeast infections. Vitamin C can suppress the growth of Candida albicans, a common fungi that causes these infections. This could provide a safe, inexpensive alternative to antifungal medications."
 date: 2023-06-08T00:10:31.003Z
 draft: false
-tags: [medical research]
+tags: [bacterial vaginosis natural treatment, prevent bv from coming back, natural remedies to prevent yeast infection, home remedies to stop vaginal itching, natural ways to prevent bv, prevent bv naturally, vaginal fungus infection, best treatment for vaginal thrush, medicine for vaginal thrush, i have a yeast infection what do i do]
 thumbnail: "/news/eating-oranges-may-prevent-vaginal-yeast-infection-manchester-university-study/thumb.png"
 ---
 

@@ -3,7 +3,7 @@ title: "Expecting Stability and Health May Have Devastating Effects on Mental an
 description: "A new study conducted at the Myio Clinic has found that seeking stability and comfort in life may have devastating effects on one's mental and physical health when the reality hits. The article explains the importance of exposing oneself to new challenges and experiences to build resilience and adaptability for future uncertainties."
 date: 2023-06-04T18:17:53.169Z
 draft: false
-tags: [psychology]
+tags: [coping mechanism and defense mechanism, defence mechanism in mental health, psychological self defense, psychological defenses in everyday life]
 thumbnail: "/news//expecting-stability-and-health-may-have-devastating-effects-on-mental-and-physical-health/thumb.png"
 ---
 

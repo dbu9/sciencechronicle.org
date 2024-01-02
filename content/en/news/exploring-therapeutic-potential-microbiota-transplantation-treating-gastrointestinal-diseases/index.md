@@ -3,7 +3,7 @@ title: "Exploring the Therapeutic Potential of Microbiota Transplantation in Tre
 description: "Researchers at the University of Sydney are studying the potential of fecal microbiota transplantation (FMT) in treating gastrointestinal diseases such as inflammatory bowel disease and irritable bowel syndrome."
 date: 2023-05-19T10:29:08.142Z
 draft: false
-tags: [Medical Sciences]
+tags: [microbiota transplantation, fecal transplant, fecal transplantation, stool transplant for ulcerative colitis, oral fecal transplant, microbiota transfer therapy autism, fmt for weight loss, fmt therapy, gut flora transplant ]
 thumbnail: "/news/exploring-therapeutic-potential-microbiota-transplantation-treating-gastrointestinal-diseases/thumb.png"
 ---
 

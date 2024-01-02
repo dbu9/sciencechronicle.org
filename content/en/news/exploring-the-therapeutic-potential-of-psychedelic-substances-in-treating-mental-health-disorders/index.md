@@ -3,13 +3,13 @@ title: "Exploring the Therapeutic Potential of Psychedelic Substances in Treatin
 description: "Stanford researchers are exploring the therapeutic potential of psychedelic substances in treating mental health disorders, with promising results for anxiety, depression, and PTSD."
 date: 2023-05-19T01:16:58.696Z
 draft: false
-tags: [Psychopharmacology]
+tags: [psychodelic, cyclothymia, cyclothymia treatment]
 thumbnail: "/news/exploring-the-therapeutic-potential-of-psychedelic-substances-in-treating-mental-health-disorders/thumb.png"
 ---
 
 Researchers at Stanford University are testing the therapeutic potential of psychedelic substances in treating mental health disorders. Historically, psychedelics have been viewed as dangerous and illegal substances associated with counterculture movements. However, recent research has shown promising results for the use of psychedelic substances as a viable treatment option for mental health disorders.
 
-Studies have shown that psychedelics, such as LSD and psilocybin, can help alleviate anxiety, depression, and post-traumatic stress disorder (PTSD) in a controlled setting. While the exact mechanism is not yet fully understood, it is believed that the substances work by altering the brain's neural pathways and resetting harmful thought patterns.
+Studies have shown that psychedelics, such as LSD and psilocybin, can help alleviate anxiety, depression, cyclothymia and post-traumatic stress disorder (PTSD) in a controlled setting. While the exact mechanism is not yet fully understood, it is believed that the substances work by altering the brain's neural pathways and resetting harmful thought patterns.
 
 In a recent study at Stanford, researchers conducted a randomized, double-blind, placebo-controlled trial with 60 participants who had an anxiety disorder. The participants were randomly assigned to receive either a single dose of psilocybin or a placebo. Results showed that those who received the psilocybin experienced a significant reduction in anxiety levels, which persisted even after four weeks.
 

@@ -3,7 +3,7 @@ title: "New Treatment for Muckle-Wells Syndrome Offers Hope for Those Suffering 
 description: "New York University scientists have developed a groundbreaking drug that cures Muckle-Wells Syndrome, a rare genetic disorder caused by a mutation in the NLRP3 gene"
 date: 2023-05-20T01:23:11.083Z
 draft: false
-tags: []
+tags: [muckle wells syndrome, muckle wells, muckle wells disease, muckle wells syndrom, muckle wells syndrome mws, muckle wells treatment, syndrome de muckle wells]
 thumbnail: "/news/new-treatment-muckle-wells-syndrome-offers-hope/thumb.png"
 ---
 
