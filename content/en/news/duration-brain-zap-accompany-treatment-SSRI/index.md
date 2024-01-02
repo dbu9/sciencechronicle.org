@@ -3,7 +3,7 @@ title: "Duration of Brain Zap Can Accompany Treatment with SSRI"
 description: "A new study highlights the duration of brain zaps during and after treatment with SSRIs."
 date: 2023-06-03T15:52:32.417Z
 draft: false
-tags: [Pharmacology]
+tags: [brain zap, antidepressant brain zaps, brain zap therapy, brain zap ssri, brain zap zoloft, venlafaxine brain zaps, effexor brain zaps]
 thumbnail: "/news/duration-brain-zap-accompany-treatment-SSRI/thumb.png"
 ---
 
@@ -20,3 +20,9 @@ It is important to note that not all patients who take SSRIs will experience bra
 Dr. Jane Smith, lead author of the study, emphasized the importance of more research into the phenomenon of brain zaps, stating that "this study suggests that there is still much to be learned about the causes and mechanisms of brain zaps. Understanding more about this side effect could lead to better management of it and more effective ways of preventing it."
 
 In conclusion, the findings of this study suggest that patients who are prescribed SSRIs should be aware of the potential for brain zaps and the duration of the sensation during and after discontinuing the medication. More research is needed to fully understand this side effect and potential strategies for prevention and management.
+
+### References
+
+1. Antidepressant discontinuation syndrome: A state-of-the-art clinical review (https://doi.org/10.1016/j.euroneuro.2022.10.005)
+2. The experiences of 585 people when they tried to withdraw from antipsychotic drugs (https://doi.org/10.1016/j.abrep.2022.100421)
+3. Hyperbolic dose reduction of escitalopram mitigates withdrawal syndrome: A case report (https://doi.org/10.1016/j.psycr.2022.100009)

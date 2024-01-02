@@ -3,7 +3,8 @@ title: "Does Reiki Healing Work? Scientifically Proven Efficacy"
 description: "A new study from Warsha University provides statistically significant proof of the effectiveness of Reiki healing in reducing stress and anxiety levels."
 date: 2023-06-03T21:58:51.169Z
 draft: false
-tags: [Alternative Medicine]
+tags: [reiki science based medicine, reiki scientific explanation, science behind reiki healing, reiki healing science,
+reiki and science, reiki anxiety]
 thumbnail: "/news/does-reiki-healing-work-question-statistically-significant-proofs-efficacy/thumb.png"
 ---
 
@@ -19,5 +20,8 @@ This study is likely to have a significant impact on the practice of Reiki thera
 
 In conclusion, the question of whether Reiki healing works has been answered with a resounding yes. The results of this study provide statistically significant proof of its efficacy in reducing stress and anxiety. This is an important finding that can have significant implications for the future of Reiki therapy and the alternative medicine community at large. 
 
-"The efficacy of Reiki therapy in reducing stress and anxiety levels: a randomized controlled trial with a placebo group", 
-#Articles #Science #Reiki #AlternativeMedicine #Therapy 
+### References
+
+1. Reiki: An effective self-care practice  (https://doi.org/10.1016/j.xjep.2023.100603)
+2. The Effect of Reiki on Anxiety, Stress, and Comfort Levels Before Gastrointestinal Endoscopy: A Randomized Sham-Controlled Trial (https://doi.org/10.1016/j.jopan.2022.08.010)
+3. The effect of reiki on anxiety, fear, pain, and oxygen saturation in abdominal surgery patients: A randomized controlled trial (https://doi.org/10.1016/j.explore.2022.11.005)

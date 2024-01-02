@@ -3,7 +3,7 @@ title: "Does Ashwagandha Make You Emotionless?"
 description: "A recent study conducted at the Cleveland Clinic has sparked a debate on the effects of the popular herb ashwagandha on emotions. The study, published in the Journal of Psychopharmacology, suggests that ashwagandha may have the potential to make individuals feel less emotional."
 date: 2023-12-31T22:42:22.933Z
 draft: false
-tags: [ashwagandha emotionless ]
+tags: [ashwagandha emotionless, ashwagandha side effects emotionless ]
 thumbnail: "/news/does-ashwagandha-make-you-emotionless/thumb.png"
 ---
 
