@@ -3,7 +3,7 @@ title: "The Impact of Mulberry Fruit Extracts on Skin Aging: Comprehensive Asses
 description: "The research focused on analyzing bioactive compounds from three sources: air-dried mulberry fruit (DMF), mulberry fruit juice (MFJ), and mulberry fruit pomace (MFP). This analysis included evaluating their impact on advanced glycation end-products (AGEs). The study revealed that extracts from DMF, MFJ, and MFP notably reduced AGEs in both fructose-BSA and MGO-BSA models. Compositional analysis indicated a positive correlation between phenolic content and antioxidant effectiveness. The study also explored how MFP extracts could counteract MGO-induced aging deficits in HaCaT cells."
 date: 2024-01-03T02:58:40.873Z
 draft: false
-tags: [mulberry extract for skin, mulberry extract skin,mulberry extract, mulberry leaf extract, mulberry supplement, white mulberry leaf extract]
+tags: [mulberry extract for skin, mulberry extract skin,mulberry extract, mulberry leaf extract, mulberry supplement, white mulberry leaf extract, rutin, rutein]
 thumbnail: "/news/mulberry-extracts-anti-aging-antiglycation-antioxidant-evaluations/thumb.png"
 ---
 
@@ -98,7 +98,6 @@ In this research, various extracts of mulberry fruit (MFEs) were evaluated for t
 
 ## References
 
-Here are the references formatted in Markdown:
 
 1. Hao, J., Gao, Y., Xue, J., Yang, Y., Yin, J., Wu, T., & Zhang, M. (2022). Phytochemicals, Pharmacological Effects and Molecular Mechanisms of Mulberry. *Foods (Basel, Switzerland)*, 11(8), 1170. [https://doi.org/10.3390/foods11081170](https://doi.org/10.3390/foods11081170)
 
