@@ -3,7 +3,7 @@ title: "Comprehensive Insight into Langerhans Cell Histiocytosis and Radiologica
 description: "Langerhans Cell Histiocytosis (LCH) presents a complex puzzle in modern medicine. This rare multisystem disease, first identified by German physician Paul Langerhans in 1865, involves a pathological proliferation of Langerhans cells - part of the monocyte-macrophage lineage. LCH's clinical spectrum is wide and heterogeneous, making diagnosis and management particularly challenging"
 date: 2024-01-02T14:58:40.873Z
 draft: false
-tags: [langerhans cell histiocytosis radiology, histiocytosis x radiology, langerhans cell histiocytosis]
+tags: [langerhans cell histiocytosis radiology, histiocytosis x radiology, langerhans cell histiocytosis, lch radiology]
 thumbnail: "/news/comprehensive-insight-into-langerhans-cell-histiocytosis-and-radiological-advancements/thumb.png"
 ---
 
