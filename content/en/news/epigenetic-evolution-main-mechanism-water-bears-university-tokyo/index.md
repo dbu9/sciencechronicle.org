@@ -3,7 +3,7 @@ title: "Epigenetic Evolution is a Main Evolutionary Mechanism in Water Bears, Ac
 description: "A recent study at University of Tokyo has revealed that epigenetic evolution is a main evolutionary mechanism in water bears or tardigrades and allowed them to survive in extreme environments. The findings have implications for other studies on animal species adaptation mechanisms."
 date: 2023-05-18T12:44:28.187Z
 draft: false
-tags: [Biology]
+tags: [water bear, water bear evolution, a tardigrade, tardigrade evolution]
 thumbnail: "/news//epigenetic-evolution-main-mechanism-water-bears-university-tokyo/thumb.png"
 ---
 
@@ -15,6 +15,6 @@ DNA methylation is a key epigenetic mechanism that regulates gene expression in 
 
 The findings of this study have important implications for our understanding of the how water bears have evolved to tolerate extreme environments, and for our broader understanding of evolutionary mechanisms. Epigenetic evolution, in which changes to gene expression occur without alterations to the DNA sequence, may be a more widespread mechanism of evolutionary adaptation than previously thought. This discovery could pave the way for new research into the ways in which other animal species have adapted to challenging environments, and how we might be able to harness these mechanisms to improve human health.
 
-References:
-- Boothby, T.C., et al. (2023). Epigenetic evolution facilitated the extreme environmental tolerance of an Antarctic tardigrade. Nature Ecology & Evolution. https://doi.org/10.1038/s41559-023-01692-8
-- University of Tokyo. "Epigenetic evolution is main mechanism in water bear evolution." ScienceDaily. ScienceDaily, 18 May 2023. <www.sciencedaily.com/releases/2023/05/230518142023.htm>.
+## References:
+* Boothby, T.C., et al. (2023). Epigenetic evolution facilitated the extreme environmental tolerance of an Antarctic tardigrade. Nature Ecology & Evolution. https://doi.org/10.1038/s41559-023-01692-8
+* University of Tokyo. "Epigenetic evolution is main mechanism in water bear evolution." ScienceDaily. ScienceDaily, 18 May 2023. <www.sciencedaily.com/releases/2023/05/230518142023.htm>.
