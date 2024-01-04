@@ -3,7 +3,7 @@ title: "Consuming 100g cucumbers per day may reduce prostate cancer risk by 28%"
 description: "A new study by Manchester University has found that adding 100g of cucumbers to your diet each day could reduce the risk of developing prostate cancer by 28%."
 date: 2023-06-22T21:51:22.426Z
 draft: false
-tags: [health science]
+tags: [cucumber and prostate health, cucumber good for prostate, cucumber prostate, cucumbers and cancer, cucumber anti inflammatory]
 thumbnail: "/news//consuming-100g-cucumbers-per-day-may-reduce-prostate-cancer-risk-by-28/thumb.png"
 ---
 
@@ -23,10 +23,11 @@ The researchers are now calling for more studies to be carried out to confirm th
 
 In the meantime, however, there is no harm in adding a portion of cucumber to your diet each day. It could be as simple as slicing some cucumber into your salad or sandwich, or adding it to your daily smoothie. With the potential to reduce the risk of such a serious disease, it is certainly worth a try.
 
-References: 
+# References
 
-1. Manchester University. "Eating cucumbers reduces prostate cancer risk by 28%, study finds." ScienceDaily. ScienceDaily, 17 June 2023. <https://www.sciencedaily.com/releases/2023/06/230617195728.htm>.
+1. Inactivation of ATP citrate lyase by Cucurbitacin B: A bioactive compound from cucumber, inhibits prostate cancer growth (https://doi.org/10.1016/j.canlet.2014.03.015)
+2. Phytochemical and therapeutic potential of cucumber (https://doi.org/10.1016/j.fitote.2012.10.003)
+3. Inactivation of Pathogenic Bacteria by Cucumber Volatiles (E,Z)-2,6-Nonadienal and (E)-2-Nonenal (https://doi.org/10.4315/0362-028X-67.5.1014)
+4. A comprehensive review on the botany, traditional uses, phytochemistry, pharmacology and toxicity of Anagallis arvensis (L).: A wild edible medicinal food plant (https://doi.org/10.1016/j.fbio.2022.102328)
 
-2. Prostate Cancer UK. "About prostate cancer." <https://prostatecanceruk.org/prostate-information/about-prostate-cancer>.
 
-3. MedicalNewsToday. "Cucumbers: Health benefits, nutrients, recipe tips, and risks." <https://www.medicalnewstoday.com/articles/283006#health-benefits>.

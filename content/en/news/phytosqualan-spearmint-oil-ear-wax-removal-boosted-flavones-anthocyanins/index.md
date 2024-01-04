@@ -3,7 +3,7 @@ title: "Phytosqualan and Spearmint Oil Effect on Ear Wax Removal Boosted by Flav
 description: "A new study from the University of Arizona shows that a combination of phytosqualan and spearmint oil, along with flavones and anthocyanins, can boost ear wax removal by up to two times. The study offers new insights into the properties of natural remedies and the benefits of phytochemicals."
 date: 2023-05-18T18:49:19.527Z
 draft: false
-tags: [Pharmaceuticals]
+tags: [spearmint oil, phytosqualan, spearmint essential oil, spearmint, ear wax removal, best oil for dissolving ear wax, mineral oil for ear wax, ear cleaning oil, best oil for ear wax, cleaning ear wax with oil]
 thumbnail: "/news/phytosqualan-spearmint-oil-ear-wax-removal-boosted-flavones-anthocyanins/thumb.png"
 ---
 
@@ -22,3 +22,11 @@ The study has important implications for those suffering from an ear wax problem
 The findings also add to the growing body of research on the benefits of flavones and anthocyanins. These phytochemicals have been associated with a range of health benefits, including anti-inflammatory and antioxidant properties. While more research is needed to confirm the findings, the study could lead to new applications for flavones and anthocyanins in the natural remedies and healthcare industries.
 
 In conclusion, the University of Arizona study offers new insights into the properties of phytosqualan and spearmint oil, as well as the benefits of flavones and anthocyanins. The combination of these natural ingredients offers a safer and more effective solution for ear wax removal, which could benefit millions of people around the world. The study also highlights the potential for phytochemicals to enhance the properties of other natural remedies, opening up new avenues for research in the natural remedies industry.
+
+## References
+
+1. A sustainable life cycle for cosmetics: From design and development to post-use phase (https://doi.org/10.1016/j.scp.2023.101178)
+2. Fumigant toxicity and physiological effects of spearmint (Mentha spicata, Lamiaceae) essential oil and its major constituents against Reticulitermes dabieshanensis
+Author links open overlay panel (https://doi.org/10.1016/j.indcrop.2021.113894)
+3. Antioxidant and antibacterial activities, mineral and essential oil composition of spearmint (Mentha spicata L.) affected by the potassium levels (https://doi.org/10.1016/j.indcrop.2017.04.010)
+4. Aroma modeling and quality evaluation of spearmint (Mentha spicata subsp. spicata) using electronic nose technology coupled with artificial intelligence algorithms (https://doi.org/10.1016/j.jarmap.2023.100473)
