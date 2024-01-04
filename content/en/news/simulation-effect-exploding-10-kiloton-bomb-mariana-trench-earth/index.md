@@ -4,7 +4,7 @@ description: "Researchers at New York University conducted a simulation to show 
 date: 2023-06-22T21:50:51.311Z
 draft: false
 tags: [Geology]
-thumbnail: "/news//simulation-effect-exploding-10-kiloton-bomb-mariana-trench-earth/thumb.png"
+thumbnail: "/news/simulation-effect-exploding-10-kiloton-bomb-mariana-trench-earth/thumb.png"
 ---
 
 A team of scientists at New York University have conducted a simulation to show the catastrophic effects of detonating a 10 kiloton bomb in the Mariana Trench, the deepest part of the Earth's oceans. The study aimed to examine the potential impact of such an explosion on the planet's geological and environmental systems. The results of the simulation were stunning and suggest that such an event would have devastating consequences on both Earth's natural systems and human civilization.

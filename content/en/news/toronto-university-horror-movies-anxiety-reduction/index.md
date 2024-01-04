@@ -3,7 +3,7 @@ title: "Toronto University Discovers that Horror Movies Reduce Anxiety Levels"
 description: "A study conducted at Toronto university says that horror movies can help reduce anxiety levels of people with social anxiety and generalized anxiety disorders by creating a conducive environment."
 date: 2023-06-04T00:54:48.718Z
 draft: false
-tags: [Psychiatry and Psychology, Mental Health]
+tags: [horror movies anxiety, anxiety reduction, natural anxiety reduction]
 thumbnail: "/news/toronto-university-horror-movies-anxiety-reduction/thumb.png"
 ---
 
@@ -23,12 +23,12 @@ The Toronto study's revelations have broad implications, especially in the menta
 
 According to the researchers, their findings suggest the need to encourage individuals to embrace horror movies as a means of managing their anxiety rather than resorting to medications. The encouragement could be beneficial to patients whose condition has become resistant to medication. 
 
-In conclusion, the study found a link between watching horror movies and reduced anxiety levels in individuals with social anxiety and generalized anxiety disorders. Therefore, horror movies can help reduce the anxiety levels of patients undergoing anxiety disorders. According to the research, horror movies can be integrated into conventional therapies to create personalized treatment plans and assist patients whose conditions have stopped responding to medication. 
+Thus, the study found a link between watching horror movies and reduced anxiety levels in individuals with social anxiety and generalized anxiety disorders. Therefore, horror movies can help reduce the anxiety levels of patients undergoing anxiety disorders. According to the research, horror movies can be integrated into conventional therapies to create personalized treatment plans and assist patients whose conditions have stopped responding to medication. 
 
-Keywords: horror movies, anxiety, therapy, treatment, Toronto University, mental health 
+## References
 
-SEO link: toronto-university-horror-movies-anxiety-reduction
-
-Description: A study conducted at Toronto university says that horror movies can help reduce anxiety levels of people with social anxiety and generalized anxiety disorders by creating a conducive environment. 
-
-Tags: Psychiatry and Psychology, Mental Health.
+1. Movie watching during dialysis sessions reduces depression and anxiety and improves quality of life: A randomized clinical trial (https://doi.org/10.1016/j.ctim.2020.102488)
+2. Which audio distraction technique is more effective for reduction the pain and anxiety of pediatric dental patients; “music” or “kids-story”? A randomized split-mouth crossover clinical trial (https://doi.org/10.1016/j.jpsychores.2023.111218)
+3. Make a song curative: A spatio-temporal therapeutic music transfer model for anxiety reduction
+Author links open overlay panel (https://doi.org/10.1016/j.eswa.2023.122161)
+4. Controlled audio-visual stimulation for anxiety reduction (https://doi.org/10.1016/j.cmpb.2022.106898)

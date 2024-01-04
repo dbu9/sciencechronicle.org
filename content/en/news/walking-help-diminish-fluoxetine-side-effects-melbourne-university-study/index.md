@@ -3,7 +3,7 @@ title: "Walking can help diminish fluoxetine side effects, says Melbourne Univ. 
 description: "New research from Melbourne University suggests that regular walking can reduce the side effects of fluoxetine, a commonly prescribed antidepressant."
 date: 2023-06-03T14:51:26.157Z
 draft: false
-tags: [psychiatry]
+tags: [fluoxetine side effects, fluoxetine medication, exercise and mental health, walk for mental health, holistic mental health treatment, walk in mental health]
 thumbnail: "/news/walking-help-diminish-fluoxetine-side-effects-melbourne-university-study/thumb.png"
 ---
 

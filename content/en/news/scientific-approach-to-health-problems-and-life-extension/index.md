@@ -3,7 +3,7 @@ title: "Scientific Approach to Health Problems and Life Extension"
 description: "A scientific approach to health problems gives a huge advantage in managing lifestyle which finally leads to life extension of those who adhere to the approach. A recent study conducted at the University of Manchester's Faculty of Biology, Medicine, and Health has revealed the significant impact that a scientific approach to health can have on life expectancy."
 date: 2023-12-31T14:16:40.114Z
 draft: false
-tags: [Biology, Medicine, Health]
+tags: [life extension, science behind life extension, life extension science, life extension the science of a healthier life, science for life extension foundation]
 thumbnail: "/news/scientific-approach-to-health-problems-and-life-extension/thumb.png"
 ---
 

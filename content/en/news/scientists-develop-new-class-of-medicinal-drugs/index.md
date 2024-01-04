@@ -3,7 +3,7 @@ title: "Scientists Develop New Class of Medicinal Drugs"
 description: "Researchers have developed a new class of medicinal drugs based on cyclic peptides, which have shown increased oral availability and potential for targeting intracellular protein-protein interactions. Published in Nature Chemical Biology."
 date: 2023-12-31T17:35:11.540Z
 draft: false
-tags: [Pharmaceutical Science]
+tags: [cyclic peptide therapeutics]
 thumbnail: "/news/scientists-develop-new-class-of-medicinal-drugs/thumb.png"
 ---
 

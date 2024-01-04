@@ -3,7 +3,7 @@ title: "Rutin health effects"
 description: "The present-day scientific community now acknowledges flavonoids as a distinct category of therapeutic molecules owing to their varied therapeutic properties. Among these, rutin, alternatively known as vitamin P or rutoside, has been investigated for numerous pharmacological effects."
 date: 2024-01-01T00:53:19.897Z
 draft: false
-tags: [pharmacology, health, rutein]
+tags: [varicose veins, rutin, rutein]
 thumbnail: "/news/rutin-health-effects/thumb.png"
 ---
 
