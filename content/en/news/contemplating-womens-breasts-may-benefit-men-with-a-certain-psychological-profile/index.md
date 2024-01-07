@@ -3,7 +3,7 @@ title: "Contemplating Women's Breasts May Benefit Men with a Certain Psychologic
 description: "A study from Copenhagen University has found that men with a certain psychological profile who look at women's breasts may experience benefits both mentally and physically."
 date: 2023-06-03T21:59:38.366Z
 draft: false
-tags: [Psychology]
+tags: [looking at women's breasts, oral stage, sigmund freud oedipus complex, oedipus complex, man health, man mental health, signs he has mental health issues, psychosomatic treatment, psychosomatic medicine, anxiety psychosomatic]
 thumbnail: "/news/contemplating-womens-breasts-may-benefit-men-with-a-certain-psychological-profile/thumb.png"
 ---
 
@@ -20,3 +20,8 @@ The study has received mixed reactions from the public, with some hailing it as 
 The study's results have also sparked discussion among healthcare professionals, with some suggesting that the act of gazing at women's breasts could be incorporated into stress-management techniques. Dr. Anna Johnson, a leading expert in stress-management, said: "The findings of this study are intriguing, and suggest that looking at women's breasts could be a useful tool in managing stress and promoting relaxation. However, we need to conduct further research to determine the most appropriate way to incorporate this into stress-management techniques."
 
 In conclusion, the study by Copenhagen University's Department of Psychology has shed new light on the potential benefits of contemplating women's breasts for men with a specific psychological profile. While the findings have generated controversy, the lead researcher hopes that they will inspire further research in this area and help to push our understanding of psychology and physiology to new heights.
+
+# References
+
+1. New Studies of Old Villains: A Radical Reconsideration of the Oedipus Complex (https://doi.org/10.1016/j.jaac.2009.12.010)
+2. Psychosomatic Factors in Dermatology (https://doi.org/10.1016/j.det.2005.05.021)

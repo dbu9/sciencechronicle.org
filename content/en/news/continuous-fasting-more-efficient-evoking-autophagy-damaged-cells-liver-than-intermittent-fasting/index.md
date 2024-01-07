@@ -3,7 +3,7 @@ title: "Continuous Fasting More Efficient in Evoking Autophagy of Damaged Liver 
 description: "A new study from MIT suggests that continuous fasting is more effective in evoking autophagy of damaged liver cells than intermittent fasting, providing insights for developing interventions targeting age-related liver diseases."
 date: 2023-07-01T00:54:23.134Z
 draft: false
-tags: [Biomedical Research]
+tags: [autophagy fasting benefits, intermittent fasting autophagy, autophagy fasting, autophagy and fasting, continuous fasting, autophagy fasting fatty liver, ]
 thumbnail: "/news/continuous-fasting-more-efficient-evoking-autophagy-damaged-cells-liver-than-intermittent-fasting/thumb.png"
 ---
 
@@ -24,3 +24,15 @@ Intermittent fasting has gained popularity in recent years due to its potential 
 It is important to note that fasting should be approached with caution and under the guidance of healthcare professionals. Certain individuals, such as those with specific medical conditions or nutrient deficiencies, may need to modify or avoid fasting regimens.
 
 In conclusion, the study conducted at MIT suggests that continuous fasting is more efficient in evoking autophagy of damaged cells in the liver compared to intermittent fasting. Further research is needed to explore the mechanisms underlying these differential effects and to determine the optimal fasting regimens for various health goals. Understanding the role of autophagy in cellular health is crucial for developing interventions that can promote longevity and overall well-being.
+
+# References
+
+1. Autophagy in non-alcoholic fatty liver disease and alcoholic liver disease (https://doi.org/10.1016/j.livres.2018.09.004)
+2. Autophagy modulates physiologic and adaptive response in the liver (https://doi.org/10.1016/j.livres.2023.12.001)
+3. Vine tea extract ameliorated acute liver injury by inhibiting hepatic autophagy and reversing abnormal bile acid metabolism (https://doi.org/10.1016/j.heliyon.2023.e20145)
+4. Intermittent fasting: A promising dietary intervention for autoimmune diseases (https://doi.org/10.1016/j.autrev.2023.103408)
+5. Effect of Ramadan intermittent fasting on renal and liver function markers among healthy overweight and obese males: A prospective cohort study (https://doi.org/10.1016/j.hnm.2023.200227)
+6. Intermittent fasting favorably modulates adipokines and potentially attenuates atherosclerosis (https://doi.org/10.1016/j.bcp.2023.115876)
+7. Intermittent fasting with ketogenic diet: A combination approach for management of chronic diseases (https://doi.org/10.1016/j.clnesp.2023.01.024)
+8. Effects of alternate-day fasting and time-restricted feeding in obese middle-aged female rats (https://doi.org/10.1016/j.nut.2023.112198)
+9. Acute effects of a single moderate-intensity exercise bout performed in fast or fed states on cell metabolism and signaling: Comparison between lean and obese rats (https://doi.org/10.1016/j.lfs.2022.121357)
