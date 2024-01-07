@@ -4,7 +4,7 @@ description: "A long-running may increase a chance to get hit by an acute phase 
 date: 2024-01-07T09:54:18.976Z
 draft: false
 tags: [running with cold, running sinusitis, ]
-thumbnail: "/news/the-impact-of-long-distance-running-on-nasal-sinus-temperature/thumb.png"
+thumbnail: "/news/the-impact-of-long-distance-running-on-nasal-sinus-temperature/thumb.webp"
 ---
 
 A long-running may increase a chance to get hit by an acute phase because nose ventilation during the run lowers temperature in nosal sinuses. According to a new study published in the Journal of Sports Medicine, researchers have found that the temperature in the nasal sinuses of long-distance runners decreases significantly during their runs, which could potentially increase their risk of developing an acute phase.
