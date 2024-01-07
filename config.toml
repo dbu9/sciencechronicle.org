@@ -161,9 +161,9 @@ googleAnalytics = "G-LCXCFMHZQ7"
   #[[params.homepage.social.icons]]
   #  website = "instagram"
   #  url = "https://instagram.com"
-  #[[params.homepage.social.icons]]
-  #  website = "facebook"
-  #  url = "https://facebook.com"
+  [[params.homepage.social.icons]]
+  	website = "facebook"
+  	url = "https://www.facebook.com/profile.php?id=61555545384714"
   #[[params.homepage.social.icons]]
   #  website = "behance"
   #  url = "https://behance.net"
