@@ -1,0 +1,18 @@
+{{ if .Site.Params.socialShare }}
+  <hr>
+  <p class="text-black dark:text-white text-2xl font-bold">{{ printf "Share" | i18n "Share" }}</p>
+
+  <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
+			<a href="http://www.facebook.com/sharer.php?u={{ .Permalink }}" aria-label="share on Facebook">
+				{{- partial "facebook.html" . -}}
+			</a>
+			
+			<a href="http://www.twitter.com/share?url={{ .Permalink }}&text={{ .Title }}&via={{ with .Site.Social.twitter}}{{ . }}{{ end }}" 
+				aria-label="share on X"
+			>
+				{{- partial "x.html" . -}}
+			</a>
+
+			
+  </div>
+{{end}}

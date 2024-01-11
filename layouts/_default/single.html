@@ -65,10 +65,13 @@
     {{ end }}
 
     {{ .Content }}
+		{{- partial "social_share.html" . -}}
 		{{- partial "tags_list.html" . -}}
   </article>
 
   {{- partial "comments.html" . -}}
 
   {{- partial "social.html" . -}}
+
+
 {{ end }}
