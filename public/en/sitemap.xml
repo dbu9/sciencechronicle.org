@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ScienceChronicle.org/en/tags/centurian-clocks/</loc>
-    <lastmod>2024-01-17T17:48:53+00:00</lastmod>
+    <loc>https://www.ScienceChronicle.org/en/tags/cancer-research/</loc>
+    <lastmod>2024-01-18T13:29:24+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/centenarian-clocks-a-new-study-to-validate-claims-of-exceptional-longevity/</loc>
-    <lastmod>2024-01-17T17:48:53+00:00</lastmod>
+    <loc>https://www.ScienceChronicle.org/en/tags/dna-damage/</loc>
+    <lastmod>2024-01-18T13:29:24+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/epigenetic-clocks/</loc>
-    <lastmod>2024-01-17T17:48:53+00:00</lastmod>
+    <loc>https://www.ScienceChronicle.org/en/tags/dna-repair/</loc>
+    <lastmod>2024-01-18T13:29:24+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/</loc>
-    <lastmod>2024-01-17T17:48:53+00:00</lastmod>
+    <lastmod>2024-01-18T13:29:24+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -25,7 +25,7 @@
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-01-17T17:48:53+00:00</lastmod>
+    <lastmod>2024-01-18T13:29:24+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -38,7 +38,7 @@
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-01-17T17:48:53+00:00</lastmod>
+    <lastmod>2024-01-18T13:29:24+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -49,6 +49,37 @@
                 hreflang="en"
                 href="https://www.ScienceChronicle.org/en/tags/"
                 />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/role-of-gse1-in-dna-damage-response/</loc>
+    <lastmod>2024-01-18T13:29:24+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/news/role-of-gse1-in-dna-damage-response/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/news/role-of-gse1-in-dna-damage-response/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/centurian-clocks/</loc>
+    <lastmod>2024-01-17T17:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/centenarian-clocks-a-new-study-to-validate-claims-of-exceptional-longevity/</loc>
+    <lastmod>2024-01-17T17:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/epigenetic-clocks/</loc>
+    <lastmod>2024-01-17T17:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/steve-horvath-aging/</loc>
+    <lastmod>2024-01-17T17:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/steve-horvath-biological-clock/</loc>
+    <lastmod>2024-01-17T17:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/steve-horvath-clock/</loc>
+    <lastmod>2024-01-17T17:48:53+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/beer-and-fat-loss/</loc>
     <lastmod>2024-01-10T01:04:48+00:00</lastmod>
@@ -1491,9 +1522,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/modified-urea-cycle-monkey-liver-cells-reduce-mortality-cancer/</loc>
     <lastmod>2023-05-20T01:41:33+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/cancer-research/</loc>
-    <lastmod>2023-05-20T01:24:19+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/medical-technology/</loc>
     <lastmod>2023-05-20T01:24:19+00:00</lastmod>

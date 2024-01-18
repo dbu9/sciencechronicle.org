@@ -3,7 +3,7 @@ title: "Deciphering Longevity: Unveiling the Accuracy of Centenarian Clocks in A
 description: "The article explores groundbreaking research on DNA methylation-based Centenarian Clocks, offering improved age estimation for centenarians and insights into the molecular mechanisms of aging. The study delves into the limitations of standard epigenetic clocks, the potential of urine samples in age estimation, and the intricate relationship between these clocks, mortality risk, and clinical biomarkers."
 date: 2024-01-17T17:48:53.574Z
 draft: false
-tags: [epigenetic clocks, centurian clocks]
+tags: [epigenetic clocks, centurian clocks,steve horvath aging, steve horvath biological clock, steve horvath clock ]
 thumbnail: "/news/centenarian-clocks-a-new-study-to-validate-claims-of-exceptional-longevity/thumb.webp"
 ---
 
