@@ -629,6 +629,16 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/how-much-chia-seeds-per-day-to-lose-weight/</loc>
     <lastmod>2023-12-31T17:49:18+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/news/how-much-chia-seeds-per-day-to-lose-weight/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/news/how-much-chia-seeds-per-day-to-lose-weight/"
+                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/nutrition/</loc>
     <lastmod>2023-12-31T17:49:18+00:00</lastmod>
@@ -1449,6 +1459,9 @@
     <loc>https://www.ScienceChronicle.org/en/tags/adiponectin-treatment/</loc>
     <lastmod>2023-05-20T10:39:43+00:00</lastmod>
   </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/lung-cancer/</loc>
+    <lastmod>2023-05-20T10:39:43+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/psychopharmacology/</loc>
     <lastmod>2023-05-20T10:33:21+00:00</lastmod>
   </url><url>
@@ -2041,6 +2054,9 @@
     <lastmod>2023-05-17T19:21:05+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/astronomers-discover-spectacular-double-star-system-celestial-duos/</loc>
+    <lastmod>2023-05-11T14:36:37+03:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/double-star-system/</loc>
     <lastmod>2023-05-11T14:36:37+03:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/ottawa-scientists-discover-new-soil-microbe-species-3-kilometers-below-surface/</loc>

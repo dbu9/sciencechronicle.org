@@ -21,7 +21,6 @@ However, the technology is still in its early stages, and researchers warn that 
 
 Despite these challenges, the potential benefits are enormous. With further research and development, the model could hold the key to predicting earthquakes with greater accuracy and precision. By utilizing AI and analyzing the Brunt-Väisälä frequency of ocean waters, we can potentially save countless lives and minimize the destruction caused by these devastating natural disasters.
 
-References:
-- Brunt-Väisälä frequency: https://en.wikipedia.org/wiki/Brunt–Väisälä_frequency
-- University of Gottenberg: https://www.gu.se/en/
-- Predicting earthquakes: https://www.bbc.com/news/science-environment-62331187
+# References:
+
+1. Brunt-Väisälä frequency: https://en.wikipedia.org/wiki/Brunt–Väisälä_frequency

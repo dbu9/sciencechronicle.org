@@ -19,7 +19,7 @@ The patient's condition improved significantly after the implantation, with bloo
 
 This study represents a significant step forward in the use of 3D printing and tissue engineering to create functional tissue implants. The ability to fabricate complex networks of blood vessels could have broad implications for the treatment of a range of diseases and injuries.
 
-References:
+# References:
 1. Chen, J. et al. 3D printing of a biomimetic liver scaffold for liver tissue engineering. Sci. Rep. 10, 10984 (2020).
 2. Liu, W. et al. Biomimetic 3D printing scaffolds for spinal cord injury repair. Natl. Sci. Rev. 7, 835–845 (2020).
 3. Lu, T. J. et al. Electrospinning and 3D printing of biomedical materials. Adv. Healthc. Mater. 9, 1901451 (2020).

@@ -3,8 +3,8 @@ title: "Adiponectin down-regulates CREB and inhibits proliferation of A549 lung 
 description: "MIT researchers have discovered a potential therapy for lung cancer patients. Adiponectin down-regulates CREB and inhibits proliferation of A549 lung cancer cells, offering hope for a new treatment."
 date: 2023-05-20T10:39:43.813Z
 draft: false
-tags: [adiponectin, adiponectin treatment]
-thumbnail: "/news//adiponectin-down-regulates-creb-and-inhibits-proliferation-of-a549-lung-cancer-cells/thumb.png"
+tags: [adiponectin, adiponectin treatment, lung cancer]
+thumbnail: "/news/adiponectin-down-regulates-creb-and-inhibits-proliferation-of-a549-lung-cancer-cells/thumb.png"
 ---
 
 Researchers at MIT have discovered a new potential therapy for lung cancer patients. According to a recent study, adiponectin down-regulates CREB and inhibits proliferation of A549 lung cancer cells. The research, which was conducted by a team of scientists led by Dr. John Smith, was published in the Journal of Cancer Research.

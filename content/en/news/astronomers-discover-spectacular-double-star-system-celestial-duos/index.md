@@ -2,7 +2,7 @@
 title: "Astronomers Discover Spectacular Double Star System: Introducing \"Celestial Duos\""
 date: 2023-05-11T14:36:37+03:00
 draft: false
-tags: [astronomy]
+tags: [astronomy, double star system]
 thumbnail: /news/astronomers-discover-spectacular-double-star-system-celestial-duos/thumb.jpg
 ---
 
@@ -21,5 +21,3 @@ Amateur astronomers and stargazing enthusiasts around the world eagerly await th
 The unveiling of Celestial Duos marks another milestone in humanity's ongoing exploration of the cosmos. As we uncover more about the vastness of the universe, each new discovery fuels our curiosity and ignites our sense of wonder. Celestial Duos stands as a testament to the beauty and complexity of the cosmos, reminding us of the limitless wonders that await our exploration.
 
 As astronomers continue to study Celestial Duos and unravel its secrets, one thing is certain: the discovery of this double star system will inspire generations to come, fostering a deep appreciation for the magnificence of our universe and fueling our collective quest for knowledge.
-
-Disclaimer: This news article is for informational purposes only and does not constitute scientific findings. Please refer to official scientific publications and resources for detailed information about Celestial Duos and related astronomical discoveries.
