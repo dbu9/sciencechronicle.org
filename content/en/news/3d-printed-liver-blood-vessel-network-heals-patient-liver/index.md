@@ -13,6 +13,8 @@ The liver is a highly vascular organ, with a complex network of blood vessels th
 
 The researchers began by using medical imaging to create a 3D model of the patient's liver blood vessels. They then used this model to design a scaffold that would replicate the complex network of vessels. The scaffold was fabricated using a combination of 3D printing and electrospinning, a process that creates nanofibers by using an electric current.
 
+![3dprint](/news/3d-printed-liver-blood-vessel-network-heals-patient-liver/3dprint.webp)
+
 The scaffold was then seeded with the patient's liver cells and cultured in the lab for several weeks. During this time, the cells grew and formed new blood vessels within the scaffold, creating a functional tissue-engineered liver. The team then implanted the scaffold into the patient's liver, where it integrated with the surrounding tissue and began to promote healing.
 
 The patient's condition improved significantly after the implantation, with blood tests showing improved liver function and reduced inflammation. The team plans to continue to monitor the patient's progress and to further develop the technology for use in other patients with liver damage.

@@ -4,7 +4,7 @@ description: "Study at Rush University Medical Center shows low carb beer diet l
 date: 2024-01-10T01:04:48.680Z
 draft: false
 tags: [beer diet, low carb beer, low carb beer keto, beer weight loss, best light beer for weight loss, beer and fat loss, beer and losing weight, beer and weight, beer for fat loss, beer helps in weight loss, beer good for weight loss, weight loss with beer]
-thumbnail: "/news/low-carb-beer-diet-yields-significant-weight-loss-results-in-overweight-men/thumb.png"
+thumbnail: "/news/low-carb-beer-diet-yields-significant-weight-loss-results-in-overweight-men/thumb.webp"
 ---
 
 A recent study conducted at [Rush University Medical Center](https://www.rush.edu/) has revealed promising results in the area of weight loss. Researchers found that following a low carb beer diet, with only 45kcal per 100ml, produced significant weight loss in overweight men. The study included 100 participants, all of whom were significantly overweight, with an average weight of 160kg. After following the low carb beer diet for a period of six months, the participants experienced an average weight loss of 50%, without any adverse side effects.

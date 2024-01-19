@@ -3,7 +3,7 @@ title: "Biotechnological Breakthroughs: mRNA Vaccines, CAR-T Therapy, and the Ro
 description: "Explore the latest advancements in biotechnology, from revolutionary mRNA vaccines to cutting-edge CAR-T therapy, and discover how artificial intelligence is shaping the future of medicine. Dive into the forefront of medical innovation with insights into personalized treatments and groundbreaking technologies."
 date: 2023-12-31T14:59:41.662Z
 draft: false
-tags: [car t cell theraphy]
+tags: [car t cell theraphy, biology]
 thumbnail: "/news/biotechnological-breakthroughs-mrna-car-t-ai-future-medicine/thumb.jpg"
 ---
 

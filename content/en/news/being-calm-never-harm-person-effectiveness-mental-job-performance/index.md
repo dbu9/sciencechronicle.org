@@ -13,7 +13,7 @@ The findings of this study have important implications for workplaces, where str
 
 This research adds to a growing body of evidence suggesting that mindfulness and meditation practices can have a positive impact on mental health and performance. The study also provides support for the idea that staying calm can never harm one's mental job performance. Therefore, it is essential for employers to prioritize employee mental health and well-being, by providing resources and training to help employees manage stress and increase their ability to remain calm under pressure. 
 
-References:  
+# References  
 1. Fredrickson, B. L., et al. Positive emotions trigger upward spirals toward emotional well-being. Psychological Science, 2008, 13(2), 172-175. 
 2. Fox, K. C., et al. Functional connectivity of the default mode network relates to mindfulness and depression. Social, Cognitive, and Affective Neuroscience, 2014, 9(2), 123-131. 
 3. Kabat-Zinn, J. Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness. Delta, 1990.

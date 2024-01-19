@@ -21,6 +21,10 @@ In an epigenome-wide association study (EWAS) of age, the researchers identified
 
 The chromatin state analysis provided a deeper understanding of the genomic regions where age-related DNA methylation changes occur. This analysis revealed that age-related changes were enriched in specific chromatin states, particularly those associated with the polycomb repressive complex, which plays a crucial role in gene regulation.
 
+|DNA methylation|
+|---|
+|![methylation](/news/centenarian-clocks-a-new-study-to-validate-claims-of-exceptional-longevity/dna.webp)|
+
 In discussing their findings, the authors highlight the potential of centenarian clocks to validate age claims, especially in the absence of reliable birth records. They also note the limitations of their study, including the need for larger datasets and independent validation of their models. The study concludes with a call for further research to refine these epigenetic clocks and to explore their potential applications in the study of aging and longevity.
 
 Overall, this study represents a significant step forward in the field of gerontology and offers valuable tools for researchers and demographers studying exceptional longevity.

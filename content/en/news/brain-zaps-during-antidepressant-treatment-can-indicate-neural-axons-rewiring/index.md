@@ -3,7 +3,7 @@ title: "Brain zaps during antidepressant treatment can indicate neural axons rew
 description: "New research suggests that brain zaps during antidepressant treatment may be evidence of neural axons rewiring, offering insight into the mechanisms by which antidepressants work"
 date: 2023-06-03T14:59:41.662Z
 draft: false
-tags: [brain zap, prozac brain zaps, brain zap zoloft, do brain zaps go away, what do brain zaps mean,what causes brain zaps without medication, head zaps causes]
+tags: [medicine, biologym brain zap, prozac brain zaps, brain zap zoloft, do brain zaps go away, what do brain zaps mean,what causes brain zaps without medication, head zaps causes]
 thumbnail: "/news/brain-zaps-during-antidepressant-treatment-can-indicate-neural-axons-rewiring/thumb.png"
 ---
 
@@ -18,7 +18,8 @@ The researchers hope that their findings will lead to new ways to predict and mo
 The study has some limitations, however. It is unclear whether the findings can be generalized to humans, as the study was conducted on rats. Moreover, the study only looked at one class of antidepressants (selective serotonin reuptake inhibitors, or SSRIs), so it is unclear whether the findings can be generalized to other types of antidepressants. Nonetheless, the study provides useful insights into the mechanisms by which antidepressants work, and how the brain adapts to changes in medication.
 
 Overall, the study provides valuable insight into the link between neuroplasticity and brain zaps, and opens up new avenues for research into antidepressant treatment. By gaining a better understanding of the mechanisms by which antidepressants work, researchers hope to develop more effective treatments for depression and other mood disorders.
-References:
 
-Smith J, Doe R. Axon Remodeling mediates antidepressant effects. J Neurosci. 2023; 43(5): 435-443. doi: 10.1523/JNEUROSCI.43.5.435
 
+# References
+
+1. Smith J, Doe R. Axon Remodeling mediates antidepressant effects. J. Neurosci. 2023; 43(5): 435-443. doi: 10.1523/JNEUROSCI.43.5.435
