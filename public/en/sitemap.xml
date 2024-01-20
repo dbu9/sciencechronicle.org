@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ScienceChronicle.org/en/tags/dysbaric-illness/</loc>
+    <lastmod>2024-01-20T10:50:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/gas-embolism/</loc>
+    <lastmod>2024-01-20T10:50:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/indications-for-using-hyperbaric-oxygen-therapy/</loc>
+    <lastmod>2024-01-20T10:50:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/hyperbaric-oxygen-therapy/</loc>
+    <lastmod>2024-01-20T10:50:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/medicine/</loc>
+    <lastmod>2024-01-20T10:50:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/</loc>
+    <lastmod>2024-01-20T10:50:14+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/news/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/</loc>
+    <lastmod>2024-01-20T10:50:14+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
+    <lastmod>2024-01-20T10:50:14+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/"
+                />
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/african-fly-disease/</loc>
     <lastmod>2024-01-19T23:17:16+00:00</lastmod>
   </url><url>
@@ -31,45 +85,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/curing-african-sleeping-sickness-with-trojan/</loc>
     <lastmod>2024-01-19T23:17:16+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/</loc>
-    <lastmod>2024-01-19T23:17:16+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/news/"
-                />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-01-19T23:17:16+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/"
-                />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-01-19T23:17:16+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/tags/"
-                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/the-african-sleeping-sickness/</loc>
     <lastmod>2024-01-19T23:17:16+00:00</lastmod>
@@ -734,9 +749,6 @@
     <loc>https://www.ScienceChronicle.org/en/tags/health/</loc>
     <lastmod>2023-12-31T22:42:41+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/medicine/</loc>
-    <lastmod>2023-12-31T22:42:41+00:00</lastmod>
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/the-benefits-of-alaska-rhodiola-new-research-karolinska-institute/</loc>
     <lastmod>2023-12-31T22:42:41+00:00</lastmod>
   </url><url>
@@ -891,7 +903,25 @@
     <loc>https://www.ScienceChronicle.org/en/news/importance-of-buckwheat-in-diet-for-colon-cancer-patients/</loc>
     <lastmod>2023-12-31T02:17:54+00:00</lastmod>
   </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/hyperbaric-chamber-for-wound-healing/</loc>
+    <lastmod>2023-12-31T01:24:23+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/hyperbaric-chamber-therapy/</loc>
+    <lastmod>2023-12-31T01:24:23+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/hyperbaric-chamber-treatment/</loc>
+    <lastmod>2023-12-31T01:24:23+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/hyperbaric-oxygen-therapy-for-wounds/</loc>
+    <lastmod>2023-12-31T01:24:23+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/hyperbaric-oxygen-therapy-simulated-without-complex-machinery/</loc>
+    <lastmod>2023-12-31T01:24:23+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/hyperbaric-treatment/</loc>
+    <lastmod>2023-12-31T01:24:23+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/pressure-chamber-therapy/</loc>
     <lastmod>2023-12-31T01:24:23+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/breakthrough-molecular-biology-technique-enables-more-precise-incorporation-of-artificial-retroviruses/</loc>
