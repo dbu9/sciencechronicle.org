@@ -32,3 +32,4 @@ Overall, the study represents an exciting step forward in the field of hyperbari
 1. [Is There a Place for Hyperbaric Oxygen Therapy?](https://doi.org/10.1016/j.yasu.2022.02.011)
 2. [The Role of Hyperbaric Oxygen Therapy for the Treatment of Wounds](https://doi.org/10.1016/j.pmr.2022.06.008)
 3. [Hyperbaric oxygen therapy in low extremity trauma: A case series](https://doi.org/10.1016/j.amsu.2022.103896)
+4. [Hyperbaric oxygen and aerobic exercise in the long-term treatment of fibromyalgia: A narrative review](https://doi.org/10.1016/j.biopha.2018.10.157)

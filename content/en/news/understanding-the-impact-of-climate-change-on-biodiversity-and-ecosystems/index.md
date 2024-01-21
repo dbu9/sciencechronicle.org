@@ -3,7 +3,7 @@ title: "Understanding the Impact of Climate Change on Biodiversity and Ecosystem
 description: "Scientists at the University of Cape Town have been studying the impact of climate change on biodiversity and ecosystems, revealing some worrying trends. Urgent action is needed to protect them."
 date: 2023-05-19T10:24:09.426Z
 draft: false
-tags: [Environmental Science]
+tags: [climate change, biodiversity, ecosystems, ecology]
 thumbnail: "/news/understanding-the-impact-of-climate-change-on-biodiversity-and-ecosystems/thumb.png"
 ---
 
