@@ -3,7 +3,8 @@ title: "Reiki Techniques Work as a Powerful Placebo Treatment, Michigan Universi
 description: "Research from Michigan University has shown that reiki techniques work as a powerful placebo treatment, which can overcome standard drugs in their efficiency for treating pain, anxiety, and depression."
 date: 2023-06-03T21:57:57.954Z
 draft: false
-tags: [alternative medicine]
+tags: [reiki massage, reiki therapy, placebo, reiki meditations, reiki healing what is, reiki is it real, reiki infinite healer, quantum reiki
+, reiki chakra, reiki for beginners, reiki explained]
 thumbnail: "/news/reiki-techniques-powerful-placebo-treatment-michigan-university/thumb.png"
 ---
 
@@ -20,3 +21,10 @@ Reiki's popularity has grown over the years, and it's now practiced worldwide, w
 Reiki practitioners are optimistic about this research, and they hope that it will lead to a greater acceptance of the technique within the medical community. Many practitioners argue that reiki should be seen as a complementary therapy rather than an alternative treatment. They claim that reiki can aid in healing by reducing stress, promoting relaxation, and improving overall well-being. 
 
 In conclusion, the Michigan University research has shown that reiki techniques work as a powerful placebo treatment, which can overcome standard drugs in their efficiency for treating pain, anxiety, and depression. While more research is needed to fully understand how this technique works, the potential benefits of reiki are undeniable. The research could lead to a greater acceptance of reiki among medical professionals, who may offer it as a complementary therapy for reducing stress and promoting healing.
+
+# References
+1. [The Effect of Distant Reiki Applied to Individuals with Extremity Amputation on Pain Level and Holistic Well-Being: A Quasi-experimental Study](https://doi.org/10.1016/j.pmn.2023.11.003)
+2. [The effect of Reiki on fatigue and comfort in hemodialysis patients](https://doi.org/10.1016/j.explore.2022.12.009)
+3. [Reiki: Defining a Healing Practice for Nursing](https://doi.org/10.1016/j.cnur.2020.06.017)
+4. [The subjective experience of Reiki](https://doi.org/10.1016/j.explore.2022.06.015)
+5. [The effect of preoperative Reiki application on patient anxiety levels](https://doi.org/10.1016/j.explore.2020.01.003)
