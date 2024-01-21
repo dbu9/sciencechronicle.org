@@ -7,6 +7,8 @@ tags: [medicine, hyperbaric oxygen therapy, dysbaric illness, gas embolism]
 thumbnail: "/news/indications-for-using-hyperbaric-oxygen-therapy/thumb.webp"
 ---
 
+Hyperbaric oxygen (HBO) therapy is a traditional and established treatment for patients suffering from tissue hypoxia. This method enhances oxygen levels in tissues, thereby boosting wound healing and tissue regeneration capabilities. It also reactivates cellular functions to improve survival rates and adjusts the anti-inflammatory and immunological responses of immune cells, aiding in the recovery from severe infections. HBO therapy is versatile in its applications, encompassing a variety of conditions such as carbon monoxide poisoning, hard-to-treat infectious diseases like necrotizing soft tissue infections, gas gangrene, osteomyelitis, traumatic ischemia, crush injuries, diabetic foot ulcers, and more. It is particularly effective in treating diving-related issues like gas embolism and decompression sickness, where it is known as recompression therapy. However, it's important to understand that HBO therapy is not a standalone miracle treatment but rather a supplementary approach, enhancing the effectiveness of other treatment methods or working in conjunction with them.
+
 # Recommended indications
 
 ## Dysbaric illness

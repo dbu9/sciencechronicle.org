@@ -42,4 +42,4 @@ While the experimental findings are promising, Ghorbani's review also emphasizes
 Rutin emerges as a versatile natural compound with significant potential in managing diabetes and its complications. Its multifaceted mechanisms of action, including antihyperglycemic, antioxidative, and anti-inflammatory properties, make it a promising candidate for further research and clinical application in diabetes care.
 
 ## References
-1. Ghorbani, A. (2017). Mechanisms of antidiabetic effects of flavonoid rutin. Biomedicine & Pharmacotherapy, 96, 305–312. [URL: file-lw5TU3vrDYmzg6NUX7Fde9k6]
+1. [Ghorbani, A. (2017). Mechanisms of antidiabetic effects of flavonoid rutin. Biomedicine & Pharmacotherapy, 96, 305–312.](https://doi.org/10.1016/j.biopha.2017.10.001) 

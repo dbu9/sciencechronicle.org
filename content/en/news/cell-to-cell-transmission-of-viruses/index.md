@@ -3,7 +3,7 @@ title: "Unveiling Hidden Pathways: The Evolution and Mechanics of Viral Cell-to-
 description: "Explore the intricacies of viral cell-to-cell transmission in this article. It discusses the newly discovered methods viruses use to spread directly between cells, bypassing traditional immune defenses, and their implications for treating chronic viral infections."
 date: 2024-01-18T17:48:53.574Z
 draft: false
-tags: [cell to cell transmission, virus transmission, hcv, retrovirusi, retrovisrus, herpes virus, virological synapse]
+tags: [cell to cell transmission, virus transmission, hcv, retrovirusi, retrovirus, herpes virus, virological synapse]
 thumbnail: "/news/cell-to-cell-transmission-of-viruses/thumb.webp"
 ---
 
