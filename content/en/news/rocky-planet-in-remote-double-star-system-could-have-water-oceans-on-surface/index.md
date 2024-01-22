@@ -3,7 +3,7 @@ title: "Rocky Planet in Remote Double Star System Could Have Water Oceans on Sur
 description: "Scientists at Cape Town Observatory have discovered a rocky planet in a remote double star system that could potentially have water oceans on its surface. This finding raises interesting questions about the possibility of life on other planets."
 date: 2023-05-18T10:47:21.866Z
 draft: false
-tags: [Astronomy, Astrobiology]
+tags: [double star system, astronomy, astrobiology]
 thumbnail: "/news/rocky-planet-in-remote-double-star-system-could-have-water-oceans-on-surface/thumb.png"
 ---
 
@@ -17,5 +17,6 @@ Further analysis revealed that the planet's orbit is in the habitable zone of th
 
 This discovery is significant as it brings us one step closer to finding another Earth-like planet that could sustain life. The finding also raises interesting questions about the possibility of habitable planets existing in double star systems and what impact this could have on the potential for life to exist.
 
-Reference:
-Dumusque, X. and Lovis, C., 2023. A rocky planet in the habitable zone of a double star system. Astronomy & Astrophysics, 650, L4. doi:10.1051/0004-6361/202039906
+# References
+
+1. Dumusque, X. and Lovis, C., 2023. A rocky planet in the habitable zone of a double star system. Astronomy & Astrophysics, 650, L4. doi:10.1051/0004-6361/202039906

@@ -11,7 +11,7 @@ With the presence of more than 200 twins, Kodinhi , a village situated in Malapp
 
 The reason for such high concentration of twin births in these villages has been a subject of fascination and scientific research for many years. The incidence of twin births in these villages is several times higher than the global average, leading researchers to investigate the possible genetic, environmental, and cultural factors that may be contributing to this phenomenon.
 
-Researchers at the Walter and Eliza Hall Institute of Medical Research have been studying the genetic and environmental factors that could be responsible for the high rate of twin births in these villages. Studies have shown that the genetic predisposition for giving birth to twins may be hereditary and could be passed down through generations, which could explain the clustering of twin births in certain communities.
+Researchers at the [Walter and Eliza Hall Institute of Medical Research](https://www.wehi.edu.au/) have been studying the genetic and environmental factors that could be responsible for the high rate of twin births in these villages. Studies have shown that the _genetic predisposition for giving birth to twins may be hereditary and could be passed down through generations, which could explain the clustering of twin births in certain communities_.
 
 Another factor that has been explored is the possibility of environmental influences playing a role in the high rate of twin births. Factors such as diet, lifestyle, and exposure to certain chemicals or toxins in the environment have been hypothesized to have an impact on the likelihood of conceiving twins. However, conclusive evidence linking specific environmental factors to the prevalence of twin births in these villages is still lacking.
 
@@ -25,7 +25,7 @@ The villages of Kodinhi, Cândido Godói, Igbo Ora, and Hiểp HƯng have become
 
 # References
 
-1. Birth outcomes of twins after multifetal pregnancy reduction compared with primary twins (https://doi.org/10.1016/j.ajogmf.2023.101230)
-2. Genetics and Twins (https://doi.org/10.1053/j.nainr.2011.09.008)
-3. A prediction tool for mode of delivery in twin pregnancies—a secondary analysis of the Twin Birth Study (https://doi.org/10.1016/j.ajog.2023.11.1230)
-4. Vaginal progesterone for preventing preterm birth and adverse perinatal outcomes in twin gestations: a systematic review and meta-analysis (https://doi.org/10.1016/j.ajog.2023.05.010)
+1. [Birth outcomes of twins after multifetal pregnancy reduction compared with primary twins](https://doi.org/10.1016/j.ajogmf.2023.101230)
+2. [Genetics and Twins](https://doi.org/10.1053/j.nainr.2011.09.008)
+3. [A prediction tool for mode of delivery in twin pregnancies—a secondary analysis of the Twin Birth Study](https://doi.org/10.1016/j.ajog.2023.11.1230)
+4. [Vaginal progesterone for preventing preterm birth and adverse perinatal outcomes in twin gestations: a systematic review and meta-analysis](https://doi.org/10.1016/j.ajog.2023.05.010)

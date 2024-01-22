@@ -3,7 +3,7 @@ title: "Comprehensive Overview of Reticular Dysgenesis: History, Clinical Profil
 description: "Explore the intricate world of Reticular Dysgenesis (RD) in our latest blog article, where we delve into its history, unique clinical features, and the groundbreaking genetic discoveries that have shaped our understanding of this rare immunodeficiency disorder. Discover the pivotal role of hematopoietic stem cell transplantation in treating RD, and learn about the latest research insights from studies on adenylate kinase 2 (AK2) deficiency."
 date: 2024-01-02T10:47:21.866Z
 draft: false
-tags: [reticular dysgenesis]
+tags: [reticular dysgenesis, biology, medicine, genetics]
 thumbnail: "/news/reticular-dysgenesis/thumb.png"
 ---
 

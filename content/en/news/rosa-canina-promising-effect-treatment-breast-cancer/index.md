@@ -3,7 +3,7 @@ title: "Rosa Canina has a promising effect in treatment of breast cancer"
 description: "A recent study conducted at Heidelberg University Hospital has revealed the promising effects of Rosa Canina in the treatment of breast cancer, offering new hope for patients."
 date: 2024-01-07T13:29:24.776Z
 draft: false
-tags: [rosa canina, dog rose, dog rose benefits, rosa canina benefits, rosa canina cancer treatment]
+tags: [rosa canina, dog rose, dog rose benefits, rosa canina benefits, rosa canina cancer treatment, oncology, cancer, medicine]
 thumbnail: "/news/rosa-canina-promising-effect-treatment-breast-cancer/thumb.png"
 ---
 

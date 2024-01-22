@@ -9,7 +9,7 @@ thumbnail: "/news/researchers-identify-mechanisms-of-dna-repair-in-heat-resistan
 
 Researchers at the [National University Hospital (NUH)](https://www.nuh.com.sg/Pages/Home.aspx) in Singapore have made significant advancements in understanding how some heat-resistance Bacillus spores repair their DNA after being heated to 420 °C.
 
-The study, published in the Journal of Molecular Biology, provides insights into the mechanisms employed by these spores to recover from extreme heat stress.
+The study, published in the [Journal of Molecular Biology](https://www.sciencedirect.com/journal/journal-of-molecular-biology), provides insights into the mechanisms employed by these spores to recover from extreme heat stress.
 
 Bacillus species are well-known for their ability to form [endospores](https://www.sciencedirect.com/science/article/abs/pii/S0958694621001977), which are highly resistant to heat and other environmental stresses. This remarkable resilience has made them the focus of extensive research, particularly in the field of biotechnology and food preservation.
 
@@ -19,7 +19,11 @@ In this latest research, scientists sought to determine the specific DNA repair 
 
 The researchers identified a novel set of proteins involved in the DNA repair process, which are upregulated specifically in response to extreme heat stress. These proteins appear to play a crucial role in the spores' ability to recover from DNA damage caused by high temperatures.
 
-"Our work has uncovered a previously unknown mechanism for DNA repair in heat-resistant Bacillus spores," Dr. Li Wei noted. "This new knowledge could have important implications for the development of novel biotechnological applications and food safety strategies." 
+>Our work has uncovered a previously unknown mechanism for DNA repair in heat-resistant Bacillus spores
+
+Dr. Li Wei noted. 
+
+>This new knowledge could have important implications for the development of novel biotechnological applications and food safety strategies.
 
 Despite these breakthrough findings, the exact molecular mechanisms underlying the spores' DNA repair at 420 °C remain to be fully elucidated. Further studies are needed to unravel the intricate processes involved in this remarkable feat of heat resistance.
 
@@ -29,4 +33,3 @@ The findings of the study contribute to the growing body of knowledge on extremo
 
 As research in this area continues to expand, scientists are hopeful that the insights gained from extremophiles could inspire innovative solutions to some of the most pressing challenges in diverse fields of science and technology.
 
-For more information on Bacillus species and DNA repair mechanisms, refer to the following Wikipedia links: https://en.wikipedia.org/wiki/Bacillus and https://en.wikipedia.org/wiki/DNA_repair.

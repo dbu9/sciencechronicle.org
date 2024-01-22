@@ -3,7 +3,7 @@ title: "The Benefits of Alaska Rhodiola: New Research from the Karolinska Instit
 description: "New research from the Karolinska Institute shows promising benefits of Alaska Rhodiola for depression, physical performance, and cardiovascular health."
 date: 2023-12-31T22:42:41.033Z
 draft: false
-tags: [medicine, botany, health]
+tags: [medicine, botany, health, alaska rhodiola, rhodiola rosea alaska]
 thumbnail: "/news/the-benefits-of-alaska-rhodiola-new-research-karolinska-institute/thumb.png"
 ---
 

@@ -3,7 +3,7 @@ title: "Rutein May Be Effective in Combating Osteoarthritis"
 description: "Recent research suggests that rutein, a flavonoid found in certain fruits and vegetables, may have potential in combating osteoarthritis and its symptoms."
 date: 2024-01-07T09:53:46.654Z
 draft: false
-tags: [rutein, rutin, osteoarthritis remedy, new treatments for osteoarthritis of the knee, bone on bone knee pain relief without surgery, treatment for severe osteoarthritis in hands, best homeopathic medicine for osteoarthritis, home remedies for arthritic hip pain, home remedies for osteoarthritis, alternative medicine for osteoarthritis, homeopathic medicine for osteoarthritis, relief from arthritic hip pain]
+tags: [rutein, rutin, osteoarthritis remedy, new treatments for osteoarthritis of the knee, bone on bone knee pain relief without surgery, treatment for severe osteoarthritis in hands, best homeopathic medicine for osteoarthritis, home remedies for arthritic hip pain, home remedies for osteoarthritis, alternative medicine for osteoarthritis, homeopathic medicine for osteoarthritis, relief from arthritic hip pain, medicine]
 thumbnail: "/news/rutein-may-be-effective-in-combating-osteoarthritis/thumb.webp"
 ---
 

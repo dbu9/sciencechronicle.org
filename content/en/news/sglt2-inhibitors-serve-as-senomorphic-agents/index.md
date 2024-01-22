@@ -3,7 +3,7 @@ title: "SGLT"
 description: "This study suggests that SGLT2 inhibitors, primarily used for type 2 diabetes, might also serve as senomorphic agents against aging, similar to metformin's recognized role in this area. This research indicates that SGLT2 inhibitors may influence key aging-related pathways, including antioxidant activity, energy regulation via AMP-activated protein kinase, autophagy, and nuclear factor/inflammasome activation."
 date: 2024-01-04T00:00:54.874Z
 draft: true
-tags: [aging, SGLT2 inhibitors, metformin]
+tags: [aging, SGLT2 inhibitors, metformin, medicine, anti aging, genetics, biochemistry]
 thumbnail: "/news/sglt2-inhibitors-serve-as-senomorphic-agents/thumb.png"
 ---
 

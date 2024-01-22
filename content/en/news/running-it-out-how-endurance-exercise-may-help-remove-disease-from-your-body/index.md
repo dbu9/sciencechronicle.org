@@ -3,7 +3,7 @@ title: "Running it Out - How Endurance Exercise May Help Remove Disease from You
 description: "Researchers at MIT have found that endurance exercise, such as running, can help remove disease from the body by burning calories and promoting angiogenesis."
 date: 2023-05-21T17:39:09.950Z
 draft: false
-tags: [exercise physiology, endurance exercise, endurance training, endurance exercise physiology, running as treatment,running against diseases, running for health, benefits of running, run for cancer 2023, weight loss through running, if i run everyday will i lose weight, benefits of treadmill running]
+tags: [exercise physiology, endurance exercise, endurance training, endurance exercise physiology, running as treatment,running against diseases, running for health, benefits of running, run for cancer 2023, weight loss through running, if i run everyday will i lose weight, benefits of treadmill running, sport, medicine]
 thumbnail: "/news/running-it-out-how-endurance-exercise-may-help-remove-disease-from-your-body/thumb.png"
 ---
 

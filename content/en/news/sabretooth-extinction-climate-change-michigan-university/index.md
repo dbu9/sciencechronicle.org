@@ -1,9 +1,9 @@
 ---
 title: "Sabretooth Extinction Due to Climate Change- Scientific Report from Michigan University"
-description: "sabretooth, extinction, climate change, Pleistocene Era, herbivores, prey size, ecology"
+description: "Sabretooth is a well-known prehistoric predator that went extinct around 10,000 years ago during the last ice age. There are various theories about what caused their extinction, but the most accepted one is that climate change led to the shrinking of their prey, which caused them to struggle to find enough food to survive."
 date: 2023-05-17T23:32:44.073Z
 draft: false
-tags: [Ecology]
+tags: [paleontology, sabretooth, biological extinction]
 thumbnail: "/news/sabretooth-extinction-climate-change-michigan-university/thumb.png"
 ---
 
@@ -17,7 +17,7 @@ The Sabretooth tiger was well adapted to hunting larger prey with their elongate
 
 In conclusion, the extinction of the Sabretooth tiger can be attributed to climate change, which led to the shrinkage of their prey size and a decrease in their overall population. This research shows that changes in climate have a significant impact on the environment and the survival of species that are adapted to specific ecological conditions. Understanding these impacts can help us better predict future changes and prevent similar extinctions.
 
-References:
+# References
 1. Field, Jeremy. Sabre-Toothed Cats. Big Cat Rescue, 2010.
 2. Hopkins, Samantha. "Pleistocene Extinctions." The Universe Today, 10 June 2015, universe\today.com/22545/pleistocene-extinctions-22545/. 
 3. Martin, Paul S. "Prehistoric overkill, the global model." Quaternary International, vol. 67, 2000, pp. 71-79.

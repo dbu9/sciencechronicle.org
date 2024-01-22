@@ -3,7 +3,7 @@ title: "Unveiling the Role of GSE1 in DNA Damage Response: A Pathway to Understa
 description: "The groundbreaking study on GSE1's role in DNA damage response, shedding light on the intricate mechanisms of genomic integrity and their implications in medical research, particularly in cancer therapy."
 date: 2024-01-18T13:29:24.776Z
 draft: false
-tags: [dna repair, cancer research, dna damage]
+tags: [dna repair, cancer research, dna damage, genetics]
 thumbnail: "/news/role-of-gse1-in-dna-damage-response/thumb.png"
 ---
 

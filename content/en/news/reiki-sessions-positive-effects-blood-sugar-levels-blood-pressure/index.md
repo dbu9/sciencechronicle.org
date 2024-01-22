@@ -3,7 +3,7 @@ title: "Reiki Sessions Have Very Positive Effects on Blood Sugar Levels and Bloo
 description: "New research from the University of Madrid suggests that reiki sessions may have significant positive effects on blood sugar levels and blood pressure, offering promise for patients with diabetes and hypertension."
 date: 2023-05-21T17:43:04.530Z
 draft: false
-tags: [Alternative Medicine]
+tags: [reiki, blood sugar, diabetis, blood pressure, medicine, naturopathy]
 thumbnail: "/news/reiki-sessions-positive-effects-blood-sugar-levels-blood-pressure/thumb.png"
 ---
 
