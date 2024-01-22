@@ -3,7 +3,7 @@ title: "Daily Consumption of Cucumbers and Tomatoes May Reduce Risk of Small Int
 description: "According to a new study from Boston University, consuming a daily combination of cucumbers and tomatoes could reduce the risk of small intestine cancerous polyps by up to 43%."
 date: 2023-06-04T00:49:42.894Z
 draft: false
-tags: [cucumbers and cancer, cucumber good for polyps, lycopene]
+tags: [cucumbers and cancer, cucumber good for polyps, lycopene, cancer natural treatment, naturopathy]
 thumbnail: "/news/daily-cucumbers-tomatoes-cancerous-polyps/thumb.png"
 ---
 

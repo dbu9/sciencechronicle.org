@@ -713,6 +713,9 @@
     <loc>https://www.ScienceChronicle.org/en/news/exploring-the-neuroprotective-potential-of-ruta-graveolens/</loc>
     <lastmod>2024-01-01T01:16:58+00:00</lastmod>
   </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/neurodegenerative-disease-treatment/</loc>
+    <lastmod>2024-01-01T01:16:58+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/traditional-medicine/</loc>
     <lastmod>2024-01-01T01:16:58+00:00</lastmod>
   </url><url>
@@ -1333,6 +1336,9 @@
     <loc>https://www.ScienceChronicle.org/en/news/toronto-university-horror-movies-anxiety-reduction/</loc>
     <lastmod>2023-06-04T00:54:48+00:00</lastmod>
   </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/cancer-natural-treatment/</loc>
+    <lastmod>2023-06-04T00:49:42+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/cucumber-good-for-polyps/</loc>
     <lastmod>2023-06-04T00:49:42+00:00</lastmod>
   </url><url>
@@ -1900,10 +1906,19 @@
     <loc>https://www.ScienceChronicle.org/en/tags/stool-transplant-for-ulcerative-colitis/</loc>
     <lastmod>2023-05-19T10:29:08+00:00</lastmod>
   </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/biomedical-engineering/</loc>
+    <lastmod>2023-05-19T10:27:53+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/developing-smart-materials-shape-shifting-capabilities-robotics-biomedical-engineering/</loc>
     <lastmod>2023-05-19T10:27:53+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/materials-science-and-biomedical-engineering/</loc>
+    <loc>https://www.ScienceChronicle.org/en/tags/robotics/</loc>
+    <lastmod>2023-05-19T10:27:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/shape-shifting/</loc>
+    <lastmod>2023-05-19T10:27:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/smart-materials/</loc>
     <lastmod>2023-05-19T10:27:53+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/unraveling-genetic-environmental-factors-neurodevelopmental-disorders/</loc>
@@ -2002,7 +2017,28 @@
     <loc>https://www.ScienceChronicle.org/en/news/uncovering-the-potential-of-quantum-machine-learning-algorithms-for-drug-discovery/</loc>
     <lastmod>2023-05-19T10:07:24+00:00</lastmod>
   </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/biomarker-discovery/</loc>
+    <lastmod>2023-05-19T10:05:58+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/biomarker-testing/</loc>
+    <lastmod>2023-05-19T10:05:58+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/biomarkers/</loc>
+    <lastmod>2023-05-19T10:05:58+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/biomarkers-for-cancer-detection/</loc>
+    <lastmod>2023-05-19T10:05:58+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/biomarkers-in-cancer/</loc>
+    <lastmod>2023-05-19T10:05:58+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/biosensors/</loc>
+    <lastmod>2023-05-19T10:05:58+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/developing-wearable-biosensors-real-time-monitoring-early-detection-disease-biomarkers/</loc>
+    <lastmod>2023-05-19T10:05:58+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/wearable/</loc>
     <lastmod>2023-05-19T10:05:58+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/understanding-the-mechanisms-behind-memory-formation-and-retrieval-at-the-neuronal-level/</loc>
@@ -2036,9 +2072,6 @@
     <lastmod>2023-05-19T01:16:58+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/astronautics/</loc>
-    <lastmod>2023-05-19T01:15:53+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/biomedical-engineering/</loc>
     <lastmod>2023-05-19T01:15:53+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/investigating-the-impact-of-artificial-gravity-on-long-duration-space-travel-and-human-health/</loc>

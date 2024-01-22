@@ -4,7 +4,7 @@ description: "A recent study at University of Tokyo has revealed that epigenetic
 date: 2023-05-18T12:44:28.187Z
 draft: false
 tags: [water bear, water bear evolution, a tardigrade, tardigrade evolution]
-thumbnail: "/news//epigenetic-evolution-main-mechanism-water-bears-university-tokyo/thumb.png"
+thumbnail: "/news/epigenetic-evolution-main-mechanism-water-bears-university-tokyo/thumb.png"
 ---
 
 A recent study conducted at the University of Tokyo has indicated that epigenetic evolution plays a crucial role in water bear's evolutionary mechanisms. Water bears, also known as tardigrades, are microscopic animals that have the ability to survive in extreme environments, including high temperatures, pressure, and radiation. This study reveals that water bears have a unique way to alter their gene expression in response to environmental changes, and that such changes can be passed on to future generations without altering the DNA sequence.

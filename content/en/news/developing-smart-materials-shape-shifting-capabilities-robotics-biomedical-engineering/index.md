@@ -3,7 +3,7 @@ title: "Developing Smart Materials with Shape-Shifting Capabilities for Applicat
 description: "Imperial College London researchers are developing smart materials with shape-shifting capabilities for applications in robotics and biomedical engineering."
 date: 2023-05-19T10:27:53.383Z
 draft: false
-tags: [Materials Science and Biomedical Engineering]
+tags: [biomedical engineering, smart materials, shape shifting, robotics]
 thumbnail: "/news/developing-smart-materials-shape-shifting-capabilities-robotics-biomedical-engineering/thumb.png"
 ---
 
@@ -20,4 +20,4 @@ On the robotics side, the potential applications of this magnetic, shape-shiftin
 
 Dr. Heilshorn is optimistic about the future of the smart material project, saying, "We are excited to have created a material that could have such a wide range of applications in the biomedical and robotics fields. Our team is committed to pushing the boundaries of what is possible with smart materials, and we hope this latest development will inspire other researchers to explore the potential of these materials further." 
 
-In conclusion, the groundbreaking research at Imperial College London is paving the way for the future of smart materials with shape-shifting capabilities. The innovative material could redefine the way scientists approach technological challenges, opening up new possibilities and solutions to real-world problems in the fields of prosthetics, medical devices, surgical tools, and robotics. With these advancements, the world is one step closer to creating truly intelligent and adaptable materials that can make a profound impact on the way we live and work.
+The groundbreaking research at Imperial College London is paving the way for the future of smart materials with shape-shifting capabilities. The innovative material could redefine the way scientists approach technological challenges, opening up new possibilities and solutions to real-world problems in the fields of prosthetics, medical devices, surgical tools, and robotics. With these advancements, the world is one step closer to creating truly intelligent and adaptable materials that can make a profound impact on the way we live and work.

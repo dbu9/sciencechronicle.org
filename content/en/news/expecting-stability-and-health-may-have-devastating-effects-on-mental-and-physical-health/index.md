@@ -4,7 +4,7 @@ description: "A new study conducted at the Myio Clinic has found that seeking st
 date: 2023-06-04T18:17:53.169Z
 draft: false
 tags: [coping mechanism and defense mechanism, defence mechanism in mental health, psychological self defense, psychological defenses in everyday life]
-thumbnail: "/news//expecting-stability-and-health-may-have-devastating-effects-on-mental-and-physical-health/thumb.png"
+thumbnail: "/news/expecting-stability-and-health-may-have-devastating-effects-on-mental-and-physical-health/thumb.png"
 ---
 
 It is a common human trait to seek stability and comfort in life. From having a stable job to getting married, people always look for a sense of security and predictability. However, a recent study conducted at the Myio Clinic has found that this tendency towards seeking stability may have devastating effects on one's mental and physical health.

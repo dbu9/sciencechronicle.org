@@ -3,11 +3,10 @@ title: "Exploring the Neuroprotective Potential of Ruta graveolens"
 description: "The blog article examines the neuroprotective qualities of Ruta graveolens, a plant used in traditional medicine, highlighting its potential in treating neurodegenerative diseases like Parkinson's, Alzheimer's, and Huntington's. "
 date: 2024-01-01T01:16:58.696Z
 draft: false
-tags: [rutin, Ruta graveolens, rutein, traditional medicine]
+tags: [rutin, ruta graveolens, rutein, traditional medicine, neurodegenerative disease treatment]
 thumbnail: "/news/exploring-the-neuroprotective-potential-of-ruta-graveolens/thumb.png"
 ---
 
-# Introduction to Ruta graveolens and Its Relevance in Modern Medicine
 
 In the realm of traditional and complementary medicine, natural compounds have long been valued for their therapeutic properties. Among these, Ruta graveolens, commonly known as rue, has emerged as a plant of significant interest. Historically used in various forms of traditional medicine, recent scientific investigations have begun to unveil the potential neuroprotective benefits of this plant, particularly in the context of neurodegenerative diseases.
 

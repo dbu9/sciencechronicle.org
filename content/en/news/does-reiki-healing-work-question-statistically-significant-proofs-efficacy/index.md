@@ -18,10 +18,10 @@ This study provides important evidence that Reiki does indeed work as a therapy 
 
 This study is likely to have a significant impact on the practice of Reiki therapy, as it provides stronger scientific evidence of its effectiveness. Reiki has been growing in popularity in recent years, and this study is likely to increase interest and demand for the therapy. However, the results of the study should be interpreted with caution, as they only apply to the specific population and conditions studied. Further research is needed to determine the full range of benefits of Reiki, as well as its potential risks and side effects.
 
-In conclusion, the question of whether Reiki healing works has been answered with a resounding yes. The results of this study provide statistically significant proof of its efficacy in reducing stress and anxiety. This is an important finding that can have significant implications for the future of Reiki therapy and the alternative medicine community at large. 
+The question of whether Reiki healing works has been answered with a resounding yes. The results of this study provide statistically significant proof of its efficacy in reducing stress and anxiety. This is an important finding that can have significant implications for the future of Reiki therapy and the alternative medicine community at large. 
 
 ### References
 
-1. Reiki: An effective self-care practice  (https://doi.org/10.1016/j.xjep.2023.100603)
-2. The Effect of Reiki on Anxiety, Stress, and Comfort Levels Before Gastrointestinal Endoscopy: A Randomized Sham-Controlled Trial (https://doi.org/10.1016/j.jopan.2022.08.010)
-3. The effect of reiki on anxiety, fear, pain, and oxygen saturation in abdominal surgery patients: A randomized controlled trial (https://doi.org/10.1016/j.explore.2022.11.005)
+1. [Reiki: An effective self-care practice](https://doi.org/10.1016/j.xjep.2023.100603)
+2. [The Effect of Reiki on Anxiety, Stress, and Comfort Levels Before Gastrointestinal Endoscopy: A Randomized Sham-Controlled Trial](https://doi.org/10.1016/j.jopan.2022.08.010)
+3. [The effect of reiki on anxiety, fear, pain, and oxygen saturation in abdominal surgery patients: A randomized controlled trial](https://doi.org/10.1016/j.explore.2022.11.005)

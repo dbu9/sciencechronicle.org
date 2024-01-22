@@ -24,3 +24,11 @@ The debate surrounding the emotional effects of ashwagandha highlights the compl
 As with any herbal supplement, individuals are advised to consult with a healthcare professional before using ashwagandha, particularly if they have pre-existing mental health conditions. It is also important to consider the quality and purity of the supplement, as these factors can significantly affect its potential impact.
 
 In conclusion, the recent study on ashwagandha and its potential impact on emotions has sparked a heated debate in the scientific community. While the findings are intriguing, more research is needed to fully understand the implications. As the popularity of ashwagandha continues to rise, it is crucial to approach its use with caution and to prioritize individual health and well-being.
+
+# References
+1. [An insight into the potential varieties of Ashwagandha (Indian ginseng) for better therapeutic efficacy](https://doi.org/10.1016/j.chnaes.2023.06.009)
+2. [Ninety-day repeated dose toxicity of Ashwagandha (Withania somnifera) root extract in Wistar rats](https://doi.org/10.1016/j.toxrep.2023.09.004)
+3. [Pharmacokinetics and bioequivalence of Withania somnifera (Ashwagandha) extracts – A double blind, crossover study in healthy adults](https://doi.org/10.1016/j.heliyon.2023.e22843)
+4. [A double-blind, randomized, placebo-controlled trial on the effect of Ashwagandha (Withania somnifera dunal.) root extract in improving cardiorespiratory endurance and recovery in healthy athletic adults](https://doi.org/10.1016/j.jep.2021.113929)
+5. [DNA damage by Withanone as a potential cause of liver toxicity observed for herbal products of Withania somnifera (Ashwagandha)](https://doi.org/10.1016/j.crtox.2021.02.002)
+6. [Rational use of Ashwagandha in Ayurveda (Traditional Indian Medicine) for health and healing](https://doi.org/10.1016/j.jep.2021.114101)
