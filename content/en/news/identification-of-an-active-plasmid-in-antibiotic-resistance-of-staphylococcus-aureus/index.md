@@ -3,7 +3,8 @@ title: "Identification of an Active Plasmid in Antibiotic Resistance of Staphylo
 description: "Researchers from Berlin University have identified a new active plasmid in antibiotic resistance of Staphylococcus aureus. The plasmid carries genes that confer resistance to multiple classes of antibiotics and could contribute to the spread of antibiotic resistance in Staphylococcus aureus and other bacteria."
 date: 2023-06-03T15:35:12.382Z
 draft: false
-tags: [Microbiology]
+tags: [biology, microbiology, molecular biology, methicillin resistant staphylococcus aureus, methicillin resistant bacteria, methicillin resistant staphylococcus aureus infection, antibiotic resistance, plasmid, antibacterial resistance, methicillin resistant staphylococcus aureus symptoms, antimicrobial resistance]
+
 thumbnail: "/news/identification-of-an-active-plasmid-in-antibiotic-resistance-of-staphylococcus-aureus/thumb.png"
 ---
 
@@ -21,7 +22,7 @@ The researchers are now investigating the prevalence of pSA-03 in other clinical
 
 The study was published in the journal Antimicrobial Agents and Chemotherapy.
 
-References:
+# References
 
 1. Schmidt, A., Hammerl, J. A., Kock, R., &amp; Hertwig, S. (2023). Identification and characterization of a novel conjugative plasmid carrying multiple antibiotic resistance genes in Staphylococcus aureus. Antimicrobial Agents and Chemotherapy, AAC02140-23. doi: 10.1128/aac.02140-23
 2. Plasmids. (2022, November 19). In Wikipedia. https://en.wikipedia.org/wiki/Plasmid

@@ -13,7 +13,9 @@ The research, conducted at the University of California, involved monitoring the
 
 The researchers believe that this decrease in nasal temperature could potentially make the runners more susceptible to developing an acute phase, as the lower temperature in the nasal sinuses can hinder the body's ability to fight off infections and viruses. This is particularly concerning given the current global health crisis, as individuals with compromised immune systems are at a higher risk of developing severe symptoms if they contract a virus.
 
-Dr. Emily Smith, one of the lead researchers on the study, explained, "The nose plays a crucial role in the body's immune defense system, and when the temperature in the nasal sinuses drops, it can impair the function of immune cells, making the individual more susceptible to infections. This is especially concerning for long-distance runners who may already have compromised immune systems due to the stress that endurance exercise puts on the body." 
+Dr. Emily Smith, one of the lead researchers on the study, explained:
+
+>The nose plays a crucial role in the body's immune defense system, and when the temperature in the nasal sinuses drops, it can impair the function of immune cells, making the individual more susceptible to infections. This is especially concerning for long-distance runners who may already have compromised immune systems due to the stress that endurance exercise puts on the body.
 
 The findings of this study have important implications for long-distance runners, as well as for the general population. It is essential for individuals to be aware of the potential risks associated with prolonged endurance exercise and to take steps to mitigate them. This may include ensuring that the nasal passages are adequately warmed and moistened before and during a run, as well as taking steps to support the immune system through proper nutrition, rest, and stress management.
 

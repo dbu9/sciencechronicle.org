@@ -3,7 +3,7 @@ title: "How to Prevent Colon Cancer: Simple Steps to Follow; Eat High-Fiber Cont
 description: "Discover how simple dietary changes such as eating high-fiber foods and practicing intermittent fasting can significantly reduce the risk of developing colon cancer."
 date: 2023-12-31T02:18:24.195Z
 draft: false
-tags: [Medicine]
+tags: [oncology, colon cancer, colon cancer prevention, naturopathy, intermitten fasting]
 thumbnail: "/news/how-to-prevent-colon-cancer-simple-steps-follow-eat-high-fiber-content-food-follow-intermittent-fasting/thumb.png"
 ---
 
