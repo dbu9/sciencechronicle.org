@@ -1,10 +1,10 @@
 ---
 title: "New Type of Monothalamea is Made of More Than 40 Living Distinct Living Clades"
 description: "Scientists at Berlin University have discovered a new type of monothalamea that is made up of more than 40 distinct living clades. This discovery challenges our assumptions about the complexity of the single-celled world and sheds new light on the evolution of life on Earth."
-date: 2023-06-22T21:50:21.160Z
+date: 2024-01-18T21:50:21.160Z
 draft: false
-tags: [Microbiology, Genetics, Evolutionary Biology]
-thumbnail: "/news//new-type-monothalamea-more-than-40-distinct-living-clades/thumb.png"
+tags: [microbiology, genetics, evolutionary biology, monothalamea]
+thumbnail: "/news/new-type-monothalamea-more-than-40-distinct-living-clades/thumb.png"
 ---
 
 Berlin University has unveiled a new type of monothalamea, a single-celled organism, that is made up of more than 40 distinct living clades. The discovery was made by a team of researchers led by Dr. Maria Schmidt, who spent the last decade studying various single-celled organisms in an effort to better understand their evolution.
@@ -25,8 +25,8 @@ The discovery of this new type of monothalamea is just the latest in a long line
 
 As for Dr. Schmidt and her team, they are already planning their next expedition to the depths of the Pacific Ocean. They hope to discover even more unique and unexpected life forms, and to continue pushing the boundaries of what we know about the living world.
 
-Keywords: single-celled organisms, monothalamea, genetic analysis, evolution, endosymbiosis.
+# References
 
-SEO link: /new-type-monothalamea-more-than-40-distinct-living-clades
-
-Tags: Microbiology, Genetics, Evolutionary Biology.
+1. [Monothalamous soft-shelled foraminiferal image dataset from the Kveithola Trough (NW Barents Sea)](https://doi.org/10.1016/j.dib.2023.109603)
+2. [Morphological and molecular diversity of monothalamids (Rhizaria, Foraminifera), including two new species and a new genus, from SW Greenland](https://doi.org/10.1016/j.ejop.2022.125932)
+3. [Taxon-rich transcriptomics supports higher-level phylogeny and major evolutionary trends in Foraminifera](https://doi.org/10.1016/j.ympev.2022.107546) 
