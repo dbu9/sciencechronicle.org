@@ -20,3 +20,7 @@ Lung cancer is the leading cause of cancer-related deaths worldwide, and there i
 The next step for Dr. Smith and his team is to investigate the effectiveness of adiponectin in animal models. If animal studies are successful, this could lead to clinical trials in humans. The research team is hopeful that adiponectin could become a valuable tool in the fight against lung cancer.
 
 This study is just one example of the exciting developments in cancer research currently taking place. Scientists around the world are working tirelessly to find new ways to treat cancer and improve patient outcomes. Adiponectin down-regulating CREB and inhibiting proliferation of A549 lung cancer cells is a step in the right direction, and we look forward to seeing how this research develops in the coming years.
+
+# References
+
+1. 
