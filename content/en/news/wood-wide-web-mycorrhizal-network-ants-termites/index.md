@@ -3,7 +3,7 @@ title: "Wood Wide Web: Mycorrhizal Network Restored After Interruption by Ants a
 description: "A research conducted by Ottawa University on wood wide web has found that mycorrhizal links of the network are restored after intervention of ants and termites. The research has great implications for understanding the resilience of the network and developing conservation strategies."
 date: 2024-01-23T01:14:16.653Z
 draft: false
-tags: [Environmental Science]
+tags: [mycorrhizal, fungi, ants, biology, zoology, entomology, mycorrhizal network,mycorrhizal fungi,mycorrhiza symbiosis, mycorrhizae and plants,mycorrhizal fungi and plant roots, mycorrhizal fungi and plants, mycorrhizal fungi and trees, mycorrhizal fungi for plants ]
 thumbnail: "/news/wood-wide-web-mycorrhizal-network-ants-termites/thumb.png"
 ---
 
