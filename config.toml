@@ -15,7 +15,7 @@ googleAnalytics = "G-LCXCFMHZQ7"
       introTitle = "ScienceChronicle"
       introSubtitle = "ScienceChronicle.org is your go-to online destination for staying updated on the latest scientific advancements and discoveries. With a team of dedicated science journalists and experts, we provide in-depth coverage and analysis across a wide range of scientific disciplines. From breakthrough research findings to cutting-edge technologies, our website offers a comprehensive chronicle of scientific progress. Explore captivating articles, insightful features, and engaging interviews that delve into the fascinating world of science. Whether you're a curious individual, a science enthusiast, or a professional in the field, ScienceChronicle.org offers a reliable and accessible platform to satisfy your thirst for knowledge and keep you informed about the ever-evolving frontiers of science."
       introPhoto = "/intro.png"
-      logo = "/logo.png"
+      logo = "/favicon.png" # "/logo.png"
 
     [[languages.en.menu.main]]
         name = "News"
