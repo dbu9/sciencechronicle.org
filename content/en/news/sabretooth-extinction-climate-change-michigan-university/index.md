@@ -18,6 +18,7 @@ The Sabretooth tiger was well adapted to hunting larger prey with their elongate
 In conclusion, the extinction of the Sabretooth tiger can be attributed to climate change, which led to the shrinkage of their prey size and a decrease in their overall population. This research shows that changes in climate have a significant impact on the environment and the survival of species that are adapted to specific ecological conditions. Understanding these impacts can help us better predict future changes and prevent similar extinctions.
 
 # References
+
 1. Field, Jeremy. Sabre-Toothed Cats. Big Cat Rescue, 2010.
 2. Hopkins, Samantha. "Pleistocene Extinctions." The Universe Today, 10 June 2015, universe\today.com/22545/pleistocene-extinctions-22545/. 
 3. Martin, Paul S. "Prehistoric overkill, the global model." Quaternary International, vol. 67, 2000, pp. 71-79.
