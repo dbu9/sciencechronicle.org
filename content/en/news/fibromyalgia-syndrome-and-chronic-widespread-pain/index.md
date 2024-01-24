@@ -3,7 +3,10 @@ title: "Fibromyalgia Syndrome and Chronic Widespread Pain"
 description: "A significant portion of the population experiences persistent and widespread pain, with about 11% in the UK affected. This condition leads to several challenges for both individuals and society, including decreased physical activity, feelings of depression, higher healthcare usage, and a decline in work efficiency. This blog article will primarily discuss fibromyalgia, a key example of a condition characterized by persistent widespread pain and tiredness."
 date: 2024-01-24T00:26:45.759Z
 draft: false
-tags: [medicine, rheumatology, fibromyalgia, chronic widespread pain]
+tags: [medicine, fibromyalgia treatment, fibromyalgia therapies, fibromyalgia pain relief
+, diagnosing fibromyalgia, rheumatology, fibromyalgia, chronic widespread pain, help with fibromyalgia pain, natural treatment for fibromyalgia, fibromyalgia syndrome, cure for fibromyalgia pain, fibromyalgia fatigue, alternative treatments for fibromyalgia, fibromyalgia and chronic fatigue syndrom, natural remedy for fibromyalgia, holistic treatment for fibromyalgia, fibromyalgia and fatigue, self care for fibromyalgia, chronic fatigue and fibromyalgia, exercising with fibromyalgia, chronic fatigue fibromyalgia, chronic fatigue syndrome fibromyalgia, fibro fatigue, fibro cure]
+
+
 thumbnail: "/news/fibromyalgia-syndrome-and-chronic-widespread-pain/thumb.webp"
 ---
 
