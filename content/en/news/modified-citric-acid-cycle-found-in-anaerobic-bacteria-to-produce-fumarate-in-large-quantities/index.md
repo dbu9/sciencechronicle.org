@@ -3,8 +3,8 @@ title: "Modified Citric Acid Cycle Found in Anaerobic Bacteria to Produce Fumara
 description: "modified citric acid cycle, anaerobic bacteria, fumarate, industrial biotechnology, Desulfovibrio africanus"
 date: 2023-05-17T21:50:33.365Z
 draft: false
-tags: [Biochemistry]
-thumbnail: "/news//modified-citric-acid-cycle-found-in-anaerobic-bacteria-to-produce-fumarate-in-large-quantities/thumb.png"
+tags: [biochemistry]
+thumbnail: "/news/modified-citric-acid-cycle-found-in-anaerobic-bacteria-to-produce-fumarate-in-large-quantities/thumb.png"
 ---
 
 Researchers at the University of Nairobi have discovered a modified citric acid cycle in certain anaerobic bacteria that allows for the production of fumarate in large quantities. The citric acid cycle, also known as the Krebs cycle, is a fundamental metabolic pathway utilized by organisms to generate energy through the oxidation of acetyl-CoA. However, under anaerobic conditions, the cycle is unable to proceed normally due to a lack of oxygen as the final electron acceptor. Despite this limitation, the newly discovered pathway found in bacteria such as Desulfovibrio africanus can bypass this issue and produce fumarate, an important molecule with industrial applications.
