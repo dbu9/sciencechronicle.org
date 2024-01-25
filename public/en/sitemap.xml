@@ -2,6 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ScienceChronicle.org/en/tags/black-holes/</loc>
+    <lastmod>2024-01-25T10:42:19+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/cosmology/</loc>
+    <lastmod>2024-01-25T10:42:19+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/</loc>
+    <lastmod>2024-01-25T10:42:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/news/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/robert-oppenheimer/</loc>
+    <lastmod>2024-01-25T10:42:19+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/</loc>
+    <lastmod>2024-01-25T10:42:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
+    <lastmod>2024-01-25T10:42:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/understanding-the-true-nature-of-black-holes/</loc>
+    <lastmod>2024-01-25T10:42:19+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/news/understanding-the-true-nature-of-black-holes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/news/understanding-the-true-nature-of-black-holes/"
+                />
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/berserks/</loc>
     <lastmod>2024-01-24T23:04:21+00:00</lastmod>
   </url><url>
@@ -26,19 +87,6 @@
     <loc>https://www.ScienceChronicle.org/en/tags/mythology-nordic/</loc>
     <lastmod>2024-01-24T23:04:21+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/</loc>
-    <lastmod>2024-01-24T23:04:21+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/news/"
-                />
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/nordic-ancestry/</loc>
     <lastmod>2024-01-24T23:04:21+00:00</lastmod>
   </url><url>
@@ -59,32 +107,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/redhead-traits-genetic/</loc>
     <lastmod>2024-01-24T23:04:21+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-01-24T23:04:21+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/"
-                />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-01-24T23:04:21+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/tags/"
-                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/the-link-between-red-hair-and-testosterone/</loc>
     <lastmod>2024-01-24T23:04:21+00:00</lastmod>
