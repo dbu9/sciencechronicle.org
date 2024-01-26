@@ -24,7 +24,7 @@ This interplay of growing conditions and processing techniques underscores the c
 
 # Assessment of Digestion Patterns
 
-The gastrointestinal fate of chia seed protein components, such as degummed-defatted flour (DDF), protein concentrate (PC), and isolated albumin (Alb) and globulin (Glo) fractions, plays a pivotal role in their nutritional impact. Each of these components undergoes a distinct digestion process in the gastrointestinal tract, which significantly influences their bioavailability and efficacy as a nutrient source. The DDF, obtained by removing gums and fats from chia seeds, presents a different digestion profile compared to more concentrated forms like PC, Alb, and Glo. These variations are due to differences in their composition and structural properties.
+The gastrointestinal fate of chia seed protein components, such as degummed-defatted flour (DDF), protein concentrate (PC), and isolated [albumin]({{< ref "#references" >}}) (Alb) and [globulin]({{< ref "#references" >}}) (Glo) fractions, plays a pivotal role in their nutritional impact. Each of these components undergoes a distinct digestion process in the gastrointestinal tract, which significantly influences their bioavailability and efficacy as a nutrient source. The DDF, obtained by removing gums and fats from chia seeds, presents a different digestion profile compared to more concentrated forms like PC, Alb, and Glo. These variations are due to differences in their composition and structural properties.
 
 Protein concentrates, which are more refined, often show enhanced digestibility due to the removal of other components that may hinder enzyme access. In contrast, Alb and Glo, being isolated protein fractions, offer a more specific insight into how individual protein types from chia seeds behave during digestion. The way these proteins break down into peptides and amino acids, and how they are subsequently absorbed, is critical to understanding their potential health benefits.
 
@@ -42,6 +42,10 @@ These bioactivities are not only essential for understanding the health benefits
 
 Gastrointestinal digestion plays a critical role in the breakdown and assimilation of nutrients from food, including proteins like those found in chia seeds. This process involves a complex interplay of physical and chemical actions, orchestrated primarily by various digestive enzymes. The main function of gastrointestinal digestion is to convert complex food substances into simpler forms that the body can easily absorb and utilize. For proteins, this means breaking them down into amino acids and small peptides, which are the building blocks essential for numerous bodily functions.
 
+|Absorption of nutrients|
+|---|
+|![ingestion](/news/chia-seeds-the-nutritional-powerhouse-and-future-of-food-innovation/ingestion.png)|
+
 The efficiency of this digestive process significantly influences the nutritional quality of the consumed food. Proteins that are more readily broken down and absorbed provide greater nutritional benefits. This is particularly important for plant-based proteins, which sometimes present challenges in terms of digestibility compared to animal proteins. The gastrointestinal tract's ability to effectively process these proteins can determine the extent to which their amino acids are available for use by the body.
 
 Understanding the dynamics of gastrointestinal digestion is crucial not only for assessing the nutritional value of foods but also for designing dietary plans and food products that maximize nutrient absorption. Enhancing the digestibility of proteins, especially in plant-based sources like chia, is key to ensuring that the body receives the full range of essential nutrients for optimal health and functioning.
@@ -50,6 +54,11 @@ Understanding the dynamics of gastrointestinal digestion is crucial not only for
 
 The development of in vitro digestion models has become increasingly significant in the field of food science, especially in the context of assessing the nutritional quality of proteins. These models serve as efficient, controlled, and ethical alternatives to in vivo studies in humans or animals, which are often laden with high costs, technical complexities, and ethical concerns. In vitro digestion models are designed to accurately mimic human digestive processes, providing a practical means to study the breakdown and absorption of nutrients, including proteins.
 
+|Artificial digestion models|
+|---|
+|![artificial digestion model](/news/chia-seeds-the-nutritional-powerhouse-and-future-of-food-innovation/artificial.webp)|
+
+
 In these models, food is subjected to a series of treatments that simulate the mechanical and enzymatic conditions of the human gastrointestinal tract. This approach allows researchers to study how different foods and their components, such as proteins, are digested and how they interact with digestive enzymes. The results yield valuable insights into the bioavailability and potential health impacts of these nutrients.
 
 The importance of in vitro digestion models is underscored by their ability to replicate human digestion conditions closely. They enable the examination of various factors, such as the effects of processing, preparation, and the presence of other food constituents on protein digestibility. This knowledge is crucial in formulating dietary recommendations and developing food products that are not only nutritious but also align with the body's ability to derive maximum benefit from them. In vitro models thus play a pivotal role in advancing our understanding of food science and nutrition.
@@ -57,6 +66,10 @@ The importance of in vitro digestion models is underscored by their ability to r
 # Chia Seeds' Nutritional Composition
 
 Chia seeds, originating from Southern Mexico and Northern Guatemala, have gained popularity as a superfood due to their exceptional nutritional profile. One of the most notable aspects of chia seeds is their high protein content, which ranges from 18-25% of their dry weight. This is significantly higher compared to most commonly consumed cereal grains, making chia seeds an excellent plant-based protein source. 
+
+|Nutritional composition|
+|----|
+|![nutritional composition](/news/chia-seeds-the-nutritional-powerhouse-and-future-of-food-innovation/facts.jpg)|
 
 The protein in chia seeds is not only abundant but also of high quality, containing all essential amino acids, which are crucial for various bodily functions including muscle building and repair. This comprehensive amino acid profile is particularly important for vegetarians and vegans, who may struggle to obtain complete proteins from plant-based sources.
 
@@ -99,5 +112,6 @@ Further, the article explores the antioxidant and anti-inflammatory properties o
 The high protein content of chia seeds, along with their rich mineral, vitamin, and phytochemical composition, is discussed, emphasizing their nutritional superiority over most cereal grains. The article also sheds light on the analysis of bioactive components in chia seeds, exploring their health effects post-digestion. Finally, it concludes by reflecting on the growing consumer interest in functional foods like chia seeds, driven by their nutrient density and potential health benefits. The article positions chia seeds as an integral part of a health-conscious diet, contributing to overall wellness and disease prevention.
 
 # References
-
 1. [A comparative study of the digestion behavior and functionality of protein from chia (Salvia hispanica L.) ingredients and protein fractions](https://doi.org/10.1016/j.crfs.2024.100684)
+2. [https://en.wikipedia.org/wiki/Globulin](https://en.wikipedia.org/wiki/Globulin)
+3. [https://en.wikipedia.org/wiki/Albumin](https://en.wikipedia.org/wiki/Albumin)
