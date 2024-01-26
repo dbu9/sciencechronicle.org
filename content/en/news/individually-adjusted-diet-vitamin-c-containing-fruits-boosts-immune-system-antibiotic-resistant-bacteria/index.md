@@ -3,7 +3,7 @@ title: "Individually Adjusted Diet of Vitamin C-Containing Fruits Boosts Immune 
 description: "A recent study in New Orleans found that an individually adjusted diet of vitamin C-containing fruits can significantly boost the immune system against antibiotic-resistant bacteria. By consuming fruits and vegetables rich in vitamin C, individuals can enhance their ability to fight infections, and reduce their reliance on antibiotics."
 date: 2023-05-18T10:50:14.308Z
 draft: false
-tags: [vitamin c for yeast infection, vitamin c, yeast infection, antibiotic resitant bacteria]
+tags: [vitamin c for yeast infection, vitamin c, yeast infection, antibiotic resitant bacteria, nutraceuticals, health, medicine]
 thumbnail: "/news/individually-adjusted-diet-vitamin-c-containing-fruits-boosts-immune-system-antibiotic-resistant-bacteria/thumb.png"
 ---
 

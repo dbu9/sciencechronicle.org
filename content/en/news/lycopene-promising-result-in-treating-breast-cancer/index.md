@@ -3,7 +3,7 @@ title: "Lycopene's Promising Result in Treating Breast Cancer"
 description: "New research from Walter and Eliza Hall Institute of Medical Research reveals the potential of lycopene in treating breast cancer, overturning previous beliefs."
 date: 2024-01-07T09:53:12.397Z
 draft: false
-tags: [lycopene cancer, lycopene prostate, lycopene prostate cancer, lycopene for prostate health, lycopene and prostate health, lycopene and cancer]
+tags: [lycopene cancer, lycopene prostate, lycopene prostate cancer, lycopene for prostate health, lycopene and prostate health, lycopene and cancer, nutraceuticals, health, medicine, naturopathy]
 thumbnail: "/news/lycopene-promising-result-in-treating-breast-cancer/thumb.png"
 ---
 

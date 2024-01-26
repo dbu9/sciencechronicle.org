@@ -4,7 +4,7 @@ description: "A large-scale study conducted by the Australian National Universit
 date: 2023-05-20T11:18:49.310Z
 draft: false
 tags: [chia, chia seeds, cucumber juice, anti inflammatory foods,chia seed how to use,chia seeds and gut health,
-eating chia seeds, reduce muscle inflammation]
+eating chia seeds, reduce muscle inflammation,nutraceuticals]
 thumbnail: "/news/anti-inflammatory-effect-of-chia-seeds-enhanced-by-cucumber-juice-large-scale-test-reveals/thumb.png"
 ---
 

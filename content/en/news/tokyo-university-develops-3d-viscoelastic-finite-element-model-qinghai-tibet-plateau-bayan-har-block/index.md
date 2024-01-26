@@ -4,7 +4,7 @@ description: "A new study by Tokyo University establishes a 3D viscoelastic fini
 date: 2023-05-20T10:53:13.549Z
 draft: false
 tags: [Geology]
-thumbnail: "/news//tokyo-university-develops-3d-viscoelastic-finite-element-model-qinghai-tibet-plateau-bayan-har-block/thumb.png"
+thumbnail: "/news/tokyo-university-develops-3d-viscoelastic-finite-element-model-qinghai-tibet-plateau-bayan-har-block/thumb.png"
 ---
 
 Scientists at Tokyo University have established a 3D viscoelastic finite-element model of the Qinghai-Tibet Plateau, which includes the Bayan Har block, in this new study. The model takes into account the differences in the geological structure of each region, the active fault zone, the active tectonic block, boundary fault zone, the irregular topography and layered lithospheric structure, as well as the seismic velocity structure of the crust and mantle. The researchers have called this new model a critical tool for future earthquake studies in the region. The study was published in the Journal of Geophysical Research: Solid Earth. 

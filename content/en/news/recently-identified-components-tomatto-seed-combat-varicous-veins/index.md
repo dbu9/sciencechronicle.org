@@ -4,7 +4,7 @@ description: "New research at the University of Seoul has identified components 
 date: 2023-05-18T12:46:23.823Z
 draft: false
 tags: [varicose prevention, how to prevent varicose veins, rutin spider veins, rutein, venoactive drugs, flavinoids,varicose veins home remedies, natural remedies for varicose veins,varicose vein treatment at home,treat varicose veins without surgery
-,how to prevent spider veins, how to reduce veins in hands naturally, how to stop veins from popping out on legs, how to prevent veins on legs,how to prevent varicose veins in legs naturally,can you stop varicose veins from getting worse,prevent spider veins]
+,how to prevent spider veins, how to reduce veins in hands naturally, how to stop veins from popping out on legs, how to prevent veins on legs,how to prevent varicose veins in legs naturally,can you stop varicose veins from getting worse,prevent spider veins, medicine, nutraceuticals, naturopathy, health]
 thumbnail: "/news/recently-identified-components-tomatto-seed-combat-varicous-veins/thumb.png"
 ---
 

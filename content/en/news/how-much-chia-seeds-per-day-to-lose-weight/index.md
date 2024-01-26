@@ -3,7 +3,7 @@ title: "How Much Chia Seeds Per Day to Lose Weight"
 description: "Learn about the optimal amount of chia seeds to consume daily for weight loss and overall health."
 date: 2023-12-31T17:49:18.854Z
 draft: false
-tags: [nutrition, health, biology, how much chia seeds per day to lose weight, chia seed how much to eat per day, chia seeds how much a day, chia seeds how much daily, how many chia seeds a day,how many chia seeds in a day, how many chia seeds per day for weight loss, how many chia seeds is too much, how many teaspoons of chia seeds per day, how many tablespoon of chia seeds per day, how much chia daily, how much chia is too much, how much chia seed is too much]
+tags: [nutraceuticals ,nutrition, health, biology, how much chia seeds per day to lose weight, chia seed how much to eat per day, chia seeds how much a day, chia seeds how much daily, how many chia seeds a day,how many chia seeds in a day, how many chia seeds per day for weight loss, how many chia seeds is too much, how many teaspoons of chia seeds per day, how many tablespoon of chia seeds per day, how much chia daily, how much chia is too much, how much chia seed is too much]
 thumbnail: "/news/how-much-chia-seeds-per-day-to-lose-weight/thumb.jpg"
 ---
 

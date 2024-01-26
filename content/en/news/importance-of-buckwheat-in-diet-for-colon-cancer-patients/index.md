@@ -3,7 +3,7 @@ title: "The Importance of Buckwheat in the Diet for Colon Cancer Patients"
 description: "A new study from Vienna University highlights the crucial role of including buckwheat in the diet of colon cancer patients due to its high daily value of magnesium, a required component in colon cancer immunity."
 date: 2023-12-31T02:17:54.244Z
 draft: false
-tags: [medicine, nutrition, oncology]
+tags: [medicine, nutrition, oncology, nutraceuticals, health, colon cancer prevention, naturopathy]
 thumbnail: "/news/importance-of-buckwheat-in-diet-for-colon-cancer-patients/thumb.png"
 ---
 

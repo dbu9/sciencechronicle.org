@@ -5,7 +5,7 @@ date: 2024-01-22T11:43:36.196Z
 draft: false
 tags: [immunology, nutrition, gastroenterology, avocado, flavinoids, gut health, avocado gut health, medicine, naturopathy,benefits of avocado
 ,avocado pros, avocado and nutrition, nutrition facts avocado, benefit of avocado fruits, avogadro fruit benefits, benefits of eating avocado
-,avocados good for you, advantage of eating avocado, avocado and health benefits, avocado diet benefits, avocado is it good for you, eating an avocado everyday, benefit of eating avocado daily, 10 benefits of avocado]
+,avocados good for you, advantage of eating avocado, avocado and health benefits, avocado diet benefits, avocado is it good for you, eating an avocado everyday, benefit of eating avocado daily, 10 benefits of avocado, nutraceuticals, medicine]
 thumbnail: "/news/research-finds-that-avocados-contain-flavonoids-that-promote-gut-health/thumb.png"
 ---
 
