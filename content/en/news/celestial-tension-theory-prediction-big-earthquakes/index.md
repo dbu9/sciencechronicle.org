@@ -3,7 +3,7 @@ title: "Scientific Report: Celestial Tension Theory Gets Additional Argument for
 description: "A new scientific report by the University of Athens provides additional evidence that supports the celestial tension theory, making it more reliable in predicting big earthquakes."
 date: 2023-05-18T01:37:22.516Z
 draft: false
-tags: [Geophysics]
+tags: [geophysics, celestial tension theory, earthquake prediction, earthquakes]
 thumbnail: "/news/celestial-tension-theory-prediction-big-earthquakes/thumb.png"
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "ASMR Has Many Physiological Effects, Including the Potential to Heal Serious Illnesses Through Psychosomatic Effects"
 description: "The study found that ASMR had positive impacts on heart rate, respiration, and neurotransmitters, leading to lower stress levels and improved overall well-being."
-date: 2023-05-18T01:41:44.806Z
+date: 2024-01-25T23:41:44.806Z
 draft: false
-tags: [science behind asmr, science of asmr]
+tags: [science behind asmr, science of asmr, health, asmr, psychosomatic effects]
 thumbnail: "/news/asmr-has-many-physiological-effects-potential-to-heal-serious-illnesses/thumb.png"
 ---
 
@@ -15,6 +15,8 @@ The study also investigated the individual responses to different ASMR triggers,
 
 ASMR has been a topic of interest for several years, with countless videos on social media platforms designed to induce the sensation. However, this research sheds light on the legitimate physiological effects of ASMR and its potential as a therapy tool. 
 
-References: 
-- Fredborg, B., Clark, J. & Smith, S. D. (2023). Autonomous Sensory Meridian Response (ASMR): Possible Physiological Correlates and Potential Therapeutic Value. Frontiers in Psychology, 14, 1287. https://doi.org/10.3389/fpsyg.2023.01287 
-- Lujan, M. (2021). A Systematic Review of ASMR Literature: Implications for Nursing Practice and Research. The American Journal of Nursing, 121(7), 38-47. https://doi.org/10.1097/01.NAJ.0000582480.25985.c3
+# References 
+
+1. [Does ASMR propensity reflect a mentally flexible mindset? Exploring the relationship between ASMR propensity, transliminality, emotional contagion, schizotypal traits, roleplaying ability, and creativity](https://doi.org/10.1016/j.concog.2023.103546)
+2. [The effects of Autonomous Sensory Meridian Response (ASMR) videos on arousal and mood in adults with and without depression and insomnia](https://doi.org/10.1016/j.jad.2021.12.015)
+3. [From touch to tingles: Assessing ASMR triggers and their consistency over time with the ASMR Trigger Checklist (ATC)](https://doi.org/10.1016/j.concog.2023.103584)
