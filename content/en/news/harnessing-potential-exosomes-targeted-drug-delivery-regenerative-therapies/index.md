@@ -3,7 +3,7 @@ title: "Harnessing the potential of exosomes for targeted drug delivery and rege
 description: "Researchers at Harvard University have made groundbreaking strides in the field of regenerative medicine by harnessing the potential of exosomes, tiny vesicles produced by cells, as vehicles for targeted drug delivery and regenerative therapies. "
 date: 2023-05-19T00:52:02.030Z
 draft: false
-tags: [Regenerative medicine]
+tags: [regenerative medicine, exosome, targeted drug delivery, medicine, health]
 thumbnail: "/news/harnessing-potential-exosomes-targeted-drug-delivery-regenerative-therapies/thumb.png"
 ---
 

@@ -1,0 +1,68 @@
+---
+title: "Unveiling the Liver's Remarkable Regenerative Prowess"
+description: "Explore the Liver's Remarkable Regenerative Abilities: Delve into the intricate signaling pathways, dynamic adaptations, and complex growth factor interactions that drive liver regeneration, shedding light on its significance in medical fields like oncology and regenerative medicine."
+date: 2024-01-27T10:44:20.758Z
+draft: false
+tags: [regenerative medicine, liver, liver regeneration, health, regenerative therapy, stem cell regenerative medicine, regenerative liver, liver regeneration medicine, liver is regenerative, ]
+thumbnail: "/news/unveiling-the-livers-remarkable-regenerative-prowess/thumb.png"
+---
+
+
+The liver's inherent regenerative capacity is crucial, given its strategic physiological role. After digestion, a mix of nutrients, toxins, and bacterial products is transported to the liver via the [portal vein](https://en.wikipedia.org/wiki/Portal_vein). Essential for detoxifying, metabolizing, and synthesizing, the liver maintains systemic balance. Its ability to regenerate underscores the need for a minimal functional mass for these activities. Studying liver regeneration typically involves surgically removing two-thirds of its mass, triggering its natural repair mechanisms. This regeneration is controlled by the synchronized activation of various [signaling pathways](https://en.wikipedia.org/wiki/Cell_signaling), a fact established through animal studies. These pathways ensure the proliferation of all liver cell types, critical for restoring the lost mass. Understanding these pathways is key in managing abnormal growth in liver tumors and has significant implications in medical fields such as oncology and regenerative medicine, including areas like stem cell differentiation, tissue engineering, and liver transplantation.
+
+# Dynamics of Liver Regeneration Post-Hepatectomy
+
+Following a partial hepatectomy, the liver undergoes a precisely timed regeneration process, differing in duration across species: about a week in rats, up to two weeks in mice, and around 8 to 15 days in humans. Post-regeneration, the liver's structure, including lobules and hepatocyte plates, expands beyond its original state, but gradually reorganizes to a typical liver structure. This regenerative phase involves the replication of various liver cell types, each peaking at different times. The regeneration math suggests that achieving the original liver mass requires each cell to replicate approximately 1.67 times. This means that every cell in the liver would undergo a complete replication cycle, followed by a partial second cycle, to effectively rebuild the liver's pre-surgical mass.
+
+# Post-Surgical Liver Adaptations and Regeneration
+
+When two-thirds of the liver is surgically removed, the remaining liver undergoes significant hemodynamic and metabolic transformations. The liver's reduced size leads to increased shear stress on its cells due to the unchanged volume of portal blood flow. This stress is believed to be a primary catalyst for initiating liver regeneration. Additionally, the liver experiences a lower oxygen state, which might influence the activation of [hepatocyte growth factor (HGF)](https://en.wikipedia.org/wiki/Hepatocyte_growth_factor), a key regeneration initiator. Metabolic shifts, notably an immediate drop in blood sugar levels, are also observed post-surgery. Addressing this hypoglycemia with dextrose has been noted to affect hepatocyte proliferation. Early regeneration stages are also marked by an accumulation of fats within the liver cells, impacting the regeneration process.
+
+# Complex Interplay of Growth Factors in Liver Regeneration
+
+In liver regeneration, the Wnt/β-catenin pathway, Notch/Jagged pathway, and various growth factors like norepinephrine and serotonin are activated. These elements function in both autocrine and paracrine manners. The Wnt/β-catenin signaling in hepatocytes during regeneration is Wnt dependent, with Wnt proteins originating from endothelial cells and macrophages. Concurrently, cytokines like tumor necrosis factor-α (TNF-α) and interleukin-6 (IL-6) are released from Kupffer cells, playing a crucial role in normal liver regeneration. These pathways activate transcription factors like NF-κB and Stat3, integral to the regeneration process.
+
+
+# Intrinsic Molecular Responses in Liver Regeneration
+
+Post hepatectomy, the liver shows intrinsic molecular changes in both gene expression and at posttranslational levels. These changes complement each other and are crucial for a well-coordinated regeneration process, which maintains hepatocyte functions critical for health. Over 95% of hepatocytes are involved in this proliferation process. Early signals include the activation of both growth factors and cytokines. Events like the activation of urokinase plasminogen activator (uPA) lead to matrix remodeling and activation of [hepatocyte growth factor (HGF)](https://en.wikipedia.org/wiki/Hepatocyte_growth_factor). HGF, along with factors like EGF, plays a significant role in hepatocyte proliferation and survival
+
+#  Active Matrix Remodeling in Liver Regeneration
+
+During liver regeneration, there's an ongoing and complex process of active matrix remodeling. This process involves crucial molecules like [metalloproteinases](https://en.wikipedia.org/wiki/Metalloproteinase) and tissue inhibitors of metalloproteinases. The matrix itself contributes matrix-bound growth factors, such as HGF, and other elements like glycosylated proteins and hyaluronic acid. These components play a dual role, both influencing and responding to the regeneration process. Their action modulates the activity of various growth and inhibitory factors, such as HGF, TNF-α, EGF, and TGF-β, making this remodeling a vital aspect of optimal liver regeneration. This has been demonstrated in studies, including those using MMP9-deficient mice.
+.
+
+# Regulation of Liver Regeneration and Growth Factors
+
+In the context of liver regeneration, hepatocytes are the primary cell type involved in proliferation. However, various native liver cells also undergo division at specific time points following partial hepatectomy. In rats, the peak proliferation of hepatocytes occurs at 24 hours post-hepatectomy, followed by biliary epithelial cells at 48 hours, Kupffer cells and stellate cells at 72 hours, and sinusoidal endothelial cells at 96 hours. Key growth factors play a pivotal role in promoting the proliferation of these cell types, functioning both in an autocrine and paracrine manner, as they are produced by multiple cell types within the regenerating liver. These factors include **Hepatocyte Growth Factor (HGF)**, **Platelet-Derived Growth Factor (PDGF)**, **Vascular Endothelial Growth Factor (VEGF)**, **Fibroblast Growth Factors (FGFs)**, and **angiopoietins**, which are crucial for the proliferation and maintenance of Kupffer cells and endothelial cells during regeneration. Additionally, **Neurotrophins** and **Nerve Growth Factors** play essential roles in the regeneration and survival of stellate cells.
+
+Determining the mechanism by which the liver knows when to halt the regeneration process remains a complex and incompletely understood question. In mice, liver mass is typically restored within 14 days, while in rats, it takes about 7 days. However, there are instances where the liver may exceed its original mass, primarily when transient apoptosis occurs, eventually bringing the overall liver mass back to its pre-hepatectomy size. **Transforming Growth Factor-beta (TGF-β)** has been suggested as a potential regulator of regeneration due to its mitoinhibitory effects on hepatocytes. Interestingly, TGF-β expression, primarily produced by stellate cells, follows a pattern similar to that of many pro-proliferation factors during regeneration, beginning approximately 2-3 hours post-hepatectomy in rats and remaining elevated until 72 hours.
+
+Nevertheless, the story is not straightforward. During regeneration, the receptors for TGF-β are downregulated, and hepatocytes become resistant to excessive TGF-β. Furthermore, TGF-β protein is initially lost near the portal areas and gradually diminishes towards the central vein. Intriguingly, hepatocyte mitosis follows the receding wave of TGF-β, suggesting that TGF-β somehow balances quiescence and proliferation even during regeneration. This balance may be crucial to regulate growth and maintain a specific number of non-proliferative, differentiated hepatocytes necessary for the animal's survival. However, whether TGF-β serves as the ultimate cytokine that governs the termination of the regenerative process remains an open-ended question, awaiting further investigation.
+
+# The Influence of Extracellular Matrix and Signaling Pathways on Liver Growth
+
+Recent research has highlighted the pivotal role played by the extracellular matrix (ECM) in governing liver growth under normal circumstances and during regeneration. A critical component in cell-ECM interactions is **Integrin-linked kinase (ILK)**, which has implications in cell-ECM signaling through integrins. When ILK was removed from hepatocytes, it resulted in heightened proliferation. This heightened proliferation was linked to increased cytoplasmic and nuclear stabilization of **β-catenin**. As a consequence of this transient proliferation of all epithelial components, the final liver-to-body weight ratio in livers with ILK-deficient hepatocytes stabilized at roughly double that of their littermate controls.
+
+Further investigation demonstrated that when these mice underwent partial hepatectomy, a defect in the termination of liver regeneration was observed. Mice with ILK-deficient hepatocytes regenerated livers that were 58% larger than their original prehepatectomy weight. This increase in liver mass was attributed to sustained cell proliferation driven by elevated levels of **Hepatocyte Growth Factor (HGF)**, β-catenin, and **Yes-associated protein (Yap)** signaling.
+
+Partial hepatectomy triggers the activation of multiple cytokines and growth factors. Surgical removal of two-thirds of the liver in rodents results in the initiation of various signaling pathways. Interestingly, no single suppression of a signal transduction pathway leads to the complete inhibition of liver regeneration. Genetic ablation or other suppression methods targeting specific growth factors (such as **Epidermal Growth Factor Receptor (EGFR)**, **Transforming Growth Factor-alpha (TGF-α)**, **Jagged/Notch**, and **Wnt/β-catenin**), cytokines (like **Tumor Necrosis Factor-alpha (TNF-α)** and **Interleukin-6 (IL-6)**), and other modulators (including bile acids, norepinephrine, serotonin, hepatic biomatrix components, and complement components) result in varying degrees of retardation in regeneration.
+
+While interference with the **HGF/Met signaling pathway** appears to have a profound impact on regeneration, it does not completely halt the process. There is a level of redundancy between the HGF and EGF pathways during liver regeneration. Inhibition of one pathway leads to the activation of the other, ensuring the continuation of regeneration. To comprehensively address their cooperative and somewhat redundant roles during regeneration, a combined approach for the deletion of both pathways may be necessary.
+
+In general, liver regeneration seems to be guided by significant signaling redundancy, which plays a critical role in inducing hepatocyte proliferation. Additionally, when all else fails, other cell types, such as **oval cells**, can step in to restore hepatocytes. Oval cells, also known as facultative hepatic progenitors or transient amplifying progenitor cells, originate from mature epithelial cells in the liver based on the specific repair requirements. Therefore, in various forms of hepatic injury, a combination of molecular signaling and cellular redundancy ensures the repair and overall well-being of this vital organ.
+
+
+
+# References
+
+1. [Apolipoprotein A-1 Accelerated Liver Regeneration Through Regulating Autophagy Via AMPK-ULK1 Pathway](https://doi.org/10.1016/j.jcmgh.2023.12.004)
+2. [Phosphatidic acid-enabled MKL1 contributes to liver regeneration: Translational implication in liver failure](https://doi.org/10.1016/j.apsb.2023.10.011)
+3. [Ubiquitin specific peptidase 47 contributes to liver regeneration](https://doi.org/10.1016/j.lfs.2023.121967)
+4. [Role of the portal system in liver regeneration: From molecular mechanisms to clinical management](https://doi.org/10.1016/j.livres.2024.01.002)
+5. [Balance of Gata3 and Ramp2 in hepatocytes regulates hepatic vascular reconstitution in postoperative liver regeneration](https://doi.org/10.1016/j.jhep.2023.10.016)
+6. [Modulation of liver regeneration by the nuclear factor erythroid 2-related factor 2](https://doi.org/10.1016/j.arres.2023.100066)
+7. [Signaling pathways of liver regeneration: Biological mechanisms and implications](https://doi.org/10.1016/j.isci.2023.108683)
+8. [A liver digital twin for in silico testing of cellular and inter-cellular mechanisms in regeneration after drug-induced damage](https://doi.org/10.1016/j.isci.2023.108077)
+9. [Is liver regeneration key in hepatocellular carcinoma development?](https://doi.org/10.1016/j.trecan.2022.10.005)
+10. [Monoacylglycerol lipase reprograms hepatocytes and macrophages to promote liver regeneration](https://doi.org/10.1016/j.jhepr.2023.100794)
