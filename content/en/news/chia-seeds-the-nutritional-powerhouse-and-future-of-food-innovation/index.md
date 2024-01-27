@@ -81,9 +81,13 @@ The versatility of chia seeds in culinary applications further adds to their app
 
 Chia seeds stand out not only for their protein content but also for being a rich source of essential minerals, vitamins, and phytochemicals, making them a nutrient powerhouse. The mineral content in chia seeds is particularly impressive, boasting a range of 4–6% by dry weight. This includes notably high levels of calcium, with chia seeds containing up to six times more calcium than milk, a traditional calcium-rich food. Additionally, chia seeds offer 1.6 times more iron than chickpeas, making them an excellent source of this vital mineral, especially for individuals following plant-based diets.
 
-Beyond minerals, chia seeds are also a valuable source of vitamins, including vitamin A, B, K, E, and D. These vitamins play various roles in the body, from supporting immune function to maintaining healthy skin and bones. The presence of such a diverse range of vitamins enhances the overall nutritional profile of chia seeds.
+|Influence of Dietary Fiber, Micronutrients, and Phytonutrients on the Gut Microbiota|
+|---|
+|![effects](/news/chia-seeds-the-nutritional-powerhouse-and-future-of-food-innovation/phyto.png)|
 
-Phytochemicals, another key component of chia seeds, include polyphenols and sterols. These compounds are known for their antioxidant properties, which can help protect the body against oxidative stress and inflammation, reducing the risk of chronic diseases. The variety and richness of these nutrients not only make chia seeds a superfood but also contribute to their growing popularity as a functional food ingredient in health-conscious diets. Their inclusion in daily nutrition can significantly contribute to meeting various dietary requirements, offering a compact and versatile solution to nutrient intake.
+Beyond minerals, chia seeds are also a valuable source of vitamins, including vitamin [A](https://en.wikipedia.org/wiki/Vitamin_A), [B](https://en.wikipedia.org/wiki/B_vitamins), [K](https://en.wikipedia.org/wiki/Vitamin_K), [E](https://en.wikipedia.org/wiki/Vitamin_E), and [D](https://en.wikipedia.org/wiki/Vitamin_D). These vitamins play various roles in the body, from supporting immune function to maintaining healthy skin and bones. The presence of such a diverse range of vitamins enhances the overall nutritional profile of chia seeds.
+
+Phytochemicals, another key component of chia seeds, include [polyphenols](https://en.wikipedia.org/wiki/Polyphenol) and [sterols](https://en.wikipedia.org/wiki/Sterol). These compounds are known for their antioxidant properties, which can help protect the body against oxidative stress and inflammation, reducing the risk of chronic diseases. The variety and richness of these nutrients not only make chia seeds a superfood but also contribute to their growing popularity as a functional food ingredient in health-conscious diets. Their inclusion in daily nutrition can significantly contribute to meeting various dietary requirements, offering a compact and versatile solution to nutrient intake.
 
 # Analysis of Bioactive Components and Effects
 
