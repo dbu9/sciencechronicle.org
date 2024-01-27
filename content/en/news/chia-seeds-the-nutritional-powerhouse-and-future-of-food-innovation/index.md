@@ -18,6 +18,10 @@ Moreover, chia protein's appeal is heightened by its versatility in various food
 
 The digestibility and nutritional efficacy of chia seed protein are influenced not only by its intrinsic properties but also by external factors such as the geographical location where the seeds are grown and the processing methods employed. Variations in soil composition, climate, and farming practices across different growing regions can lead to noticeable differences in the nutrient profile of chia seeds. This, in turn, affects how the body processes and absorbs these nutrients. The protein content, as well as the quality of amino acids and other bioactive compounds in chia seeds, might vary depending on these environmental factors.
 
+|A chia field under storm weather|
+|---|
+|![digestion profiles](/news/chia-seeds-the-nutritional-powerhouse-and-future-of-food-innovation/field.webp)|
+
 Furthermore, the processing techniques applied to chia seeds can significantly impact their digestibility and nutritional quality. Methods like milling, heating, or chemical treatments can alter the protein structure, affecting its digestibility and the body's ability to utilize its amino acids effectively. Such processing can also influence the release of bioactive compounds, which play a crucial role in the seeds' health-promoting properties.
 
 This interplay of growing conditions and processing techniques underscores the complexity of food science and nutrition. It highlights the need for a nuanced understanding of how various factors contribute to the nutritional profile and health benefits of plant-based proteins like those found in chia seeds. As the demand for nutritious, plant-based foods grows, understanding these dynamics becomes increasingly important for maximizing the health benefits of these food sources.
@@ -26,6 +30,11 @@ This interplay of growing conditions and processing techniques underscores the c
 
 The gastrointestinal fate of chia seed protein components, such as degummed-defatted flour (DDF), protein concentrate (PC), and isolated [albumin]({{< ref "#references" >}}) (Alb) and [globulin]({{< ref "#references" >}}) (Glo) fractions, plays a pivotal role in their nutritional impact. Each of these components undergoes a distinct digestion process in the gastrointestinal tract, which significantly influences their bioavailability and efficacy as a nutrient source. The DDF, obtained by removing gums and fats from chia seeds, presents a different digestion profile compared to more concentrated forms like PC, Alb, and Glo. These variations are due to differences in their composition and structural properties.
 
+|Digestion profiles of carbohydrate ingredients as measured by in vitro kinetic enzymatic hydrolysis. Maltose is a sugar standard. Means are shown with ± standard error of the mean. IMO isomaltooligosaccharide|
+|---|
+|![digestion profiles](/news/chia-seeds-the-nutritional-powerhouse-and-future-of-food-innovation/profiles.png)|
+
+
 Protein concentrates, which are more refined, often show enhanced digestibility due to the removal of other components that may hinder enzyme access. In contrast, Alb and Glo, being isolated protein fractions, offer a more specific insight into how individual protein types from chia seeds behave during digestion. The way these proteins break down into peptides and amino acids, and how they are subsequently absorbed, is critical to understanding their potential health benefits.
 
 Studying the gastrointestinal digestion of these various chia seed components not only sheds light on their nutritional value but also helps in formulating them effectively for use in food products. By understanding their digestion patterns, it becomes possible to tailor these components to enhance their bioavailability, making them more effective as functional ingredients in various dietary contexts.
@@ -33,6 +42,10 @@ Studying the gastrointestinal digestion of these various chia seed components no
 # Comparative Analysis of Antioxidant and Anti-inflammatory Activities
 
 The bioactivity of chia seed protein, particularly its antioxidant and anti-inflammatory properties, has garnered significant interest in nutritional science. The digestion of chia protein leads to the formation of various peptides and amino acids, which play a crucial role in modulating the body’s oxidative and inflammatory responses. The antioxidant activity of these digested protein components is critical in combating oxidative stress, a key factor in the development of chronic diseases and aging. These protein derivatives can neutralize reactive oxygen species (ROS), thereby protecting cells from damage caused by oxidative stress.
+
+|Early changes in a human venule involved in an acute inflammatory response. PMNs are “marginating” along the endothelial surface of a venule preparatory to their migrating into the extravascular space due to their adhesion to endothelial surfaces.|
+|---|
+|![inflammation](/news/chia-seeds-the-nutritional-powerhouse-and-future-of-food-innovation/inf.png)|
 
 Moreover, the anti-inflammatory properties of chia protein digestion products are equally important. Inflammation is a natural response of the body to injury or infection, but chronic inflammation is linked to numerous health issues including heart disease, diabetes, and arthritis. The anti-inflammatory effects of chia protein can help in mitigating such conditions, potentially reducing the risk of chronic disease development.
 
