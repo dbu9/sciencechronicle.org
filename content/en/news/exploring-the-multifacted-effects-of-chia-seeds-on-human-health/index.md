@@ -17,7 +17,7 @@ Research in this area often involves integrating chia seeds into a food matrix t
 
 Delving into the realm of nutritional science often requires meticulous experimentation, particularly when assessing the physiological impacts of dietary components like chia seeds. A robust approach to such investigation involves a randomized, double-blind, crossover study design, which is revered for its ability to minimize biases and ensure the reliability of results. In this design, participants serve as their own control, receiving various interventions in a random order over multiple sessions. This method allows for direct comparison of the effects of different levels of an ingredient, such as chia seeds, within the same individual's diet.
 
-For a study focused on the postprandial effects of chia seeds, participants are typically provided with standardized meals incorporating the ingredient in question—in this case, cookies laced with specific amounts of chia seeds. By carefully varying the quantity of chia seeds, researchers can observe changes in physiological responses that occur after consumption. Such studies are critical for unpacking the complexities of how minor dietary alterations can influence factors like blood glucose levels and subjective feelings of appetite. The crossover study design is particularly well-suited to nutrition research, where individual metabolic differences can profoundly affect outcomes, and controlling for these differences is essential for obtaining clear insights.
+For a study focused on the [postprandial effects](https://en.wikipedia.org/wiki/Prandial) of chia seeds, participants are typically provided with standardized meals incorporating the ingredient in question—in this case, cookies laced with specific amounts of chia seeds. By carefully varying the quantity of chia seeds, researchers can observe changes in physiological responses that occur after consumption. Such studies are critical for unpacking the complexities of how minor dietary alterations can influence factors like blood glucose levels and subjective feelings of appetite. The [crossover study design](https://en.wikipedia.org/wiki/Crossover_study) is particularly well-suited to nutrition research, where individual metabolic differences can profoundly affect outcomes, and controlling for these differences is essential for obtaining clear insights.
 
 # Primary Endpoints
 
@@ -40,9 +40,9 @@ The relationship between the ingestion of these functional ingredients and the s
 
 Research in this area is particularly nuanced when it involves ingredients that are thought to affect satiety but do not produce a linear response across different dosages. For example, a moderate quantity of an ingredient might enhance the feeling of fullness, while a smaller or larger dose may not yield the same effect. This non-linear response can be attributed to the body's complex digestive and hormonal responses to food intake, which can vary with the amount and type of food consumed.
 
-The interplay between the composition of food, the amount consumed, and the resulting subjective appetite ratings is an intricate one. The digestive process, beginning from the mechanical breakdown of food in the mouth to the absorption of nutrients in the gut, triggers a cascade of hormonal signals that communicate with the brain to regulate feelings of hunger and satiety. These signals are influenced by the nutrient profile of the food, including its fiber content, macronutrient composition, and energy density.
+The interplay between the composition of food, the amount consumed, and the resulting subjective appetite ratings is an intricate one. The [digestive process](https://en.wikipedia.org/wiki/Human_digestive_system), beginning from the mechanical breakdown of food in the mouth to the absorption of nutrients in the gut, triggers a cascade of hormonal signals that communicate with the brain to regulate feelings of hunger and satiety. These signals are influenced by the nutrient profile of the food, including its fiber content, macronutrient composition, and energy density.
 
-Investigating these effects is particularly important for the development of foods that can assist with appetite control. By understanding how specific quantities of an ingredient affect hunger and fullness, food scientists and nutritionists can design dietary strategies that help maintain satiety, manage caloric intake, and potentially influence body weight regulation.
+Investigating these effects is particularly important for the development of foods that can assist with [appetite](https://en.wikipedia.org/wiki/Appetite) control. By understanding how specific quantities of an ingredient affect hunger and fullness, food scientists and nutritionists can design dietary strategies that help maintain satiety, manage caloric intake, and potentially influence body weight regulation.
 
 
 # Glycaemic Response
@@ -134,5 +134,4 @@ In conclusion, the integrity of scientific research, particularly in fields impa
 
 1. [Chia seeds (Salvia hispanica L.), incorporated into cookies, reduce
 postprandial glycaemic variability but have little or no effect on
-subjective appetite by Thomas M.S. Wolever a, * , Janice E. Campbell a , Fei Au-Yeung a , El Hadji M. Dioum b ,
-Varsha Shete b , YiFang Chu](https://www.sciencedirect.com/science/article/pii/S1756464623004061?via%3Dihub)
+subjective appetite](https://www.sciencedirect.com/science/article/pii/S1756464623004061?via%3Dihub)
