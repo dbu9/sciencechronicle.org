@@ -1,6 +1,6 @@
 ---
 title: "Exploring the World of Berries: Health Benefits and Popular Varieties in North America"
-description: ""
+description: "Explore the myriad health benefits of North America's native superfruits, including blueberries, bilberries, and cranberries, and learn how these tiny powerhouses can contribute to a healthier lifestyle with their exceptional nutritional profiles."
 date: 2024-01-28T10:29:08.142Z
 draft: false
 tags: [health, nutriceuticals]
@@ -193,3 +193,7 @@ Acai pulp is rich in nutrients, with lipids forming 50% and proteins about 10% o
 14. [Differential response of blueberry to the application of bacterial inoculants to improve yield, organoleptic qualities and concentration of bioactive compounds](https://doi.org/10.1016/j.micres.2023.127544)
 15. [Structural characterization, antioxidant and antibacterial activity of three pectin polysaccharides from blueberry](https://doi.org/10.1016/j.ijbiomac.2024.129707)
 16. [Enhancement of pyranoanthocyanin formation in blueberry wine with non-Saccharomyces yeasts](https://doi.org/10.1016/j.foodchem.2023.137956)
+17. [The impact of oral sea-buckthorn oil on skin, blood markers, ocular, and vaginal health: A randomized control trial](https://doi.org/10.1016/j.jff.2023.105973)
+18. [Sea buckthorn: A Potential Dietary supplement with multifaceted therapeutic activities](https://doi.org/10.1016/j.ipha.2023.12.003)
+19. [The difference of flavonol glycosides in cultivated and wild sea buckthorn berries in China](https://doi.org/10.1016/j.jfca.2023.105912)
+20. [Comprehensive untargeted lipidomic analysis of sea buckthorn using UHPLC-HR-AM/MS/MS combined with principal component analysis](https://doi.org/10.1016/j.foodchem.2023.136964)
