@@ -2,8 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ScienceChronicle.org/en/tags/biology/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/chia/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/chia-food/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/chia-s/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/chia-seeds-and/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/chia-seeds-fiber/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/chia-seeds-for-weight-loss/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/chia-seeds-omega-3/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/chia-seeds-protein/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/chia-seeds-decoding-the-superfood--real-impact-on-health/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/chiaseeds/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/health/</loc>
-    <lastmod>2024-01-27T10:44:20+00:00</lastmod>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/news/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
+    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/"
+                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/liver/</loc>
     <lastmod>2024-01-27T10:44:20+00:00</lastmod>
@@ -17,19 +89,6 @@
     <loc>https://www.ScienceChronicle.org/en/tags/liver-regeneration-medicine/</loc>
     <lastmod>2024-01-27T10:44:20+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/</loc>
-    <lastmod>2024-01-27T10:44:20+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/news/"
-                />
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/regenerative-liver/</loc>
     <lastmod>2024-01-27T10:44:20+00:00</lastmod>
   </url><url>
@@ -39,40 +98,11 @@
     <loc>https://www.ScienceChronicle.org/en/tags/regenerative-therapy/</loc>
     <lastmod>2024-01-27T10:44:20+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-01-27T10:44:20+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/"
-                />
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/stem-cell-regenerative-medicine/</loc>
     <lastmod>2024-01-27T10:44:20+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-01-27T10:44:20+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/tags/"
-                />
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/unveiling-the-livers-remarkable-regenerative-prowess/</loc>
     <lastmod>2024-01-27T10:44:20+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/chia/</loc>
-    <lastmod>2024-01-26T15:48:33+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/chia-seeds/</loc>
     <lastmod>2024-01-26T15:48:33+00:00</lastmod>
@@ -197,9 +227,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/science-of-asmr/</loc>
     <lastmod>2024-01-25T23:41:44+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/biology/</loc>
-    <lastmod>2024-01-25T17:48:53+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/bone-health/</loc>
     <lastmod>2024-01-25T17:48:53+00:00</lastmod>
@@ -2850,15 +2877,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/puzzles-increase-cognitive-abilities-in-all-ages/</loc>
     <lastmod>2023-05-18T10:52:46+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/cardiology/</loc>
-    <lastmod>2023-05-18T10:51:45+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/dedifferentiation-technique-shows-promise-for-repairing-damaged-heart-tissue/</loc>
-    <lastmod>2023-05-18T10:51:45+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/tissue-engineering/</loc>
-    <lastmod>2023-05-18T10:51:45+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/sustainability/</loc>
     <lastmod>2023-05-18T10:51:02+00:00</lastmod>

@@ -3,7 +3,7 @@ title: "Chia Seeds: The Nutritional Powerhouse and Future of Food Innovation"
 description: "Discover the nutritional powerhouse of chia seeds and their role in health promotion and food innovation. Learn how these tiny seeds are shaping modern dietary trends with their rich, variable nutritional profile."
 date: 2024-01-26T15:48:33.996Z
 draft: false
-tags: [health, medicine, chia, nutriceutical, nutrition, chia, chia seeds]
+tags: [health, medicine, chia, nutriceutical, nutrition, chia, chia seeds, chia seeds omega 3, chiaseeds, chia seeds fiber,chia seeds protein, chia seeds for weight loss, chia seeds and, chia s, chia food ]
 thumbnail: "/news/chia-seeds-the-nutritional-powerhouse-and-future-of-food-innovation/thumb.png"
 ---
 
