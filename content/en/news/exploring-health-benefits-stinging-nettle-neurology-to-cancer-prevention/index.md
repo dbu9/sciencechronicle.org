@@ -112,3 +112,39 @@ Moreover, the soup's base ingredient, stinging nettle, has anti-inflammatory pro
 Stinging nettle soup might also offer benefits for those with allergies, as the plant has been used traditionally to alleviate allergic symptoms. For those managing blood sugar levels, the hypoglycemic effects of stinging nettle could be advantageous.
 
 In terms of preparation, the cooking process can help neutralize the stinging hairs of the plant, making it safe and pleasant to consume. This traditional dish can be a nutritious addition to a balanced diet, offering a unique blend of flavors and health benefits.
+
+# Frequently Asked Questions
+
+### What is Stinging Nettle?
+*Stinging nettle is a plant known for its therapeutic properties, including effects on the nervous system, cardiovascular health, and potential in diabetes and cancer treatment.*
+
+### How Does Stinging Nettle Benefit the Nervous System?
+*It has adaptogenic properties that may positively impact neurological disorders.*
+
+### Can Stinging Nettle Improve Cardiovascular Health?
+*Yes, it has vasodilatory effects and may help lower blood pressure.*
+
+### Does Stinging Nettle Have Anti-Inflammatory Properties?
+*Yes, it's known to reduce inflammation, beneficial for conditions like arthritis.*
+
+### Is Stinging Nettle Beneficial for Diabetics?
+*It shows potential in managing blood glucose levels and enhancing insulin secretion.*
+
+### Can Stinging Nettle Prevent Cancer?
+*Initial research suggests it might have anticancer properties, especially against prostate and breast cancer.*
+
+### What Nutrients Are Found in Stinging Nettle?
+*It contains vitamins A, C, K, calcium, iron, and magnesium.*
+
+### Is Stinging Nettle Effective Against Allergies?
+*Traditionally, it's been used to alleviate allergic symptoms.*
+
+### Does Stinging Nettle Have Diuretic Effects?
+*Yes, it can aid in detoxification and urinary health.*
+
+### How is Stinging Nettle Prepared for Consumption?
+*Cooking stinging nettle neutralizes its stinging hairs, making it safe to eat.*
+
+# References
+
+1. [Screening of pharmacological uses of Urtica dioica and others benefits](https://doi.org/10.1016/j.pbiomolbio.2019.05.008)
