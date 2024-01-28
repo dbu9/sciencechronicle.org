@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ScienceChronicle.org/en/news/exploring-the-world-of-berries-health-benefits-and-popular-varieties-in-north-america/</loc>
+    <lastmod>2024-01-28T10:29:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/health/</loc>
+    <lastmod>2024-01-28T10:29:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/</loc>
+    <lastmod>2024-01-28T10:29:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/news/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/nutriceuticals/</loc>
+    <lastmod>2024-01-28T10:29:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/</loc>
+    <lastmod>2024-01-28T10:29:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
+    <lastmod>2024-01-28T10:29:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/"
+                />
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/biology/</loc>
     <lastmod>2024-01-28T00:48:53+00:00</lastmod>
   </url><url>
@@ -34,48 +82,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/chiaseeds/</loc>
     <lastmod>2024-01-28T00:48:53+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/health/</loc>
-    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/</loc>
-    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/news/"
-                />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/"
-                />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-01-28T00:48:53+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/tags/"
-                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/liver/</loc>
     <lastmod>2024-01-27T10:44:20+00:00</lastmod>
