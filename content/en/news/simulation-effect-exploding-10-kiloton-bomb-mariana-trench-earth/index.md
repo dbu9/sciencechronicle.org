@@ -17,6 +17,10 @@ The Mariana Trench is a crescent-shaped trench in the western Pacific Ocean and 
 
 The simulation used advanced computer modeling techniques to simulate the detonation of a 10 kiloton bomb in the Mariana Trench. The research team used data on the physical characteristics of the trench and surrounding areas, as well as information on the effects of explosions on different environments.
 
+|Destruction of the civilization|
+|---|
+|![tsunami](/news/simulation-effect-exploding-10-kiloton-bomb-mariana-trench-earth/cities.webp)
+
 The simulation found that the explosion would cause a massive shockwave that would ripple through the Earth's oceans, causing incredible damage to marine life and ecosystems. The shockwave would cause large sections of the ocean floor to shatter and collapse, releasing massive amounts of heat and energy into the water. This would be followed by a massive tsunami that would sweep across the Pacific Ocean, wreaking havoc on coastal communities and cities.
 
 |A massive tsunami|
