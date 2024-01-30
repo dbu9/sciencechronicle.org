@@ -1,7 +1,7 @@
 ---
 title: "Chia Seeds Found to Contain Compounds Similar to Nootropic Racetams"
 description: "A new study from Stockholm University has found that chia seeds contain compounds similar to nootropic racetams, suggesting potential cognitive-enhancing effects. Learn more about the study's findings here."
-date: 2023-06-04T18:06:38.044Z
+date: 2024-01-29T18:06:38.044Z
 draft: false
 tags: [chia, nootropics, racetams,nutraceuticals, chia seeds, nootropic agents, memory booster, memory enhancer, intelligence enhancer, what to eat before exam, enhance cognitive skills, cognitive abilities]
 thumbnail: "/news/chia-seeds-compounds-nootropic-racetams/thumb.webp"
