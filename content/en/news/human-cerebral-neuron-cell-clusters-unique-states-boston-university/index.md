@@ -19,6 +19,6 @@ Understanding these unique states may lead to practical applications in treating
 
 In conclusion, Boston University's research on human cerebral neuron cell clusters highlights the complex and dynamic nature of the brain's function. By achieving unique states that differentiate them from other brain cells, these clusters can perform functions specific to their cluster, which has significant implications for neuroscience and treating neurological disorders. 
 
-# References 
+## References 
 1. Boston University. (2023, May 8). Human cerebral neuron cell clusters can attain special states specific to that cluster only. [Press release]. 
 2. Kim, S., Wu, Q., & Zhang, L. (2023). Neuron cluster-specific functional states in the human cerebral cortex. Journal of Neuroscience, 43(19), 874-885.

@@ -22,7 +22,8 @@ While the technology is still in its early stages, the development of functional
 Professor Smith said, "This breakthrough marks a major milestone in the field of regenerative medicine. The ability to produce functional organs through 3D bioprinting has the potential to transform the lives of millions of people worldwide." The next step for the team is to refine the printing process and further test the functionality of the synthetic liver. The technology could ultimately be used to develop synthetic organs for a range of conditions, including heart disease, lung disease, and kidney failure.
 
 
-References: 
-1) "3D Bioprinting of Functional Human Liver Tissue for Transplantation and Drug Testing." Advanced Materials, June 6, 2023.
-2) "3D Bioprinting Technology and Its Application in Regenerative Medicine." Frontiers in Bioengineering and Biotechnology, 2019.
-3) "Manufacturing Human Organs: The Emergence of 3D Bioprinting." IEEE Pulse, 2018.
+# References
+
+1. "3D Bioprinting of Functional Human Liver Tissue for Transplantation and Drug Testing." Advanced Materials, June 6, 2023.
+2. "3D Bioprinting Technology and Its Application in Regenerative Medicine." Frontiers in Bioengineering and Biotechnology, 2019.
+3. "Manufacturing Human Organs: The Emergence of 3D Bioprinting." IEEE Pulse, 2018.

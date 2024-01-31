@@ -17,6 +17,6 @@ This study's findings highlight chia seeds' potential in addressing obesity-rela
 
 In conclusion, this research contributes to our understanding of chia seeds' health benefits, particularly in the context of diet-induced obesity. As obesity and related health issues continue to rise globally, dietary interventions like chia seeds offer a natural and effective way to combat these challenges.
 
-# References
+## References
 
 Rafaela da Silva Marineli et al., "Chia (Salvia hispanica L.) enhances HSP PGC-1α expressions and improves glucose tolerance in diet-induced obese rats," Nutrition, 2015. [Source](https://doi.org/10.1016/j.nut.2014.11.009)

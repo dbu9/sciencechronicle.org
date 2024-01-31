@@ -22,5 +22,5 @@ The inactivation process involves CO release, reversing electron movement and le
 
 DFMO has shown high efficacy in treating African sleeping sickness caused by Trypanosoma brucei gambiense. Such methods hold significant potential for treating a variety of diseases, illustrating the promise of drug design based on enzyme mechanism and structure, a supplement to traditional trial-and-error pharmaceutical development approaches.
 
-# References
+## References
 1. [Treatment of gambiense sleeping sickness in the Sudan with oral DFMO (DL-α-difluoromethylornithine), an inhibitor of ornithine decarboxylase; first field trial](https://doi.org/10.1016/0035-9203(85)90195-6)

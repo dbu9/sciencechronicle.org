@@ -24,7 +24,7 @@ The research is also attracting interest from the philosophical and psychologica
 
 Overall, this study represents a major breakthrough in our understanding of the mind's ability to control pain. It opens up new avenues for research, for treatment, and for personal growth. The findings of this study will no doubt generate a lot of debate and discussion in the coming months and years.
 
-Sources:
+# Sources
 
 1. "Brain mechanisms supporting the modulation of pain by mindfulness meditation". 
 2. "Mindfulness practices and pain: A primer for clinicians".

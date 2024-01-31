@@ -30,7 +30,7 @@ The researchers are now investigating the prevalence of pSA-03 in other clinical
 
 The study was published in the [journal Antimicrobial Agents and Chemotherapy](https://journals.asm.org/journal/aac).
 
-# References
+## References
 
 1. Schmidt, A., Hammerl, J. A., Kock, R., &amp; Hertwig, S. (2023). Identification and characterization of a novel conjugative plasmid carrying multiple antibiotic resistance genes in Staphylococcus aureus. Antimicrobial Agents and Chemotherapy, AAC02140-23. doi: 10.1128/aac.02140-23
 2. Plasmids. (2022, November 19). In Wikipedia. https://en.wikipedia.org/wiki/Plasmid

@@ -21,7 +21,7 @@ In addition, the researchers have been exploring the use of lipid-based nanopart
 
 Overall, the use of nanomaterials for targeted cancer imaging and therapy has shown great potential for improving the diagnosis and treatment of cancer. The researchers at Peking University are continuing to optimize the design and synthesis of nanomaterials and to investigate their safety and efficacy in preclinical and clinical studies. They hope that their work will contribute to the development of nanomedicine and personalized cancer treatment.
 
-References:
+## References
 
 1. Chen, Q., Xu, L., Liang, C., Wang, C., Peng, R., & Liu, Z. (2018). Photothermal therapy with immune-adjuvant nanoparticles together with checkpoint blockade for effective cancer immunotherapy. Nature communications, 9(1), 1-14.
 

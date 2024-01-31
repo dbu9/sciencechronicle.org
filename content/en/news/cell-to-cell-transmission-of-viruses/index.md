@@ -17,6 +17,6 @@ Previously, it was assumed that viruses spread to adjacent cells solely through 
 
 Why is cell-to-cell transmission advantageous? It allows viruses to spread directly to adjacent uninfected cells through contact, bypassing diffusion. More crucially, viruses in this transmission mode are shielded from neutralizing antibodies. This was discovered in experiments exploring viral transmission that is resistant to neutralizing antibodies. Interestingly, cell-to-cell transmission has only been observed in enveloped viruses, not in non-enveloped viruses. This might be because non-enveloped viruses, which release a large number of virions suddenly during cell lysis, don't benefit from cell-to-cell transmission.
 
-# References
+## References
 1. [Cell-to-cell transmission of viruses](https://doi.org/10.1016/j.coviro.2012.11.004)
 2. [Virus cell-to-cell transmission](https://doi.org/10.1128/jvi.00443-10)

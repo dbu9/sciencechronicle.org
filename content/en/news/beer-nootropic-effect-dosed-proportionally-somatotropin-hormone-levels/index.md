@@ -15,7 +15,7 @@ Interestingly, the study also found that excessive consumption of beer could lea
 
 The findings of this study have significant implications for the future of cognitive enhancement methods. While further research is needed to confirm these findings and establish safe dosage ranges, this study opens up a new avenue for exploring the potential benefits of beer consumption on cognitive functioning and brain health.
 
-References:
+# Reference
 1. Doe J, Smith J. "The Effects of Beer on Cognitive Functioning: A Study on the Relationship between Somatotropin Hormone Levels and Beer Dosage." Journal of Neuroscience. 2023; 25(3):58-63.
 2. Roe C, Jones B, Willis K. "The Effects of Moderate Beer Consumption on Cognitive Functioning in Healthy Adults." Alcohol and Alcoholism. 2023; 38(2):132-137.
 3. Brown L, Green P. "Beer and Brain Health: A Review of the Current Literature." Journal of Psychopharmacology. 2023; 18(4):257-262.

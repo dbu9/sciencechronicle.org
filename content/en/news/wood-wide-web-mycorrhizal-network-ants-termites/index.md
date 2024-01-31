@@ -19,7 +19,7 @@ The researchers believe that the disturbance caused by ants and termites trigger
 
 The findings of this research have important implications for the conservation of forests and other ecosystems. The wood wide web is a vital component of these systems, and its disruption can have cascading effects on the entire ecosystem. By understanding how the network responds to various disturbances, we can develop better strategies for its conservation and restoration.
 
-# References
+## References
 
 1. [Common mycorrhizal networks provide a potential pathway for the transfer of hydraulically lifted water between plants](http://dx.doi.org/10.1093/jxb/erm009)
 2. [Earthworms as conveyors of mycorrhizal fungi in soils](https://doi.org/10.1016/j.soilbio.2023.109283)

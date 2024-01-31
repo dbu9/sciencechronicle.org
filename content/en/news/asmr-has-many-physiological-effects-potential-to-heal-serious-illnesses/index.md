@@ -15,7 +15,7 @@ The study also investigated the individual responses to different ASMR triggers,
 
 ASMR has been a topic of interest for several years, with countless videos on social media platforms designed to induce the sensation. However, this research sheds light on the legitimate physiological effects of ASMR and its potential as a therapy tool. 
 
-# References 
+## References 
 
 1. [Does ASMR propensity reflect a mentally flexible mindset? Exploring the relationship between ASMR propensity, transliminality, emotional contagion, schizotypal traits, roleplaying ability, and creativity](https://doi.org/10.1016/j.concog.2023.103546)
 2. [The effects of Autonomous Sensory Meridian Response (ASMR) videos on arousal and mood in adults with and without depression and insomnia](https://doi.org/10.1016/j.jad.2021.12.015)

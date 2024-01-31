@@ -31,7 +31,7 @@ The mutations in BS also share similarities with those in the PYPAF1 gene, linke
 
 Recent theories propose that bacterial components might inhibit CARD15/NOD2, blending the findings from CD and BS research. This underscores the complexity of studying IBD and similar genetic disorders, which involve multiple interacting factors. Even after identifying three genes susceptible to IBD using positional cloning techniques, the challenge remains to connect these genetic insights to a comprehensive disease mechanism model.
 
-### References
+## References
 
 * Brant, S. R., Panhuysen, C. I., Nicolae, D. et al. (2003). MDR1 Ala893 polymorphism is associated with inflammatory bowel disease. AmJ Hum Genet, 73, 1282–92.
 * Bridger, S., Lee, J. C., Bjarnason, I., Jones, J. E. and Macpherson, A. J. (2002). In siblings with similar genetic susceptibility for inflammatory bowel disease, smokers tend to develop Crohn’s disease and non-smokers develop ulcerative colitis. Gut, 51, 21–5.

@@ -21,6 +21,6 @@ The next step for Dr. Smith and his team is to investigate the effectiveness of 
 
 This study is just one example of the exciting developments in cancer research currently taking place. Scientists around the world are working tirelessly to find new ways to treat cancer and improve patient outcomes. Adiponectin down-regulating CREB and inhibiting proliferation of A549 lung cancer cells is a step in the right direction, and we look forward to seeing how this research develops in the coming years.
 
-# References
+## References
 
 1. 

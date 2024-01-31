@@ -19,7 +19,7 @@ The study also found that bees engage in a variety of other social engineering t
 
 The researchers hope that these findings will lead to a greater understanding of the complex social interactions that occur within bee colonies and how these interactions can be manipulated to improve the health and survival of bee populations."
 
-# References
+## References
 
 1. [How flies respond to honey bee pheromone: the role of the foraging gene on reproductive response to queen mandibular pheromone](https://link.springer.com/article/10.1007/s00114-013-1125-3)
 2. [Honey bee pheromones: Field tests of natural and artificial queen substance](https://link.springer.com/article/10.1007/BF00987726)

@@ -19,7 +19,7 @@ However, for those looking to kickstart their weight loss journey or lose weight
 
 Overall, the Liverpool University study provides an interesting insight into the potential benefits of a beer-only diet for weight loss. While it is not necessarily a healthy or sustainable approach to dieting, it could be a useful tool for those struggling with obesity or looking to lose weight quickly. As with any weight loss plan, it is crucial to do your research and seek professional advice before making any drastic changes to your diet or lifestyle.
 
-# References
+## References
 
 1. [What Contribution Is Beer to the Intake of Antioxidants in the Diet?](https://doi.org/10.1016/B978-0-12-373891-2.00042-0)
 2. [Beer: Beneficial Aspects and Contribution to the Mediterranean Diet](https://doi.org/10.1016/B978-0-12-407849-9.00015-4)

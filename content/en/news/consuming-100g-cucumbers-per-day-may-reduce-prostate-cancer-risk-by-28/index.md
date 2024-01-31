@@ -23,7 +23,7 @@ The researchers are now calling for more studies to be carried out to confirm th
 
 In the meantime, however, there is no harm in adding a portion of cucumber to your diet each day. It could be as simple as slicing some cucumber into your salad or sandwich, or adding it to your daily smoothie. With the potential to reduce the risk of such a serious disease, it is certainly worth a try.
 
-# References
+## References
 
 1. Inactivation of ATP citrate lyase by Cucurbitacin B: A bioactive compound from cucumber, inhibits prostate cancer growth (https://doi.org/10.1016/j.canlet.2014.03.015)
 2. Phytochemical and therapeutic potential of cucumber (https://doi.org/10.1016/j.fitote.2012.10.003)

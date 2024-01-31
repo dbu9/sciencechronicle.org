@@ -27,7 +27,8 @@ The team's work has been incredibly promising, and they are hopeful that their r
 
 "Our goal is to create prosthetics that can truly restore function to people who have lost it," Ishiguro says. "We believe that our research can help to make that a reality." 
 
-References: 
+## References
+ 
 1. "Development of Neuroprosthetics with a Natural Sensory Feedback," University of Tokyo, June 12, 2023. 
 2. Wolfe, J., & Atry, F. (2023). Beyond the Motor: Advances in Restoring Sensory Function with Neuroprosthetics. Cell Stem Cell, 32(6), 720-736. 
 3. Wendel, B., & Krueger, J. (2023). Restoring Natural Sensory Feedback in Neuroprosthetics. Scientific American, 328(6), 90-95.

@@ -19,5 +19,5 @@ Chia seeds' benefits extend beyond lipid management. Their high fiber content ai
 
 In conclusion, while chia seeds are no magic bullet, their inclusion in a balanced diet, particularly for women, offers a promising avenue for heart health. As we navigate through a plethora of dietary advice, the humble chia seed stands out for its simplicity and effectiveness, a true testament to the adage, "good things come in small packages."
 
-# References
+## References
 [Plasma lipid lowering effect by a novel chia seed based nutraceutical formulation](https://doi.org/10.1016/j.jff.2018.01.007)

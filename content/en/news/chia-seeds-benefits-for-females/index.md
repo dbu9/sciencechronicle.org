@@ -23,7 +23,7 @@ It's important to note that while chia seeds offer numerous health benefits for 
 
 The research conducted at the Albert Einstein College of Medicine has shed light on the many potential benefits of chia seeds for female health. From supporting hormonal balance to protecting against certain cancers and promoting bone health, chia seeds are a valuable addition to a woman's diet. With their rich nutrient profile and versatility in cooking, chia seeds are certainly worth considering for any woman looking to optimize her health and well-being.
 
-# References
+## References
 
 1. [Nutritional, phytochemical and therapeutic potential of chia seed (Salvia hispanica L.). A mini-review](https://doi.org/10.1016/j.fhfh.2021.100010)
 2. [Effects of chia (Salvia hispanica L.) on calcium bioavailability and inflammation in Wistar rats](https://doi.org/10.1016/j.foodres.2018.08.078)

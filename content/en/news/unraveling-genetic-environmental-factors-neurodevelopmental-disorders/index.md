@@ -23,7 +23,7 @@ Taken together, these findings suggest that neurodevelopmental disorders are cau
 
 Moving forward, Dr. Smith and her team plan to continue their research, with a particular focus on understanding how different genetic mutations and environmental risk factors interact with one another. They also hope to explore new treatment approaches that take a more holistic view of these disorders, addressing both genetic and environmental causes.
 
-References: 
+# References 
 
 1. Smith, J., et al. (2023). Unraveling the complex genetics and environmental factors contributing to neurodevelopmental disorders. Journal of Neurodevelopmental Disorders, 5(1), 1-15. 
 2. National Institute of Environmental Health Sciences. (n.d.). Neurodevelopmental disorders. Retrieved from https://www.niehs.nih.gov/health/topics/conditions/developmental/index.cfm

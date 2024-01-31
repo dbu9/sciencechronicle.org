@@ -17,7 +17,7 @@ In addition to changes in temperature and precipitation, climate change is also 
 
 Despite these worrying trends, there is still hope for the future of biodiversity and ecosystems. By taking action to reduce greenhouse gas emissions and protect habitats, we can help to mitigate the worst impacts of climate change and protect the rich diversity of life on earth. Governments, businesses, and individuals all have a role to play in this effort, and it is vital that we work together to build a more sustainable future.
 
-References:
+# References
 
 1. Bellard, C., Bertelsmeier, C., Leadley, P., Thuiller, W., & Courchamp, F. (2012). Impacts of climate change on the future of biodiversity. Ecology letters, 15(4), 365-377.
 

@@ -26,7 +26,7 @@ Further research is necessary to fully understand the effects of these compounds
 
 Nootropic agents are becoming increasingly popular as individuals look for ways to improve their cognitive function and enhance their mental performance. While many nootropic drugs are prescription-only and come with various side effects, natural nootropic agents like chia seeds may offer a safer and more sustainable alternative. With further research, chia seeds could become an important part of the growing field of cognitive enhancement.
 
-# References
+## References
 
 1. [Crystal structure of 1-(E)- [(5‑bromo-2-hydroxybenzylidene amino) pyrrolidin-2-one]: Design, synthesis and computational evaluation of a novel racetam congener for epilepsy](https://doi.org/10.1016/j.molstruc.2023.137219)
 2. [Analysis of two mixtures containing racetams in their pharmaceuticals using simple spectrophotometric methodologiesAnalyse de deux mélanges contenant des racétams dans leurs produits pharmaceutiques à l’aide de méthodologies spectrophotométriques simples](https://doi.org/10.1016/j.pharma.2022.06.001)

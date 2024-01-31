@@ -19,7 +19,7 @@ These findings suggest that Cistus incanus extract has the potential to improve 
 
 The study has sparked interest in the medical community, with further research being planned to confirm and expand on these findings. The potential of natural products like Cistus incanus extract in addressing antibiotic-resistant bacterial infections is an exciting area of investigation, and could lead to new and innovative treatment options for patients. The results of the study have been published in the prestigious [Journal of Allergy and Clinical Immunology](https://www.jacionline.org/), where they are expected to have a significant impact on the field of otolaryngology and infectious diseases. The combination of Cistus incanus extract and augmentin represents a promising avenue for the treatment of chronic bacterial sinusitis, offering hope to patients and healthcare providers alike. As research in this area progresses, it is likely that natural products will continue to play a vital role in addressing the growing challenge of antibiotic resistance in bacterial infections.
 
-# References
+## References
 1. The role of anaerobic bacteria in sinusitis (https://doi.org/10.1016/j.anaerobe.2005.08.002)
 2. Microbiology of Sinusitis (https://www.atsjournals.org/doi/full/10.1513/pats.201006-038RN)
 3. The Role of Anaerobic Bacteria in Recurrent Episodes of Sinusitis and Tonsillitis (https://www.jstor.org/stable/i400561)

@@ -23,7 +23,8 @@ The findings of this research have important implications for the development of
 
 The researchers are now planning to conduct further studies to investigate the precise mechanisms by which memories are stored and retrieved within the brain. They hope that this work will lead to a better understanding of memory function and provide new insights into the treatment of memory-related disorders.
 
-References
+# References
+
 1. Eichenbaum, H. (2000). A cortical-hippocampal system for declarative memory. Nature Reviews Neuroscience, 1(1), 41-50.
 2. Squire, L. R. (2004). Memory systems of the brain: a brief history and current perspective. Neurobiology of Learning and Memory, 82(3), 171-177.
 3. Morris, R. G., Garrud, P., Rawlins, J. N., & O'Keefe, J. (1982). Place navigation impaired in rats with hippocampal lesions. Nature, 297(5868), 681-683.

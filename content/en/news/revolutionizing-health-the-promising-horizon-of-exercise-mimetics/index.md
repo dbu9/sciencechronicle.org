@@ -74,7 +74,7 @@ Moreover, the individual variability in response to both exercise and potential 
 
 |Genetic variability of human|
 |---|
-|![genetic variability](/news/revolutionizing-health-the-promising-horizon-of-exercise-mimetics/var.webp)|
+|![genetic variability](/news/revolutionizing-health-the-promising-horizon-of-exercise-mimetics/var.png)|
 
 Factors such as genetics, age, lifestyle, and existing health conditions can significantly influence how one's body responds to these agents. This variability presents a challenge in developing universally effective mimetics and necessitates personalized approaches in some cases.
 

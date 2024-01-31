@@ -17,6 +17,6 @@ The use of this iridium-osmium alloy could have a significant impact on the deve
 
 The research team plans to continue studying the properties of the iridium-osmium alloy and its potential applications in other areas of technology. They believe that this alloy could have a wide range of uses and could revolutionize the field of catalysis. Overall, this breakthrough represents a major step forward in the development of electric cars and the transition to a more sustainable future.
 
-References:
-- Smith, J., Johnson, E., & Lee, W. (2023). A novel iridium-osmium alloy catalyst for use in electric car engines. Journal of Renewable Energy, 45, 112-118.
+# References
+1. Smith, J., Johnson, E., & Lee, W. (2023). A novel iridium-osmium alloy catalyst for use in electric car engines. Journal of Renewable Energy, 45, 112-118.
 

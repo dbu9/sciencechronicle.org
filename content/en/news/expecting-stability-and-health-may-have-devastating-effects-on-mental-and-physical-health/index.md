@@ -33,7 +33,7 @@ The study's findings have important implications for how individuals approach th
 
 Seeking stability and comfort in life may lead to devastating effects on one's mental and physical health. It is vital to expose oneself to new experiences and challenges regularly to build resilience and adaptability for future uncertainties. Life may be unpredictable, but building resilience can help individuals thrive in any situation, as well as prevent a range of health problems.
 
-# References
+## References
 1. [Comfort zone orientation: Individual differences in the motivation to move beyond one's comfort zone](https://doi.org/10.1016/j.paid.2021.111024)
 2. [My social comfort zone: Attachment anxiety shapes peripersonal and interpersonal space](https://doi.org/10.1016/j.isci.2023.105955)
 3. [Influence mechanism of coping behaviours for natural hazards: Empirical study in Henan, China](https://doi.org/10.1016/j.ijdrr.2023.104169)

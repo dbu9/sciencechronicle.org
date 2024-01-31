@@ -24,7 +24,7 @@ The study has some limitations, however. It is unclear whether the findings can 
 Overall, the study provides valuable insight into the link between neuroplasticity and brain zaps, and opens up new avenues for research into antidepressant treatment. By gaining a better understanding of the mechanisms by which antidepressants work, researchers hope to develop more effective treatments for depression and other mood disorders.
 
 
-# References
+## References
 
 1. [Comparative effects of 15 antidepressants on the risk of withdrawal syndrome: A real-world study using the WHO pharmacovigilance database](https://doi.org/10.1016/j.jad.2021.10.041)
 2. [Antidepressant discontinuation syndrome: A state-of-the-art clinical review](https://doi.org/10.1016/j.euroneuro.2022.10.005)
