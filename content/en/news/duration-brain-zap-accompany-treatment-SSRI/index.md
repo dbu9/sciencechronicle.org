@@ -21,7 +21,7 @@ Dr. Jane Smith, lead author of the study, emphasized the importance of more rese
 
 In conclusion, the findings of this study suggest that patients who are prescribed SSRIs should be aware of the potential for brain zaps and the duration of the sensation during and after discontinuing the medication. More research is needed to fully understand this side effect and potential strategies for prevention and management.
 
-### References
+## References
 
 1. Antidepressant discontinuation syndrome: A state-of-the-art clinical review (https://doi.org/10.1016/j.euroneuro.2022.10.005)
 2. The experiences of 585 people when they tried to withdraw from antipsychotic drugs (https://doi.org/10.1016/j.abrep.2022.100421)

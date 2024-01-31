@@ -25,7 +25,7 @@ As with any herbal supplement, individuals are advised to consult with a healthc
 
 In conclusion, the recent study on ashwagandha and its potential impact on emotions has sparked a heated debate in the scientific community. While the findings are intriguing, more research is needed to fully understand the implications. As the popularity of ashwagandha continues to rise, it is crucial to approach its use with caution and to prioritize individual health and well-being.
 
-# References
+## References
 1. [An insight into the potential varieties of Ashwagandha (Indian ginseng) for better therapeutic efficacy](https://doi.org/10.1016/j.chnaes.2023.06.009)
 2. [Ninety-day repeated dose toxicity of Ashwagandha (Withania somnifera) root extract in Wistar rats](https://doi.org/10.1016/j.toxrep.2023.09.004)
 3. [Pharmacokinetics and bioequivalence of Withania somnifera (Ashwagandha) extracts – A double blind, crossover study in healthy adults](https://doi.org/10.1016/j.heliyon.2023.e22843)

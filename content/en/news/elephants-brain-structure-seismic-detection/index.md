@@ -11,7 +11,8 @@ A recent study conducted by researchers at Adelaide University has revealed that
 
 This study has significant implications for the conservation of elephants in the wild. It suggests that these animals may be able to sense seismic activity and potentially evacuate to safer areas before an earthquake strikes. It also highlights the importance of studying the sensory abilities of animals and the potential benefits that this research can have for their survival.
 
-# References
+## References
+
 1. Peters, J., et al. "Elephant brain structure: A novel mechanism for seismic detection." Proceedings of the National Academy of Sciences, vol. 120, no. 20, May 2023, pp. 4501-4506.
 2. Warrick, J. "Elephants may be able to feel seismic activity, groundbreaking study finds." The Guardian, 14 May 2023, https://www.theguardian.com/environment/2023/may/14/elephants-seismic-activity-study-brain-structure.
 3. "Elephants Can Feel Seismic Activity Thanks To A Unique Brain Structure." Science Alert, 16 May 2023, https://www.sciencealert.com/elephants-can-feel-seismic-activity-thanks-to-a-unique-brain-structure.

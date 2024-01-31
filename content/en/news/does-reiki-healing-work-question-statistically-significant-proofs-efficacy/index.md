@@ -20,7 +20,7 @@ This study is likely to have a significant impact on the practice of Reiki thera
 
 The question of whether Reiki healing works has been answered with a resounding yes. The results of this study provide statistically significant proof of its efficacy in reducing stress and anxiety. This is an important finding that can have significant implications for the future of Reiki therapy and the alternative medicine community at large. 
 
-### References
+## References
 
 1. [Reiki: An effective self-care practice](https://doi.org/10.1016/j.xjep.2023.100603)
 2. [The Effect of Reiki on Anxiety, Stress, and Comfort Levels Before Gastrointestinal Endoscopy: A Randomized Sham-Controlled Trial](https://doi.org/10.1016/j.jopan.2022.08.010)
