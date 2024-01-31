@@ -73,8 +73,7 @@ Additionally, the ethical and regulatory aspects of exercise mimetics will be an
 
 In conclusion, the future of exercise mimetics holds immense promise but requires a concerted effort across various scientific disciplines, coupled with responsible ethical and regulatory frameworks. Through continued research and collaboration, exercise mimetics could significantly enhance public health and offer new solutions for individuals who cannot participate in traditional physical activities.
 
-Certainly! You can reference the original article as follows:
 
 # Reference
 
-[Molecular origin and biological effects of exercise mimetics](https://doi.org/10.1016/j.jesf.2023.12.002)
+[Molecular origin and biological effects of exercise mimetics, Journal of Exercise Science & Fitness, Volume 22, Issue 1, January 2024, Pages 73-85](https://doi.org/10.1016/j.jesf.2023.12.002)
