@@ -4,8 +4,10 @@
 4. Query 3: Write 300 words on the keypoint 2, which targets a wide internet auditory. Make it as a continuation of the text you have already wrote. Give a title by the keypoint name. Add links to Wikipedia for scientific terms near each term.
 5. Query 4: Write 300 words on the keypoint 3, which targets a wide internet auditory. Make it as a continuation of the text you have already wrote. Give a title by the keypoint name. Add links to Wikipedia for scientific terms near each term. 
 6. Query 5: Write 300 words on the keypoint 4, which targets a wide internet auditory. Make it as a continuation of the text you have already wrote. Give a title by the keypoint name. Add links to Wikipedia for scientific terms near each term.  
-7. Query 6: Writie 300 words on the keypoint 5, which targets a wide internet auditory. Make it as a continuation of the text you have already wrote. Give a title by the keypoint name. Add links to Wikipedia for scientific terms near each term. 
+7. Query 6: Write 300 words on the keypoint 5, which targets a wide internet auditory. Make it as a continuation of the text you have already wrote. Give a title by the keypoint name. Add links to Wikipedia for scientific terms near each term. 
 8. Write a conclusion on the editorial.
+9. Give a title for the editorial.
+10. Give a short description (1-2 sentences) of the editorial.
 
 
 # Scenario 2
