@@ -15,7 +15,7 @@ Although this black hole was created in a controlled environment, it still provi
 
 The detection of this small black hole is a major milestone for the scientific community, and opens up new avenues for research and discovery. It is a testament to the power and capabilities of the Large Hadron Collider and the dedication and hard work of the researchers and scientists involved in this groundbreaking project. 
 
-# References
+## References
 1. European Organization for Nuclear Research (CERN). (2023). Small black hole detected in Large Hadron Collider. https://home.cern/news/news/physics/small-black-hole-detected-large-hadron-collider
 2. NASA. (2023). Black Holes. https://www.nasa.gov/audience/forstudents/5-8/features/nasa-knows/what-are-black-holes-58.html
 3. National Geographic. (2023). Black Holes. https://www.nationalgeographic.com/science/space/universe/black-holes/

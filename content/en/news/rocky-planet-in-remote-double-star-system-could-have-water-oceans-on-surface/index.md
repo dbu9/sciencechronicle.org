@@ -17,6 +17,6 @@ Further analysis revealed that the planet's orbit is in the habitable zone of th
 
 This discovery is significant as it brings us one step closer to finding another Earth-like planet that could sustain life. The finding also raises interesting questions about the possibility of habitable planets existing in double star systems and what impact this could have on the potential for life to exist.
 
-# References
+## References
 
 1. Dumusque, X. and Lovis, C., 2023. A rocky planet in the habitable zone of a double star system. Astronomy & Astrophysics, 650, L4. doi:10.1051/0004-6361/202039906

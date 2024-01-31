@@ -23,7 +23,7 @@ Despite these challenges, the findings from the study are a step forward in the 
 
 In conclusion, the study conducted at Heidelberg University Hospital has revealed the potential of Rosa canina as a promising candidate for the treatment of breast cancer. The anti-cancer effects of this wild rose species are attributed to its rich composition of bioactive compounds, which have been shown to inhibit the growth of breast cancer cells in laboratory experiments. While further research is needed to validate these findings, the study marks a significant step forward in the quest for new and improved therapies for breast cancer.
 
-# References
+## References
 
 1. Cytotoxic effect of Rosa canina extract on human colon cancer cells through repression of telomerase expression (https://doi.org/10.1016/j.jpha.2017.12.005)
 2. Comparative study of biological activities and phytochemical composition of two rose hips and their preserves: Rosa canina L. and Rosa arvensis Huds.

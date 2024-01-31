@@ -23,7 +23,7 @@ Dr. Petersen continues, "We are seeing that there are many benefits to endurance
 
 The study conducted by the researchers at MIT provides important insight into how endurance exercise can help to remove disease from our body. While this study focused on running, the same benefits can be achieved through other forms of endurance exercise as well. As we continue to understand the benefits of exercise for our health, it is clear that endurance exercise may be one of the most effective ways to improve our wellbeing by removing disease from our body.
 
-# References
+## References
 
 1. https://www.ncbi.nlm.nih.gov/pubmed/17399154
 2. https://en.wikipedia.org/wiki/Endurance_training

@@ -15,7 +15,7 @@ In particular, the researchers found genes that encode for proteins similar to t
 
 One of the genes discovered encodes for a protein similar to acetylcholine esterase, an enzyme that breaks down the neuromediator acetylcholine in mammals. This suggests that similar mechanisms for regulating neuromediator signaling may be present in Placozoa. Overall, these findings provide important insights into how these simple animals coordinate their behavior. More research is needed to fully understand the details and functional significance of this signaling system in Placozoa. 
 
-References: 
+# References
 1. Moroz LL, et al. (2014) The ctenophore genome and the evolutionary origins of neural systems. Nature 510(7503):109–114. 
 2. Srivastava M, et al. (2015) The Amphimedon queenslandica genome and the evolution of animal complexity. Nature 466(7307):720–726. 
 3. Grimmelikhuijzen CJP, et al. (2017) The biology and evolution of cholinesterases in the nervous and non-nervous systems. Chem Biol Interact 259:335–340. 
