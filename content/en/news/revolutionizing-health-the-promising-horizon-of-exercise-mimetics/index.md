@@ -15,6 +15,10 @@ Exercise mimetics, an emerging concept in the field of medical science, refer to
 
 At the core of their development is an intricate understanding of how exercise impacts the human body at a molecular level. Through rigorous scientific research, scientists have begun to identify specific compounds and biological mechanisms that are activated during exercise. By targeting these pathways, exercise mimetics aim to offer similar health benefits to actual physical activity. This is particularly beneficial for individuals who are unable to engage in regular exercise due to health conditions, age, or other constraints.
 
+|Biochemical pathways which are activated by exercise are a key to the mimetics|
+|---|
+|![biochemical pathways](/news/revolutionizing-health-the-promising-horizon-of-exercise-mimetics/pathways.webp)|
+
 One of the most significant challenges in the development of exercise mimetics is replicating the complex and multifaceted effects of physical exercise. Exercise impacts a wide range of bodily systems – from the cardiovascular system to metabolic processes. Therefore, creating a mimetic agent that accurately and safely reproduces these effects requires a deep understanding of various scientific fields, including [biology](https://en.wikipedia.org/wiki/Biology), [biochemistry](https://en.wikipedia.org/wiki/Biochemistry), and [pharmacology](https://en.wikipedia.org/wiki/Pharmacology).
 
 Despite these challenges, the pursuit of exercise mimetics represents a promising frontier in medical science. As research progresses, these agents have the potential to provide alternative therapeutic options for a range of conditions, including metabolic diseases, muscle wasting disorders, and perhaps even mental health issues. The continued exploration and development of exercise mimetics could lead to groundbreaking treatments, offering the benefits of physical activity in a form accessible to a broader range of individuals.
@@ -33,6 +37,10 @@ For example, they may target the [mitochondria](https://en.wikipedia.org/wiki/Mi
 
 Another significant aspect is their potential impact on the [musculoskeletal system](https://en.wikipedia.org/wiki/Musculoskeletal_system). Just as regular physical activity strengthens muscles and bones, exercise mimetics could offer similar benefits, potentially aiding those with muscle degeneration or osteoporosis. This aspect is particularly relevant for aging populations or individuals with conditions that limit their ability to engage in physical activity.
 
+|Human musculoskeletal system|
+|---|
+|![musculoskeletal](/news/revolutionizing-health-the-promising-horizon-of-exercise-mimetics/ms.webp)|
+
 Furthermore, exercise mimetics might also have implications for the [neurological system](https://en.wikipedia.org/wiki/Nervous_system). Regular exercise is known to have positive effects on brain health, including enhanced cognitive function and reduced risk of neurodegenerative diseases. Mimetics that can activate similar neurological pathways could offer new approaches to treating or preventing cognitive decline and mental health disorders.
 
 Understanding these biological mechanisms is essential for the continued development and refinement of exercise mimetics. It represents a convergence of various scientific disciplines, all contributing to a better understanding of how to safely and effectively replicate the benefits of exercise through pharmacological means.
@@ -43,7 +51,14 @@ Continuing our exploration into the realm of exercise mimetics, it's important t
 
 One of the primary benefits of exercise mimetics is their potential impact on metabolic health. By simulating the effects of exercise, these agents could play a significant role in managing and possibly treating metabolic disorders such as [diabetes](https://en.wikipedia.org/wiki/Diabetes) and [obesity](https://en.wikipedia.org/wiki/Obesity). Exercise is known to improve insulin sensitivity and regulate blood sugar levels, and mimetics that can replicate these effects could be a game-changer in the fight against these widespread health issues.
 
-Another significant advantage is the potential for cardiovascular improvement. Regular physical activity is renowned for its benefits to heart health, including reducing the risk of heart disease and stroke. Exercise mimetics that can mimic these cardiovascular effects could provide similar benefits, especially for those who cannot engage in traditional forms of exercise.
+Another significant advantage is the potential for cardiovascular improvement. 
+
+
+|Cardiovascular system|
+|---|
+|![cardiovascular](/news/revolutionizing-health-the-promising-horizon-of-exercise-mimetics/cv.jpg)|
+
+Regular physical activity is renowned for its benefits to heart health, including reducing the risk of heart disease and stroke. Exercise mimetics that can mimic these cardiovascular effects could provide similar benefits, especially for those who cannot engage in traditional forms of exercise.
 
 Furthermore, the implications of exercise mimetics extend to muscle health. These agents could potentially aid in combating muscle wasting and weakness, conditions often associated with aging or certain diseases. By simulating the muscle-strengthening effects of exercise, mimetics could help maintain muscle mass and function, thereby improving overall quality of life.
 
@@ -55,7 +70,13 @@ The journey of developing exercise mimetics is not without its challenges. While
 
 Another significant challenge lies in the complexity of biological systems. Physical exercise affects a wide array of bodily functions and systems, from the [musculoskeletal system](https://en.wikipedia.org/wiki/Musculoskeletal_system) to the [cardiovascular system](https://en.wikipedia.org/wiki/Cardiovascular_system), and even psychological well-being. Replicating these multifaceted effects through a single or a combination of mimetic agents is a task of immense complexity.
 
-Moreover, the individual variability in response to both exercise and potential mimetics adds another layer of complexity. Factors such as genetics, age, lifestyle, and existing health conditions can significantly influence how one's body responds to these agents. This variability presents a challenge in developing universally effective mimetics and necessitates personalized approaches in some cases.
+Moreover, the individual variability in response to both exercise and potential mimetics adds another layer of complexity. 
+
+|Genetic variability of human|
+|---|
+|![genetic variability](/news/revolutionizing-health-the-promising-horizon-of-exercise-mimetics/var.webp)|
+
+Factors such as genetics, age, lifestyle, and existing health conditions can significantly influence how one's body responds to these agents. This variability presents a challenge in developing universally effective mimetics and necessitates personalized approaches in some cases.
 
 Additionally, regulatory approvals for new pharmaceuticals are rigorous and time-consuming. Exercise mimetics, being a relatively new field, may face unique regulatory challenges, including defining the criteria for their efficacy and safety.
 
@@ -76,4 +97,4 @@ In conclusion, the future of exercise mimetics holds immense promise but require
 
 # Reference
 
-[Molecular origin and biological effects of exercise mimetics, Journal of Exercise Science & Fitness, Volume 22, Issue 1, January 2024, Pages 73-85](https://doi.org/10.1016/j.jesf.2023.12.002)
+[Molecular origin and biological effects of exercise mimetics, Journal of Exercise Science and Fitness, Volume 22, Issue 1, January 2024, Pages 73-85](https://doi.org/10.1016/j.jesf.2023.12.002)
