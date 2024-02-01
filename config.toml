@@ -49,6 +49,27 @@ googleAnalytics = "G-LCXCFMHZQ7"
         url = "tags"
         weight = 2
 
+	[languages.de]
+    contentDir = "content/de" 
+    weight = 2
+    languageName = "Deutsch"
+    [languages.de.params]
+      introTitle = "ScienceChronicle"
+      introSubtitle = "ScienceChronicle.org ist Ihr Online-Ziel für aktuelle Informationen über die neuesten wissenschaftlichen Fortschritte und Entdeckungen. Mit einem Team engagierter Wissenschaftsjournalisten und Experten bieten wir umfassende Berichterstattung und Analysen in einer breiten Palette wissenschaftlicher Disziplinen. Von bahnbrechenden Forschungsergebnissen bis hin zu innovativen Technologien bietet unsere Website eine umfassende Chronik des wissenschaftlichen Fortschritts. Entdecken Sie fesselnde Artikel, aufschlussreiche Features und spannende Interviews, die in die faszinierende Welt der Wissenschaft eintauchen. Ob Sie ein neugieriger Mensch, ein Wissenschaftsbegeisterter oder ein Fachmann auf diesem Gebiet sind, ScienceChronicle.org bietet eine zuverlässige und zugängliche Plattform, um Ihren Wissensdurst zu stillen und Sie über die sich ständig weiterentwickelnden Grenzen der Wissenschaft auf dem Laufenden zu halten."
+      introPhoto = "/intro.png"
+      logo = "/logo8.png"
+
+    [[languages.de.menu.main]]
+        name = "News"
+        url = "news"
+        weight = 1
+
+
+    [[languages.ru.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 2
+
 
   
 

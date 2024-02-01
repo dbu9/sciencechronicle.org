@@ -30,16 +30,3 @@ thumbnail: "/news/rosa-canina-promising-effect-treatment-breast-cancer/thumb.png
 1. Цитотоксический эффект экстракта розы собачьей на человеческие клетки рака толстой кишки через подавление экспрессии теломеразы (https://doi.org/10.1016/j.jpha.2017.12.005)
 2. Сравнительное исследование биологической активности и фитохимического состава двух шиповников и их консервов: Rosa canina L. и Rosa arvensis Huds.
 (https://doi.org/10.1016/j.foodchem.2015.07.089)
-
-<html><center>
-<!--LiveInternet counter--><a href="https://www.liveinternet.ru/click"
-target="_blank"><img id="licntF813" width="88" height="31" style="border:0" 
-title="LiveInternet: показано число просмотров и посетителей за 24 часа"
-src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
-alt=""/></a><script>(function(d,s){d.getElementById("licntF813").src=
-"https://counter.yadro.ru/hit?t52.6;r"+escape(d.referrer)+
-((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
-(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
-";h"+escape(d.title.substring(0,150))+";"+Math.random()})
-(document,screen)</script><!--/LiveInternet-->
-</center></html>

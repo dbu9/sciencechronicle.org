@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/news/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="https://www.ScienceChronicle.org/ru/news/"
                 />
@@ -21,6 +26,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ScienceChronicle.org/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -37,6 +47,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="https://www.ScienceChronicle.org/ru/tags/"
                 />
@@ -50,6 +65,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ScienceChronicle.org/en/news/bone-health-and-disorders-related-to-bone-metabolism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/news/bone-health-and-disorders-related-to-bone-metabolism/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -680,6 +700,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/news/antidiabetic-effects-of-rutin/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ru"
                 href="https://www.ScienceChronicle.org/ru/news/antidiabetic-effects-of-rutin/"
                 />
@@ -721,6 +746,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ScienceChronicle.org/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
