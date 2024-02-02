@@ -3,7 +3,7 @@ title: "What is worse, osteoarthritis or osteoporosis"
 description: "Many people are curious about which condition is more challenging to live with: osteoporosis or osteoarthritis. This article seeks to address this question, relying on scientific data and evidence. We will delve into the symptoms, effects on daily life, and overall societal impact of both conditions to offer a thorough perspective on this intricate topic."
 date: 2024-02-01T13:15:13.387Z
 draft: false
-tags: [osteoarthritis, osteoporosis, symptoms, health, medicine, bone health]
+tags: [osteoarthritis, osteoporosis, symptoms, health, medicine, bone health, osteoarthritis vs osteoporosis, what is worse, osteoarthritis or osteoporosis]
 thumbnail: "/news/what-is-worse-osteoarthritis-or-osteoporosis/thumb.webp"
 ---
 
