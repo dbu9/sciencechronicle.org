@@ -15,7 +15,11 @@ Scientists at [Adelaida University](https://www.adelaide.edu.au/) have developed
 
 The new technique, which was published in the latest issue of the journal Molecular Biology, involves the use of specialized enzymes and molecular machinery to insert artificial retroviruses into specific locations within the genome of a host organism. This level of precision was previously unattainable, and it has the potential to revolutionize the field of genetic engineering.
 
-[Dr. Maria Rodriguez](https://ingenieriabiologicaymedica.uc.cl/en/people/faculty/179-maria-rodriguez), who led the research team at Adelaida University, explained the significance of the breakthrough: "By being able to more precisely target and incorporate artificial retroviruses into the genome, we can potentially correct genetic defects, introduce beneficial traits, and even develop new therapies for genetic diseases with a level of specificity and control that was previously unimaginable." This development could have far-reaching implications for medical and agricultural applications of genetic engineering.
+[Dr. Maria Rodriguez](https://ingenieriabiologicaymedica.uc.cl/en/people/faculty/179-maria-rodriguez), who led the research team at Adelaida University, explained the significance of the breakthrough:
+
+>By being able to more precisely target and incorporate artificial retroviruses into the genome, we can potentially correct genetic defects, introduce beneficial traits, and even develop new therapies for genetic diseases with a level of specificity and control that was previously unimaginable.
+
+This development could have far-reaching implications for medical and agricultural applications of genetic engineering.
 
 The technique builds on the foundation of previous research in molecular biology, which has steadily advanced our understanding of the mechanisms governing genetic inheritance and gene expression. As our knowledge of the intricacies of molecular biology has deepened, so too has our ability to manipulate the genetic code of living organisms.
 

@@ -2,6 +2,81 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ScienceChronicle.org/en/tags/bone-health/</loc>
+    <lastmod>2024-02-01T13:15:13+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/health/</loc>
+    <lastmod>2024-02-01T13:15:13+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/medicine/</loc>
+    <lastmod>2024-02-01T13:15:13+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/</loc>
+    <lastmod>2024-02-01T13:15:13+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/news/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/osteoarthritis/</loc>
+    <lastmod>2024-02-01T13:15:13+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/osteoporosis/</loc>
+    <lastmod>2024-02-01T13:15:13+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/</loc>
+    <lastmod>2024-02-01T13:15:13+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/symptoms/</loc>
+    <lastmod>2024-02-01T13:15:13+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
+    <lastmod>2024-02-01T13:15:13+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/what-is-worse-osteoarthritis-or-osteoporosis/</loc>
+    <lastmod>2024-02-01T13:15:13+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/avocado-hydration-mask/</loc>
     <lastmod>2024-02-01T09:05:20+00:00</lastmod>
   </url><url>
@@ -23,44 +98,8 @@
     <loc>https://www.ScienceChronicle.org/en/tags/natural-remedies/</loc>
     <lastmod>2024-02-01T09:05:20+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/</loc>
-    <lastmod>2024-02-01T09:05:20+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/news/"
-                />
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/origins-avocado-overnight-mask/</loc>
     <lastmod>2024-02-01T09:05:20+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-02-01T09:05:20+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/"
-                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/skin/</loc>
     <lastmod>2024-02-01T09:05:20+00:00</lastmod>
@@ -68,31 +107,10 @@
     <loc>https://www.ScienceChronicle.org/en/tags/skin-anti-agining/</loc>
     <lastmod>2024-02-01T09:05:20+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-02-01T09:05:20+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/tags/"
-                />
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/best-treatment-for-osteoporosis/</loc>
     <lastmod>2024-02-01T01:44:20+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/bone-density-treatment/</loc>
-    <lastmod>2024-02-01T01:44:20+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/bone-health/</loc>
     <lastmod>2024-02-01T01:44:20+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/bone-health-and-disorders-related-to-bone-metabolism/</loc>
@@ -116,6 +134,21 @@
     <loc>https://www.ScienceChronicle.org/en/tags/calcium-for-osteoporosis/</loc>
     <lastmod>2024-02-01T01:44:20+00:00</lastmod>
   </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/can-osteoporosis-be-cured/</loc>
+    <lastmod>2024-02-01T01:44:20+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/can-you-reverse-osteoporosis/</loc>
+    <lastmod>2024-02-01T01:44:20+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/degenerative-disc-disease/</loc>
+    <lastmod>2024-02-01T01:44:20+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/do-men-get-osteoporosis/</loc>
+    <lastmod>2024-02-01T01:44:20+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/how-to-avoid-osteoporosis/</loc>
+    <lastmod>2024-02-01T01:44:20+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/injection-for-osteoporosis/</loc>
     <lastmod>2024-02-01T01:44:20+00:00</lastmod>
   </url><url>
@@ -125,10 +158,7 @@
     <loc>https://www.ScienceChronicle.org/en/tags/low-bone-density-treatment/</loc>
     <lastmod>2024-02-01T01:44:20+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/medicine/</loc>
-    <lastmod>2024-02-01T01:44:20+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/osteoporosis/</loc>
+    <loc>https://www.ScienceChronicle.org/en/tags/osteophytes/</loc>
     <lastmod>2024-02-01T01:44:20+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/osteoporosis-symptoms/</loc>
@@ -137,7 +167,13 @@
     <loc>https://www.ScienceChronicle.org/en/tags/osteoporosis-treatment/</loc>
     <lastmod>2024-02-01T01:44:20+00:00</lastmod>
   </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/signs-and-symptoms-of-osteoporosis/</loc>
+    <lastmod>2024-02-01T01:44:20+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/signs-of-osteoporosis/</loc>
+    <lastmod>2024-02-01T01:44:20+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/what-is-the-difference-between-osteoporosis-and-osteoarthritis/</loc>
     <lastmod>2024-02-01T01:44:20+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/autoimmune-and-degenerative-joint-conditions/</loc>
@@ -186,9 +222,6 @@
     <loc>https://www.ScienceChronicle.org/en/tags/exercise-mimetics/</loc>
     <lastmod>2024-01-31T10:47:21+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/health/</loc>
-    <lastmod>2024-01-31T10:47:21+00:00</lastmod>
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/health-boosters/</loc>
     <lastmod>2024-01-31T10:47:21+00:00</lastmod>
   </url><url>
@@ -216,9 +249,6 @@
                 hreflang="en"
                 href="https://www.ScienceChronicle.org/en/news/decoding-osteoarthritis-modern-perspective-joint-health-disease-progression/"
                 />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/osteoarthritis/</loc>
-    <lastmod>2024-01-31T10:17:09+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/osteoarthritis-rheumatology/</loc>
     <lastmod>2024-01-31T10:17:09+00:00</lastmod>
@@ -866,6 +896,9 @@
                 href="https://www.ScienceChronicle.org/en/news/brain-zaps-during-antidepressant-treatment-can-indicate-neural-axons-rewiring/"
                 />
   </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/but-not-from-withdrawal/</loc>
+    <lastmod>2024-01-23T14:59:41+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/depression-medication/</loc>
     <lastmod>2024-01-23T14:59:41+00:00</lastmod>
   </url><url>
@@ -876,6 +909,9 @@
     <lastmod>2024-01-23T14:59:41+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/head-zaps-causes/</loc>
+    <lastmod>2024-01-23T14:59:41+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/how-long-do-brain-zaps-last/</loc>
     <lastmod>2024-01-23T14:59:41+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/major-depressive-disorder-medication/</loc>
@@ -904,6 +940,9 @@
     <lastmod>2024-01-23T14:59:41+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/what-causes-brain-zaps-without-medication/</loc>
+    <lastmod>2024-01-23T14:59:41+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/what-do-brain-zaps-feel-like/</loc>
     <lastmod>2024-01-23T14:59:41+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/what-do-brain-zaps-mean/</loc>
@@ -2044,15 +2083,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/importance-understanding-simple-engineering-statistics-successful-financial-management/</loc>
     <lastmod>2023-12-31T14:15:51+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/who-built-the-great-wall-of-china/</loc>
-    <lastmod>2023-12-31T14:15:13+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/who-built-the-great-wall-of-china-the-definitive-answer/</loc>
-    <lastmod>2023-12-31T14:15:13+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/why-was-the-great-wall-of-china-built/</loc>
-    <lastmod>2023-12-31T14:15:13+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/can-elderberry-syrup-cause-diarrhea/</loc>
     <lastmod>2023-12-31T02:19:32+00:00</lastmod>

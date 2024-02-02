@@ -3,7 +3,7 @@ title: "Brain zaps during antidepressant treatment can indicate neural axons rew
 description: "New research suggests that brain zaps during antidepressant treatment may be evidence of neural axons rewiring, offering insight into the mechanisms by which antidepressants work"
 date: 2024-01-23T14:59:41.662Z
 draft: false
-tags: [medicine, biology brain zap, prozac brain zaps, brain zap zoloft, do brain zaps go away, what do brain zaps mean,what causes brain zaps without medication, head zaps causes, antidepressants, prozac, depression medication, major depressive disorder medication, antidepressant medicine, zoloft withdrawal symptoms, escitaloprám side effects, selective serotonin reuptake inhibitors, ssri]
+tags: [medicine, biology brain zap, but not from withdrawal, what do brain zaps feel like, how long do brain zaps last, prozac brain zaps, brain zap zoloft, do brain zaps go away, what do brain zaps mean,what causes brain zaps without medication, head zaps causes, antidepressants, prozac, depression medication, major depressive disorder medication, antidepressant medicine, zoloft withdrawal symptoms, escitaloprám side effects, selective serotonin reuptake inhibitors, ssri]
 thumbnail: "/news/brain-zaps-during-antidepressant-treatment-can-indicate-neural-axons-rewiring/thumb.png"
 ---
 
