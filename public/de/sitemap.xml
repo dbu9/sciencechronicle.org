@@ -209,6 +209,23 @@
     <loc>https://www.ScienceChronicle.org/de/tags/text/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.ScienceChronicle.org/de/news/balancing-the-brew-beer-consumption-health/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/news/balancing-the-brew-beer-consumption-health/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/news/balancing-the-brew-beer-consumption-health/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/news/balancing-the-brew-beer-consumption-health/"
+                />
+  </url><url>
     <loc>https://www.ScienceChronicle.org/de/categories/</loc>
     <xhtml:link
                 rel="alternate"

@@ -8,6 +8,8 @@
 8. Write a conclusion on the editorial.
 9. Give a title for the editorial.
 10. Give a short description (1-2 sentences) of the editorial.
+11. Create 15 SEO-wise keywords for the editorial, comma separated
+12. As an intro to the editorial, write about what analysis you did. Mention the name of the article and authors.
 
 
 # Scenario 2
