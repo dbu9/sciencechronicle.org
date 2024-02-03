@@ -4,7 +4,7 @@ description: "This editorial explores the transformative journey of eukaryotes, 
 date: 2024-02-02T11:52:37.716Z
 draft: false
 tags: [mitochndrion, mitochandria, molecular biology, evolution, evolutionary biology, does fungi have a nucleus, is archaebacteria prokaryotic or eukaryotic, mitochondrial dna and bacterial dna considered particularly strong evidence in favor of the endosymbiosis theory, do prokaryotes have a nucleus, consider the endosymbiosis theory for the origin of the mitochondrion. how did each endosymbiotic partner benefit from the relationship, what synapomorphy defines the eukarya, according to the endosymbiosis theory, what are the origins of the inner and outer membranes of mitochondria, which of the following are mitochondria thought to have evolved from]
-thumbnail: "/news/predators-to-partners-the-evolutionary-saga-of-eukaryotes/thumb.webp"
+thumbnail: "/news/predators-to-partners-the-evolutionary-saga-of-eukaryotes/thumb.jpg"
 ---
 
 ## The Evolutionary Path to Eukaryotic Complexity
