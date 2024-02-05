@@ -7,7 +7,7 @@ tags: [dried fruits health benefits, antioxidant activity dried fruits, goji ber
 thumbnail: "/news/health-benefits-safety-dried-fruits-study-insights/thumb.webp"
 ---
 
-The research article [Potential health benefits and quality of dried fruits: goji fruits, cranberries and raisins](http://dx.doi.org/10.1016/j.foodchem.2016.10.049) written by Magdalena Jeszka-Skowron and colleguages presents a comprehensive study on the health benefits and quality of dried fruits, with a focus on goji berries, cranberries, and raisins. It extensively explores their antioxidant activity, mineral content, and safety levels, offering valuable insights into their contribution to a healthy diet. The study's findings highlight the superior antioxidant properties of goji berries compared to the other fruits tested, as well as reassuring data regarding the low levels of contaminants, which underlines the safety of these dried fruits for consumption. The correlation found between manganese content and antioxidant activity opens new avenues for understanding the nutritional importance of these fruits. This research significantly contributes to the existing body of knowledge by providing a detailed analysis of the potential health benefits of including dried fruits in our diets, emphasizing their role in enhancing overall health and wellness.
+The research article [Potential health benefits and quality of dried fruits: goji fruits, cranberries and raisins](http://dx.doi.org/10.1016/j.foodchem.2016.10.049) written by Magdalena Jeszka-Skowron and colleguages presents a comprehensive study on the health benefits and quality of dried fruits, with a focus on [goji berries](https://en.wikipedia.org/wiki/Goji), [cranberries](https://en.wikipedia.org/wiki/Cranberry), and [raisins](https://en.wikipedia.org/wiki/Raisin). It extensively explores their [antioxidant](https://en.wikipedia.org/wiki/Antioxidant) activity, mineral content, and safety levels, offering valuable insights into their contribution to a healthy diet. The study's findings highlight the superior antioxidant properties of goji berries compared to the other fruits tested, as well as reassuring data regarding the low levels of contaminants, which underlines the safety of these dried fruits for consumption. The correlation found between [manganese](https://en.wikipedia.org/wiki/Manganese) content and antioxidant activity opens new avenues for understanding the nutritional importance of these fruits. This research significantly contributes to the existing body of knowledge by providing a detailed analysis of the potential health benefits of including dried fruits in our diets, emphasizing their role in enhancing overall health and wellness.
 
 
 After delving into the detailed findings and implications of this intriguing study, we at ScienceChronicle.org felt compelled to learn more directly from the source. Therefore, we decided to interview the authors of this research and ask several questions our editor, Samantha Rosenberg, had after reading the research paper. The interview aims to uncover the inspiration behind the study, the challenges faced during the research process, and the authors' perspective on the future of dietary recommendations based on their findings. Samantha is particularly interested in discussing the practical implications of the study for consumers, the potential for future research in the field, and the authors' personal views on the role of dried fruits in a balanced diet. Stay tuned for an enlightening conversation that promises to deepen our understanding of the health benefits of dried fruits and their place in our daily lives.
@@ -42,7 +42,7 @@ After delving into the detailed findings and implications of this intriguing stu
 
 **SD:** What challenges did you face during your study?
 
-**Authors:** Assessing the safety of dried fruits regarding mycotoxin and metal contamination required meticulous testing to ensure accurate results.
+**Authors:** Assessing the safety of dried fruits regarding [mycotoxin](https://en.wikipedia.org/wiki/Mycotoxin) and metal contamination required meticulous testing to ensure accurate results.
 
 **SD:** How should consumers interpret the safety findings of your study?
 
@@ -99,3 +99,7 @@ After delving into the detailed findings and implications of this intriguing stu
 **SD:** Thank you for sharing your insights and contributing to a deeper understanding of the nutritional value of dried fruits.
 
 **Authors:** Thank you for the opportunity to discuss our work. We're excited about its potential to positively impact dietary habits and health.
+
+---
+
+We also have a very deep inivestigation of health benefits of the berries at this [post]({{< ref exploring-the-world-of-berries-health-benefits-and-popular-varieties-in-north-america >}}).
