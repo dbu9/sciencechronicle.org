@@ -62,3 +62,8 @@ In most cases, when scientists notice structural similarities between fossils of
 - Prothero, D.R. (2007). *Evolution: What the Fossils Say and Why It Matters*. Columbia University Press. This book offers insights into the fossil record and its importance for understanding evolutionary processes.
 - Ridley, M. (2004). *Evolution*. Blackwell Publishing. Ridley's text is another foundational resource that covers various aspects of evolutionary theory, including sexual selection, speciation, and evolutionary genetics.
 
+---
+
+This article answers the question:
+
+*"Scientists notice structural similarities between fossils of a land animal and an aquatic organism. They know the similarities are not a result of the two organisms having to adapt to similar environments. What can they attribute the structural similarities to?"*
