@@ -3,6 +3,7 @@ title: "Consuming 100g cucumbers per day may reduce prostate cancer risk by 28%"
 description: "A new study by Manchester University has found that adding 100g of cucumbers to your diet each day could reduce the risk of developing prostate cancer by 28%."
 date: 2023-06-22T21:51:22.426Z
 draft: false
+categories: [Nutriceuticals]
 tags: [cucumber and prostate health, cucumber good for prostate, cucumber prostate, cucumbers and cancer, cucumber anti inflammatory]
 thumbnail: "/news/consuming-100g-cucumbers-per-day-may-reduce-prostate-cancer-risk-by-28/thumb.png"
 ---

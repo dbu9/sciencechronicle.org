@@ -3,6 +3,7 @@ title: "Cistus incanus extract combined with augmentin effective in treating chr
 description: "A recent study from Imperial College London shows promising results for using Cistus incanus extract combined with augmentin in treating chronic bacterial sinusitis caused by antibiotic-resistant anaerobic bacteria."
 date: 2024-01-07T13:31:41.498Z
 draft: false
+categories: [Nutriceuticals]
 tags: [cistus incanus, cistus incanus tea, 	cistus tea, cistus incanus extract, cistus incanus plant, cistus incanus flower, cistus tea benefits, cistus incanus antimicrobial, cistus incanus tea against cold]
 thumbnail: "/news/cistus-incanus-extract-combined-with-augmentin-effective-in-treating-chronic-bacterial-sinusitis/thumb.png"
 ---

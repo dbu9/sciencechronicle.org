@@ -3,6 +3,7 @@ title: "Mannosidosis: Treatment and Management"
 description: "The post provides an overview of the diagnosis, treatment, management, and prognosis of mannosidosis, a rare genetic disorder. It outlines the diagnostic methods, which include urine analysis and blood cell testing for enzyme presence, and prenatal testing for suspected cases. "
 date: 2024-01-20T09:53:12.397Z
 draft: false
+categories: [Medicine]
 tags: [mannosidosis, alpha mannosidosis, alpha mannosidosis treatment, alpha mannosidosis symptoms, mannosidosis disease, beta mannosidosis, ]
 thumbnail: "/news/mannosidosis-treatment-and-management/thumb.webp"
 ---

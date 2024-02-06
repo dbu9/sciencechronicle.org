@@ -3,7 +3,8 @@ title: "Chia Seeds Found to Provide Relief for Menstrual Pain - Study"
 description: "undefined"
 date: 2024-02-04T20:56:06.003Z
 draft: true
-tags: [Health and Medicine]
+categories: [Nutriceutcals]
+tags: [chia seeds, chia, chia mestrual pain, chia pain relief, chia analgetic]
 thumbnail: "/news/chia-seeds-relief-menstrual-pain-study/thumb.webp"
 ---
 

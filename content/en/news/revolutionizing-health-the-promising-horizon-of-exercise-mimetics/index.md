@@ -3,6 +3,7 @@ title: "Revolutionizing Health: The Promising Horizon of Exercise Mimetics"
 description: "This editorial delves into the innovative realm of exercise mimetics, exploring their development, biological mechanisms, health benefits, research challenges, and future potential, highlighting how they could revolutionize healthcare for those unable to engage in traditional physical activity."
 date: 2024-01-31T10:47:21.866Z
 draft: false
+categories: [Medicine]
 tags: [mimetics, sport mimetics, exercise mimetics, health, medicine, health boosters, health enhancers]
 thumbnail: "/news/revolutionizing-health-the-promising-horizon-of-exercise-mimetics/thumb.webp"
 ---

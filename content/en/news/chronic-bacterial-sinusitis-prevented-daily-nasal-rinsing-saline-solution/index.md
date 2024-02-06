@@ -3,7 +3,8 @@ title: "Chronic Bacterial Sinusitis can be Prevented by Daily Nasal Rinsing with
 description: "A recent study from Washington shows that daily nasal rinsing using saline solution can be an effective and safe way to prevent chronic bacterial sinusitis and reduce the need for antibiotics."
 date: 2023-05-20T15:48:33.996Z
 draft: false
-tags: [Medicine]
+categories: [Nutriceuticals]
+tags: [chia, chia seeds, chia antibacterial, chia immune system, benefits of chia seeds, chia health benefits]
 thumbnail: "/news/chronic-bacterial-sinusitis-prevented-daily-nasal-rinsing-saline-solution/thumb.png"
 ---
 

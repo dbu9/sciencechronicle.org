@@ -3,6 +3,7 @@ title: "Chia Seeds Linked to Prevention of Breast Cancer in Women"
 description: "A recent study at Baylor College of Medicine reveals the potential of chia seeds in preventing breast cancer in women."
 date: 2024-02-04T20:55:42.713Z
 draft: false
+categories: [Nutriceuticals]
 tags: [nutrition, oncology, women's health, chia, flavinoids, chia seeds benefits for female, chia seeds benefits for women's health, chia seeds benefits for women, chia seeds benefits for women, nutriceuticals, naturopathy, natural anti cancer]
 thumbnail: "/news/chia-seeds-prevent-development-of-breast-cancer/thumb.png"
 ---

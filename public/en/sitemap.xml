@@ -191,6 +191,24 @@
     <loc>https://www.ScienceChronicle.org/en/news/unveiling-cnidarian-complexity-evolution-interview/</loc>
     <lastmod>2024-02-05T22:18:16+00:00</lastmod>
   </url><url>
+    <loc>https://www.ScienceChronicle.org/en/categories/</loc>
+    <lastmod>2024-02-05T11:18:49+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/categories/"
+                />
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/diabetis/</loc>
     <lastmod>2024-02-05T11:18:49+00:00</lastmod>
   </url><url>
@@ -201,6 +219,9 @@
     <lastmod>2024-02-05T11:18:49+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/nutriceutical/</loc>
+    <lastmod>2024-02-05T11:18:49+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/categories/nutriceuticals/</loc>
     <lastmod>2024-02-05T11:18:49+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/rutien/</loc>
@@ -783,6 +804,9 @@
     <lastmod>2024-02-01T00:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/joint-pain-and-inflammation/</loc>
+    <lastmod>2024-02-01T00:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/categories/medicine/</loc>
     <lastmod>2024-02-01T00:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/metabolic-bone-disease-overview/</loc>
@@ -3345,6 +3369,18 @@
     <loc>https://www.ScienceChronicle.org/en/news/transposons-may-have-contributed-to-brain-evolution-of-monkeys-turning-them-into-homo-sapiens/</loc>
     <lastmod>2023-05-20T15:50:04+00:00</lastmod>
   </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/benefits-of-chia-seeds/</loc>
+    <lastmod>2023-05-20T15:48:33+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/chia-antibacterial/</loc>
+    <lastmod>2023-05-20T15:48:33+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/chia-health-benefits/</loc>
+    <lastmod>2023-05-20T15:48:33+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/chia-immune-system/</loc>
+    <lastmod>2023-05-20T15:48:33+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/chronic-bacterial-sinusitis-prevented-daily-nasal-rinsing-saline-solution/</loc>
     <lastmod>2023-05-20T15:48:33+00:00</lastmod>
   </url><url>
@@ -4075,22 +4111,5 @@
     <lastmod>2023-05-11T14:36:37+03:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/anthropology-/-medicine/</loc>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/categories/"
-                />
   </url>
 </urlset>
