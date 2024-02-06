@@ -24,7 +24,7 @@ googleAnalytics = "G-LCXCFMHZQ7"
 
 		[[languages.en.menu.main]]
         name = "Quizes"
-        url = "quizes"
+        url = "quiz"
         weight = 2
 
     [[languages.en.menu.main]]

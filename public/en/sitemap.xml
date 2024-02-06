@@ -11,7 +11,7 @@
     <loc>https://www.ScienceChronicle.org/en/tags/biochemical-reactions/</loc>
     <lastmod>2024-02-06T13:44:20+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/biochem-iq-medical-biochemistry-quiz/</loc>
+    <loc>https://www.ScienceChronicle.org/en/quiz/biochem-iq-medical-biochemistry-quiz/</loc>
     <lastmod>2024-02-06T13:44:20+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/biochemistry-questions/</loc>
@@ -65,23 +65,8 @@
     <loc>https://www.ScienceChronicle.org/en/tags/molecular-biology/</loc>
     <lastmod>2024-02-06T13:44:20+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/</loc>
+    <loc>https://www.ScienceChronicle.org/en/quiz/</loc>
     <lastmod>2024-02-06T13:44:20+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/news/"
-                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/</loc>
     <lastmod>2024-02-06T13:44:20+00:00</lastmod>
@@ -128,7 +113,7 @@
     <loc>https://www.ScienceChronicle.org/en/tags/evolutionary-biology-quiz/</loc>
     <lastmod>2024-02-06T10:17:53+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/evolutionary-insights-quiz-decoding-dynamics-lifes-tapestry/</loc>
+    <loc>https://www.ScienceChronicle.org/en/quiz/evolutionary-insights-quiz-decoding-dynamics-lifes-tapestry/</loc>
     <lastmod>2024-02-06T10:17:53+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/fossil-record-examination/</loc>
@@ -178,6 +163,24 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/neurobiology-research/</loc>
     <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/news/"
+                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/regenerative-medicine/</loc>
     <lastmod>2024-02-05T22:18:16+00:00</lastmod>
