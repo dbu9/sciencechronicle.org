@@ -29,7 +29,7 @@ Make the interview "look" real.
 
 # Scenario 4 (quizes)
 
-Create 5 multi-choice questions on medical biochemistry. The questions to the answers should not be a "know-the-fact" but should be deduced at least in 3 steps (minimum) from the knowledge of biochemistry. The question should be related to the real medical conditons. Give also correct answer and detailed explanation which outlines deductive process which leads to the correct answer. 
+Create 5 multi-choice questions on medical biochemistry. The questions to the answers should not be a "know-the-fact" but should be deduced at least in 3 steps (minimum) from the knowledge of biochemistry. The question should be related to the real medical conditons.  Give also correct answer and detailed explanation which outlines steps by which one arrives at the correct answer. 
 The format is MD. Use the following structure for a question:
 
 ```
@@ -37,11 +37,11 @@ The format is MD. Use the following structure for a question:
 [Your List of possible answers]
 
 {{< unhide buttonText="Answer" >}}
-[Your correct answer]
+✅ [Your correct answer]
 {{< /unhide >}}
 
 {{< unhide buttonText="Explanation" >}}
-[Your explanation]
+👩‍🏫 [Your explanation]
 {{< /unhide >}}
 ```
 
