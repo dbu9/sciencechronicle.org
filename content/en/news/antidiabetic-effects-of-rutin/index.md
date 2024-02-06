@@ -4,6 +4,7 @@ description: "Rutin, a bioflavonoid found in many plants, has garnered attention
 date: 2024-02-05T11:18:49.310Z
 draft: false
 tags: [rutien, rutin, diabetis, nutriceutical, medicine, health]
+categories: ["Nutriceuticals"]
 thumbnail: "/news/antidiabetic-effects-of-rutin/thumb.jpg"
 ---
 

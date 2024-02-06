@@ -32,11 +32,16 @@ googleAnalytics = "G-LCXCFMHZQ7"
         url = "quiz"
         weight = 3
 
+		[[languages.en.menu.main]]
+        name = "Categories"
+        url = "categories"
+        weight = 4
+
     [[languages.en.menu.main]]
         name = "Tags"
         url = "tags"
-        weight = 4
-	
+        weight = 5
+
 	[languages.ru]
     contentDir = "content/ru" #English
     weight = 2
