@@ -2,6 +2,152 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ScienceChronicle.org/en/tags/biology/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/cell-type-evolution/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/cnidarian-cell-diversity/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/developmental-biology/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/evolutionary-biology/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/genomic-regulation/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/marine-genomics/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/nematostella-vectensis/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/neurobiology-research/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/news/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/regenerative-medicine/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/single-cell-rna-sequencing/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/unveiling-cnidarian-complexity-evolution-interview/</loc>
+    <lastmod>2024-02-05T22:18:16+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/diabetis/</loc>
+    <lastmod>2024-02-05T11:18:49+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/health/</loc>
+    <lastmod>2024-02-05T11:18:49+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/medicine/</loc>
+    <lastmod>2024-02-05T11:18:49+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/nutriceutical/</loc>
+    <lastmod>2024-02-05T11:18:49+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/rutien/</loc>
+    <lastmod>2024-02-05T11:18:49+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/tags/rutien/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/rutien/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/rutin/</loc>
+    <lastmod>2024-02-05T11:18:49+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/tags/rutin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/rutin/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/antidiabetic-effects-of-rutin/</loc>
+    <lastmod>2024-02-05T11:18:49+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/news/antidiabetic-effects-of-rutin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/news/antidiabetic-effects-of-rutin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/news/antidiabetic-effects-of-rutin/"
+                />
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/aquatic-ecosystems/</loc>
     <lastmod>2024-02-05T03:16:58+00:00</lastmod>
   </url><url>
@@ -29,65 +175,11 @@
     <loc>https://www.ScienceChronicle.org/en/tags/medusa-and-polyp-forms/</loc>
     <lastmod>2024-02-05T03:16:58+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/</loc>
-    <lastmod>2024-02-05T03:16:58+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/news/"
-                />
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/radial-symmetry/</loc>
     <lastmod>2024-02-05T03:16:58+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-02-05T03:16:58+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/"
-                />
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/stinging-cells-nematocysts/</loc>
     <lastmod>2024-02-05T03:16:58+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-02-05T03:16:58+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/tags/"
-                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/common-ancestry/</loc>
     <lastmod>2024-02-05T00:58:40+00:00</lastmod>
@@ -99,9 +191,6 @@
     <lastmod>2024-02-05T00:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/evolutionary-adaptation/</loc>
-    <lastmod>2024-02-05T00:58:40+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/evolutionary-biology/</loc>
     <lastmod>2024-02-05T00:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/evolutionary-processes/</loc>
@@ -242,13 +331,7 @@
     <loc>https://www.ScienceChronicle.org/en/news/green-gold-unveiling-mung-beans-nutritional-journey/</loc>
     <lastmod>2024-02-04T00:52:02+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/health/</loc>
-    <lastmod>2024-02-04T00:52:02+00:00</lastmod>
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/health-benefits-of-mongo-sprout/</loc>
-    <lastmod>2024-02-04T00:52:02+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/medicine/</loc>
     <lastmod>2024-02-04T00:52:02+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/monggo-sprout-benefits/</loc>
@@ -713,9 +796,6 @@
     <loc>https://www.ScienceChronicle.org/en/tags/heart-disease/</loc>
     <lastmod>2024-01-30T00:48:33+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/nutriceutical/</loc>
-    <lastmod>2024-01-30T00:48:33+00:00</lastmod>
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/prevent-heart-disease/</loc>
     <lastmod>2024-01-30T00:48:33+00:00</lastmod>
   </url><url>
@@ -778,9 +858,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/what-to-eat-before-exam/</loc>
     <lastmod>2024-01-29T18:06:38+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/biology/</loc>
-    <lastmod>2024-01-29T17:48:53+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/chia-seeds-benefits-for-females/</loc>
     <lastmod>2024-01-29T17:48:53+00:00</lastmod>
@@ -951,9 +1028,6 @@
     <lastmod>2024-01-27T10:44:20+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/regenerative-liver/</loc>
-    <lastmod>2024-01-27T10:44:20+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/regenerative-medicine/</loc>
     <lastmod>2024-01-27T10:44:20+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/regenerative-therapy/</loc>
@@ -1857,19 +1931,6 @@
                 href="https://www.ScienceChronicle.org/en/news/rutein-may-be-effective-in-combating-osteoarthritis/"
                 />
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/rutin/</loc>
-    <lastmod>2024-01-07T09:53:46+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/tags/rutin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/tags/rutin/"
-                />
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/treatment-for-severe-osteoarthritis-in-hands/</loc>
     <lastmod>2024-01-07T09:53:46+00:00</lastmod>
   </url><url>
@@ -2170,50 +2231,6 @@
     <loc>https://www.ScienceChronicle.org/en/tags/reticular-dysgenesis/</loc>
     <lastmod>2024-01-02T10:47:21+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/ruta-graveolens/</loc>
-    <lastmod>2024-01-01T11:18:49+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/tags/ruta-graveolens/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/tags/ruta-graveolens/"
-                />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/rutien/</loc>
-    <lastmod>2024-01-01T11:18:49+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/tags/rutien/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/tags/rutien/"
-                />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/antidiabetic-effects-of-rutin/</loc>
-    <lastmod>2024-01-01T11:18:49+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/news/antidiabetic-effects-of-rutin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/news/antidiabetic-effects-of-rutin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/news/antidiabetic-effects-of-rutin/"
-                />
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/acridones/</loc>
     <lastmod>2024-01-01T10:42:19+00:00</lastmod>
   </url><url>
@@ -2234,6 +2251,19 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/neurodegenerative-disease-treatment/</loc>
     <lastmod>2024-01-01T01:16:58+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/ruta-graveolens/</loc>
+    <lastmod>2024-01-01T01:16:58+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/tags/ruta-graveolens/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/ruta-graveolens/"
+                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/traditional-medicine/</loc>
     <lastmod>2024-01-01T01:16:58+00:00</lastmod>
@@ -3123,9 +3153,6 @@
     <loc>https://www.ScienceChronicle.org/en/tags/blood-sugar/</loc>
     <lastmod>2023-05-21T17:43:04+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/diabetis/</loc>
-    <lastmod>2023-05-21T17:43:04+00:00</lastmod>
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/reiki-sessions-positive-effects-blood-sugar-levels-blood-pressure/</loc>
     <lastmod>2023-05-21T17:43:04+00:00</lastmod>
   </url><url>
@@ -3860,9 +3887,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/sabretooth-extinction-climate-change-michigan-university/</loc>
     <lastmod>2023-05-17T23:32:44+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/developmental-biology/</loc>
-    <lastmod>2023-05-17T23:31:41+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/hydra-self-assembly-shared-genes-mammals/</loc>
     <lastmod>2023-05-17T23:31:41+00:00</lastmod>

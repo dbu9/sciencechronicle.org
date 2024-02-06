@@ -1,12 +1,11 @@
 ---
 title: "The Multifaceted Benefits of Rutin in Managing Diabetes"
 description: "Rutin, a bioflavonoid found in many plants, has garnered attention for its wide range of biological activities, including potential antidiabetic effects. This blog article, based on a comprehensive review by Ahmad Ghorbani in Biomedicine & Pharmacotherapy (2017), explores the antidiabetic properties of rutin and its mechanisms of action."
-date: 2024-01-01T11:18:49.310Z
+date: 2024-02-05T11:18:49.310Z
 draft: false
-tags: [rutien, rutin, Ruta graveolens]
-thumbnail: "/news/anti-inflammatory-effect-of-chia-seeds-enhanced-by-cucumber-juice-large-scale-test-reveals/thumb.png"
+tags: [rutien, rutin, diabetis, nutriceutical, medicine, health]
+thumbnail: "/news/antidiabetic-effects-of-rutin/thumb.jpg"
 ---
-
 
 ## Unveiling Rutin: A Natural Ally Against Diabetes
 

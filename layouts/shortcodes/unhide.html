@@ -1,0 +1,36 @@
+<style>
+
+	.unhide-button {
+		display: inline-block;
+		padding: 10px 20px;
+		margin: 10px 0;
+		font-size: 16px;
+		cursor: pointer;
+		text-align: center;
+		text-decoration: none;
+		outline: none;
+		color: #fff;
+		background-color: #007bff;
+		border: none;
+		border-radius: 5px;
+		box-shadow: 0 6px #0056b3;
+	}
+	
+	.unhide-button:hover { background-color: #0069d9; }
+	
+	.unhide-button:active {
+		background-color: #005cbf;
+		box-shadow: 0 3px #004085;
+		transform: translateY(4px);
+	}
+	
+	.unhide-button:focus { outline: none; }
+	
+</style>
+
+<div class="hidden-content" style="display:none;">
+  {{ .Inner | markdownify }}
+</div>
+<button class="unhide-button" onclick="this.previousElementSibling.style.display='block'; this.style.display='none';">
+  {{ with .Get "buttonText" }}{{ . }}{{ else }}Unhide{{ end }}
+</button>

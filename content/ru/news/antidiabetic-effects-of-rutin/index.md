@@ -4,7 +4,7 @@ description: "Рутин, биофлавоноид, найденный во мн
 date: 2024-01-01T11:18:49.310Z
 draft: false
 tags: [рутин, рутин, Рута душистая]
-thumbnail: "/news/anti-inflammatory-effect-of-chia-seeds-enhanced-by-cucumber-juice-large-scale-test-reveals/thumb.png"
+thumbnail: "/news/antidiabetic-effects-of-rutin/thumb.jpg"
 ---
 
 

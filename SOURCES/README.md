@@ -18,3 +18,11 @@
 2.  Write 300 words on the keypoint 2, for a wide internet auditory. Add in-text links to Wikipedia for scientific terms where appropriate. Give a title citing the keypoint 2. This peice of the text is the 2 part of the 5 parts editorial based on the 5 keypoints. Format in MD.
 3. Write 300 words on the keypoint 3, for a wide internet auditory. Add in-text links to Wikipedia for scientific terms where appropriate. Give a title citing the keypoint 3. This peice of the text is the 3 part of the 5 parts editorial based on the 5 keypoints. Format in MD.
 4. Write 300 words on the keypoint 4, for a wide internet auditory. Add in-text links to Wikipedia for scientific terms where appropriate. Give a title citing the keypoint 4. This peice of the text is the 4 part of the 5 parts editorial based on the 5 keypoints. Format in MD.
+
+# Scenario 3 (interviews)
+
+Imagine you are interviewing the authors of that paper. Write 20 questions you would ask them and their answers about the research demonstrated in the uploaded paper. 
+At the beginning of the interview, describe the research made in the article so that the readers of the interview have a background about questions you ask the authors.
+At the end, thank the authors. 
+Introduce interviewer as an editor of ScienceChronicle.org, a famous popular science website, and refer to her as SD. Refer to the authors as "Authors".
+Make the interview "look" real. 

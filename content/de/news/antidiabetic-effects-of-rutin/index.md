@@ -4,7 +4,7 @@ description: "Rutin, ein in vielen Pflanzen vorkommendes Bioflavonoid, hat aufgr
 date: 2024-01-01T11:18:49.310Z
 draft: false
 tags: [rutien, rutin, Ruta graveolens]
-thumbnail: "/news/anti-inflammatory-effect-of-chia-seeds-enhanced-by-cucumber-juice-large-scale-test-reveals/thumb.png"
+thumbnail: "/news/antidiabetic-effects-of-rutin/thumb.jpg"
 ---
 
 ## Rutin enthüllen: Ein natürlicher Verbündeter gegen Diabetes
