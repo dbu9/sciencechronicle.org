@@ -22,11 +22,15 @@ googleAnalytics = "G-LCXCFMHZQ7"
         url = "news"
         weight = 1
 
+		[[languages.en.menu.main]]
+        name = "Quizes"
+        url = "quizes"
+        weight = 2
 
     [[languages.en.menu.main]]
         name = "Tags"
         url = "tags"
-        weight = 2
+        weight = 3
 	
 	[languages.ru]
     contentDir = "content/ru" #English
