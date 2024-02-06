@@ -7,8 +7,6 @@ tags: [neuroscience]
 thumbnail: "/news/understanding-the-mechanisms-behind-memory-formation-and-retrieval-at-the-neuronal-level/thumb.png"
 ---
 
-Understanding the mechanisms behind memory formation and retrieval at the neuronal level
-
 Scientists from the University of Oxford have been studying the mechanisms behind memory formation and retrieval at the neuronal level, in an effort to better understand how memories are stored and retrieved within the brain. The research, which was conducted using animal models, sheds new light on the processes that enable memory formation and retrieval and could lead to the development of new treatments for disorders such as Alzheimer's disease.
 
 Previous research has shown that the formation and retrieval of memories are complex processes that involve the activation of specific neuronal networks within the brain. However, the mechanisms by which these networks are activated and how they interact with each other have remained poorly understood.

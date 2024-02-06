@@ -15,7 +15,7 @@ The scientists used a combination of advanced genetic sequencing techniques and 
 
 Although the exact mechanism of horizontal gene transfer in human neurons is still being studied, the researchers suggest that it may occur through the exchange of genetic material between cells via small vesicles, or through the direct transfer of genetic material from one cell to another. Regardless of the mechanism, the discovery of horizontal gene transfer in human neurons represents a major paradigm shift in our understanding of neurological evolution.
 
-References:
+# References
 - Maslov, D. A., & Sneppen, K. (2014). Population cycles and species diversity in dynamic Kill-the-winner model of microbial ecosystems. Scientific Reports, 4, 3831. https://doi.org/10.1038/srep03831
 - O'Malley, M. A., & Dupré, J. (2007). Size doesn't matter: Towards a more inclusive philosophy of biology. Biology and Philosophy, 22(2), 155-191. https://doi.org/10.1007/s10539-007-9064-4
 - Shapiro, J. A. (1998). Thinking about bacterial populations as multicellular organisms. Annual Review of Microbiology, 52(1), 81-104. https://doi.org/10.1146/annurev.micro.52.1.81

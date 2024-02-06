@@ -3,8 +3,8 @@ title: "Transposons May Have Contributed to Brain Evolution of Monkeys, Turning 
 description: "Transposons, genetic elements that can move around the DNA sequence, may have played a key role in the evolution of primates into humans and the development of the human brain, according to groundbreaking research conducted at Saint Caroline University."
 date: 2023-05-20T15:50:04.509Z
 draft: false
-tags: [transposons evolution, human evolution]
-thumbnail: "/news//transposons-may-have-contributed-to-brain-evolution-of-monkeys-turning-them-into-homo-sapiens/thumb.png"
+tags: [transposons evolution, human evolution, transposons, genome]
+thumbnail: "/news/transposons-may-have-contributed-to-brain-evolution-of-monkeys-turning-them-into-homo-sapiens/thumb.png"
 ---
 
 In a groundbreaking research conducted at Saint Caroline University, a team of scientists have discovered that transposable elements, or transposons, present in human genomes, may have contributed to the evolution of the human brain, which separated us from the rest of the primates.
