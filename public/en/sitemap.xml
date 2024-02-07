@@ -9,13 +9,13 @@
     <lastmod>2024-02-07T00:17:53+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/categories/"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/categories/"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -52,18 +52,28 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/quiz/</loc>
     <lastmod>2024-02-07T00:17:53+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/quiz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/quiz/"
+                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/</loc>
     <lastmod>2024-02-07T00:17:53+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -75,13 +85,13 @@
     <lastmod>2024-02-07T00:17:53+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/tags/"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/tags/"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -91,6 +101,16 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/quiz/medical-biochemistry-quiz-challenge/</loc>
     <lastmod>2024-02-07T00:17:53+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/quiz/medical-biochemistry-quiz-challenge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/quiz/medical-biochemistry-quiz-challenge/"
+                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/vitamin-deficiency-symptoms/</loc>
     <lastmod>2024-02-07T00:17:53+00:00</lastmod>
@@ -417,6 +437,16 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/article/</loc>
     <lastmod>2024-02-05T03:16:58+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/article/"
+                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/cnidarian-movement/</loc>
     <lastmod>2024-02-05T03:16:58+00:00</lastmod>
@@ -429,6 +459,16 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/article/exploring-cnidarians-form-function-fascination-aquatic-world/</loc>
     <lastmod>2024-02-05T03:16:58+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/article/exploring-cnidarians-form-function-fascination-aquatic-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/article/exploring-cnidarians-form-function-fascination-aquatic-world/"
+                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/gastrovascular-cavity/</loc>
     <lastmod>2024-02-05T03:16:58+00:00</lastmod>
@@ -825,9 +865,29 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/chytridiomycota/</loc>
     <lastmod>2024-02-01T01:58:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/tags/chytridiomycota/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/chytridiomycota/"
+                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/article/classifying-newly-discovered-fungus-chytridiomycota/</loc>
     <lastmod>2024-02-01T01:58:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/article/classifying-newly-discovered-fungus-chytridiomycota/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/article/classifying-newly-discovered-fungus-chytridiomycota/"
+                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/flagellated-spores/</loc>
     <lastmod>2024-02-01T01:58:40+00:00</lastmod>

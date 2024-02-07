@@ -43,7 +43,7 @@ googleAnalytics = "G-LCXCFMHZQ7"
         weight = 5
 
 	[languages.ru]
-    contentDir = "content/ru" #English
+    contentDir = "content/ru" 
     weight = 2
     languageName = "Русский"
     [languages.ru.params]
@@ -52,16 +52,30 @@ googleAnalytics = "G-LCXCFMHZQ7"
       introPhoto = "/intro.png"
       logo = "/logo8.png"
 
-    [[languages.ru.menu.main]]
-        name = "News"
+		[[languages.ru.menu.main]]
+        name = "Новости"
         url = "news"
         weight = 1
 
+    [[languages.ru.menu.main]]
+        name = "Статьи"
+        url = "article"
+        weight = 2
+
+		[[languages.ru.menu.main]]
+        name = "Викторины"
+        url = "quiz"
+        weight = 3
+
+		[[languages.ru.menu.main]]
+        name = "Категории"
+        url = "categories"
+        weight = 4
 
     [[languages.ru.menu.main]]
-        name = "Tags"
+        name = "Теги"
         url = "tags"
-        weight = 2
+        weight = 5
 
 	[languages.de]
     contentDir = "content/de" 
@@ -74,12 +88,12 @@ googleAnalytics = "G-LCXCFMHZQ7"
       logo = "/logo8.png"
 
     [[languages.de.menu.main]]
-        name = "News"
+        name = "Nachrichten"
         url = "news"
         weight = 1
 
 
-    [[languages.ru.menu.main]]
+    [[languages.de.menu.main]]
         name = "Tags"
         url = "tags"
         weight = 2
