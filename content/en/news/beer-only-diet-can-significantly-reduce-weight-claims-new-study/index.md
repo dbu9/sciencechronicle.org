@@ -3,7 +3,7 @@ title: "Beer-Only Diet Can Significantly Reduce Weight, Claims New Study"
 description: "A recent study from Liverpool University suggests that a beer-only diet could lead to significant weight loss, but doctors warn of potential risks."
 date: 2024-01-22T00:24:54.807Z
 draft: false
-tags: [nutrition, beer, diet, weight loss]
+tags: [beer-only diet, weight loss diet, alcohol diet risks, rapid weight loss, health risks beer diet, beer diet study, nutritional deficiencies, beer for weight loss, short-term diets, extreme weight loss methods, medical advice on beer diet, beer consumption health, unconventional diets, beer diet warnings]
 thumbnail: "/news/beer-only-diet-can-significantly-reduce-weight-claims-new-study/thumb.webp"
 ---
 
