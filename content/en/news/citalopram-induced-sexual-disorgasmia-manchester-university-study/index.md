@@ -34,7 +34,7 @@ The table below presents data from research on the percentage of participants wh
 
 |Light|Average|Serious|Serious with prolonged effect|
 |--|---|---|---|
-|50%  |30%    |20     |10|
+|50%  |30%    |15%     |5%|
  
 While the research sheds light on the complex relationship between depression, treatment, and sexual functioning, there is still a need for further investigation. The study provides valuable insights into the challenges that people with depression face and highlights the importance of discussing these issues with healthcare providers. 
 
