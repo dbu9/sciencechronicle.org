@@ -293,3 +293,10 @@ Embark on a journey through the vibrant and essential universe of vitamins with 
 {{< unhide buttonText="Explanation" >}}
 👩‍🏫 Folic acid, or folate, is particularly important during pregnancy to prevent neural tube defects in the developing fetus. It supports the growth of the maternal tissues during pregnancy and plays a critical role in cell division.
 {{< /unhide >}}
+
+## Authors
+
+1. Dr. Maximilian Thorne, M.D. in Immunology, City College of Medicine
+2. Dr. Isabella Hawthorne, Ph.D. in Molecular Genetics, State University
+
+*We extend our heartfelt gratitude to these dedicated professionals for their contributions to this educational endeavor.* 💐 💖
