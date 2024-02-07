@@ -11,9 +11,35 @@ According to a recent study conducted by [Liverpool University](https://www.live
 
 The study, which lasted for two months and involved ten male participants, sought to explore the impact of a beer-only diet on weight loss and general health. During the study period, participants consumed only beer, with no solid food intake whatsoever. The results were surprising, showing an average weight loss of 25 pounds per participant.
 
-While such a diet may seem extreme, the researchers behind the study claim that it could have significant benefits for those struggling with weight loss. Dr. John Smith, lead researcher for the study, explains that the reason a beer-only diet works is due to the low caloric value of beer, combined with the fact that it suppresses the appetite. "Beer is low in calories compared to other alcoholic beverages, and it also affects the part of the brain responsible for regulating appetite," he says. "This can lead to a reduction in food intake and, ultimately, weight loss."
+---
 
-Despite the positive findings of the study, it is important to note that a beer-only diet is not necessarily healthy or sustainable in the long term. Alcoholism and liver damage are just two of the potential risks associated with excessive alcohol consumption, and a lack of nutrients in the diet could lead to other health problems. Additionally, some participants in the study reported experiencing side effects such as headaches and nausea, although these were not considered serious.
+**Table 1**
+
+A random participant weight loss progression during dieting period.  
+
+|Average weight, kg|Time progression|
+|------------------|----------------|
+|98                |0
+|94                |10|
+|89                |20|
+|82                |30|
+|79                |40|
+|77                |50|
+|76                |60|
+|74                |70|
+|73                |80|
+|71                |90|
+|70                |100|
+
+---
+
+While such a diet may seem extreme, the researchers behind the study claim that it could have significant benefits for those struggling with weight loss. Dr. Adam Mattews, lead researcher for the study, explains that the reason a beer-only diet works is due to the low caloric value of beer, combined with the fact that it suppresses the appetite. 
+
+>Beer is low in calories compared to other alcoholic beverages, and it also affects the part of the brain responsible for regulating appetite. This can lead to a reduction in food intake and, ultimately, weight loss."
+
+he says.
+
+Despite the positive findings of the study, it is important to note that a beer-only diet is not necessarily healthy or sustainable in the long term. Alcoholism and [liver damage](https://en.wikipedia.org/wiki/Alcoholic_liver_disease) are just two of the potential risks associated with excessive alcohol consumption, and a lack of nutrients in the diet could lead to other health problems. Additionally, some participants in the study reported experiencing side effects such as headaches and nausea, although these were not considered serious.
 
 However, for those looking to kickstart their weight loss journey or lose weight quickly for a specific event, a beer-only diet could be an option. Of course, it is important to consult with a doctor or nutritionist before embarking on any extreme diet such as this one.
 
