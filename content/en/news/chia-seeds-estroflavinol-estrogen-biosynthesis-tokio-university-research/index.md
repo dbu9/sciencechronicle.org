@@ -4,11 +4,11 @@ description: "This article explores the groundbreaking discovery of Estroflavino
 date: 2024-02-07T22:55:42.713Z
 draft: false
 categories: [Nutriceuticals]
-tags: [chia seeds, estroflavinol, estrogen biosynthesis, female health, dietary flavonoids, hormonal balance, nutritional biochemistry, tokio university research, antioxidant properties, aromatase enzyme activation, estrogen precursor activation, quercetin derivative, hormonal imbalance management, salvia hispanica benefits, natural estrogen boosters, women's health supplements, phytoestrogens, bioactive compounds in chia, estrogen deficiency solutions, flavonoid health benefits, estrogen production, natural hormonal therapy, estrogen-enhancing foods, chia seed nutritional profile, menopause dietary support]
+tags: [chia seed estrogen, chia seeds, estroflavinol, estrogen biosynthesis, female health, dietary flavonoids, hormonal balance, nutritional biochemistry, tokio university research, antioxidant properties, aromatase enzyme activation, estrogen precursor activation, quercetin derivative, hormonal imbalance management, salvia hispanica benefits, natural estrogen boosters, women's health supplements, phytoestrogens, bioactive compounds in chia, estrogen deficiency solutions, flavonoid health benefits, estrogen production, natural hormonal therapy, estrogen-enhancing foods, chia seed nutritional profile, menopause dietary support]
 thumbnail: "/news/chia-seeds-estroflavinol-estrogen-biosynthesis-tokio-university-research/thumb.webp"
 ---
 
-Recent discoveries at Tokio University have identified a novel flavonoid, Estroflavinol, derived from chia seeds (Salvia hispanica L.), which exhibits a direct activation effect on the precursor molecules of estrogen hormones. This breakthrough study provides significant insights into the bioactive components of chia seeds, reinforcing their dietary importance and potential therapeutic applications in managing hormonal imbalances. Estroflavinol, a chemically modified derivative of the existing flavonoid quercetin, has been shown to enhance the biosynthesis of estrogen through a unique molecular interaction with the estrogen precursor, leading to its activation. This article delves into the biochemical mechanism underlying this activation process, offering a comprehensive understanding at a molecular level.
+Recent discoveries at [Tokio University]9https://www.u-tokyo.ac.jp/en/ have identified a novel flavonoid, Estroflavinol, derived from [chia seeds](https://en.wikipedia.org/wiki/Chia_seed) (Salvia hispanica L.), which exhibits a direct activation effect on the [precursor molecules](https://en.wikipedia.org/wiki/Precursor_(chemistry)) of [estrogen](https://en.wikipedia.org/wiki/Estrogen) hormones. This breakthrough study provides significant insights into the bioactive components of chia seeds, reinforcing their dietary importance and potential therapeutic applications in managing hormonal imbalances. Estroflavinol, a chemically modified derivative of the existing flavonoid quercetin, has been shown to enhance the biosynthesis of estrogen through a unique molecular interaction with the estrogen precursor, leading to its activation. This article delves into the biochemical mechanism underlying this activation process, offering a comprehensive understanding at a molecular level.
 
 ## Introduction
 
@@ -23,6 +23,11 @@ The identification and structural elucidation of Estroflavinol were performed us
 
 ### Starting Compound: Quercetin
 Quercetin is a flavonoid, a class of plant secondary metabolites known for their antioxidant properties. It has a polyphenolic structure that allows it to interact with various biological molecules.
+
+|Aromatase inghibition pathway (chia seed estrogen)|
+|---|
+|![chia seed estrogen](/news/chia-seeds-estroflavinol-estrogen-biosynthesis-tokio-university-research/inh.png)|
+
 
 ### Addition of Hydroxyl and Methoxyl Groups
 The modification of quercetin to create Estroflavinol involves the addition of hydroxyl (–OH) and methoxyl (–OCH₃) groups. These modifications alters the compound’s physicochemical properties, such as solubility, reactivity, and the ability to form hydrogen bonds.
@@ -50,7 +55,7 @@ This  mechanism outlines a potential pathway by which Estroflavinol, derived fro
 
 ## Results
 
-Estroflavinol was found to bind specifically to the aromatase enzyme complex, a key player in the conversion of androgens to estrogens. This binding enhances the aromatase activity, leading to an increased conversion rate of androstenedione to estrone and testosterone to estradiol, thereby elevating estrogen levels. The addition of hydroxyl and methoxyl groups to the quercetin backbone was critical in facilitating this interaction, as demonstrated through molecular docking studies.
+Estroflavinol was found to bind specifically to the [aromatase](https://en.wikipedia.org/wiki/Aromatase) enzyme complex, a key player in the conversion of androgens to estrogens. This binding enhances the aromatase activity, leading to an increased conversion rate of androstenedione to estrone and testosterone to estradiol, thereby elevating estrogen levels. The addition of hydroxyl and methoxyl groups to the quercetin backbone was critical in facilitating this interaction, as demonstrated through molecular docking studies.
 
 ## Discussion
 
@@ -78,6 +83,7 @@ The discovery of Estroflavinol from chia seeds and its mechanism of action in es
 14. [Autofluorescent Proteins in Single-Molecule Research: Applications to Live Cell Imaging Microscopy](https://doi.org/10.1016/S0006-3495(01)76209-1)
 15. [Analysis of the cognitive and functional behavior of female rats in the periestropause after hormone therapy with estrogen](https://doi.org/10.1016/j.bbr.2024.114866)
 16. [Short-term depletion of plasma estrogen affects hypothalamic kisspeptin-neurokinin B-dynorphin A neurons, gonadotrophs, and pulsatile luteinizing hormone secretion in female rats](https://doi.org/10.1016/j.peptides.2022.170929)
-17. [Anti-Müllerian hormone concentration as an indicator of female general health status: a cross-sectional study](https://doi.org/10.1016/j.rbmo.2021.08.019)
-18. [Female sex hormones and periodontal health-awareness among gynecologists – A questionnaire survey](https://doi.org/10.1016/j.sdentj.2011.12.001)
-19. [Hormonal regulation of cilia in the female reproductive tract](https://doi.org/10.1016/j.coemr.2024.100503)
+17. [Aromatase](https://www.sciencedirect.com/topics/chemistry/aromatase)
+18. [Anti-Müllerian hormone concentration as an indicator of female general health status: a cross-sectional study](https://doi.org/10.1016/j.rbmo.2021.08.019)
+19. [Female sex hormones and periodontal health-awareness among gynecologists – A questionnaire survey](https://doi.org/10.1016/j.sdentj.2011.12.001)
+20. [Hormonal regulation of cilia in the female reproductive tract](https://doi.org/10.1016/j.coemr.2024.100503)
