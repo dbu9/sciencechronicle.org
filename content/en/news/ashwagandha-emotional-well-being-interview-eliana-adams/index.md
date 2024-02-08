@@ -11,7 +11,7 @@ In this exclusive interview for ScienceChronicle.org, we delve into the fascinat
 
 |Dr. Eliana Adams|
 |---|
-|![eliana](/news/ashwagandha-emotional-well-being-interview-eliana-adams/eliana.png)
+|![eliana](/news/ashwagandha-emotional-well-being-interview-eliana-adams/eliana.png)|
 
 As a herb that has been used for centuries in traditional Ayurvedic medicine, Ashwagandha's popularity has surged in recent years, touted for its stress-relieving properties. However, amidst its rising acclaim, questions have emerged about its impact on emotional well-being, with many asking: Does Ashwagandha make you emotionless? Eliana Adams offers her expert insights to shed light on this question, guiding us through the science behind Ashwagandha and its effects on our emotional landscape.
 
@@ -25,7 +25,13 @@ As a herb that has been used for centuries in traditional Ayurvedic medicine, As
 
 ## 3. How does Ashwagandha affect the brain and emotional health?
 
-**Eliana Adams:** Ashwagandha is thought to influence brain health by acting on the neuroendocrine system, which includes the hypothalamus, pituitary gland, and adrenal glands, collectively known as the HPA axis. This axis plays a crucial role in stress response. Ashwagandha may help in balancing the secretion of stress hormones like cortisol and adrenaline, which in turn can have a calming effect without blunting emotions. Additionally, it might enhance brain function and mood by influencing key neurotransmitters involved in mood regulation, such as serotonin and dopamine.
+**Eliana Adams:** Ashwagandha is thought to influence brain health by acting on the neuroendocrine system, which includes the hypothalamus, pituitary gland, and adrenal glands, collectively known as the [HPA axis](https://en.wikipedia.org/wiki/Hypothalamic%E2%80%93pituitary%E2%80%93adrenal_axis). 
+
+|HPA Axis and stress response|
+|---|
+|![eliana](/news/ashwagandha-emotional-well-being-interview-eliana-adams/hpa_axis.webp)|
+
+This axis plays a crucial role in stress response. Ashwagandha may help in balancing the secretion of stress hormones like cortisol and adrenaline, which in turn can have a calming effect without blunting emotions. Additionally, it might enhance brain function and mood by influencing key neurotransmitters involved in mood regulation, such as serotonin and dopamine.
 
 ## 4. Are there any scientific studies that support the claim that Ashwagandha helps with emotional balance?
 
@@ -33,7 +39,7 @@ As a herb that has been used for centuries in traditional Ayurvedic medicine, As
 
 ## 5. Can Ashwagandha consumption lead to a decrease in emotional sensitivity or empathy?
 
-**Eliana Adams:** Based on the current scientific understanding, there's no evidence to suggest that Ashwagandha decreases emotional sensitivity or empathy. Its primary function is to help the body adapt to stress and potentially reduce the overactivation of the stress response, which can, in turn, support emotional resilience and well-being. Emotional sensitivity and empathy are complex traits influenced by a multitude of factors, and adaptogens like Ashwagandha are not known to diminish these capacities.
+**Eliana Adams:** Based on the current scientific understanding, there's no evidence to suggest that Ashwagandha decreases emotional sensitivity or empathy. Its primary function is to help the body adapt to stress and potentially reduce the overactivation of the stress response, which can, in turn, support [emotional resilience](https://warwick.ac.uk/services/wss/topics/emotional_resilience/) and well-being. Emotional sensitivity and empathy are complex traits influenced by a multitude of factors, and adaptogens like Ashwagandha are not known to diminish these capacities.
 
 ## 6. How should someone start taking Ashwagandha if they're interested in its emotional health benefits?
 
@@ -41,11 +47,23 @@ As a herb that has been used for centuries in traditional Ayurvedic medicine, As
 
 ## 7. What are the potential side effects of Ashwagandha?
 
-**Eliana Adams:** While Ashwagandha is generally considered safe for most people, some may experience side effects, such as upset stomach, nausea, and drowsiness. In rare cases, more severe reactions can occur, particularly at high doses. It’s also important to note that Ashwagandha may interact with certain medications, including those for thyroid, blood sugar, and blood pressure, so consultation with a healthcare provider is key.
+**Eliana Adams:** While Ashwagandha is generally considered safe for most people, some may experience side effects, such as upset stomach, nausea, and drowsiness. In rare cases, more severe reactions can occur, particularly at high doses. 
+
+|Side effects like nausea can occur in some people|
+|---|
+|![side effects](/news/ashwagandha-emotional-well-being-interview-eliana-adams/side.jpg)|
+
+It’s also important to note that Ashwagandha may interact with certain medications, including those for thyroid, blood sugar, and blood pressure, so consultation with a healthcare provider is key.
 
 ## 8. Is Ashwagandha a solution for everyone looking to manage stress and emotional health?
 
-**Eliana Adams:** Like any supplement, Ashwagandha isn’t a one-size-fits-all solution. Its effectiveness can vary from person to person. For some, it may offer significant benefits in managing stress and supporting emotional health, while others may not notice as much of an effect. It's important to approach it as part of a holistic strategy for stress management that includes a healthy lifestyle, regular exercise, and possibly other therapies as recommended by a healthcare provider.
+**Eliana Adams:** Like any supplement, Ashwagandha isn’t a one-size-fits-all solution. Its effectiveness can vary from person to person. For some, it may offer significant benefits in managing stress and supporting emotional health, while others may not notice as much of an effect. 
+
+|Holistic approach to stress management|
+|---|
+|![holistic](/news/ashwagandha-emotional-well-being-interview-eliana-adams/holistic.png)|
+
+It's important to approach it as part of a holistic strategy for stress management that includes a healthy lifestyle, regular exercise, and possibly other therapies as recommended by a healthcare provider.
 
 ## 9. For how long does one need to take Ashwagandha to notice an effect on their emotional well-being?
 
