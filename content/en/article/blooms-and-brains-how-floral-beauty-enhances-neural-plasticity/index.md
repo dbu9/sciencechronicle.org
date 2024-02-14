@@ -3,7 +3,7 @@ title: "Blooms and Brains: How Floral Beauty Enhances Neural Plasticity"
 description: "Discover the fascinating link between the enchanting beauty of flowers and the brain's ability to adapt and grow. Learn how floral aesthetics can enhance neural plasticity, fostering cognitive development and emotional well-being"
 date: 2024-02-14T01:00:40.873Z
 draft: false
-categories: [Neotropics]
+categories: [Arts]
 tags: [flowers, neurology, neotropics, flowers enhance intelligence, neoplasticity,  neural plasticity,  floral beauty, brain health ,nature heals, cognitive growth]
 thumbnail: "/article/blooms-and-brains-how-floral-beauty-enhances-neural-plasticity/thumb.jpg"
 ---

@@ -2,6 +2,117 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ScienceChronicle.org/en/categories/arts/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/categories/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/categories/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/cultural-significance-flowers-japan/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/history-of-japanese-floral-design-ikebana-art-and-culture-exploration/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/floral-art-japan/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/categories/history/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/history-of-ikebana/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/ikebana/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/ikebana-evolution/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/ikebana-principles/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/ikebana-schools/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/japanese-art-and-culture/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/japanese-floral-design/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/news/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/wabi-sabi-in-ikebana/</loc>
+    <lastmod>2024-02-14T12:53:08+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/article/</loc>
     <lastmod>2024-02-14T01:00:40+00:00</lastmod>
     <xhtml:link
@@ -20,24 +131,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/brain-health/</loc>
     <lastmod>2024-02-14T01:00:40+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/categories/</loc>
-    <lastmod>2024-02-14T01:00:40+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/categories/"
-                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/cognitive-growth/</loc>
     <lastmod>2024-02-14T01:00:40+00:00</lastmod>
@@ -60,50 +153,11 @@
     <loc>https://www.ScienceChronicle.org/en/tags/neotropics/</loc>
     <lastmod>2024-02-14T01:00:40+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/categories/neotropics/</loc>
-    <lastmod>2024-02-14T01:00:40+00:00</lastmod>
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/neural-plasticity/</loc>
     <lastmod>2024-02-14T01:00:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/neurology/</loc>
     <lastmod>2024-02-14T01:00:40+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-02-14T01:00:40+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/"
-                />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-02-14T01:00:40+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/tags/"
-                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/alchemical-symbols/</loc>
     <lastmod>2024-02-14T00:39:09+00:00</lastmod>
@@ -111,32 +165,11 @@
     <loc>https://www.ScienceChronicle.org/en/tags/divine-wisdom/</loc>
     <lastmod>2024-02-14T00:39:09+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/categories/history/</loc>
-    <lastmod>2024-02-14T00:39:09+00:00</lastmod>
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/mystical-journey/</loc>
     <lastmod>2024-02-14T00:39:09+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/nature-and-spirituality/</loc>
     <lastmod>2024-02-14T00:39:09+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/</loc>
-    <lastmod>2024-02-14T00:39:09+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/news/"
-                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/philosophical-stone/</loc>
     <lastmod>2024-02-14T00:39:09+00:00</lastmod>
