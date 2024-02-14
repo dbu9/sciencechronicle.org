@@ -1,7 +1,7 @@
 ---
 title: "Vibrant Hues, Vibrant Minds: How Saturated Colors Spark Our Brain Activity"
 description: "Explore the profound impact of vibrant, saturated colors on our brain activity and emotions. This article delves into how these hues can energize, calm, and inspire us, shedding light on the scientific connection between color perception and psychological response."
-date: 2024-02-13T14:51:26.157Z
+date: 2024-02-13T15:51:26.157Z
 draft: false
 tags: [color psychology, brain activity, emotional impact, visual stimuli, saturated colors, mood enhancement, creativity, relaxation, decision-making]
 thumbnail: "/news/vibrant-hues-vibrant-minds:-how-saturated-colors-spark-our-brain-activity/thumb.png"
@@ -21,4 +21,4 @@ So next time you choose a color for your room, an outfit, or even a piece of art
 2. [Reconstructing sources location of visual color cortex by the task-irrelevant visual stimuli through machine learning decoding](https://doi.org/10.1016/j.heliyon.2022.e12287)
 3. [Perception of color in primates: A conceptual color neurons hypothesis](https://doi.org/10.1016/j.biosystems.2023.104867)
 4. [The effect of colour environments on visual tracking and visual strain during short-term simulation of three gravity states](https://doi.org/10.1016/j.apergo.2023.103994)
-5. [Decoding of EEG signals reveals non-uniformities in the neural geometry of colour]()
+5. [Decoding of EEG signals reveals non-uniformities in the neural geometry of colour](https://doi.org/10.1016/j.neuroimage.2023.119884)
