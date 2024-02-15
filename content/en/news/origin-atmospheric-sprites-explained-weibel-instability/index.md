@@ -4,7 +4,7 @@ description: "A new study from Pensilvania University sheds light on the origin 
 date: 2023-05-20T15:51:20.263Z
 draft: false
 tags: [Physics]
-thumbnail: "/news//origin-atmospheric-sprites-explained-weibel-instability/thumb.png"
+thumbnail: "/news/origin-atmospheric-sprites-explained-weibel-instability/thumb.png"
 ---
 
 A recent study conducted by researchers at Pensilvania University has shed light on the origin of atmospheric sprites, a phenomenon that has captivated the imagination of scientists for decades. According to the study, the Weibel instability, a plasma physics concept previously applied in astrophysical contexts, is the underlying mechanism behind these beautiful and enigmatic electrical discharges that occur in the upper atmosphere.
