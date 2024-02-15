@@ -1,6 +1,6 @@
 ---
 title: "What to do? Make money!"
-description: "Mastering Focus in the Digital Age: Strategies for Overcoming Distractions and Boosting Productivity"
+description: "The article discusses the author's struggle with procrastination and the distractions of the internet while trying to work. They propose a unique solution to this common issue: converting all tasks, both enjoyable and mundane, into monetary value as a motivation strategy to prioritize work that directly or indirectly leads to profit. This approach helps the author focus on tasks that are financially beneficial, aiming to enhance productivity and financial gain."
 date: 2024-02-15T03:58:40.873Z
 draft: false
 categories: [Psychology]
