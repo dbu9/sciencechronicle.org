@@ -4,7 +4,7 @@ description: "Mastering Focus in the Digital Age: Strategies for Overcoming Dist
 date: 2024-02-15T03:58:40.873Z
 draft: false
 categories: [Psychology]
-tags: [get money, make money make,i want to money,make money make more money,money make more money,get to the money,make as money,make money off money,earn money a,things you can make to make money,generate money,money make more money]
+tags: [money does, want is money, more money, get money, make money make,i want to money,make money make more money,money make more money,get to the money,make as money,make money off money,earn money a,things you can make to make money,generate money,money make more money,procrastination,stop procrastinating, chronic procrastination,overcoming procrastination, procrastination therapy,beat procrastination, anti procrastination, procrastination cure, dealing with procrastination,avoid procrastination,severe procrastination,ways to overcome procrastination, cognitive behavioral therapy for procrastination,procrastination psychology,eliminate procrastination,end procrastination,i procrastinate too much]
 thumbnail: "/article/what-to-do-make-money/thumb.webp"
 ---
 
