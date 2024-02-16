@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ScienceChronicle.org/ru/article/</loc>
+    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/article/"
+                />
+  </url><url>
     <loc>https://www.ScienceChronicle.org/ru/categories/</loc>
-    <lastmod>2024-02-07T00:17:53+00:00</lastmod>
+    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,21 +33,8 @@
                 href="https://www.ScienceChronicle.org/ru/categories/"
                 />
   </url><url>
-    <loc>https://www.ScienceChronicle.org/ru/quiz/</loc>
-    <lastmod>2024-02-07T00:17:53+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/quiz/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/quiz/"
-                />
-  </url><url>
     <loc>https://www.ScienceChronicle.org/ru/</loc>
-    <lastmod>2024-02-07T00:17:53+00:00</lastmod>
+    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -52,7 +52,7 @@
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/ru/tags/</loc>
-    <lastmod>2024-02-07T00:17:53+00:00</lastmod>
+    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,6 +67,47 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.ScienceChronicle.org/ru/tags/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/ru/categories/%D0%BD%D1%83%D1%82%D1%80%D0%B8%D1%86%D0%B5%D0%B2%D1%82%D0%B8%D0%BA%D0%B8/</loc>
+    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/ru/tags/%D1%81%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0-%D0%BB%D1%8C%D0%BD%D0%B0/</loc>
+    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/ru/tags/%D1%81%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0-%D1%87%D0%B8%D0%B0/</loc>
+    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/ru/article/chia-seed-v-flax-seeds-who-wins/</loc>
+    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/article/chia-seed-v-flax-seeds-who-wins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/article/chia-seed-v-flax-seeds-who-wins/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/ru/tags/%D1%81%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5/</loc>
+    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/ru/tags/%D1%87%D0%B8%D0%B0-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-%D0%BB%D1%8C%D0%BD%D0%B0/</loc>
+    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/ru/quiz/</loc>
+    <lastmod>2024-02-07T00:17:53+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/quiz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/quiz/"
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/ru/tags/%D0%B2%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE-%D0%B1%D0%B8%D0%BE%D1%85%D0%B8%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%BC-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0%D0%BC/</loc>
@@ -114,19 +155,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/ru/tags/%D1%81%D0%B8%D0%BC%D0%BF%D1%82%D0%BE%D0%BC%D1%8B-%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%B0-%D0%B2%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2/</loc>
     <lastmod>2024-02-07T00:17:53+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/ru/article/</loc>
-    <lastmod>2024-02-05T03:16:58+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/article/"
-                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/ru/tags/%D0%B0%D0%BA%D0%B2%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D1%8D%D0%BA%D0%BE%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/</loc>
     <lastmod>2024-02-05T03:16:58+00:00</lastmod>
@@ -440,9 +468,6 @@
     <lastmod>2024-01-30T00:48:33+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/ru/tags/%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5/</loc>
-    <lastmod>2024-01-30T00:48:33+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/ru/tags/%D1%81%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0-%D1%87%D0%B8%D0%B0/</loc>
     <lastmod>2024-01-30T00:48:33+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/ru/tags/%D1%81%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0-%D1%87%D0%B8%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BE%D1%85%D1%83%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F/</loc>
