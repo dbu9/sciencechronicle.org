@@ -4,7 +4,7 @@ description: "The post aims to comprehend the success of astrologers and soothsa
 date: 2024-02-17T22:58:40.873Z
 draft: false
 categories: [Psychology]
-tags: []
+tags: [alexei navalny, russian prison, death, google trends, political turbulence, earthquake turkey 2023, frank hoogerbeets, prediction, viral fame, human psychology, astrologists, mediums, recognition, social media, psychological biases, barnum effect, marketing, uncertainty]
 thumbnail: "/article/how-do-astrologists-and-mediums-gain-fame-with-just-one-accurate-prediction-among-hundreds/thumb.png"
 ---
 
