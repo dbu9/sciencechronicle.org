@@ -1,6 +1,6 @@
 ---
 title: "Unraveling the Complex Interplay Between Adiponectin and Inflammation in Lung Cancer Weight Loss"
-description: ""
+description: "This article explores the relationship between adiponectin levels, systemic inflammation, and weight loss in patients with non-small cell lung cancer (NSCLC), revealing significant insights into the complex interplay of adipokines and inflammation in cancer-induced metabolic changes."
 date: 2024-02-22T10:39:43.813Z
 draft: false
 categories: [Medicine]
