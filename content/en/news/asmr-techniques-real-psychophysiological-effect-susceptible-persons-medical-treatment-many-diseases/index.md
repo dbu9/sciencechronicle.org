@@ -19,7 +19,7 @@ The results were groundbreaking. The study found that individuals who reported e
 |--|
 |![brain](/news/asmr-techniques-real-psychophysiological-effect-susceptible-persons-medical-treatment-many-diseases/brain.png)
 
-Furthermore, the study also revealed that ASMR was associated with increased activity in key areas of the brain related to emotion regulation and the modulation of homeostatic processes. This provides compelling evidence that ASMR may have a genuine impact on the [autonomic nervous system]9https://en.wikipedia.org/wiki/Autonomic_nervous_system and emotional well-being of susceptible individuals.
+Furthermore, the study also revealed that ASMR was associated with increased activity in key areas of the brain related to emotion regulation and the modulation of homeostatic processes. This provides compelling evidence that ASMR may have a genuine impact on the [autonomic nervous system](https://en.wikipedia.org/wiki/Autonomic_nervous_system) and emotional well-being of susceptible individuals.
 
 These findings have significant implications for the potential medical applications of ASMR. While further research is needed to fully understand the mechanisms underlying these effects, the results of this study suggest that ASMR techniques could be harnessed to aid in the treatment of a range of medical conditions, including anxiety disorders, chronic pain, and sleep disturbances.
 
