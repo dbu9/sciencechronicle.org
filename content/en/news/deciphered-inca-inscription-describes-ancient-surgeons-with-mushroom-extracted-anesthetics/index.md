@@ -39,7 +39,7 @@ This groundbreaking study, conducted by a team of archaeologists and medical res
 
 ## References 
 
-1 . [Ritual drug use during Inca human sacrifices on Ampato mountain (Peru): Results of a toxicological analysis](https://doi.org/10.1016/j.jasrep.2022.103415)
+1. [Ritual drug use during Inca human sacrifices on Ampato mountain (Peru): Results of a toxicological analysis](https://doi.org/10.1016/j.jasrep.2022.103415)
 2. [A compositional analysis of pottery vessels associated with the Inca ritual of capacocha](https://doi.org/10.1016/j.jaa.2004.11.001)
 3. [Identification of psychoactive alkaloids in ancient Andean human hair by gas chromatography/mass spectrometry](https://doi.org/10.1016/j.jas.2008.09.036)
 4. [Cocaine and metabolites in the hair of ancient Peruvian coca leaf chewers](https://doi.org/10.1016/0379-0738(93)90280-N)
