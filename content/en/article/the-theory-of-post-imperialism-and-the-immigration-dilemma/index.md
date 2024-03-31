@@ -46,6 +46,10 @@ The situation at the US-Mexico border serves as another illustration of how immi
 
 Contrastingly, the federal government, under Democratic President Joe Biden, who is perceived to be influenced by the progressive wing of his party, has approached the issue [differently](https://edition.cnn.com/2024/01/14/politics/immigration-texas-border-dhs-letter-ken-paxton/index.html). The assertion here is that some members of this progressive faction, characterized by their support for more inclusive immigration policies, have influenced national policy directions. This divergence in approach led to legal challenges, with the judiciary playing a pivotal role in the debate over border security measures.
 
+|Electorate of progresive communists of Democratic party arrives|
+|-----------|
+|![texas](/article/the-theory-of-post-imperialism-and-the-immigration-dilemma/texas.png)|
+
 Videos circulating that show migrants crossing the border with what appears to be minimal intervention from border authorities have sparked controversy and debate. Critics of the Biden administration argue that its policies effectively encourage illegal immigration, with the underlying suggestion that new immigrants might predominantly support the Democratic Party in future elections.
 
 This complex interplay of state versus federal authority, alongside the politicization of immigration policy, reflects the multifaceted nature of the immigration debate in the United States. It showcases how immigration is not just a matter of border security or international relations but also a significant domestic political issue that influences and is influenced by broader political strategies and ideological divisions.
