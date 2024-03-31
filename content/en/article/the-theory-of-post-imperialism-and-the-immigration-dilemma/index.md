@@ -21,7 +21,7 @@ Transitioning to the post-imperial era, which is commonly marked by the dissolut
 
 ## Islamobolsheviks
 
-This narrative introduces a term, "Islamobolsheviks," to describe those who challenge the established power structures previously dominated by imperial beneficiaries. The label is crafted from combining "Islamic," reflecting the predominant origin of immigrants in Europe and the USA, and "Bolsheviks," indicating a strategy to overturn the current power dynamics through the mobilization of mass immigration. This terminology seeks to encapsulate the tactical approach of utilizing immigrants from predominantly Islamic countries as a means to challenge and potentially alter the prevailing political landscape.
+This narrative introduces a term, "Islamobolsheviks," to describe those who challenge the established power structures previously dominated by imperial beneficiaries. The label is crafted from combining [Islamic](https://en.wikipedia.org/wiki/Islam), reflecting the predominant origin of immigrants in Europe and the USA, and [Bolsheviks](https://en.wikipedia.org/wiki/Bolsheviks), indicating a strategy to overturn the current power dynamics through the mobilization of mass immigration. This terminology seeks to encapsulate the tactical approach of utilizing immigrants from predominantly Islamic countries as a means to challenge and potentially alter the prevailing political landscape.
 
 |Islamobolsheviks|
 |---------------|
