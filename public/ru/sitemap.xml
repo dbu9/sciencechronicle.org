@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.ScienceChronicle.org/ru/article/</loc>
-    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
+    <lastmod>2024-03-31T03:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/ru/categories/</loc>
-    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
+    <lastmod>2024-03-31T03:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,8 +33,47 @@
                 href="https://www.ScienceChronicle.org/ru/categories/"
                 />
   </url><url>
+    <loc>https://www.ScienceChronicle.org/ru/categories/history/</loc>
+    <lastmod>2024-03-31T03:58:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/categories/history/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/categories/history/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/ru/tags/immigration/</loc>
+    <lastmod>2024-03-31T03:58:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/immigration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/tags/immigration/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/ru/tags/post-imperialism/</loc>
+    <lastmod>2024-03-31T03:58:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/post-imperialism/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/tags/post-imperialism/"
+                />
+  </url><url>
     <loc>https://www.ScienceChronicle.org/ru/</loc>
-    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
+    <lastmod>2024-03-31T03:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -52,7 +91,7 @@
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/ru/tags/</loc>
-    <lastmod>2024-02-08T22:58:40+00:00</lastmod>
+    <lastmod>2024-03-31T03:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,6 +106,19 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://www.ScienceChronicle.org/ru/tags/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/ru/article/the-theory-of-post-imperialism-and-the-immigration-dilemma/</loc>
+    <lastmod>2024-03-31T03:58:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/article/the-theory-of-post-imperialism-and-the-immigration-dilemma/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/article/the-theory-of-post-imperialism-and-the-immigration-dilemma/"
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/ru/categories/%D0%BD%D1%83%D1%82%D1%80%D0%B8%D1%86%D0%B5%D0%B2%D1%82%D0%B8%D0%BA%D0%B8/</loc>

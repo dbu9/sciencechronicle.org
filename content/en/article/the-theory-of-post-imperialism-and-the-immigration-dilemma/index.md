@@ -35,7 +35,7 @@ Taking France as a case study, we delve into the historical backdrop of the Alge
 
 |OAS members|
 |-----------|
-|![islamobolsheviks](/article/the-theory-of-post-imperialism-and-the-immigration-dilemma/oas.png)|
+|![oas](/article/the-theory-of-post-imperialism-and-the-immigration-dilemma/oas.png)|
 
 
 This historical context sets the stage for a contemporary examination of immigration in France. Today, immigrants, particularly from former colonies like Algeria, represent a significant portion of the French population. This demographic shift prompts some to invert the OAS's slogan, suggesting that, metaphorically, "France is becoming Algeria," a statement reflecting the profound cultural and demographic changes stemming from immigration. This observation ties back to the proposed theory that immigration can substantially influence the political and social fabric of a nation.
