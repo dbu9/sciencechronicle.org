@@ -11,6 +11,24 @@
      crossorigin="anonymous">
 </script>
 
+	<script>
+	
+	
+	if (window.location.href.includes('click_id')) {
+		const TrackerDomain='dev.afoffer.com'
+		const url = new URL(window.location.href);
+		const params = new URLSearchParams(url.search);
+		const clickId = params.get('click_id');
+		const callbackURL = `https:\/\/${TrackerDomain}/conv?click_id=${clickId}&action=lead`;
+		console.log(`callbakcURL=${callbackURL}`);
+		fetch(callbackURL).then(result=>{
+			console.log(`All good`);
+		}).catch(err=>{
+			console.log(`Error: ${err.message}`);
+		})
+	}
+</script>
+
 
 	<link rel="icon" href="/favicon.png">
 
@@ -19,8 +37,8 @@
   </title>
   <meta name="description" content="The text reflects a deeply personal and introspective narrative of someone contemplating their participation in a challenging reality show, focusing on overcoming personal struggles, particularly with weight loss and self-perception. The narrator expresses a determination to change and confront their issues head-on, regardless of the existence or outcome of the show." /><meta name="generator" content="Hugo 0.105.0"><link
     rel="stylesheet"
-    href="https://www.ScienceChronicle.org/css/styles.min.28f7df8c9d6eb4fea348f73e7323460d6a3344fa0625a85ced2a91f07eeb2034.css"
-    integrity="sha256-KPffjJ1utP6jSPc+cyNGDWozRPoGJahc7SqR8H7rIDQ="
+    href="https://www.ScienceChronicle.org/css/styles.min.0f8fb76430629b7e7ade101613c914f85e74bc812e0a36a5277cbcaf2527f27f.css"
+    integrity="sha256-D4+3ZDBim3563hAWE8kU+F50vIEuCjalJ3y8ryUn8n8="
   />
   
   
