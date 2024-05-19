@@ -3,7 +3,7 @@ title: "The Advantages of Utilizing Tissue Cultures in Cancer Medication Studies
 description: "Explore the pivotal role of tissue cultures in advancing cancer medication research, highlighting their benefits for controlled experimental conditions, high-throughput screening, and personalized medicine."
 date: 2024-02-25T01:00:40.873Z
 draft: false
-categories: [biology]
+categories: [Biology]
 tags: [tissue culture in cancer research, benefits of tissue cultures for drug screening, using tissue cultures in oncology, personalized medicine through tissue culture, high-throughput screening cancer treatments, ethical alternatives to animal testing in cancer research, cellular mechanisms in cancer medication studies, three-dimensional culture systems for cancer, advancements in tissue culture technology, pharmacogenomics and cancer treatment optimization]
 thumbnail: "/article/benefits-using-tissue-cultures-cancer-medication-studies/thumb.png"
 ---
