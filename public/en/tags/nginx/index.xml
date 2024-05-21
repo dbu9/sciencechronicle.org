@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nginx on ScienceChronicle</title>
+    <link>https://www.ScienceChronicle.org/en/tags/nginx/</link>
+    <description>Recent content in nginx on ScienceChronicle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 May 2024 01:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is CVE-2021-23017 remotely exploitable?</title>
+      <link>https://www.ScienceChronicle.org/en/article/cve-2021-23017/</link>
+      <pubDate>Mon, 20 May 2024 01:58:40 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/cve-2021-23017/</guid>
+      <description>CVE-2021-23017 is a critical vulnerability in the NGINX resolver that can lead to a buffer overflow, allowing for potential remote code execution (RCE). This vulnerability affects NGINX when it is configured to use a resolver with DNS server responses.
+Conditions for CVE-2021-23017 NGINX Version:
+The vulnerability affects NGINX versions 0.6.18 through 1.20.0. NGINX Configuration:
+NGINX must be configured to use the resolver directive. This directive specifies the IP address of the DNS server that NGINX should use to resolve domain names.</description>
+    </item>
+    
+  </channel>
+</rss>
