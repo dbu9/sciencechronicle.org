@@ -40,7 +40,7 @@ Let's login with default credentials, `Admin:zabbix`:
 
 ![ui](/article/taking-over-zabbix-with-hydra/insidezabbix.png)
 
-Now, time to test `hudra`:
+Now, time to test `hydra`:
 
 ```bash
 hydra -l Admin -p zabbix 127.0.0.1 http-post-form "/index.php:name=^USER^&password=^PASS^&autologin=1&enter=Sign+in:Login name or password is incorrect" -V
@@ -60,7 +60,7 @@ Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2024-05-23 13:21:
 Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2024-05-23 13:21:44
 ```
 
-What if used invalid password, e.g. `zabbix1`?
+What if we used an invalid password, e.g. `zabbix1`?
 
 ```bash
 hydra -l Admin -p zabbix1 127.0.0.1 http-post-form "/index.php:name=^USER^&password=^PASS^&autologin=1&enter=Sign+in:Login name or password is incorrect" -V
@@ -139,11 +139,11 @@ Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2024-05-23 13:36:
 Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2024-05-23 13:36:41
 ```
 
-We got many matching passwords from Hydra, e.g. `123456`, `michael`, etc. Probably Zabbix hide something regarding their default password. Let's go to the UI and check `Admin:123456`:
+We got many matching passwords, e.g. `123456`, `michael`, etc. Probably Zabbix hide something regarding their default password. Let's go to the UI and check `Admin:123456`:
 
 ![Account is blocked](/article/taking-over-zabbix-with-hydra/blocked.png)
 
-Ok, now it's clear. Zabbix blocked `Admin` after 19 insuccessful attempts and `hydra` did not uderstand its answer correctly because it did not find in the response `Login name or password is incorrect`: all `Account is blocked for 30 seconds` were interpreted as success.
+Oops... Ok, now it's clear. Zabbix blocked `Admin` after 19 insuccessful attempts and `hydra` did not uderstand its answer correctly because it did not find in the response `Login name or password is incorrect`: all `Account is blocked for 30 seconds` were interpreted as success.
 
 Well, we have discovered Zabbix has an anti-bruteforce policy implemented and that makes our life hard. Therefore, we turn to a very simple and basic case of scanning of wild life zabbixes: we'll try only default zabbix creds in hope the admin forgot to change them. We should also remember that `hydra` will report false positives for any errors which differ from `Login name or password is incorrect`.
 
