@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>typescript on ScienceChronicle</title>
+    <link>https://www.ScienceChronicle.org/en/categories/typescript/</link>
+    <description>Recent content in typescript on ScienceChronicle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 May 2024 11:52:37 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NodeJS / Typescript: module in directory</title>
+      <link>https://www.ScienceChronicle.org/en/article/nodejs--typescript-module-in-directory/</link>
+      <pubDate>Mon, 27 May 2024 11:52:37 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/nodejs--typescript-module-in-directory/</guid>
+      <description>What are the hardest problems in software engineering? The obvious answer is &amp;ldquo;cache invalidation and variable naming.&amp;rdquo; However, on a more serious note, a significant part of software engineering is devoted to the separation of concerns. This is one of the reasons object-oriented programming (OOP) came into existence. In fact, it could be argued that the entire field of software engineering revolves around the separation of concerns—how to effectively factor and modularize software to make it more manageable.</description>
+    </item>
+    
+  </channel>
+</rss>

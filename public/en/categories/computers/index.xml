@@ -5,7 +5,16 @@
     <link>https://www.ScienceChronicle.org/en/categories/computers/</link>
     <description>Recent content in computers on ScienceChronicle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 27 May 2024 01:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/computers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 May 2024 11:52:37 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/computers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NodeJS / Typescript: module in directory</title>
+      <link>https://www.ScienceChronicle.org/en/article/nodejs--typescript-module-in-directory/</link>
+      <pubDate>Mon, 27 May 2024 11:52:37 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/nodejs--typescript-module-in-directory/</guid>
+      <description>What are the hardest problems in software engineering? The obvious answer is &amp;ldquo;cache invalidation and variable naming.&amp;rdquo; However, on a more serious note, a significant part of software engineering is devoted to the separation of concerns. This is one of the reasons object-oriented programming (OOP) came into existence. In fact, it could be argued that the entire field of software engineering revolves around the separation of concerns—how to effectively factor and modularize software to make it more manageable.</description>
+    </item>
+    
     <item>
       <title>NodeJS nexe resources</title>
       <link>https://www.ScienceChronicle.org/en/article/nodejs-nexe-resources/</link>
