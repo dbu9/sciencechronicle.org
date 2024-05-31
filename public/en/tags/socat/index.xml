@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>socat on ScienceChronicle</title>
+    <link>https://www.ScienceChronicle.org/en/tags/socat/</link>
+    <description>Recent content in socat on ScienceChronicle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 30 May 2024 11:52:37 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/socat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network based message collector with socat</title>
+      <link>https://www.ScienceChronicle.org/en/article/network-based-message-collector-with-socat/</link>
+      <pubDate>Thu, 30 May 2024 11:52:37 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/network-based-message-collector-with-socat/</guid>
+      <description>Overview The simplest message collector code can be implemented with socat:
+socat -u TCP4-LISTEN:4444,reuseaddr,fork OPEN:/tmp/log.txt,creat,append It will listen on tcp port 4444, it can accept multiple simultaneous connections which guarantees no connection is refused and it will write the data recieved on the port to /tmp/log.txt, appending to the file if it already exists or creating a new if it does not.
+The sender can be implemented in many ways, for example:</description>
+    </item>
+    
+  </channel>
+</rss>
