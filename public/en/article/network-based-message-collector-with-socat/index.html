@@ -39,7 +39,7 @@
   <meta itemprop="name" content="Network based message collector with socat">
 <meta itemprop="description" content="A method to collect messages from linux hosts to a centralized server with built-in utilities is described. Differently colored hats can find it useful."><meta itemprop="datePublished" content="2024-05-30T11:52:37+00:00" />
 <meta itemprop="dateModified" content="2024-05-30T11:52:37+00:00" />
-<meta itemprop="wordCount" content="791">
+<meta itemprop="wordCount" content="788">
 <meta itemprop="keywords" content="socat,linux,message collector," />
 
   
@@ -185,7 +185,7 @@
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      791&nbsp;words
+      788&nbsp;words
       
         
       
@@ -311,7 +311,7 @@
 </span></span><span style="display:flex;"><span>	<span style="color:#ff79c6">fi</span>
 </span></span><span style="display:flex;"><span><span style="color:#ff79c6">done</span>
 </span></span></code></pre></div><p>and run it with <code>socat</code> as</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span> socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC ./sink2.sh
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span> socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC:./sink2.sh
 </span></span></code></pre></div><p>Now, let&rsquo;s try to send some data to it:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#8be9fd;font-style:italic">echo</span> <span style="color:#f1fa8c">&#34;Hello, World!&#34;</span> &gt; /dev/tcp/localhost/4444
 </span></span></code></pre></div><p>Nothing is printed.</p>
@@ -330,7 +330,7 @@
 </span></span></code></pre></div></li>
 <li>
 <p><strong>Run the <code>socat</code> command</strong> within the screen session:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC ./sink2.sh
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC:./sink2.sh
 </span></span></code></pre></div></li>
 <li>
 <p><strong>Detach from the screen session</strong> by pressing <code>Ctrl+a</code> then <code>d</code>.</p>
@@ -349,7 +349,7 @@
 </span></span></code></pre></div></li>
 <li>
 <p><strong>Run the <code>socat</code> command</strong> within the <code>tmux</code> session:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC ./sink2.sh
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC:./sink2.sh
 </span></span></code></pre></div></li>
 <li>
 <p><strong>Detach from the <code>tmux</code> session</strong> by pressing <code>Ctrl+b</code> then <code>d</code>.</p>

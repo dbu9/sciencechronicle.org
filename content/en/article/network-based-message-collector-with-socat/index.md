@@ -88,7 +88,7 @@ done
 and run it with `socat` as 
 
 ```bash
- socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC ./sink2.sh
+ socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC:./sink2.sh
 ```
 
 Now, let's try to send some data to it:
@@ -127,7 +127,7 @@ To ensure `socat` runs persistently and behaves like a server, you can use sever
 2. **Run the `socat` command** within the screen session:
 
    ```sh
-   socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC ./sink2.sh
+   socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC:./sink2.sh
    ```
 
 3. **Detach from the screen session** by pressing `Ctrl+a` then `d`.
@@ -151,7 +151,7 @@ To ensure `socat` runs persistently and behaves like a server, you can use sever
 2. **Run the `socat` command** within the `tmux` session:
 
    ```sh
-   socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC ./sink2.sh
+   socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC:./sink2.sh
    ```
 
 3. **Detach from the `tmux` session** by pressing `Ctrl+b` then `d`.
