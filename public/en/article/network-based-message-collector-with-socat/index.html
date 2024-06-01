@@ -39,7 +39,7 @@
   <meta itemprop="name" content="Network based message collector with socat">
 <meta itemprop="description" content="A method to collect messages from linux hosts to a centralized server with built-in utilities is described. Differently colored hats can find it useful."><meta itemprop="datePublished" content="2024-05-30T11:52:37+00:00" />
 <meta itemprop="dateModified" content="2024-05-30T11:52:37+00:00" />
-<meta itemprop="wordCount" content="596">
+<meta itemprop="wordCount" content="791">
 <meta itemprop="keywords" content="socat,linux,message collector," />
 
   
@@ -175,7 +175,7 @@
         <circle cx="12" cy="12" r="9" />
         <polyline points="12 7 12 12 15 15" />
       </svg>
-      3&nbsp;minutes
+      4&nbsp;minutes
       &nbsp;&bull;
       <svg xmlns="http://www.w3.org/2000/svg" class="mx-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
         <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -185,7 +185,7 @@
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      596&nbsp;words
+      791&nbsp;words
       
         
       
@@ -238,6 +238,28 @@
         
         </li><li>
         <a href="#4-using-systemd-for-a-more-robust-solution">4. Using Systemd (for a more robust solution)</a>
+        
+
+        
+        </li></ul>
+      </li><li>
+        <a href="#gathering-system-info-with-minimal-tools">Gathering system info with minimal tools</a>
+        
+
+        
+        <ul>
+            <li>
+        <a href="#os-version">OS version</a>
+        
+
+        
+        </li><li>
+        <a href="#cpu-info">CPU info</a>
+        
+
+        
+        </li><li>
+        <a href="#ram-info">RAM info</a>
         </li></ul>
     </li></ul>
   </details>
@@ -342,11 +364,11 @@
 <ol>
 <li>
 <p><strong>Run the <code>socat</code> command with <code>nohup</code></strong>:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>nohup socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC ./sink2.sh &amp;
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>nohup socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC:./sink2.sh &amp;
 </span></span></code></pre></div></li>
 <li>
 <p><strong>Check the output</strong> in <code>nohup.out</code> or redirect it to a file:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>nohup socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC ./sink2.sh &gt; socat.log 2&gt;&amp;<span style="color:#bd93f9">1</span> &amp;
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>nohup socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC:./sink2.sh &gt; socat.log 2&gt;&amp;<span style="color:#bd93f9">1</span> &amp;
 </span></span></code></pre></div></li>
 </ol>
 <h3 id="4-using-systemd-for-a-more-robust-solution">4. Using Systemd (for a more robust solution)</h3>
@@ -358,7 +380,7 @@
 </span></span><span style="display:flex;"><span><span style="color:#50fa7b">Description</span><span style="color:#ff79c6">=</span><span style="color:#f1fa8c">Socat TCP server</span>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#ff79c6">[Service]</span>
-</span></span><span style="display:flex;"><span><span style="color:#50fa7b">ExecStart</span><span style="color:#ff79c6">=</span><span style="color:#f1fa8c">/usr/bin/socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC ./sink2.sh</span>
+</span></span><span style="display:flex;"><span><span style="color:#50fa7b">ExecStart</span><span style="color:#ff79c6">=</span><span style="color:#f1fa8c">/usr/bin/socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC:./sink2.sh</span>
 </span></span><span style="display:flex;"><span><span style="color:#50fa7b">Restart</span><span style="color:#ff79c6">=</span><span style="color:#f1fa8c">always</span>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#ff79c6">[Install]</span>
@@ -377,7 +399,34 @@
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sh" data-lang="sh"><span style="display:flex;"><span>sudo systemctl <span style="color:#8be9fd;font-style:italic">enable</span> socat.service
 </span></span></code></pre></div></li>
 </ol>
-
+<h2 id="gathering-system-info-with-minimal-tools">Gathering system info with minimal tools</h2>
+<p>Linux may have but may have not installed utilities which provide system information:</p>
+<ul>
+<li><code>lscpu</code>: info about cpu</li>
+<li><code>hwinfo</code>: a spectrum of system information</li>
+<li><code>inxi</code>: a spectrum of system information</li>
+<li><code>dmidecode</code>: a spectrum of system information</li>
+<li><code>cpuid</code>: info about cpu</li>
+<li><code>uname</code>: info about os version</li>
+</ul>
+<p>The most reliable way to get information about the system is to read the following files:</p>
+<ul>
+<li><code>/etc/os-release</code>: precise informatio about OS version</li>
+<li><code>/proc/cpuinfo</code>: information about CPU</li>
+<li><code>/proc/meminfo</code>: information about RAM</li>
+</ul>
+<p>On the other hand, there is no <code>/proc</code> file with similar to <code>df -h</code> output. But <code>df</code> is installed by default on most linux distros.</p>
+<p>To create short messages which fit our socat collector, we may process the rich information from the files extracting the most important.</p>
+<h3 id="os-version">OS version</h3>
+<p>Compress all line of <code>/etc/os-release</code> to pipe-separated line.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cat /etc/os-release | awk <span style="color:#f1fa8c">&#39;{ acc=acc &#34;|&#34; $0 } END {print acc}&#39;</span>
+</span></span></code></pre></div><h3 id="cpu-info">CPU info</h3>
+<p>Extract only model name from the <code>/proc/cpuinfo</code>. All the details can be found by the model.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cat /proc/cpuinfo | grep -i <span style="color:#f1fa8c">&#34;Model name&#34;</span> | uniq | awk -F<span style="color:#f1fa8c">&#39;: &#39;</span> <span style="color:#f1fa8c">&#39;{print $2}&#39;</span>
+</span></span></code></pre></div><h3 id="ram-info">RAM info</h3>
+<p>Extract only total RAM available from <code>/proc/meminfo</code>:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cat /proc/meminfo | awk <span style="color:#f1fa8c">&#39;/MemTotal:/ {print $2}&#39;</span>
+</span></span></code></pre></div>
   <hr>
   <p class="text-black dark:text-white text-2xl font-bold">Share</p>
 

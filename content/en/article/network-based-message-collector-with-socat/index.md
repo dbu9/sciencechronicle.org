@@ -170,13 +170,13 @@ To ensure `socat` runs persistently and behaves like a server, you can use sever
 1. **Run the `socat` command with `nohup`**:
 
    ```sh
-   nohup socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC ./sink2.sh &
+   nohup socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC:./sink2.sh &
    ```
 
 2. **Check the output** in `nohup.out` or redirect it to a file:
 
    ```sh
-   nohup socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC ./sink2.sh > socat.log 2>&1 &
+   nohup socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC:./sink2.sh > socat.log 2>&1 &
    ```
 
 ### 4. Using Systemd (for a more robust solution)
@@ -190,7 +190,7 @@ Creating a `systemd` service ensures that `socat` restarts automatically if it s
    Description=Socat TCP server
 
    [Service]
-   ExecStart=/usr/bin/socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC ./sink2.sh
+   ExecStart=/usr/bin/socat -u TCP4-LISTEN:4444,reuseaddr,fork EXEC:./sink2.sh
    Restart=always
 
    [Install]
@@ -214,3 +214,48 @@ Creating a `systemd` service ensures that `socat` restarts automatically if it s
    ```sh
    sudo systemctl enable socat.service
    ```
+
+## Gathering system info with minimal tools
+
+Linux may have but may have not installed utilities which provide system information:
+
+* `lscpu`: info about cpu
+* `hwinfo`: a spectrum of system information
+* `inxi`: a spectrum of system information
+* `dmidecode`: a spectrum of system information
+* `cpuid`: info about cpu
+* `uname`: info about os version
+
+The most reliable way to get information about the system is to read the following files:
+
+* `/etc/os-release`: precise informatio about OS version
+* `/proc/cpuinfo`: information about CPU
+* `/proc/meminfo`: information about RAM
+
+On the other hand, there is no `/proc` file with similar to `df -h` output. But `df` is installed by default on most linux distros.
+
+To create short messages which fit our socat collector, we may process the rich information from the files extracting the most important.
+
+### OS version
+
+Compress all line of `/etc/os-release` to pipe-separated line.
+
+```bash
+cat /etc/os-release | awk '{ acc=acc "|" $0 } END {print acc}'
+```
+
+### CPU info
+
+Extract only model name from the `/proc/cpuinfo`. All the details can be found by the model.
+
+```bash
+cat /proc/cpuinfo | grep -i "Model name" | uniq | awk -F': ' '{print $2}'
+```
+
+### RAM info
+
+Extract only total RAM available from `/proc/meminfo`:
+
+```bash
+cat /proc/meminfo | awk '/MemTotal:/ {print $2}'
+```
