@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sql on ScienceChronicle</title>
+    <link>https://www.ScienceChronicle.org/en/tags/sql/</link>
+    <description>Recent content in sql on ScienceChronicle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 09 Jun 2024 11:52:37 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Similarity between SQL and iptables Rules</title>
+      <link>https://www.ScienceChronicle.org/en/article/similarity-between-sql-and-iptables-rules/</link>
+      <pubDate>Sun, 09 Jun 2024 11:52:37 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/similarity-between-sql-and-iptables-rules/</guid>
+      <description>Similarity between SQL and iptables Rules When dealing with databases and network packet filtering, there is an intriguing conceptual similarity between how SQL queries operate on rows in a database table and how iptables rules operate on network packets. This analogy can provide a deeper understanding of both systems by drawing parallels between their operations.
+Similarities Between iptables and SQL Sequential Processing:
+SQL: In SQL, when a query is executed, each row in the table is processed sequentially, applying the specified conditions and operations.</description>
+    </item>
+    
+  </channel>
+</rss>
