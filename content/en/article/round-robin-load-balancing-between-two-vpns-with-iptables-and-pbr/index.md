@@ -1,6 +1,6 @@
 ---
 title: "Round-robin load-balancing between two VPNs with iptables and policy-based routing"
-description: ""
+description: "The post describes a way to create round-robin balancing between two VPNs using Linux iptables and policy based routing. "
 date: 2024-06-09T11:52:37.716Z
 draft: false
 categories: [Computer, Linux, Networking]
