@@ -1,7 +1,7 @@
 ---
 title: "Psychosomatic Reason for Psoriasis: Emotional Coldness of Parents"
 description: "Groundbreaking research from Oslo University suggests the emotional coldness of parents may play a significant role in triggering psoriasis."
-date: 2024-07-05T16:31:57.136Z
+date: 2024-07-03T16:31:57.136Z
 draft: false
 tags: [psychology, dermatology, healthcare]
 thumbnail: "/news/psychosomatic-reason-for-psoriasis-emotional-coldness-of-parents/thumb.webp"
