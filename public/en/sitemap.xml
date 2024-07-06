@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ScienceChronicle.org/en/tags/dermatology/</loc>
-    <lastmod>2024-07-03T16:31:57+00:00</lastmod>
+    <loc>https://www.ScienceChronicle.org/en/tags/environmental-science/</loc>
+    <lastmod>2024-07-06T11:22:05+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/healthcare/</loc>
-    <lastmod>2024-07-03T16:31:57+00:00</lastmod>
+    <loc>https://www.ScienceChronicle.org/en/tags/microbiology/</loc>
+    <lastmod>2024-07-06T11:22:05+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/naegleria-fowleri-complete-adaptation-saline-environment/</loc>
+    <lastmod>2024-07-06T11:22:05+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/</loc>
-    <lastmod>2024-07-03T16:31:57+00:00</lastmod>
+    <lastmod>2024-07-06T11:22:05+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -26,14 +29,11 @@
                 href="https://www.ScienceChronicle.org/en/news/"
                 />
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/psychology/</loc>
-    <lastmod>2024-07-03T16:31:57+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/news/psychosomatic-reason-for-psoriasis-emotional-coldness-of-parents/</loc>
-    <lastmod>2024-07-03T16:31:57+00:00</lastmod>
+    <loc>https://www.ScienceChronicle.org/en/tags/public-health/</loc>
+    <lastmod>2024-07-06T11:22:05+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-07-03T16:31:57+00:00</lastmod>
+    <lastmod>2024-07-06T11:22:05+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -51,7 +51,7 @@
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-07-03T16:31:57+00:00</lastmod>
+    <lastmod>2024-07-06T11:22:05+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -67,6 +67,42 @@
                 hreflang="en"
                 href="https://www.ScienceChronicle.org/en/tags/"
                 />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/nutritional-science/</loc>
+    <lastmod>2024-07-06T10:41:57+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/long-term-effects-consuming-foods-negative-calories/</loc>
+    <lastmod>2024-07-06T10:41:57+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/risks-of-micro-and-nonplastic-particles-in-water-bottles-largely-exaggerated-study-finds/</loc>
+    <lastmod>2024-07-06T10:12:56+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/toxicology/</loc>
+    <lastmod>2024-07-06T10:12:56+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/ashwagandha-diabetes-liver-metabolism-tuning/</loc>
+    <lastmod>2024-07-06T09:50:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/endocrinology/</loc>
+    <lastmod>2024-07-06T09:50:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/herbal-medicine/</loc>
+    <lastmod>2024-07-06T09:50:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/pharmacology/</loc>
+    <lastmod>2024-07-06T09:50:14+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/dermatology/</loc>
+    <lastmod>2024-07-03T16:31:57+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/healthcare/</loc>
+    <lastmod>2024-07-03T16:31:57+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/psychology/</loc>
+    <lastmod>2024-07-03T16:31:57+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/news/psychosomatic-reason-for-psoriasis-emotional-coldness-of-parents/</loc>
+    <lastmod>2024-07-03T16:31:57+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/article/</loc>
     <lastmod>2024-06-09T11:52:37+00:00</lastmod>
@@ -3363,9 +3399,6 @@
     <loc>https://www.ScienceChronicle.org/en/tags/the-african-sleeping-sickness/</loc>
     <lastmod>2024-01-19T23:17:16+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/microbiology/</loc>
-    <lastmod>2024-01-18T21:50:21+00:00</lastmod>
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/monothalamea/</loc>
     <lastmod>2024-01-18T21:50:21+00:00</lastmod>
   </url><url>
@@ -5508,9 +5541,6 @@
     <lastmod>2023-05-18T10:47:21+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/hydroxylized-mometasone-furoate-diminish-adverse-effects-topical-psoriasis-treatment/</loc>
-    <lastmod>2023-05-18T10:46:31+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/pharmacology/</loc>
     <lastmod>2023-05-18T10:46:31+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/new-species-microscopic-spiders-tanzania/</loc>
