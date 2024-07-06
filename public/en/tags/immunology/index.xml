@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>immunology on ScienceChronicle</title>
+    <title>Immunology on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/immunology/</link>
-    <description>Recent content in immunology on ScienceChronicle</description>
+    <description>Recent content in Immunology on ScienceChronicle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Jan 2024 11:43:36 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/immunology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2024 16:12:44 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/immunology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Long-term Effects of RNA Vaccines on Immune Responses to West Nile Fever in Israel</title>
+      <link>https://www.ScienceChronicle.org/en/news/long-term-effects-rna-vaccines-immune-responses-west-nile-fever-israel/</link>
+      <pubDate>Sat, 06 Jul 2024 16:12:44 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/news/long-term-effects-rna-vaccines-immune-responses-west-nile-fever-israel/</guid>
+      <description>In the latest outburst of West Nile fever in Israel, the country is seeing an especially severe strain of the virus with a 25% fatal rate. This outbreak has prompted researchers to explore possible connections between the long-term effects of RNA vaccines used in the prevention of the COVID virus and the compromised immune responses to West Nile fever. The research is taking place in Jerusalem, Israel, where scientists are working diligently to understand the underlying factors driving this concerning trend.</description>
+    </item>
+    
     <item>
       <title>Research finds that avocados contain flavonoids that promote gut health</title>
       <link>https://www.ScienceChronicle.org/en/news/research-finds-that-avocados-contain-flavonoids-that-promote-gut-health/</link>
