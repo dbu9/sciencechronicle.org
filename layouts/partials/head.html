@@ -10,6 +10,8 @@
 
 	{{ partial "metapixel.html" . }}
 
+	{{ partial "fbp.html" . }}
+
 
 	<link rel="icon" href="{{ if (isset .Site.Params "favicon") }}{{ .Site.Params.favicon }}{{ else }}/favicon.ico{{ end }}">
 

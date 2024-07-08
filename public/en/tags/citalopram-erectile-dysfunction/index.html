@@ -29,6 +29,44 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
 /></noscript>
 
 
+		
+	<script>
+		function getCookie(name) {
+      let value = "; " + document.cookie;
+      let parts = value.split("; " + name + "=");
+      if (parts.length == 2) return parts.pop().split(";").shift();
+    }
+  
+    
+    function appendFBPToURL(fbpValue) {
+      let url = new URL(window.location.href);
+      url.searchParams.set('fbp', fbpValue);
+      window.history.replaceState({}, '', url);
+    }
+  
+    
+    window.fbAsyncInit = function() {
+      fbq('init', '1452354582086900', {
+          autoConfig: true, 
+          config: {
+              firstPartyCookies: true
+          }
+      });
+      fbq('track', 'PageView'); 
+  
+      
+      setTimeout(function() {
+        let fbpCookieValue = getCookie('_fbp');
+        if (fbpCookieValue) {
+          appendFBPToURL(fbpCookieValue);
+        } else {
+          console.log("fbp cookie not found.");
+        }
+      }, 1000); 
+    };
+	</script>
+	
+
 
 	<link rel="icon" href="/favicon.png">
 
