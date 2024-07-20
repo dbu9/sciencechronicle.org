@@ -5,7 +5,27 @@
     <link>https://www.ScienceChronicle.org/en/article/</link>
     <description>Recent content in Articles on ScienceChronicle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 09 Jun 2024 11:52:37 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jul 2024 01:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenWRT with WireGuard server which is connected through OpenVPN</title>
+      <link>https://www.ScienceChronicle.org/en/article/openwrt-wg-server-through-vpn/</link>
+      <pubDate>Thu, 18 Jul 2024 01:58:40 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/openwrt-wg-server-through-vpn/</guid>
+      <description>We setup a wireguard server on an OpenWRT router. We generate a setup file for the client. The wireguard server itself we connect through a VPN. The VPN itself can be socked through TOR (we don&amp;rsquo;t discuss this in the article).
+Generate keys umask go= wg genkey | tee wgserver.key | wg pubkey &amp;gt; wgserver.pub wg genkey | tee wgclient.key | wg pubkey &amp;gt; wgclient.pub wg genpsk &amp;gt; wgclient.psk Setup wireguard server Note, wireguard server is actually a kernel module and there is no a special application to be run.</description>
+    </item>
+    
+    <item>
+      <title>OpenWRT under hood</title>
+      <link>https://www.ScienceChronicle.org/en/article/openwrt-under-the-hood/</link>
+      <pubDate>Mon, 08 Jul 2024 01:58:40 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/openwrt-under-the-hood/</guid>
+      <description>Wireless configuration Behind the scenes, UCI (Unified Configuration Interface) in OpenWRT uses various command-line utilities and services to apply the wireless configurations defined in /etc/config/wireless. Here are some key components and commands involved in this process:
+netifd: The netifd (network interface daemon) is responsible for managing network interfaces in OpenWRT. It handles the configuration of interfaces based on the UCI configuration files. hostapd and wpa_supplicant: OpenWRT typically uses hostapd for managing Access Point (AP) interfaces and wpa_supplicant for client interfaces.</description>
+    </item>
+    
     <item>
       <title>Round-robin load-balancing between two VPNs with iptables and policy-based routing</title>
       <link>https://www.ScienceChronicle.org/en/article/round-robin-load-balancing-between-two-vpns-with-iptables-and-pbr/</link>

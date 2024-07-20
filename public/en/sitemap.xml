@@ -2,6 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ScienceChronicle.org/en/article/</loc>
+    <lastmod>2024-07-18T01:58:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/article/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/categories/</loc>
+    <lastmod>2024-07-18T01:58:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/categories/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/categories/computers/</loc>
+    <lastmod>2024-07-18T01:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/categories/networks/</loc>
+    <lastmod>2024-07-18T01:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/openwrt/</loc>
+    <lastmod>2024-07-18T01:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/article/openwrt-wg-server-through-vpn/</loc>
+    <lastmod>2024-07-18T01:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/</loc>
+    <lastmod>2024-07-18T01:58:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
+    <lastmod>2024-07-18T01:58:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/vpn/</loc>
+    <lastmod>2024-07-18T01:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/wireguard/</loc>
+    <lastmod>2024-07-18T01:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/article/openwrt-under-the-hood/</loc>
+    <lastmod>2024-07-08T01:58:40+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/alternativemedicine/</loc>
     <lastmod>2024-07-06T16:56:45+00:00</lastmod>
   </url><url>
@@ -34,42 +122,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/psychiatry/</loc>
     <lastmod>2024-07-06T16:56:45+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-07-06T16:56:45+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/"
-                />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-07-06T16:56:45+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/tags/"
-                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/what-are-stages-of-depression/</loc>
     <lastmod>2024-07-06T16:56:45+00:00</lastmod>
@@ -140,37 +192,6 @@
     <loc>https://www.ScienceChronicle.org/en/news/psychosomatic-reason-for-psoriasis-emotional-coldness-of-parents/</loc>
     <lastmod>2024-07-03T16:31:57+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/article/</loc>
-    <lastmod>2024-06-09T11:52:37+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/article/"
-                />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/categories/</loc>
-    <lastmod>2024-06-09T11:52:37+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/categories/"
-                />
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/categories/computer/</loc>
     <lastmod>2024-06-09T11:52:37+00:00</lastmod>
   </url><url>
@@ -195,16 +216,10 @@
     <loc>https://www.ScienceChronicle.org/en/categories/sql/</loc>
     <lastmod>2024-06-09T11:52:37+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/categories/computers/</loc>
-    <lastmod>2024-06-04T02:58:40+00:00</lastmod>
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/article/install-nyx-on-openwrt/</loc>
     <lastmod>2024-06-04T02:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/nyx/</loc>
-    <lastmod>2024-06-04T02:58:40+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/openwrt/</loc>
     <lastmod>2024-06-04T02:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/tor/</loc>

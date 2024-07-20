@@ -5,7 +5,25 @@
     <link>https://www.ScienceChronicle.org/en/categories/</link>
     <description>Recent content in Categories on ScienceChronicle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 09 Jun 2024 11:52:37 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jul 2024 01:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>computers</title>
+      <link>https://www.ScienceChronicle.org/en/categories/computers/</link>
+      <pubDate>Thu, 18 Jul 2024 01:58:40 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/categories/computers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networks</title>
+      <link>https://www.ScienceChronicle.org/en/categories/networks/</link>
+      <pubDate>Thu, 18 Jul 2024 01:58:40 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/categories/networks/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Computer</title>
       <link>https://www.ScienceChronicle.org/en/categories/computer/</link>
@@ -39,15 +57,6 @@
       <pubDate>Sun, 09 Jun 2024 11:52:37 +0000</pubDate>
       
       <guid>https://www.ScienceChronicle.org/en/categories/sql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>computers</title>
-      <link>https://www.ScienceChronicle.org/en/categories/computers/</link>
-      <pubDate>Tue, 04 Jun 2024 02:58:40 +0000</pubDate>
-      
-      <guid>https://www.ScienceChronicle.org/en/categories/computers/</guid>
       <description></description>
     </item>
     
