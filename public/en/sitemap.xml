@@ -33,7 +33,23 @@
                 href="https://www.ScienceChronicle.org/en/categories/"
                 />
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/categories/politics/</loc>
+    <loc>https://www.ScienceChronicle.org/en/categories/history/</loc>
+    <lastmod>2024-08-01T03:58:40+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/categories/history/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/categories/history/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/left-political-wing/</loc>
+    <lastmod>2024-08-01T03:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/right-political-wing/</loc>
     <lastmod>2024-08-01T03:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/</loc>
@@ -333,19 +349,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/the-impact-of-warm-and-cold-spectrum-colors-on-emotional-responses/</loc>
     <lastmod>2024-04-01T20:18:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/categories/history/</loc>
-    <lastmod>2024-03-31T03:58:40+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/categories/history/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/categories/history/"
-                />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/immigration/</loc>
     <lastmod>2024-03-31T03:58:40+00:00</lastmod>

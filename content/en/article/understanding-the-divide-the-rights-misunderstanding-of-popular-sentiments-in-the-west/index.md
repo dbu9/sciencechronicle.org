@@ -3,8 +3,8 @@ title: "Understanding the Divide: The Right’s Misunderstanding of Popular Sent
 description: "This article explores the disconnect between right-wing politicians and the general populace in the West, highlighting how leftist indoctrination has shifted popular sentiment against traditional socio-Darwinian views."
 date: 2024-08-01T03:58:40.873Z
 draft: false
-categories: [politics]
-tags: [social-darwinism]
+categories: [History]
+tags: [social-darwinism, right political wing, left political wing]
 thumbnail: "/article/understanding-the-divide-the-rights-misunderstanding-of-popular-sentiments-in-the-west/thumb.png"
 ---
 
