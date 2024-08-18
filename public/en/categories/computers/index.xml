@@ -5,7 +5,18 @@
     <link>https://www.ScienceChronicle.org/en/categories/computers/</link>
     <description>Recent content in computers on ScienceChronicle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 18 Jul 2024 01:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/computers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Aug 2024 01:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/computers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Cronjob Self-Deletion: Behavior and Implications When Restarting Cron Service on OpenWRT</title>
+      <link>https://www.ScienceChronicle.org/en/article/openwrt-understanding-cronjob-self-deletion/</link>
+      <pubDate>Sun, 18 Aug 2024 01:58:40 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/openwrt-understanding-cronjob-self-deletion/</guid>
+      <description>Intro The article addresses the question: Will a cronjob complete its run if it removes itself from the crontab and restarts the cron service? We conducted tests on OpenWRT version 23.05.3 240325 to find out.
+Test To answer this question, we wrote a short Perl script, b.pl:
+#!/usr/bin/perl print &amp;#34;Start\n&amp;#34;; `sed -i /b.pl/d /etc/crontabs/root`; print &amp;#34;Removed crontab entry\n&amp;#34;; `service cron restart`; print &amp;#34;Restarted cron service\n&amp;#34;; sleep(10); print &amp;#34;Slept 10 sec and now exiting\n&amp;#34;; We added the following crontab entry using crontab -e:</description>
+    </item>
+    
     <item>
       <title>OpenWRT with WireGuard server which is connected through OpenVPN</title>
       <link>https://www.ScienceChronicle.org/en/article/openwrt-wg-server-through-vpn/</link>
