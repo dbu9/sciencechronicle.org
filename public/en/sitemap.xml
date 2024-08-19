@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.ScienceChronicle.org/en/article/</loc>
-    <lastmod>2024-08-18T01:58:40+00:00</lastmod>
+    <lastmod>2024-08-18T22:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/categories/</loc>
-    <lastmod>2024-08-18T01:58:40+00:00</lastmod>
+    <lastmod>2024-08-18T22:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -34,19 +34,22 @@
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/categories/computers/</loc>
-    <lastmod>2024-08-18T01:58:40+00:00</lastmod>
+    <lastmod>2024-08-18T22:58:40+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/cronjob/</loc>
-    <lastmod>2024-08-18T01:58:40+00:00</lastmod>
+    <loc>https://www.ScienceChronicle.org/en/article/ensuring-safe-file-operations-in-linux/</loc>
+    <lastmod>2024-08-18T22:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/io/</loc>
+    <lastmod>2024-08-18T22:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/linux/</loc>
+    <lastmod>2024-08-18T22:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/categories/linux/</loc>
-    <lastmod>2024-08-18T01:58:40+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/openwrt/</loc>
-    <lastmod>2024-08-18T01:58:40+00:00</lastmod>
+    <lastmod>2024-08-18T22:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-08-18T01:58:40+00:00</lastmod>
+    <lastmod>2024-08-18T22:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -64,7 +67,7 @@
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-08-18T01:58:40+00:00</lastmod>
+    <lastmod>2024-08-18T22:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -80,6 +83,12 @@
                 hreflang="en"
                 href="https://www.ScienceChronicle.org/en/tags/"
                 />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/cronjob/</loc>
+    <lastmod>2024-08-18T01:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/openwrt/</loc>
+    <lastmod>2024-08-18T01:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/article/openwrt-understanding-cronjob-self-deletion/</loc>
     <lastmod>2024-08-18T01:58:40+00:00</lastmod>
@@ -265,9 +274,6 @@
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/tor/</loc>
     <lastmod>2024-06-04T02:58:40+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/linux/</loc>
-    <lastmod>2024-05-30T11:52:37+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/message-collector/</loc>
     <lastmod>2024-05-30T11:52:37+00:00</lastmod>

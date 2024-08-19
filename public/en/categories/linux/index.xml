@@ -5,7 +5,16 @@
     <link>https://www.ScienceChronicle.org/en/categories/linux/</link>
     <description>Recent content in Linux on ScienceChronicle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 18 Aug 2024 01:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Aug 2024 22:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ensuring Safe File Operations in Linux: Handling Simultaneous Reads and Writes</title>
+      <link>https://www.ScienceChronicle.org/en/article/ensuring-safe-file-operations-in-linux/</link>
+      <pubDate>Sun, 18 Aug 2024 22:58:40 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/ensuring-safe-file-operations-in-linux/</guid>
+      <description>Ensuring Safe File Operations in Linux: Handling Simultaneous Reads and Writes In Linux, managing file access between multiple processes can be tricky, especially when one script is writing to a file while another is reading from it. Without proper synchronization, you may encounter situations where a reader script accesses a partially written file, leading to incomplete or corrupt data reads. In this blog post, we&amp;rsquo;ll explore how to handle simultaneous file access safely using flock and atomic operations like mv.</description>
+    </item>
+    
     <item>
       <title>Understanding Cronjob Self-Deletion: Behavior and Implications When Restarting Cron Service on OpenWRT</title>
       <link>https://www.ScienceChronicle.org/en/article/openwrt-understanding-cronjob-self-deletion/</link>
