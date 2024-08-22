@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dbi on ScienceChronicle</title>
+    <link>https://www.ScienceChronicle.org/en/tags/dbi/</link>
+    <description>Recent content in dbi on ScienceChronicle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 21 Aug 2024 03:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/dbi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using SQLITE database with Perl on OpenWRT</title>
+      <link>https://www.ScienceChronicle.org/en/article/using-sqlite-with-perl-on-openwrt-no-dbd/</link>
+      <pubDate>Wed, 21 Aug 2024 03:58:40 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/using-sqlite-with-perl-on-openwrt-no-dbd/</guid>
+      <description>This article discusses using an SQLite database with Perl on the OpenWRT openwrt-23.05 branch (git-23.233.52805-dae2684). We aim to use an SQLite database with Perl.
+First, we need to install the DBI module and then find and install DBD for SQLite. Let&amp;rsquo;s examine the directory of Perl modules available on OpenWRT: Perl Modules on OpenWRT .
+One can see that the DBI module is present: perl-dbi . After installing it, let&amp;rsquo;s check which DBD modules are included:</description>
+    </item>
+    
+  </channel>
+</rss>
