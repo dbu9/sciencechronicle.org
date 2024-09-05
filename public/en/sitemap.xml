@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.ScienceChronicle.org/en/article/</loc>
-    <lastmod>2024-09-03T22:58:40+00:00</lastmod>
+    <lastmod>2024-09-04T22:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -15,8 +15,11 @@
                 href="https://www.ScienceChronicle.org/en/article/"
                 />
   </url><url>
+    <loc>https://www.ScienceChronicle.org/en/article/between-the-body-and-the-deed/</loc>
+    <lastmod>2024-09-04T22:58:40+00:00</lastmod>
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/categories/</loc>
-    <lastmod>2024-09-03T22:58:40+00:00</lastmod>
+    <lastmod>2024-09-04T22:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -34,16 +37,13 @@
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/depression/</loc>
-    <lastmod>2024-09-03T22:58:40+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/article/how-i-overcame-depression/</loc>
-    <lastmod>2024-09-03T22:58:40+00:00</lastmod>
+    <lastmod>2024-09-04T22:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/categories/psychology/</loc>
-    <lastmod>2024-09-03T22:58:40+00:00</lastmod>
+    <lastmod>2024-09-04T22:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-09-03T22:58:40+00:00</lastmod>
+    <lastmod>2024-09-04T22:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -61,7 +61,7 @@
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-09-03T22:58:40+00:00</lastmod>
+    <lastmod>2024-09-04T22:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -77,6 +77,9 @@
                 hreflang="en"
                 href="https://www.ScienceChronicle.org/en/tags/"
                 />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/article/how-i-overcame-depression/</loc>
+    <lastmod>2024-09-03T22:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/article/typical-perl-project-directory-structure/</loc>
     <lastmod>2024-09-01T01:58:40+00:00</lastmod>

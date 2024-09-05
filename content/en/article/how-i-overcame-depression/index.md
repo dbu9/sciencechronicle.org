@@ -8,11 +8,7 @@ tags: [depression]
 thumbnail: "/article/how-i-overcame-depression/thumb.png"
 ---
 
-**How I Overcame Depression**
-
 *Experience of Self-Healing*
-
-*Psychologist’s Diary*
 
 Since my time in the army, I developed the habit of not treating the flu. Why from the army? Because in the army, they didn’t treat us for the flu. If it was a serious illness, we went to the infirmary (quarantine) or the hospital (treatment). I want to specifically point out that no treatment was provided in the infirmary because there were no medications. The only purpose of being placed in the infirmary was to isolate the patient. Getting into the hospital required a solid reason, like a concussion or self-harm. I don’t remember any cases of concussions in our unit, but self-harm was frequent. Although, it wasn’t real, just simulated. Cut your hand with a razor, and you’d be sent to the hospital and then discharged. A couple of weeks later, you’d come back, pack your things, and go home.
 
@@ -49,7 +45,7 @@ But if you’re making decisions based solely on how you feel—whether to work 
 
 If I can work, I work. If I can’t, then I don’t. What my temperature is doesn’t matter. If you think that you might have 40°C and don’t notice, and you’re working to the detriment of your health—that’s nonsense! And if the thermometer shows normal, but you have no strength, following its recommendation is also foolish. You need to follow your own feelings. That’s the best metric for assessing your physical condition.
 
-**Depressive Metrics**
+### Depressive Metrics
 
 I don’t want to get ahead of myself right now and explain how my thoughts on not treating the flu relate to depression. They do. Very directly. But you’ll find out about that a bit later.
 
@@ -68,7 +64,7 @@ And so on, and so on. I used to think that way, probably. And I probably said th
 
 I didn’t know what to do. Even if I had known from reading Dr. Kurpatov’s useful book, I wouldn’t have done anything because I had no desire to do anything and no energy either. The only thing I could do was nothing. And see no one. And hear nothing. The presence of anyone around was unbearable torture. Working was out of the question. I didn’t make any decisions to quit my job—there was nothing like that. The job just ceased to exist for me.
 
-**I Stopped Going to Work**
+### I Stopped Going to Work
 
 I didn’t feel any relief, but I didn’t seek it either. I didn’t want to live, and just the thought of trying to come to terms with it made me feel nauseous and disgusted. To be fair, I didn’t have such thoughts. But people constantly reminded me, reminded me.
 
@@ -78,27 +74,32 @@ Maybe it wouldn’t be so bad if they didn’t say anything. Then it would just 
 
 It’s like singing to a blind person: "How beautiful this world is, look." They can’t, do you understand?
 
-**I Stopped Interacting with People**
+### I Stopped Interacting with People
 
 I stopped answering the door. I stopped responding to calls. It was easiest to be among complete strangers—easier because I didn’t exist for them, and that was very close to what I felt, as I didn’t exist for myself. Perhaps if one of those strangers started crying, I would cry too. As if someone finally understood me. That nothing could be fixed. As if they had come to visit my grave—that’s the feeling.
 
+![alone](/article/how-i-overcame-depression/alone.png)
+
 On the contrary, people I knew well brought only despair and sadness. Not because they were particularly bad. No. It’s just that they were emotionally close to me, and that prompted them to help and support a close person in a difficult moment. And nothing in the world is more painful in such moments than such "support." It’s like telling a mother who has just buried her child how wonderful and amazing life is.
 
-**I Stopped Doing Anything at All**
+### I Stopped Doing Anything at All
 
 I mostly slept. As much as I could. Anytime, day or night. I don’t remember if I had any special dreams worth mentioning. I don’t remember. I often hear people complaining about nightmares and associating them with depression. I don’t know. For me, the most terrifying nightmare was reality. It wasn’t scary to sleep, but to wake up. Sleep, even temporarily, allowed me to hide from it.
 
 If I couldn’t sleep, I just lay there, my face pressed against the wall. I’d lie there, lie there, and then drift back into sleep. I only got up out of necessity. To go to
+the bathroom. To drink water. Or when hunger started gnawing at me, I’d eat something to suppress it.
 
- the bathroom. To drink water. Or when hunger started gnawing at me, I’d eat something to suppress it.
+![bed](/article/how-i-overcame-depression/bed.png)
 
 I had no money. I had a lot of pickles. Salt, noodles, a lot of old potatoes. I’d toss noodles, potatoes, and pickles into a pot, boil it up in a big pot (so it would last), and eat. I didn’t have any “craving” for food. I probably could have chewed on hay just to dull the hunger. Once the hunger subsided, I couldn’t eat anymore. Physically couldn’t. I’d put my concoction in the fridge and go back to pressing my face against the wall.
 
-**I Denied Myself Existence**
+### I Denied Myself Existence
 
 Time stopped. It lost all meaning. What the clock said didn’t matter. I didn’t know what to do next. No, not like that. There was no "next." The future didn’t exist. There wasn’t a single thought, not even a secret one, that one day I’d wake up, and all this would pass, and I’d feel better. There was simply no "tomorrow." There was unbearable "today" and an alien "yesterday." There were photos of some person who no longer existed. Books he had read. Diaries he had written. Their presence was a constant, painful reminder of some "other life" that was no more.
 
 It was like someone who had lost their legs returning home to find their shoes still standing in the hallway. I think it was something like that. A constant reminder that this will never, ever return to you.
+
+![bed](/article/how-i-overcame-depression/time.png)
 
 So I methodically began to destroy everything that reminded me of my "past life." I took out the photos and cut them into tiny pieces with big scissors. I even found some sense in it. Of course, I knew that once I had cut everything, it would all end, but I didn’t care (and couldn’t care). Everything had already ended, in reality. Meanwhile, I had a lot to destroy. Photos. Diaries. Books. Everything that even remotely reminded me of that "other life."
 
@@ -108,24 +109,27 @@ How long this went on, I can’t say for sure. A month, two months? Yeah, probab
 
 Photos. Letters. Army diaries. Literary attempts. And the more I did it, the easier I felt.
 
-**And Something Subtly Changed,  
-And I Realized I Could Live On**
+### And Something Subtly Changed,  And I Realized I Could Live On
 
 This happened before I had finished with all my photos and letters. There was still a little left, but suddenly I found myself wanting to write something new. In a clean, new notebook. I wanted to open a notebook with squares, a large new notebook.
+
+![child](/article/how-i-overcame-depression/child.png)
 
 And I wanted different pens, ones that wrote in different colors. Red and green. And blue. And black. I really wanted them to be multicolored pens. There were no thoughts yet about *what* to write, but there was already a desire to write *something*. Sometimes we say we want to "start life with a clean slate." I experienced this literally. But there were still many "dirty" pages from my past life on the floor, so I didn’t write anything for now. I decided to finish off my past. And until the last sheet of paper that reminded me of that past was destroyed, I didn’t rest.
 
 Something had changed. My emotions were returning, my desires were returning. I regained my appetite and interest in communication. Thoughts came to me that seemed important, and I wanted to write them down. I started writing in a notebook, and I liked it. The notebook hasn’t survived to this day—I lost or threw it away—but that doesn’t matter. The past ceased to mean anything to me. Only vague memories remain of it. If I want to "resurrect" them, there will be these writings. If not, there will be nothing left.
 
-**When the Body Aches and When the Soul Hurts**
+### When the Body Aches and When the Soul Hurts
 
 Now I’m going to tell you something that might be hard to believe. I don’t care whether you believe it or not. Just think about it.
 
-**Depression is a Post-Mortem Experience**
+👉 **Depression is a Post-Mortem Experience**
 
 Similar to what a person experiences in clinical death. Only with depression, the person’s body continues to live. You can move. Eat. Go to work. Be a useful member of society.
 
 Dead, but useful. No one would ever guess that this person is dead. Especially since there are medications that "revive" their physiological functions: increased physical activity, reflex and emotional "response" to external stimuli, partial restoration of willpower, normalization of blood circulation, and so on.
+
+![death](/article/how-i-overcame-depression/death.png)
 
 This isn’t some Voodoo magic, just basic psychiatry. And the drugs that can turn a "dead" person into a zombie who "comes to life" are sold in any pharmacy.
 
@@ -145,4 +149,5 @@ And what does your body want when it’s sick? Think about it. The body doesn’
 
 I didn’t fight my depression. My hands dropped, and I didn’t try to lift them. I couldn’t find the strength to change anything, so I left everything as it was. I couldn’t force myself to go anywhere, so I lay down. I wanted oblivion, and sleep helped me forget. I only did what I wanted. And I didn’t want anything. Nothing. So I did nothing. Maybe that’s what saved my life.
 
-**P.S. The case I described happened around the mid-90s. I’ve never experienced depression again.**
+
+*P.S. The case I described happened around the mid-90s. I’ve never experienced depression again.*
