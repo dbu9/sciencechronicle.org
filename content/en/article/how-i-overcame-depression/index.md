@@ -150,4 +150,6 @@ And what does your body want when it’s sick? Think about it. The body doesn’
 I didn’t fight my depression. My hands dropped, and I didn’t try to lift them. I couldn’t find the strength to change anything, so I left everything as it was. I couldn’t force myself to go anywhere, so I lay down. I wanted oblivion, and sleep helped me forget. I only did what I wanted. And I didn’t want anything. Nothing. So I did nothing. Maybe that’s what saved my life.
 
 
-*P.S. The case I described happened around the mid-90s. I’ve never experienced depression again.*
+---
+
+*Thank you to the author of the article, a member of the ScienceChronicle.org team, Ph.D. in Psychology, Michael Budler. Your insights and expertise are greatly appreciated.*
