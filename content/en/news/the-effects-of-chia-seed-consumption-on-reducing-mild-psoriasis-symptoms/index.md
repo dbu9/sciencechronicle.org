@@ -1,6 +1,6 @@
 ---
 title: "The effects of chia seed consumption on reducing mild psoriasis symptoms"
-description: ""
+description: "This research article explores the significant positive effects of chia seed consumption on reducing mild psoriasis symptoms, including improvements in skin hydration, reductions in inflammation markers, and a notable decrease in psoriasis severity, supported by a 12-week clinical study."
 date: 2024-09-06T12:47:31.053Z
 draft: false
 tags: [chia seeds, psoriasis, natural remedies]
