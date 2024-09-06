@@ -67,7 +67,7 @@ The research led by Dr. Jonathan Fields at Greenwood University suggests that Re
 
 Reiki offers a low-risk, side-effect-free way to potentially enhance well-being and sexual confidence. As more research is conducted, Dr. Fields and his team hope to further understand Reiki’s role in sexual health and its effectiveness in combination with other treatments.
 
---
+---
 
 ## Key Takeaways
 
