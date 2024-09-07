@@ -5,7 +5,20 @@
     <link>https://www.ScienceChronicle.org/en/categories/computer/</link>
     <description>Recent content in Computer on ScienceChronicle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 09 Jun 2024 11:52:37 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/computer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Sep 2024 11:52:37 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/computer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installing Perl::LanguageServer fails because IO:AIO error: c compiler cannot create executables</title>
+      <link>https://www.ScienceChronicle.org/en/article/perl-language-server-io-aio-c-compiler-cannot-create-executables/</link>
+      <pubDate>Fri, 06 Sep 2024 11:52:37 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/perl-language-server-io-aio-c-compiler-cannot-create-executables/</guid>
+      <description>The problem While attempting to install Perl::LanguageServer on my Linux Mint 20.3 Una, the following command:
+cpan install Perl::LanguageServer failed, reporting that the IO::AIO dependency was unsatisfied.
+I tried installing the IO::AIO module separately:
+cpan install IO::AIO However, this resulted in the following error:
+Continue anyways? [y] y checking for gcc... x86_64-linux-gnu-gcc checking whether the C compiler works... no configure: error: in `/home/morpher/.cpan/build/IO-AIO-4.81-7&amp;#39;: configure: error: C compiler cannot create executables See `config.</description>
+    </item>
+    
     <item>
       <title>Round-robin load-balancing between two VPNs with iptables and policy-based routing</title>
       <link>https://www.ScienceChronicle.org/en/article/round-robin-load-balancing-between-two-vpns-with-iptables-and-pbr/</link>

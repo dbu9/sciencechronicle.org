@@ -16,6 +16,19 @@
     </item>
     
     <item>
+      <title>Installing Perl::LanguageServer fails because IO:AIO error: c compiler cannot create executables</title>
+      <link>https://www.ScienceChronicle.org/en/article/perl-language-server-io-aio-c-compiler-cannot-create-executables/</link>
+      <pubDate>Fri, 06 Sep 2024 11:52:37 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/perl-language-server-io-aio-c-compiler-cannot-create-executables/</guid>
+      <description>The problem While attempting to install Perl::LanguageServer on my Linux Mint 20.3 Una, the following command:
+cpan install Perl::LanguageServer failed, reporting that the IO::AIO dependency was unsatisfied.
+I tried installing the IO::AIO module separately:
+cpan install IO::AIO However, this resulted in the following error:
+Continue anyways? [y] y checking for gcc... x86_64-linux-gnu-gcc checking whether the C compiler works... no configure: error: in `/home/morpher/.cpan/build/IO-AIO-4.81-7&amp;#39;: configure: error: C compiler cannot create executables See `config.</description>
+    </item>
+    
+    <item>
       <title>Reiki and Male Sexual Dysfunction: Can Energy Healing Help?</title>
       <link>https://www.ScienceChronicle.org/en/news/reiki-and-male-sexual-disfunction-can-energy-healing-help/</link>
       <pubDate>Fri, 06 Sep 2024 01:44:20 +0000</pubDate>
