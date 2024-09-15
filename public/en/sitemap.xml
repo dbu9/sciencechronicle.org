@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ScienceChronicle.org/en/article/</loc>
+    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/article/"
+                />
+  </url><url>
     <loc>https://www.ScienceChronicle.org/en/categories/</loc>
-    <lastmod>2024-09-06T12:47:31+00:00</lastmod>
+    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -18,6 +31,57 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.ScienceChronicle.org/en/categories/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/commputer-interview/</loc>
+    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/categories/computer/</loc>
+    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/</loc>
+    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/"
+                />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/article/select-non-duplicates-sql-interview-question/</loc>
+    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/sql/</loc>
+    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/categories/sql/</loc>
+    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
+    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://www.ScienceChronicle.org/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.ScienceChronicle.org/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ScienceChronicle.org/en/tags/"
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/chia-seeds/</loc>
@@ -50,60 +114,8 @@
     <loc>https://www.ScienceChronicle.org/en/tags/psoriasis/</loc>
     <lastmod>2024-09-06T12:47:31+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-09-06T12:47:31+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/"
-                />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-09-06T12:47:31+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.ScienceChronicle.org/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/tags/"
-                />
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/news/the-effects-of-chia-seed-consumption-on-reducing-mild-psoriasis-symptoms/</loc>
     <lastmod>2024-09-06T12:47:31+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/article/</loc>
-    <lastmod>2024-09-06T11:52:37+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://www.ScienceChronicle.org/ru/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ScienceChronicle.org/en/article/"
-                />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/categories/computer/</loc>
-    <lastmod>2024-09-06T11:52:37+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/article/perl-language-server-io-aio-c-compiler-cannot-create-executables/</loc>
     <lastmod>2024-09-06T11:52:37+00:00</lastmod>
@@ -360,12 +372,6 @@
     <lastmod>2024-06-09T11:52:37+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/article/similarity-between-sql-and-iptables-rules/</loc>
-    <lastmod>2024-06-09T11:52:37+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/sql/</loc>
-    <lastmod>2024-06-09T11:52:37+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/categories/sql/</loc>
     <lastmod>2024-06-09T11:52:37+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/article/install-nyx-on-openwrt/</loc>

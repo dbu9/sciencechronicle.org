@@ -5,22 +5,31 @@
     <link>https://www.ScienceChronicle.org/en/categories/</link>
     <description>Recent content in Categories on ScienceChronicle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Sep 2024 12:47:31 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Sep 2024 11:52:37 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer</title>
+      <link>https://www.ScienceChronicle.org/en/categories/computer/</link>
+      <pubDate>Mon, 09 Sep 2024 11:52:37 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/categories/computer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://www.ScienceChronicle.org/en/categories/sql/</link>
+      <pubDate>Mon, 09 Sep 2024 11:52:37 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/categories/sql/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Health</title>
       <link>https://www.ScienceChronicle.org/en/categories/health/</link>
       <pubDate>Fri, 06 Sep 2024 12:47:31 +0000</pubDate>
       
       <guid>https://www.ScienceChronicle.org/en/categories/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer</title>
-      <link>https://www.ScienceChronicle.org/en/categories/computer/</link>
-      <pubDate>Fri, 06 Sep 2024 11:52:37 +0000</pubDate>
-      
-      <guid>https://www.ScienceChronicle.org/en/categories/computer/</guid>
       <description></description>
     </item>
     
@@ -75,15 +84,6 @@
       <pubDate>Sun, 09 Jun 2024 11:52:37 +0000</pubDate>
       
       <guid>https://www.ScienceChronicle.org/en/categories/networking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://www.ScienceChronicle.org/en/categories/sql/</link>
-      <pubDate>Sun, 09 Jun 2024 11:52:37 +0000</pubDate>
-      
-      <guid>https://www.ScienceChronicle.org/en/categories/sql/</guid>
       <description></description>
     </item>
     

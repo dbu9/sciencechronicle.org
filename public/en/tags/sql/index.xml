@@ -5,7 +5,19 @@
     <link>https://www.ScienceChronicle.org/en/tags/sql/</link>
     <description>Recent content in sql on ScienceChronicle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 09 Jun 2024 11:52:37 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Sep 2024 11:52:37 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Select non-duplicates: SQL interview question</title>
+      <link>https://www.ScienceChronicle.org/en/article/select-non-duplicates-sql-interview-question/</link>
+      <pubDate>Mon, 09 Sep 2024 11:52:37 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/select-non-duplicates-sql-interview-question/</guid>
+      <description>Task definition We define the following schema:
+CREATE TABLE dup(id SERIAL PRIMARY KEY, email TEXT NOT NULL, phone NOT NULL); Duplicate rows are defined as two or more rows which have the same email OR phone columns.
+Our task is to write SQL which selects rows which have no duplicates initially and also any single row which represents a group of duplicates.
+Solution Naive solution The straigtforward and incorrect approach is to apply DISTINCT serially.</description>
+    </item>
+    
     <item>
       <title>Similarity between SQL and iptables Rules</title>
       <link>https://www.ScienceChronicle.org/en/article/similarity-between-sql-and-iptables-rules/</link>
