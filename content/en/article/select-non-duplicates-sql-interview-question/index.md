@@ -1,6 +1,6 @@
 ---
 title: "Select non-duplicates: SQL interview question"
-description: "In this blog we examine a seemingly simple problem to filter duplicate rows. A duplicate is defined as a row which has email or phone which is not unique. This OR condition complicates the solution greatly."
+description: "In this blog we examine a seemingly simple problem to filter duplicate rows. A duplicate is defined as a row which has email or phone which is not unique. This OR condition complicates the solution significantly."
 date: 2024-09-09T11:52:37.716Z
 draft: false
 categories: [Computer, SQL]
@@ -215,4 +215,3 @@ id | email | phone
 ```
 
 This works nice, too.
-

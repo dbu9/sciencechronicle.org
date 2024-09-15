@@ -32,6 +32,17 @@ Continue anyways? [y] y checking for gcc... x86_64-linux-gnu-gcc checking whethe
     </item>
     
     <item>
+      <title>User inactivity detection in Linux</title>
+      <link>https://www.ScienceChronicle.org/en/article/user-inactivity-detection-in-linux/</link>
+      <pubDate>Thu, 01 Aug 2024 03:58:40 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/user-inactivity-detection-in-linux/</guid>
+      <description>We want to detect user inactivity on Linux system in a bash service run by systemd. Why? When user is inactive, we can launch some CPU-heavy tasks without disrupting user&amp;rsquo;s interaction with the system.
+A user has 2 primary ways of interaction with Linux system: through textual terminal or UI desktop like Cinnamon, Xface, etc. The methods of user (in)activity detection are different for terminal and UI.
+UI environment We conduct our tests on Linux Mint 20.</description>
+    </item>
+    
+    <item>
       <title>Round-robin load-balancing between two VPNs with iptables and policy-based routing</title>
       <link>https://www.ScienceChronicle.org/en/article/round-robin-load-balancing-between-two-vpns-with-iptables-and-pbr/</link>
       <pubDate>Sun, 09 Jun 2024 11:52:37 +0000</pubDate>
