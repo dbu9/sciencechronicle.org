@@ -96,7 +96,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
   <meta itemprop="name" content="Select non-duplicates: SQL interview question">
 <meta itemprop="description" content="In this blog we examine a seemingly simple problem to filter duplicate rows. A duplicate is defined as a row which has email or phone which is not unique. This OR condition complicates the solution significantly."><meta itemprop="datePublished" content="2024-09-09T11:52:37+00:00" />
 <meta itemprop="dateModified" content="2024-09-09T11:52:37+00:00" />
-<meta itemprop="wordCount" content="608">
+<meta itemprop="wordCount" content="1470">
 <meta itemprop="keywords" content="sql,commputer interview," />
 
   
@@ -232,7 +232,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
         <circle cx="12" cy="12" r="9" />
         <polyline points="12 7 12 12 15 15" />
       </svg>
-      3&nbsp;minutes
+      7&nbsp;minutes
       &nbsp;&bull;
       <svg xmlns="http://www.w3.org/2000/svg" class="mx-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
         <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -242,7 +242,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      608&nbsp;words
+      1470&nbsp;words
       
         
       
@@ -291,18 +291,48 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
         
         </li><li>
         <a href="#case-2">Case 2</a>
+        
+
+        
         </li></ul>
+      </li><li>
+        <a href="#non-recursive-solution">Non-recursive solution</a>
+        
+
+        
+        <ul>
+            <li>
+        <a href="#step-1-grouping-ids-of-the-same-email-or-phone">Step 1: grouping ids of the same email or phone</a>
+        
+
+        
+        </li><li>
+        <a href="#step-2-union-find-algorithm-aka-disjoint-set-algorithm">Step 2: Union-find algorithm (aka disjoint set algorithm)</a>
+        
+
+        
+        <ul>
+            <li>
+        <a href="#correctness">Correctness</a>
+        
+
+        
+        </li><li>
+        <a href="#implementation">Implementation</a>
+        </li></ul>
+    </li></ul>
     </li></ul>
     </li></ul>
   </details>
 
-    <h2 id="task-definition">Task definition</h2>
+    <hr>
+<h1 id="task-definition">Task definition</h1>
 <p>We define the following schema:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sql" data-lang="sql"><span style="display:flex;"><span><span style="color:#ff79c6">CREATE</span> <span style="color:#ff79c6">TABLE</span> dup(id <span style="color:#8be9fd;font-style:italic">SERIAL</span> <span style="color:#ff79c6">PRIMARY</span> <span style="color:#ff79c6">KEY</span>, email <span style="color:#8be9fd;font-style:italic">TEXT</span> <span style="color:#ff79c6">NOT</span> <span style="color:#ff79c6">NULL</span>, phone <span style="color:#ff79c6">NOT</span> <span style="color:#ff79c6">NULL</span>);
 </span></span></code></pre></div><p>Duplicate rows are defined as two or more rows which have the same <code>email</code> OR <code>phone</code> columns.</p>
 <p>Our task is to write SQL which selects rows which have no duplicates initially and also any single row which represents a group of duplicates.</p>
-<h2 id="solution">Solution</h2>
-<h3 id="naive-solution">Naive solution</h3>
+<h1 id="solution">Solution</h1>
+<h2 id="naive-solution">Naive solution</h2>
 <p>The straigtforward and incorrect approach is to apply <code>DISTINCT</code> serially. For example:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sql" data-lang="sql"><span style="display:flex;"><span><span style="color:#ff79c6">INSERT</span> <span style="color:#ff79c6">INTO</span> dup(email, phone) <span style="color:#ff79c6">VALUES</span>(<span style="color:#f1fa8c">&#39;a&#39;</span>,<span style="color:#f1fa8c">&#39;1&#39;</span>),(<span style="color:#f1fa8c">&#39;a&#39;</span>,<span style="color:#f1fa8c">&#39;2&#39;</span>), (<span style="color:#f1fa8c">&#39;b&#39;</span>,<span style="color:#f1fa8c">&#39;2&#39;</span>), (<span style="color:#f1fa8c">&#39;c&#39;</span>,<span style="color:#f1fa8c">&#39;1&#39;</span>), (<span style="color:#f1fa8c">&#39;d&#39;</span>, <span style="color:#f1fa8c">&#39;3&#39;</span>)
 </span></span></code></pre></div><table>
@@ -460,7 +490,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
 <p>The correct result was due to a way the duplicates were connected. The following diagram makes this clear.</p>
 <p><img src="/article/select-non-duplicates-sql-interview-question/groups.png" alt="selection illustration"></p>
 <p>We can see that any kind of graph can exist which will fail the naive selection method we use.</p>
-<h3 id="recursive-cte-query">Recursive CTE query</h3>
+<h2 id="recursive-cte-query">Recursive CTE query</h2>
 <p>The correct and recursive solution is the following query.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sql" data-lang="sql"><span style="display:flex;"><span><span style="color:#ff79c6">WITH</span> <span style="color:#ff79c6">RECURSIVE</span> connected_groups <span style="color:#ff79c6">AS</span> (
 </span></span><span style="display:flex;"><span>	<span style="color:#6272a4">-- Base case: each row starts as its own group
@@ -508,7 +538,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
 </span></span><span style="display:flex;"><span><span style="color:#ff79c6">ON</span> mg.group_id <span style="color:#ff79c6">=</span> grp.group_id <span style="color:#ff79c6">AND</span> mg.id <span style="color:#ff79c6">=</span> grp.min_id;
 </span></span></code></pre></div><p>Let&rsquo;s examine several cases with that solution.</p>
 <p><img src="/article/select-non-duplicates-sql-interview-question/cases.png" alt="cases"></p>
-<h4 id="case-1">Case 1</h4>
+<h3 id="case-1">Case 1</h3>
 <table>
 <thead>
 <tr>
@@ -571,7 +601,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
   1 | a     | 1
 (1 row)
 </code></pre><p>So, it&rsquo;s ok.</p>
-<h4 id="case-2">Case 2</h4>
+<h3 id="case-2">Case 2</h3>
 <table>
 <thead>
 <tr>
@@ -627,6 +657,183 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
   4 | c     | 4
   1 | a     | 1
 </code></pre><p>This works nice, too.</p>
+<h2 id="non-recursive-solution">Non-recursive solution</h2>
+<p>The recursive solution turns out to be very slow. On amazon RDS instance with 32GB RAM and 4 vCPU, execution time
+was 2125961.136 ms for 100,000 rows.</p>
+<p>To find duplcaites we decided to use out-of-db filtering.</p>
+<h3 id="step-1-grouping-ids-of-the-same-email-or-phone">Step 1: grouping ids of the same email or phone</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sql" data-lang="sql"><span style="display:flex;"><span><span style="color:#ff79c6">CREATE</span> <span style="color:#ff79c6">TABLE</span> <span style="color:#ff79c6">IF</span> <span style="color:#ff79c6">NOT</span> <span style="color:#ff79c6">EXISTS</span> email_group(id <span style="color:#8be9fd;font-style:italic">SERIAL</span> <span style="color:#ff79c6">PRIMARY</span> <span style="color:#ff79c6">KEY</span>, email <span style="color:#8be9fd;font-style:italic">TEXT</span> <span style="color:#ff79c6">NOT</span> <span style="color:#ff79c6">NULL</span>, ids <span style="color:#8be9fd;font-style:italic">INTEGER</span>[]);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#ff79c6">INSERT</span> <span style="color:#ff79c6">INTO</span> email_group(email, ids) 
+</span></span><span style="display:flex;"><span><span style="color:#ff79c6">SELECT</span> <span style="color:#ff79c6">DISTINCT</span> <span style="color:#ff79c6">ON</span>(email) email, ARRAY_AGG(id) 
+</span></span><span style="display:flex;"><span><span style="color:#ff79c6">FROM</span> dup <span style="color:#ff79c6">GROUP</span> <span style="color:#ff79c6">BY</span> email;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#ff79c6">CREATE</span> <span style="color:#ff79c6">TABLE</span> <span style="color:#ff79c6">IF</span> <span style="color:#ff79c6">NOT</span> <span style="color:#ff79c6">EXISTS</span> phone_group(id <span style="color:#8be9fd;font-style:italic">SERIAL</span> <span style="color:#ff79c6">PRIMARY</span> <span style="color:#ff79c6">KEY</span>, phone <span style="color:#8be9fd;font-style:italic">TEXT</span> <span style="color:#ff79c6">NOT</span> <span style="color:#ff79c6">NULL</span>, ids <span style="color:#8be9fd;font-style:italic">INTEGER</span>[]);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#ff79c6">INSERT</span> <span style="color:#ff79c6">INTO</span> phone_group(phone, ids)
+</span></span><span style="display:flex;"><span><span style="color:#ff79c6">SELECT</span> <span style="color:#ff79c6">DISTINCT</span> <span style="color:#ff79c6">ON</span>(phone) phone, ARRAY_AGG(id) 
+</span></span><span style="display:flex;"><span><span style="color:#ff79c6">FROM</span> dup <span style="color:#ff79c6">GROUP</span> <span style="color:#ff79c6">BY</span> phone;
+</span></span></code></pre></div><p>Let&rsquo;s see an example:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-sql" data-lang="sql"><span style="display:flex;"><span><span style="color:#ff79c6">SELECT</span> <span style="color:#ff79c6">*</span> <span style="color:#ff79c6">FROM</span> dup;
+</span></span><span style="display:flex;"><span> id <span style="color:#ff79c6">|</span> email <span style="color:#ff79c6">|</span> phone 
+</span></span><span style="display:flex;"><span><span style="color:#6272a4">----+-------+-------
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>  <span style="color:#bd93f9">1</span> <span style="color:#ff79c6">|</span> a     <span style="color:#ff79c6">|</span> <span style="color:#bd93f9">1</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#bd93f9">2</span> <span style="color:#ff79c6">|</span> a     <span style="color:#ff79c6">|</span> <span style="color:#bd93f9">2</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#bd93f9">3</span> <span style="color:#ff79c6">|</span> b     <span style="color:#ff79c6">|</span> <span style="color:#bd93f9">2</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#bd93f9">4</span> <span style="color:#ff79c6">|</span> a     <span style="color:#ff79c6">|</span> <span style="color:#bd93f9">3</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#bd93f9">5</span> <span style="color:#ff79c6">|</span> a     <span style="color:#ff79c6">|</span> <span style="color:#bd93f9">4</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#bd93f9">6</span> <span style="color:#ff79c6">|</span> <span style="color:#ff79c6">c</span>     <span style="color:#ff79c6">|</span> <span style="color:#bd93f9">4</span>
+</span></span><span style="display:flex;"><span>(<span style="color:#bd93f9">6</span> <span style="color:#ff79c6">rows</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#ff79c6">SELECT</span> <span style="color:#ff79c6">*</span> <span style="color:#ff79c6">FROM</span> email_group;
+</span></span><span style="display:flex;"><span> id <span style="color:#ff79c6">|</span> email <span style="color:#ff79c6">|</span>    ids    
+</span></span><span style="display:flex;"><span><span style="color:#6272a4">----+-------+-----------
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>  <span style="color:#bd93f9">1</span> <span style="color:#ff79c6">|</span> a     <span style="color:#ff79c6">|</span> {<span style="color:#bd93f9">1</span>,<span style="color:#bd93f9">2</span>,<span style="color:#bd93f9">4</span>,<span style="color:#bd93f9">5</span>}
+</span></span><span style="display:flex;"><span>  <span style="color:#bd93f9">2</span> <span style="color:#ff79c6">|</span> b     <span style="color:#ff79c6">|</span> {<span style="color:#bd93f9">3</span>}
+</span></span><span style="display:flex;"><span>  <span style="color:#bd93f9">3</span> <span style="color:#ff79c6">|</span> <span style="color:#ff79c6">c</span>     <span style="color:#ff79c6">|</span> {<span style="color:#bd93f9">6</span>}
+</span></span><span style="display:flex;"><span>(<span style="color:#bd93f9">3</span> <span style="color:#ff79c6">rows</span>)
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#ff79c6">SELECT</span> <span style="color:#ff79c6">*</span> <span style="color:#ff79c6">FROM</span> phone_group;
+</span></span><span style="display:flex;"><span> id <span style="color:#ff79c6">|</span> phone <span style="color:#ff79c6">|</span>  ids  
+</span></span><span style="display:flex;"><span><span style="color:#6272a4">----+-------+-------
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>  <span style="color:#bd93f9">1</span> <span style="color:#ff79c6">|</span> <span style="color:#bd93f9">1</span>     <span style="color:#ff79c6">|</span> {<span style="color:#bd93f9">1</span>}
+</span></span><span style="display:flex;"><span>  <span style="color:#bd93f9">2</span> <span style="color:#ff79c6">|</span> <span style="color:#bd93f9">2</span>     <span style="color:#ff79c6">|</span> {<span style="color:#bd93f9">2</span>,<span style="color:#bd93f9">3</span>}
+</span></span><span style="display:flex;"><span>  <span style="color:#bd93f9">3</span> <span style="color:#ff79c6">|</span> <span style="color:#bd93f9">3</span>     <span style="color:#ff79c6">|</span> {<span style="color:#bd93f9">4</span>}
+</span></span><span style="display:flex;"><span>  <span style="color:#bd93f9">4</span> <span style="color:#ff79c6">|</span> <span style="color:#bd93f9">4</span>     <span style="color:#ff79c6">|</span> {<span style="color:#bd93f9">5</span>,<span style="color:#bd93f9">6</span>}
+</span></span><span style="display:flex;"><span>(<span style="color:#bd93f9">4</span> <span style="color:#ff79c6">rows</span>)
+</span></span></code></pre></div><h3 id="step-2-union-find-algorithm-aka-disjoint-set-algorithm">Step 2: Union-find algorithm (aka disjoint set algorithm)</h3>
+<h4 id="correctness">Correctness</h4>
+<p>The algorithm works as follows (<code>group 1</code> = <code>email_group</code> and <code>group 2</code> = <code>phone group</code> below):</p>
+<ol>
+<li><strong>Input</strong>: You have two groups of sets (in this case, <code>group 1</code> and <code>group 2</code>).</li>
+<li><strong>Union</strong>: For each set in <code>group 1</code>, you check if it has any intersection with any sets in <code>group 2</code>. If they intersect, you merge (union) them into a single set.</li>
+<li><strong>Skipping Duplicates</strong>: After merging sets, you skip any set in <code>group 1</code> that has already been processed and merged with other sets.</li>
+</ol>
+<p>This algorithm is general enough for identifying and merging overlapping sets because:</p>
+<ol>
+<li><strong>Union Property</strong>: The union operation is <strong>commutative</strong> and <strong>associative</strong>. This means that the order in which you process the sets does not affect the final outcome. As long as you consider all sets and merge them when they overlap, the result will be the same.</li>
+<li><strong>Transitive Closure</strong>: The merging (union) operation will combine all interconnected sets into a single larger set, preserving the transitive property. For example, if set A intersects with set B, and set B intersects with set C, all three sets will be merged into a single set containing elements from A, B, and C.</li>
+</ol>
+<p>By following the process for all sets in both groups, you ensure that all overlapping and interconnected sets are merged into distinct groups, effectively identifying the &ldquo;duplicate&rdquo; sets. Therefore, the procedure is general enough for finding duplicates in any collection of sets.</p>
+<h4 id="implementation">Implementation</h4>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-javascript" data-lang="javascript"><span style="display:flex;"><span><span style="color:#ff79c6">class</span> UnionFind {
+</span></span><span style="display:flex;"><span>    constructor(size) {
+</span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">this</span>.parent <span style="color:#ff79c6">=</span> <span style="color:#8be9fd;font-style:italic">Array</span>.from({ length<span style="color:#ff79c6">:</span> size }, (_, i) =&gt; i);
+</span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">this</span>.rank <span style="color:#ff79c6">=</span> <span style="color:#8be9fd;font-style:italic">Array</span>(size).fill(<span style="color:#bd93f9">1</span>);
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    find(x) {
+</span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">if</span> (<span style="color:#ff79c6">this</span>.parent[x] <span style="color:#ff79c6">!==</span> x) {
+</span></span><span style="display:flex;"><span>            <span style="color:#ff79c6">this</span>.parent[x] <span style="color:#ff79c6">=</span> <span style="color:#ff79c6">this</span>.find(<span style="color:#ff79c6">this</span>.parent[x]); <span style="color:#6272a4">// Path compression
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>        }
+</span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">return</span> <span style="color:#ff79c6">this</span>.parent[x];
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    union(x, y) {
+</span></span><span style="display:flex;"><span>        <span style="color:#8be9fd;font-style:italic">let</span> rootX <span style="color:#ff79c6">=</span> <span style="color:#ff79c6">this</span>.find(x);
+</span></span><span style="display:flex;"><span>        <span style="color:#8be9fd;font-style:italic">let</span> rootY <span style="color:#ff79c6">=</span> <span style="color:#ff79c6">this</span>.find(y);
+</span></span><span style="display:flex;"><span>        
+</span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">if</span> (rootX <span style="color:#ff79c6">!==</span> rootY) {
+</span></span><span style="display:flex;"><span>            <span style="color:#6272a4">// Union by rank
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>            <span style="color:#ff79c6">if</span> (<span style="color:#ff79c6">this</span>.rank[rootX] <span style="color:#ff79c6">&gt;</span> <span style="color:#ff79c6">this</span>.rank[rootY]) {
+</span></span><span style="display:flex;"><span>                <span style="color:#ff79c6">this</span>.parent[rootY] <span style="color:#ff79c6">=</span> rootX;
+</span></span><span style="display:flex;"><span>            } <span style="color:#ff79c6">else</span> <span style="color:#ff79c6">if</span> (<span style="color:#ff79c6">this</span>.rank[rootX] <span style="color:#ff79c6">&lt;</span> <span style="color:#ff79c6">this</span>.rank[rootY]) {
+</span></span><span style="display:flex;"><span>                <span style="color:#ff79c6">this</span>.parent[rootX] <span style="color:#ff79c6">=</span> rootY;
+</span></span><span style="display:flex;"><span>            } <span style="color:#ff79c6">else</span> {
+</span></span><span style="display:flex;"><span>                <span style="color:#ff79c6">this</span>.parent[rootY] <span style="color:#ff79c6">=</span> rootX;
+</span></span><span style="display:flex;"><span>                <span style="color:#ff79c6">this</span>.rank[rootX] <span style="color:#ff79c6">+=</span> <span style="color:#bd93f9">1</span>;
+</span></span><span style="display:flex;"><span>            }
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#8be9fd;font-style:italic">function</span> findDuplicates(groups) {
+</span></span><span style="display:flex;"><span>    <span style="color:#ff79c6">const</span> elementToIndex <span style="color:#ff79c6">=</span> {}; 
+</span></span><span style="display:flex;"><span>    <span style="color:#8be9fd;font-style:italic">let</span> nextIndex <span style="color:#ff79c6">=</span> <span style="color:#bd93f9">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#8be9fd;font-style:italic">let</span> processedElements <span style="color:#ff79c6">=</span> <span style="color:#bd93f9">0</span>;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#6272a4">// Assign a unique index to every unique element across all groups
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>    console.log(<span style="color:#f1fa8c">`Assigning unique indices to elements in </span><span style="color:#f1fa8c">${</span>groups.length<span style="color:#f1fa8c">}</span><span style="color:#f1fa8c"> groups...`</span>);
+</span></span><span style="display:flex;"><span>    <span style="color:#ff79c6">for</span> (<span style="color:#8be9fd;font-style:italic">let</span> group <span style="color:#ff79c6">of</span> groups) {
+</span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">for</span> (<span style="color:#8be9fd;font-style:italic">let</span> element <span style="color:#ff79c6">of</span> group) {
+</span></span><span style="display:flex;"><span>            <span style="color:#ff79c6">if</span> (<span style="color:#ff79c6">!</span>(element <span style="color:#ff79c6">in</span> elementToIndex)) { <span style="color:#6272a4">// Check existence in the object
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>                elementToIndex[element] <span style="color:#ff79c6">=</span> nextIndex<span style="color:#ff79c6">++</span>;
+</span></span><span style="display:flex;"><span>            }
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>        <span style="color:#6272a4">// Log progress for every 100,000 groups processed
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>        processedElements<span style="color:#ff79c6">++</span>;
+</span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">if</span> (processedElements <span style="color:#ff79c6">%</span> <span style="color:#bd93f9">100000</span> <span style="color:#ff79c6">===</span> <span style="color:#bd93f9">0</span>) {
+</span></span><span style="display:flex;"><span>            console.log(<span style="color:#f1fa8c">`Processed </span><span style="color:#f1fa8c">${</span>processedElements<span style="color:#f1fa8c">}</span><span style="color:#f1fa8c"> groups for unique indexing...`</span>);
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    console.log(<span style="color:#f1fa8c">`Finished assigning indices. Total unique elements: </span><span style="color:#f1fa8c">${</span>nextIndex<span style="color:#f1fa8c">}</span><span style="color:#f1fa8c">`</span>);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#6272a4">// Initialize union-find data structure
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>    <span style="color:#ff79c6">const</span> uf <span style="color:#ff79c6">=</span> <span style="color:#ff79c6">new</span> UnionFind(nextIndex);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#6272a4">// Union elements within each group
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>    console.log(<span style="color:#f1fa8c">`Performing union operations for </span><span style="color:#f1fa8c">${</span>groups.length<span style="color:#f1fa8c">}</span><span style="color:#f1fa8c"> groups...`</span>);
+</span></span><span style="display:flex;"><span>    processedElements <span style="color:#ff79c6">=</span> <span style="color:#bd93f9">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#ff79c6">for</span> (<span style="color:#8be9fd;font-style:italic">let</span> group <span style="color:#ff79c6">of</span> groups) {
+</span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">for</span> (<span style="color:#8be9fd;font-style:italic">let</span> i <span style="color:#ff79c6">=</span> <span style="color:#bd93f9">1</span>; i <span style="color:#ff79c6">&lt;</span> group.length; i<span style="color:#ff79c6">++</span>) {
+</span></span><span style="display:flex;"><span>            uf.union(elementToIndex[group[<span style="color:#bd93f9">0</span>]], elementToIndex[group[i]]);
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>        <span style="color:#6272a4">// Log progress for every 100,000 groups processed
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>        processedElements<span style="color:#ff79c6">++</span>;
+</span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">if</span> (processedElements <span style="color:#ff79c6">%</span> <span style="color:#bd93f9">100000</span> <span style="color:#ff79c6">===</span> <span style="color:#bd93f9">0</span>) {
+</span></span><span style="display:flex;"><span>            console.log(<span style="color:#f1fa8c">`Performed union operations for </span><span style="color:#f1fa8c">${</span>processedElements<span style="color:#f1fa8c">}</span><span style="color:#f1fa8c"> groups...`</span>);
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    console.log(<span style="color:#f1fa8c">`Finished union operations.`</span>);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#6272a4">// Find unique sets
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>    console.log(<span style="color:#f1fa8c">`Finding unique sets...`</span>);
+</span></span><span style="display:flex;"><span>    <span style="color:#ff79c6">const</span> rootToGroup <span style="color:#ff79c6">=</span> {};
+</span></span><span style="display:flex;"><span>    <span style="color:#8be9fd;font-style:italic">let</span> elementCount <span style="color:#ff79c6">=</span> <span style="color:#bd93f9">0</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#ff79c6">for</span> (<span style="color:#8be9fd;font-style:italic">let</span> element <span style="color:#ff79c6">in</span> elementToIndex) {
+</span></span><span style="display:flex;"><span>        <span style="color:#8be9fd;font-style:italic">let</span> root <span style="color:#ff79c6">=</span> uf.find(elementToIndex[element]);
+</span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">if</span> (<span style="color:#ff79c6">!</span>(root <span style="color:#ff79c6">in</span> rootToGroup)) {
+</span></span><span style="display:flex;"><span>            rootToGroup[root] <span style="color:#ff79c6">=</span> [];
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>        rootToGroup[root].push(element);
+</span></span><span style="display:flex;"><span>        
+</span></span><span style="display:flex;"><span>        <span style="color:#6272a4">// Log progress for every 100,000 elements processed
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>        elementCount<span style="color:#ff79c6">++</span>;
+</span></span><span style="display:flex;"><span>        <span style="color:#ff79c6">if</span> (elementCount <span style="color:#ff79c6">%</span> <span style="color:#bd93f9">100000</span> <span style="color:#ff79c6">===</span> <span style="color:#bd93f9">0</span>) {
+</span></span><span style="display:flex;"><span>            console.log(<span style="color:#f1fa8c">`Processed </span><span style="color:#f1fa8c">${</span>elementCount<span style="color:#f1fa8c">}</span><span style="color:#f1fa8c"> elements for unique sets...`</span>);
+</span></span><span style="display:flex;"><span>        }
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>    console.log(<span style="color:#f1fa8c">`Finished finding unique sets. Total unique groups: </span><span style="color:#f1fa8c">${</span><span style="color:#8be9fd;font-style:italic">Object</span>.keys(rootToGroup).length<span style="color:#f1fa8c">}</span><span style="color:#f1fa8c">`</span>);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#6272a4">// Collect results
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>    <span style="color:#ff79c6">return</span> <span style="color:#8be9fd;font-style:italic">Object</span>.values(rootToGroup);
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#ff79c6">async</span> <span style="color:#8be9fd;font-style:italic">function</span> main() {
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>		<span style="color:#ff79c6">const</span> group1 <span style="color:#ff79c6">=</span> [[<span style="color:#bd93f9">1</span>,<span style="color:#bd93f9">2</span>,<span style="color:#bd93f9">3</span>],[<span style="color:#bd93f9">2</span>]];
+</span></span><span style="display:flex;"><span>		<span style="color:#ff79c6">const</span> group2 <span style="color:#ff79c6">=</span> [[<span style="color:#bd93f9">4</span>,<span style="color:#bd93f9">5</span>], [<span style="color:#bd93f9">1</span>,<span style="color:#bd93f9">3</span>]];
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    console.log(<span style="color:#f1fa8c">`group1 size: </span><span style="color:#f1fa8c">${</span>group1.length<span style="color:#f1fa8c">}</span><span style="color:#f1fa8c">, group2 size: </span><span style="color:#f1fa8c">${</span>group2.length<span style="color:#f1fa8c">}</span><span style="color:#f1fa8c">`</span>);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#6272a4">// Combine all groups into one
+</span></span></span><span style="display:flex;"><span><span style="color:#6272a4"></span>    console.log(<span style="color:#f1fa8c">&#39;Starting to find duplicates...&#39;</span>);
+</span></span><span style="display:flex;"><span>    <span style="color:#ff79c6">const</span> mergedGroups <span style="color:#ff79c6">=</span> findDuplicates([...group1, ...group2]);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>		<span style="color:#ff79c6">await</span> fs.writeFile(<span style="color:#f1fa8c">&#34;duplicates.json&#34;</span>, JSON.stringify(mergedGroups, <span style="color:#ff79c6">null</span>, <span style="color:#bd93f9">2</span>), {encoding<span style="color:#ff79c6">:</span> <span style="color:#f1fa8c">&#34;utf8&#34;</span>});
+</span></span><span style="display:flex;"><span>		<span style="color:#8be9fd;font-style:italic">let</span> cnt <span style="color:#ff79c6">=</span> <span style="color:#bd93f9">0</span>;
+</span></span><span style="display:flex;"><span>		<span style="color:#ff79c6">for</span> (<span style="color:#ff79c6">const</span> a <span style="color:#ff79c6">of</span> mergedGroups) {
+</span></span><span style="display:flex;"><span>			<span style="color:#ff79c6">if</span> (a.length <span style="color:#ff79c6">&gt;</span> <span style="color:#bd93f9">1</span>) {
+</span></span><span style="display:flex;"><span>				cnt<span style="color:#ff79c6">++</span>;
+</span></span><span style="display:flex;"><span>			}
+</span></span><span style="display:flex;"><span>		}
+</span></span><span style="display:flex;"><span>		console.log(<span style="color:#f1fa8c">`Number of found duplicate groups: </span><span style="color:#f1fa8c">${</span>cnt<span style="color:#f1fa8c">}</span><span style="color:#f1fa8c">`</span>);
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    pool.end();
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>main();
+</span></span></code></pre></div><p>This algorithm is fast enough to process millions of groups in minutes.</p>
 
   <hr>
   <p class="text-black dark:text-white text-2xl font-bold">Share</p>
