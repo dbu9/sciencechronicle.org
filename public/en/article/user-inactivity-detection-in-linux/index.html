@@ -85,8 +85,8 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
 <meta property="og:description" content="In this article we review and test methods of user inactivity detection in Linux, both for terminal and UI environments." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.ScienceChronicle.org/en/article/user-inactivity-detection-in-linux/" /><meta property="article:section" content="article" />
-<meta property="article:published_time" content="2024-08-01T03:58:40+00:00" />
-<meta property="article:modified_time" content="2024-08-01T03:58:40+00:00" />
+<meta property="article:published_time" content="2024-09-17T03:58:40+00:00" />
+<meta property="article:modified_time" content="2024-09-17T03:58:40+00:00" />
 
 
   <meta name="twitter:card" content="summary"/>
@@ -94,9 +94,9 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
 <meta name="twitter:description" content="In this article we review and test methods of user inactivity detection in Linux, both for terminal and UI environments."/>
 
   <meta itemprop="name" content="User inactivity detection in Linux">
-<meta itemprop="description" content="In this article we review and test methods of user inactivity detection in Linux, both for terminal and UI environments."><meta itemprop="datePublished" content="2024-08-01T03:58:40+00:00" />
-<meta itemprop="dateModified" content="2024-08-01T03:58:40+00:00" />
-<meta itemprop="wordCount" content="256">
+<meta itemprop="description" content="In this article we review and test methods of user inactivity detection in Linux, both for terminal and UI environments."><meta itemprop="datePublished" content="2024-09-17T03:58:40+00:00" />
+<meta itemprop="dateModified" content="2024-09-17T03:58:40+00:00" />
+<meta itemprop="wordCount" content="547">
 <meta itemprop="keywords" content="linux," />
 
   
@@ -196,7 +196,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
     <div class="absolute top-4 right-8 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white px-2 py-0.5">
       
   
-    August 1, 2024
+    September 17, 2024
   
 
 
@@ -220,7 +220,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
       </svg>
       Posted on 
   
-    August 1, 2024
+    September 17, 2024
   
 
 
@@ -232,7 +232,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
         <circle cx="12" cy="12" r="9" />
         <polyline points="12 7 12 12 15 15" />
       </svg>
-      2&nbsp;minutes
+      3&nbsp;minutes
       &nbsp;&bull;
       <svg xmlns="http://www.w3.org/2000/svg" class="mx-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
         <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -242,7 +242,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      256&nbsp;words
+      547&nbsp;words
       
         
       
@@ -270,8 +270,13 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
         <ul>
             <li>
         <a href="#how-to-manually-compile-xprintidle-on-fedora">How to manually compile xprintidle on Fedora</a>
+        
+
+        
         </li></ul>
-    </li></ul>
+      </li><li>
+        <a href="#terminal-envorinment">Terminal envorinment</a>
+        </li></ul>
   </details>
 
     <p>We want to detect user inactivity on Linux system in a bash service run by systemd. Why? When user is inactive, we can launch some CPU-heavy tasks without disrupting user&rsquo;s interaction with the system.</p>
@@ -331,7 +336,34 @@ by default, however.</p>
 </span></span><span style="display:flex;"><span>./configure
 </span></span><span style="display:flex;"><span>make
 </span></span><span style="display:flex;"><span>make install
-</span></span></code></pre></div>
+</span></span></code></pre></div><h2 id="terminal-envorinment">Terminal envorinment</h2>
+<p>We have two methods to check user activity in terminal environment: <code>who</code> command and <code>ls /dev/pts</code>.</p>
+<p>We logged in to two amazon instances using ssh.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>who -u
+</span></span><span style="display:flex;"><span>ubuntu   pts/12       2024-09-01 11:09  old       <span style="color:#bd93f9">181334</span> <span style="color:#ff79c6">(</span>:pts/0:S.0<span style="color:#ff79c6">)</span>
+</span></span><span style="display:flex;"><span>ubuntu   pts/13       2024-09-17 23:42 00:03      <span style="color:#bd93f9">264853</span> <span style="color:#ff79c6">(</span>1.139.2.1<span style="color:#ff79c6">)</span>
+</span></span><span style="display:flex;"><span>ubuntu   pts/14       2024-09-17 23:44   .        <span style="color:#bd93f9">264969</span> <span style="color:#ff79c6">(</span>1.139.2.1<span style="color:#ff79c6">)</span>
+</span></span></code></pre></div><p>In the 5th column of the outout, the time indicates inactivity period in hours:minutes. The first row (old) indicates the session on PTS 12 is inactive more than 60 mins. The second row shows the session on PTS 13 is inactive for 3 minutes. The third row shows the session on PTS 14 is currently active.</p>
+<p>We can also check <code>/dev/pts</code> folder:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ls -l /dev/pts
+</span></span><span style="display:flex;"><span>total <span style="color:#bd93f9">0</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136,  <span style="color:#bd93f9">1</span> Sep  <span style="color:#bd93f9">9</span> 11:26 <span style="color:#bd93f9">1</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136, <span style="color:#bd93f9">10</span> Sep  <span style="color:#bd93f9">9</span> 11:25 <span style="color:#bd93f9">10</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136, <span style="color:#bd93f9">11</span> Sep <span style="color:#bd93f9">18</span> 00:00 <span style="color:#bd93f9">11</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> root   tty  136, <span style="color:#bd93f9">12</span> Sep  <span style="color:#bd93f9">1</span> 13:15 <span style="color:#bd93f9">12</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136, <span style="color:#bd93f9">13</span> Sep <span style="color:#bd93f9">17</span> 23:51 <span style="color:#bd93f9">13</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136, <span style="color:#bd93f9">14</span> Sep <span style="color:#bd93f9">18</span> 00:00 <span style="color:#bd93f9">14</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136,  <span style="color:#bd93f9">2</span> Sep  <span style="color:#bd93f9">9</span> 11:26 <span style="color:#bd93f9">2</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136,  <span style="color:#bd93f9">3</span> Sep  <span style="color:#bd93f9">9</span> 11:26 <span style="color:#bd93f9">3</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136,  <span style="color:#bd93f9">4</span> Sep  <span style="color:#bd93f9">9</span> 11:26 <span style="color:#bd93f9">4</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136,  <span style="color:#bd93f9">5</span> Sep  <span style="color:#bd93f9">9</span> 11:26 <span style="color:#bd93f9">5</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136,  <span style="color:#bd93f9">6</span> Sep  <span style="color:#bd93f9">9</span> 11:26 <span style="color:#bd93f9">6</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136,  <span style="color:#bd93f9">7</span> Sep <span style="color:#bd93f9">17</span> 23:42 <span style="color:#bd93f9">7</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136,  <span style="color:#bd93f9">8</span> Sep  <span style="color:#bd93f9">9</span> 11:26 <span style="color:#bd93f9">8</span>
+</span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136,  <span style="color:#bd93f9">9</span> Sep  <span style="color:#bd93f9">1</span> 13:15 <span style="color:#bd93f9">9</span>
+</span></span><span style="display:flex;"><span>c--------- <span style="color:#bd93f9">1</span> root   root   5,  <span style="color:#bd93f9">2</span> Jul <span style="color:#bd93f9">30</span> 23:12 ptmx
+</span></span></code></pre></div><p>The session on PTS 13 was active on Sep 17 23:51. The session on PTS 14 was active on 14 Sep 18 00:00 14.</p>
+
   <hr>
   <p class="text-black dark:text-white text-2xl font-bold">Share</p>
 

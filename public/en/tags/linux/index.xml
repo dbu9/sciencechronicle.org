@@ -5,7 +5,18 @@
     <link>https://www.ScienceChronicle.org/en/tags/linux/</link>
     <description>Recent content in linux on ScienceChronicle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 18 Aug 2024 22:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Sep 2024 03:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>User inactivity detection in Linux</title>
+      <link>https://www.ScienceChronicle.org/en/article/user-inactivity-detection-in-linux/</link>
+      <pubDate>Tue, 17 Sep 2024 03:58:40 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/user-inactivity-detection-in-linux/</guid>
+      <description>We want to detect user inactivity on Linux system in a bash service run by systemd. Why? When user is inactive, we can launch some CPU-heavy tasks without disrupting user&amp;rsquo;s interaction with the system.
+A user has 2 primary ways of interaction with Linux system: through textual terminal or UI desktop like Cinnamon, Xface, etc. The methods of user (in)activity detection are different for terminal and UI.
+UI environment We conduct our tests on Linux Mint 20.</description>
+    </item>
+    
     <item>
       <title>Ensuring Safe File Operations in Linux: Handling Simultaneous Reads and Writes</title>
       <link>https://www.ScienceChronicle.org/en/article/ensuring-safe-file-operations-in-linux/</link>
@@ -13,17 +24,6 @@
       
       <guid>https://www.ScienceChronicle.org/en/article/ensuring-safe-file-operations-in-linux/</guid>
       <description>Ensuring Safe File Operations in Linux: Handling Simultaneous Reads and Writes In Linux, managing file access between multiple processes can be tricky, especially when one script is writing to a file while another is reading from it. Without proper synchronization, you may encounter situations where a reader script accesses a partially written file, leading to incomplete or corrupt data reads. In this blog post, we&amp;rsquo;ll explore how to handle simultaneous file access safely using flock and atomic operations like mv.</description>
-    </item>
-    
-    <item>
-      <title>User inactivity detection in Linux</title>
-      <link>https://www.ScienceChronicle.org/en/article/user-inactivity-detection-in-linux/</link>
-      <pubDate>Thu, 01 Aug 2024 03:58:40 +0000</pubDate>
-      
-      <guid>https://www.ScienceChronicle.org/en/article/user-inactivity-detection-in-linux/</guid>
-      <description>We want to detect user inactivity on Linux system in a bash service run by systemd. Why? When user is inactive, we can launch some CPU-heavy tasks without disrupting user&amp;rsquo;s interaction with the system.
-A user has 2 primary ways of interaction with Linux system: through textual terminal or UI desktop like Cinnamon, Xface, etc. The methods of user (in)activity detection are different for terminal and UI.
-UI environment We conduct our tests on Linux Mint 20.</description>
     </item>
     
     <item>

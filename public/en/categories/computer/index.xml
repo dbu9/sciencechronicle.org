@@ -5,7 +5,18 @@
     <link>https://www.ScienceChronicle.org/en/categories/computer/</link>
     <description>Recent content in Computer on ScienceChronicle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 09 Sep 2024 11:52:37 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/computer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Sep 2024 03:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/computer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>User inactivity detection in Linux</title>
+      <link>https://www.ScienceChronicle.org/en/article/user-inactivity-detection-in-linux/</link>
+      <pubDate>Tue, 17 Sep 2024 03:58:40 +0000</pubDate>
+      
+      <guid>https://www.ScienceChronicle.org/en/article/user-inactivity-detection-in-linux/</guid>
+      <description>We want to detect user inactivity on Linux system in a bash service run by systemd. Why? When user is inactive, we can launch some CPU-heavy tasks without disrupting user&amp;rsquo;s interaction with the system.
+A user has 2 primary ways of interaction with Linux system: through textual terminal or UI desktop like Cinnamon, Xface, etc. The methods of user (in)activity detection are different for terminal and UI.
+UI environment We conduct our tests on Linux Mint 20.</description>
+    </item>
+    
     <item>
       <title>Select non-duplicates: SQL interview question</title>
       <link>https://www.ScienceChronicle.org/en/article/select-non-duplicates-sql-interview-question/</link>
@@ -29,17 +40,6 @@ cpan install Perl::LanguageServer failed, reporting that the IO::AIO dependency 
 I tried installing the IO::AIO module separately:
 cpan install IO::AIO However, this resulted in the following error:
 Continue anyways? [y] y checking for gcc... x86_64-linux-gnu-gcc checking whether the C compiler works... no configure: error: in `/home/morpher/.cpan/build/IO-AIO-4.81-7&amp;#39;: configure: error: C compiler cannot create executables See `config.</description>
-    </item>
-    
-    <item>
-      <title>User inactivity detection in Linux</title>
-      <link>https://www.ScienceChronicle.org/en/article/user-inactivity-detection-in-linux/</link>
-      <pubDate>Thu, 01 Aug 2024 03:58:40 +0000</pubDate>
-      
-      <guid>https://www.ScienceChronicle.org/en/article/user-inactivity-detection-in-linux/</guid>
-      <description>We want to detect user inactivity on Linux system in a bash service run by systemd. Why? When user is inactive, we can launch some CPU-heavy tasks without disrupting user&amp;rsquo;s interaction with the system.
-A user has 2 primary ways of interaction with Linux system: through textual terminal or UI desktop like Cinnamon, Xface, etc. The methods of user (in)activity detection are different for terminal and UI.
-UI environment We conduct our tests on Linux Mint 20.</description>
     </item>
     
     <item>

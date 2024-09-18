@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.ScienceChronicle.org/en/article/</loc>
-    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+    <lastmod>2024-09-17T03:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/categories/</loc>
-    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+    <lastmod>2024-09-17T03:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -33,14 +33,17 @@
                 href="https://www.ScienceChronicle.org/en/categories/"
                 />
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/commputer-interview/</loc>
-    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/categories/computer/</loc>
-    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+    <lastmod>2024-09-17T03:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/linux/</loc>
+    <lastmod>2024-09-17T03:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/categories/linux/</loc>
+    <lastmod>2024-09-17T03:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/</loc>
-    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+    <lastmod>2024-09-17T03:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -57,17 +60,8 @@
                 href="https://www.ScienceChronicle.org/en/"
                 />
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/article/select-non-duplicates-sql-interview-question/</loc>
-    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/sql/</loc>
-    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/categories/sql/</loc>
-    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/</loc>
-    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+    <lastmod>2024-09-17T03:58:40+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -83,6 +77,21 @@
                 hreflang="en"
                 href="https://www.ScienceChronicle.org/en/tags/"
                 />
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/article/user-inactivity-detection-in-linux/</loc>
+    <lastmod>2024-09-17T03:58:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/commputer-interview/</loc>
+    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/article/select-non-duplicates-sql-interview-question/</loc>
+    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/tags/sql/</loc>
+    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ScienceChronicle.org/en/categories/sql/</loc>
+    <lastmod>2024-09-09T11:52:37+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/chia-seeds/</loc>
     <lastmod>2024-09-06T12:47:31+00:00</lastmod>
@@ -118,9 +127,6 @@
     <lastmod>2024-09-06T12:47:31+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/article/perl-language-server-io-aio-c-compiler-cannot-create-executables/</loc>
-    <lastmod>2024-09-06T11:52:37+00:00</lastmod>
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/categories/linux/</loc>
     <lastmod>2024-09-06T11:52:37+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/perl/</loc>
@@ -222,9 +228,6 @@
     <loc>https://www.ScienceChronicle.org/en/tags/io/</loc>
     <lastmod>2024-08-18T22:58:40+00:00</lastmod>
   </url><url>
-    <loc>https://www.ScienceChronicle.org/en/tags/linux/</loc>
-    <lastmod>2024-08-18T22:58:40+00:00</lastmod>
-  </url><url>
     <loc>https://www.ScienceChronicle.org/en/tags/cronjob/</loc>
     <lastmod>2024-08-18T01:58:40+00:00</lastmod>
   </url><url>
@@ -265,9 +268,6 @@
                 hreflang="en"
                 href="https://www.ScienceChronicle.org/en/article/understanding-the-divide-the-rights-misunderstanding-of-popular-sentiments-in-the-west/"
                 />
-  </url><url>
-    <loc>https://www.ScienceChronicle.org/en/article/user-inactivity-detection-in-linux/</loc>
-    <lastmod>2024-08-01T03:58:40+00:00</lastmod>
   </url><url>
     <loc>https://www.ScienceChronicle.org/en/categories/networks/</loc>
     <lastmod>2024-07-18T01:58:40+00:00</lastmod>
