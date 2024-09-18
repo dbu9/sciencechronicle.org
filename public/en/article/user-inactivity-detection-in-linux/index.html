@@ -96,7 +96,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
   <meta itemprop="name" content="User inactivity detection in Linux">
 <meta itemprop="description" content="In this article we review and test methods of user inactivity detection in Linux, both for terminal and UI environments."><meta itemprop="datePublished" content="2024-09-17T03:58:40+00:00" />
 <meta itemprop="dateModified" content="2024-09-17T03:58:40+00:00" />
-<meta itemprop="wordCount" content="547">
+<meta itemprop="wordCount" content="642">
 <meta itemprop="keywords" content="linux," />
 
   
@@ -232,7 +232,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
         <circle cx="12" cy="12" r="9" />
         <polyline points="12 7 12 12 15 15" />
       </svg>
-      3&nbsp;minutes
+      4&nbsp;minutes
       &nbsp;&bull;
       <svg xmlns="http://www.w3.org/2000/svg" class="mx-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
         <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -242,7 +242,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      547&nbsp;words
+      642&nbsp;words
       
         
       
@@ -276,6 +276,11 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
         </li></ul>
       </li><li>
         <a href="#terminal-envorinment">Terminal envorinment</a>
+        
+
+        
+        </li><li>
+        <a href="#how-to-know-if-user-is-in-ui-or-in-text-session">How to know if user is in UI or in text session</a>
         </li></ul>
   </details>
 
@@ -363,6 +368,17 @@ by default, however.</p>
 </span></span><span style="display:flex;"><span>crw--w---- <span style="color:#bd93f9">1</span> ubuntu tty  136,  <span style="color:#bd93f9">9</span> Sep  <span style="color:#bd93f9">1</span> 13:15 <span style="color:#bd93f9">9</span>
 </span></span><span style="display:flex;"><span>c--------- <span style="color:#bd93f9">1</span> root   root   5,  <span style="color:#bd93f9">2</span> Jul <span style="color:#bd93f9">30</span> 23:12 ptmx
 </span></span></code></pre></div><p>The session on PTS 13 was active on Sep 17 23:51. The session on PTS 14 was active on 14 Sep 18 00:00 14.</p>
+<h2 id="how-to-know-if-user-is-in-ui-or-in-text-session">How to know if user is in UI or in text session</h2>
+<p>There is a simple way to detect if user is working under some UI environment using <code>who</code> command:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>who -u
+</span></span><span style="display:flex;"><span>user  tty7         2024-09-13 03:07  old         <span style="color:#bd93f9">4673</span> <span style="color:#ff79c6">(</span>:0<span style="color:#ff79c6">)</span>
+</span></span></code></pre></div><p>The :0 suffix indictaes display. That&rsquo;s a mark for UI. The command was run from terminal under MATE UI on Linux Mint.</p>
+<p>Note:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>who -u
+</span></span><span style="display:flex;"><span>ubuntu   pts/12       2024-09-01 11:09  old       <span style="color:#bd93f9">181334</span> <span style="color:#ff79c6">(</span>:pts/0:S.0<span style="color:#ff79c6">)</span>
+</span></span><span style="display:flex;"><span>ubuntu   pts/13       2024-09-17 23:42 00:03      <span style="color:#bd93f9">264853</span> <span style="color:#ff79c6">(</span>1.139.2.1<span style="color:#ff79c6">)</span>
+</span></span><span style="display:flex;"><span>ubuntu   pts/14       2024-09-17 23:44   .        <span style="color:#bd93f9">264969</span> <span style="color:#ff79c6">(</span>1.139.2.1<span style="color:#ff79c6">)</span>
+</span></span></code></pre></div><p>the lacking :0 suffix on amazon instance without X installed.</p>
 
   <hr>
   <p class="text-black dark:text-white text-2xl font-bold">Share</p>

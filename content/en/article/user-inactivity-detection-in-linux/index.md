@@ -97,3 +97,26 @@ c--------- 1 root   root   5,  2 Jul 30 23:12 ptmx
 ```
 
 The session on PTS 13 was active on Sep 17 23:51. The session on PTS 14 was active on 14 Sep 18 00:00 14. 
+
+## How to know if user is in UI or in text session
+
+There is a simple way to detect if user is working under some UI environment using `who` command:
+
+```bash
+who -u
+user  tty7         2024-09-13 03:07  old         4673 (:0)
+```
+
+The :0 suffix indictaes display. That's a mark for UI. The command was run from terminal under MATE UI on Linux Mint.
+
+
+Note:
+
+```bash
+who -u
+ubuntu   pts/12       2024-09-01 11:09  old       181334 (:pts/0:S.0)
+ubuntu   pts/13       2024-09-17 23:42 00:03      264853 (1.139.2.1)
+ubuntu   pts/14       2024-09-17 23:44   .        264969 (1.139.2.1)
+```
+
+the lacking :0 suffix on amazon instance without X installed. 
