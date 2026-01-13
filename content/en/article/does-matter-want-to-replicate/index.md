@@ -5,12 +5,17 @@ description: "Is replication a fundamental physical principle? A deep look at th
 tags: ["physics", "thermodynamics", "evolution", "replication", "philosophy of science"]
 categories: ["Science", "Foundations"]
 draft: false
+thumbnail: "/article/does-matter-want-to-replicate/thumb.jpg"
+
 ---
 
 ## Introduction
 
 At first glance, life appears to obey a strange imperative: **it replicates**.  
 Cells divide, organisms reproduce, genes copy themselves, and entire ecosystems are shaped by this relentless multiplication.
+
+![atrractor](/article/does-matter-want-to-replicate/cells.jpg)
+
 
 This invites a deep question:
 
@@ -63,12 +68,15 @@ Replication belongs exclusively to **driven systems**, not static ones.
 
 ## Entropy, Order, and Energy Flow
 
-A key insight was articulated by **:contentReference[oaicite:0]{index=0}** in *What Is Life?*:
+A key insight was articulated by Erwin Shroedinger in *What Is Life?*:
 
 > Living systems maintain order by exporting entropy.
 
 This is often misunderstood as life “resisting entropy.”  
 In fact, life **accelerates total entropy production** by using energy gradients efficiently.
+
+![life](/article/does-matter-want-to-replicate/life.png)
+
 
 Replication turns out to be one of the most effective ways to do this.
 
@@ -77,6 +85,8 @@ Replication turns out to be one of the most effective ways to do this.
 ## Replication as a Thermodynamic Attractor
 
 In modern non-equilibrium thermodynamics, replication is understood not as a goal, but as an **attractor state**.
+
+![atrractor](/article/does-matter-want-to-replicate/attracktor.jpg)
 
 The logic is simple:
 
@@ -132,6 +142,9 @@ Replication + variation + competition
 No genes are required.  
 No cells are required.  
 No life is required.
+
+![life](/article/does-matter-want-to-replicate/math.png)
+
 
 This is a **mathematical consequence**, not a biological assumption.
 
@@ -201,6 +214,4 @@ But once the door opens, **physics walks through it without hesitation**.
 The universe does not intend to create life —  
 yet life is what happens when thermodynamics is given enough time.
 
----
 
-*Published on {{ .Date }}*
