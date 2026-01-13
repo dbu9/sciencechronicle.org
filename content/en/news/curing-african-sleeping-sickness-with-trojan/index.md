@@ -3,8 +3,7 @@ title: "Curing African Sleeping Sickness with a Biochemical Trojan Horse"
 description: "The post describes the parasite's unique immune evasion strategy, the cyclical nature of infection, and a specific approach to treatment using mechanism-based enzyme inhibitors, particularly focusing on the development and effectiveness of the drug difluoromethylornithine (DFMO) in combating the disease."
 date: 2024-01-19T23:17:16.441Z
 draft: false
-tags: [african sleeping sickness, african trypanosomiasis, african fly disease, african sleeping disease symptoms, african sleeping sickness cure, african sleeping sickness is caused by, african sleeping sickness medication, cause of african sleeping sickness, african trypanosome
-. african sleeping sickness treatment, the african sleeping sickness]
+tags: [african sleeping sickness, african trypanosomiasis, african fly disease, african sleeping disease symptoms, african sleeping sickness cure, african sleeping sickness is caused by, african sleeping sickness medication, cause of african sleeping sickness, african trypanosome african sleeping sickness treatment, the african sleeping sickness]
 thumbnail: "/news/curing-african-sleeping-sickness-with-trojan/thumb.png"
 ---
 
