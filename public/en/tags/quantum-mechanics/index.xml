@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum Mechanics on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/quantum-mechanics/</link>
+    <link>http://localhost:1313/en/tags/quantum-mechanics/</link>
     <description>Recent content in Quantum Mechanics on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 May 2023 10:25:42 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/quantum-mechanics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/quantum-mechanics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Investigating the potential of quantum teleportation for secure and instantaneous communication</title>
-      <link>https://www.ScienceChronicle.org/en/news/investigating-the-potential-of-quantum-teleportation-for-secure-and-instantaneous-communication/</link>
+      <link>http://localhost:1313/en/news/investigating-the-potential-of-quantum-teleportation-for-secure-and-instantaneous-communication/</link>
       <pubDate>Fri, 19 May 2023 10:25:42 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/investigating-the-potential-of-quantum-teleportation-for-secure-and-instantaneous-communication/</guid>
+      <guid>http://localhost:1313/en/news/investigating-the-potential-of-quantum-teleportation-for-secure-and-instantaneous-communication/</guid>
       <description>&lt;p&gt;Researchers at the University of Waterloo have made significant progress in investigating the potential of quantum teleportation for secure and instantaneous communication. Currently, messages sent between individuals over the internet are susceptible to interception, with hackers often able to read sensitive information. Quantum teleportation, however, could provide a solution to this problem.&lt;/p&gt;&#xA;&lt;p&gt;Quantum teleportation is the instant transfer of information from one location to another using quantum entanglement. Essentially, it involves the creation of two entangled particles, which are then separated. When one particle is manipulated, the other particle will change in the same way - no matter how far apart they are. This means that information can be transmitted without any physical connection between the two particles.&lt;/p&gt;</description>
     </item>
   </channel>

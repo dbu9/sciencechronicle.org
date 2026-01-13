@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Busy_timeout on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/busy_timeout/</link>
+    <link>http://localhost:1313/en/tags/busy_timeout/</link>
     <description>Recent content in Busy_timeout on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 21 Aug 2024 03:58:40 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/busy_timeout/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/busy_timeout/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using SQLITE database with Perl on OpenWRT</title>
-      <link>https://www.ScienceChronicle.org/en/article/using-sqlite-with-perl-on-openwrt-no-dbd/</link>
+      <link>http://localhost:1313/en/article/using-sqlite-with-perl-on-openwrt-no-dbd/</link>
       <pubDate>Wed, 21 Aug 2024 03:58:40 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/article/using-sqlite-with-perl-on-openwrt-no-dbd/</guid>
+      <guid>http://localhost:1313/en/article/using-sqlite-with-perl-on-openwrt-no-dbd/</guid>
       <description>&lt;p&gt;This article discusses using an SQLite database with Perl on the OpenWRT &lt;code&gt;openwrt-23.05 branch (git-23.233.52805-dae2684)&lt;/code&gt;. We aim to use an SQLite database with Perl.&lt;/p&gt;&#xA;&lt;p&gt;First, we need to install the &lt;code&gt;DBI&lt;/code&gt; module and then find and install &lt;code&gt;DBD&lt;/code&gt; for SQLite. Let&amp;rsquo;s examine the directory of Perl modules available on OpenWRT: &lt;a href=&#34;https://openwrt.org/packages/index/languages---perl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perl Modules on OpenWRT&lt;/a&gt;&#xA;.&lt;/p&gt;&#xA;&lt;p&gt;One can see that the &lt;code&gt;DBI&lt;/code&gt; module is present: &lt;a href=&#34;https://openwrt.org/packages/pkgdata/perl-dbi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;perl-dbi&lt;/a&gt;&#xA;. After installing it, let&amp;rsquo;s check which &lt;code&gt;DBD&lt;/code&gt; modules are included:&lt;/p&gt;</description>
     </item>
   </channel>

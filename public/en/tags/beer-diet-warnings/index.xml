@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beer Diet Warnings on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/beer-diet-warnings/</link>
+    <link>http://localhost:1313/en/tags/beer-diet-warnings/</link>
     <description>Recent content in Beer Diet Warnings on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 22 Jan 2024 00:24:54 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/beer-diet-warnings/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/beer-diet-warnings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beer-Only Diet Can Significantly Reduce Weight, Claims New Study</title>
-      <link>https://www.ScienceChronicle.org/en/news/beer-only-diet-can-significantly-reduce-weight-claims-new-study/</link>
+      <link>http://localhost:1313/en/news/beer-only-diet-can-significantly-reduce-weight-claims-new-study/</link>
       <pubDate>Mon, 22 Jan 2024 00:24:54 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/beer-only-diet-can-significantly-reduce-weight-claims-new-study/</guid>
+      <guid>http://localhost:1313/en/news/beer-only-diet-can-significantly-reduce-weight-claims-new-study/</guid>
       <description>&lt;p&gt;According to a recent study conducted by &lt;a href=&#34;https://www.liverpool.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Liverpool University&lt;/a&gt;&#xA;, a beer-only diet can significantly reduce weight without the need for regular meals.&lt;/p&gt;&#xA;&lt;p&gt;The study, which lasted for two months and involved ten male participants, sought to explore the impact of a beer-only diet on weight loss and general health. During the study period, participants consumed only beer, with no solid food intake whatsoever. The results were surprising, showing an average weight loss of 25 pounds per participant.&lt;/p&gt;</description>
     </item>
   </channel>

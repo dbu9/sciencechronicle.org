@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anti-Depression on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/anti-depression/</link>
+    <link>http://localhost:1313/en/tags/anti-depression/</link>
     <description>Recent content in Anti-Depression on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 04 Sep 2024 22:58:40 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/anti-depression/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/anti-depression/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We are all a bit human</title>
-      <link>https://www.ScienceChronicle.org/en/article/we-are-all-a-bit-human/</link>
+      <link>http://localhost:1313/en/article/we-are-all-a-bit-human/</link>
       <pubDate>Wed, 04 Sep 2024 22:58:40 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/article/we-are-all-a-bit-human/</guid>
-      <description>&lt;h2 id=&#34;how-to-stop-being-a-horse-and-start-living&#34;&gt;How to Stop Being a &amp;ldquo;Horse&amp;rdquo; and Start Living&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://www.ScienceChronicle.org/en/article/between-the-body-and-the-deed/&#34;&gt;last publication&lt;/a&gt;&#xA;  on the possible &amp;ldquo;physical&amp;rdquo; nature of depression sparked many questions. Despite the variety of these questions, they all boil down to one super-question.&lt;/p&gt;&#xA;&lt;p&gt;What’s the question? Bring it to the studio!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&amp;ldquo;What should I do?&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;That’s the question. But before answering it, let me remind you of the content of the previous publication, briefly.&lt;/p&gt;&#xA;&lt;p&gt;The body must eat less (diet, vegetarianism). Sleep less. Rest less. And work more. What does it get in return?! Why should it do everything you demand of it for your sapiens-like goals, which have absolutely no relation to its basic needs?&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/article/we-are-all-a-bit-human/</guid>
+      <description>&lt;h2 id=&#34;how-to-stop-being-a-horse-and-start-living&#34;&gt;How to Stop Being a &amp;ldquo;Horse&amp;rdquo; and Start Living&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://localhost:1313/en/article/between-the-body-and-the-deed/&#34;&gt;last publication&lt;/a&gt;&#xA;  on the possible &amp;ldquo;physical&amp;rdquo; nature of depression sparked many questions. Despite the variety of these questions, they all boil down to one super-question.&lt;/p&gt;&#xA;&lt;p&gt;What’s the question? Bring it to the studio!&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&amp;ldquo;What should I do?&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;That’s the question. But before answering it, let me remind you of the content of the previous publication, briefly.&lt;/p&gt;&#xA;&lt;p&gt;The body must eat less (diet, vegetarianism). Sleep less. Rest less. And work more. What does it get in return?! Why should it do everything you demand of it for your sapiens-like goals, which have absolutely no relation to its basic needs?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

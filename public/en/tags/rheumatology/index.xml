@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rheumatology on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/rheumatology/</link>
+    <link>http://localhost:1313/en/tags/rheumatology/</link>
     <description>Recent content in Rheumatology on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 31 Jan 2024 10:17:09 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/rheumatology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/rheumatology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decoding Osteoarthritis: A Modern Perspective on Joint Health and Disease Progression</title>
-      <link>https://www.ScienceChronicle.org/en/news/decoding-osteoarthritis-modern-perspective-joint-health-disease-progression/</link>
+      <link>http://localhost:1313/en/news/decoding-osteoarthritis-modern-perspective-joint-health-disease-progression/</link>
       <pubDate>Wed, 31 Jan 2024 10:17:09 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/decoding-osteoarthritis-modern-perspective-joint-health-disease-progression/</guid>
+      <guid>http://localhost:1313/en/news/decoding-osteoarthritis-modern-perspective-joint-health-disease-progression/</guid>
       <description>&lt;p&gt;Osteoarthritis (OA), the most prevalent disorder impacting &lt;a href=&#34;https://en.wikipedia.org/wiki/Synovial_joint&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;synovial joints&lt;/a&gt;&#xA;, stands as a primary source of movement-related disabilities and poses a significant challenge to health services. It was once considered merely a result of wear and tear due to age and injury. However, current understanding portrays OA as a dynamic phenomenon involving damage to joint tissues and the body&amp;rsquo;s efforts to repair these tissues. This condition can arise from abnormal stress on a healthy joint or typical stress on a compromised joint. In many instances, a combination of these factors is at play. Thus, OA emerges from a complex interplay of various processes and risk factors. The significance of these risk factors can vary depending on the joint, and the factors influencing the onset of OA may be different from those affecting its progression. While natural joint repair mechanisms often counterbalance initial damage, leading to OA without symptoms, there are cases where these mechanisms fail, resulting in symptomatic OA accompanied by pain and loss of function.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fibromyalgia Syndrome and Chronic Widespread Pain</title>
-      <link>https://www.ScienceChronicle.org/en/news/fibromyalgia-syndrome-and-chronic-widespread-pain/</link>
+      <link>http://localhost:1313/en/news/fibromyalgia-syndrome-and-chronic-widespread-pain/</link>
       <pubDate>Wed, 24 Jan 2024 00:26:45 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/fibromyalgia-syndrome-and-chronic-widespread-pain/</guid>
+      <guid>http://localhost:1313/en/news/fibromyalgia-syndrome-and-chronic-widespread-pain/</guid>
       <description>&lt;p&gt;A significant portion of the population experiences persistent and widespread pain, with about 11% in the UK affected. This condition leads to several challenges for both individuals and society, including decreased physical activity, feelings of depression, higher healthcare usage, and a decline in work efficiency. This blog article will primarily discuss fibromyalgia, a key example of a condition characterized by persistent widespread pain and tiredness.&lt;/p&gt;&#xA;&lt;p&gt;Fibromyalgia, also known as fibromyalgia syndrome (FMS), is a diverse pain-related condition with an uncertain cause. It impacts 0.5–5% of people globally and predominantly affects women. Given that single treatments typically offer limited effectiveness, the European League against Rheumatism (EULAR) suggests a comprehensive treatment strategy for fibromyalgia, tailored to the severity of symptoms, patient capabilities, and other related factors. The goal of this approach is to enhance physical, mental, and social well-being.&lt;/p&gt;</description>
     </item>
   </channel>

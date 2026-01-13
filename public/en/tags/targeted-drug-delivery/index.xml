@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Targeted Drug Delivery on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/targeted-drug-delivery/</link>
+    <link>http://localhost:1313/en/tags/targeted-drug-delivery/</link>
     <description>Recent content in Targeted Drug Delivery on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 May 2023 00:52:02 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/targeted-drug-delivery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/targeted-drug-delivery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Harnessing the potential of exosomes for targeted drug delivery and regenerative therapies</title>
-      <link>https://www.ScienceChronicle.org/en/news/harnessing-potential-exosomes-targeted-drug-delivery-regenerative-therapies/</link>
+      <link>http://localhost:1313/en/news/harnessing-potential-exosomes-targeted-drug-delivery-regenerative-therapies/</link>
       <pubDate>Fri, 19 May 2023 00:52:02 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/harnessing-potential-exosomes-targeted-drug-delivery-regenerative-therapies/</guid>
+      <guid>http://localhost:1313/en/news/harnessing-potential-exosomes-targeted-drug-delivery-regenerative-therapies/</guid>
       <description>&lt;p&gt;Researchers at Harvard University have made groundbreaking strides in the field of regenerative medicine by harnessing the potential of exosomes, tiny vesicles produced by cells, as vehicles for targeted drug delivery and regenerative therapies. Exosomes are known to contain a wide variety of biomolecules, such as proteins and nucleic acids, that can be transferred between cells and help regulate various cellular processes. However, until now, their potential as therapeutic agents has been largely untapped.&lt;/p&gt;</description>
     </item>
   </channel>

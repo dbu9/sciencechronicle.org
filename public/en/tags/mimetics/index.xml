@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mimetics on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/mimetics/</link>
+    <link>http://localhost:1313/en/tags/mimetics/</link>
     <description>Recent content in Mimetics on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 31 Jan 2024 10:47:21 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/mimetics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/mimetics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Revolutionizing Health: The Promising Horizon of Exercise Mimetics</title>
-      <link>https://www.ScienceChronicle.org/en/news/revolutionizing-health-the-promising-horizon-of-exercise-mimetics/</link>
+      <link>http://localhost:1313/en/news/revolutionizing-health-the-promising-horizon-of-exercise-mimetics/</link>
       <pubDate>Wed, 31 Jan 2024 10:47:21 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/revolutionizing-health-the-promising-horizon-of-exercise-mimetics/</guid>
+      <guid>http://localhost:1313/en/news/revolutionizing-health-the-promising-horizon-of-exercise-mimetics/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;definition-and-development-of-exercise-mimetics&#34;&gt;Definition and Development of Exercise Mimetics&lt;/h2&gt;&#xA;&lt;p&gt;Exercise mimetics, an emerging concept in the field of medical science, refer to molecules or microorganisms designed to replicate the health benefits of physical exercise. These innovative agents are poised to revolutionize drug development by potentially overcoming some of the limitations inherent in traditional pharmaceutical approaches. The primary objective of exercise mimetics is to activate the same physiological pathways that are stimulated during physical activities, such as running or swimming.&lt;/p&gt;</description>
     </item>
   </channel>

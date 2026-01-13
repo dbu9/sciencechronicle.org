@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biochemistry on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/biochemistry/</link>
+    <link>http://localhost:1313/en/tags/biochemistry/</link>
     <description>Recent content in Biochemistry on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 17 May 2023 21:50:33 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/biochemistry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/biochemistry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modified Citric Acid Cycle Found in Anaerobic Bacteria to Produce Fumarate in Large Quantities</title>
-      <link>https://www.ScienceChronicle.org/en/news/modified-citric-acid-cycle-found-in-anaerobic-bacteria-to-produce-fumarate-in-large-quantities/</link>
+      <link>http://localhost:1313/en/news/modified-citric-acid-cycle-found-in-anaerobic-bacteria-to-produce-fumarate-in-large-quantities/</link>
       <pubDate>Wed, 17 May 2023 21:50:33 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/modified-citric-acid-cycle-found-in-anaerobic-bacteria-to-produce-fumarate-in-large-quantities/</guid>
+      <guid>http://localhost:1313/en/news/modified-citric-acid-cycle-found-in-anaerobic-bacteria-to-produce-fumarate-in-large-quantities/</guid>
       <description>&lt;p&gt;Researchers at the University of Nairobi have discovered a modified citric acid cycle in certain anaerobic bacteria that allows for the production of fumarate in large quantities. The citric acid cycle, also known as the Krebs cycle, is a fundamental metabolic pathway utilized by organisms to generate energy through the oxidation of acetyl-CoA. However, under anaerobic conditions, the cycle is unable to proceed normally due to a lack of oxygen as the final electron acceptor. Despite this limitation, the newly discovered pathway found in bacteria such as Desulfovibrio africanus can bypass this issue and produce fumarate, an important molecule with industrial applications.&lt;/p&gt;</description>
     </item>
   </channel>

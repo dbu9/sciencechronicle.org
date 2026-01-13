@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Health on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/public-health/</link>
+    <link>http://localhost:1313/en/tags/public-health/</link>
     <description>Recent content in Public Health on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 Jul 2024 16:12:44 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/public-health/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/public-health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Long-term Effects of RNA Vaccines on Immune Responses to West Nile Fever in Israel</title>
-      <link>https://www.ScienceChronicle.org/en/news/long-term-effects-rna-vaccines-immune-responses-west-nile-fever-israel/</link>
+      <link>http://localhost:1313/en/news/long-term-effects-rna-vaccines-immune-responses-west-nile-fever-israel/</link>
       <pubDate>Sat, 06 Jul 2024 16:12:44 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/long-term-effects-rna-vaccines-immune-responses-west-nile-fever-israel/</guid>
+      <guid>http://localhost:1313/en/news/long-term-effects-rna-vaccines-immune-responses-west-nile-fever-israel/</guid>
       <description>&lt;p&gt;In the latest outburst of West Nile fever in Israel, the country is seeing an especially severe strain of the virus with a 25% fatal rate. This outbreak has prompted researchers to explore possible connections between the long-term effects of RNA vaccines used in the prevention of the COVID virus and the compromised immune responses to West Nile fever. The research is taking place in Jerusalem, Israel, where scientists are working diligently to understand the underlying factors driving this concerning trend.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Naegleria fowleri (aka brain eating amoeba) may become the most dangerous if it completes adaptation to saline environment</title>
-      <link>https://www.ScienceChronicle.org/en/news/naegleria-fowleri-complete-adaptation-saline-environment/</link>
+      <link>http://localhost:1313/en/news/naegleria-fowleri-complete-adaptation-saline-environment/</link>
       <pubDate>Sat, 06 Jul 2024 11:22:05 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/naegleria-fowleri-complete-adaptation-saline-environment/</guid>
+      <guid>http://localhost:1313/en/news/naegleria-fowleri-complete-adaptation-saline-environment/</guid>
       <description>&lt;p&gt;A groundbreaking new study conducted by a team of researchers in New Yorkshire, England has revealed that Naegleria fowleri, also known as the brain eating amoeba, may pose an even greater threat to public health in the near future. The study, which was led by Dr. Emma Johnson and her colleagues at the New Yorkshire Institute of Microbiology, focused on the potential adaptation of Naegleria fowleri to a saline environment, and the implications this could have for individuals who swim in the sea.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Risks of Micro and Nonplastic Particles in Water Bottles Largely Exaggerated, Study Finds</title>
-      <link>https://www.ScienceChronicle.org/en/news/risks-of-micro-and-nonplastic-particles-in-water-bottles-largely-exaggerated-study-finds/</link>
+      <link>http://localhost:1313/en/news/risks-of-micro-and-nonplastic-particles-in-water-bottles-largely-exaggerated-study-finds/</link>
       <pubDate>Sat, 06 Jul 2024 10:12:56 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/risks-of-micro-and-nonplastic-particles-in-water-bottles-largely-exaggerated-study-finds/</guid>
-      <description>&lt;p&gt;A new study conducted by a team of researchers at &lt;a href=&#34;https://www.nyu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the University of New Yorkshire&lt;/a&gt;&#xA; has found that the risks associated with micro and nonplastic particles in water bottles may have been largely exaggerated. The study, which was published in the Journal of Environmental Science, examined the ability of these particles to enter cells and the bloodstream, and found that their ability to do so is limited.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Scale for nanoplastics&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://www.ScienceChronicle.org/news/risks-of-micro-and-nonplastic-particles-in-water-bottles-largely-exaggerated-study-finds/nano.png&#34; alt=&#34;scale&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;The research was led by Dr. Emily Thompson, a leading expert in environmental toxicology. Dr. Thompson and her team set out to investigate the potential health risks posed by micro and nonplastic particles in water bottles, as concerns about their impact on human health have been growing in recent years.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/news/risks-of-micro-and-nonplastic-particles-in-water-bottles-largely-exaggerated-study-finds/</guid>
+      <description>&lt;p&gt;A new study conducted by a team of researchers at &lt;a href=&#34;https://www.nyu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the University of New Yorkshire&lt;/a&gt;&#xA; has found that the risks associated with micro and nonplastic particles in water bottles may have been largely exaggerated. The study, which was published in the Journal of Environmental Science, examined the ability of these particles to enter cells and the bloodstream, and found that their ability to do so is limited.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Scale for nanoplastics&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;http://localhost:1313/news/risks-of-micro-and-nonplastic-particles-in-water-bottles-largely-exaggerated-study-finds/nano.png&#34; alt=&#34;scale&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;The research was led by Dr. Emily Thompson, a leading expert in environmental toxicology. Dr. Thompson and her team set out to investigate the potential health risks posed by micro and nonplastic particles in water bottles, as concerns about their impact on human health have been growing in recent years.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

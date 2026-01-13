@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ecology on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/ecology/</link>
+    <link>http://localhost:1313/en/tags/ecology/</link>
     <description>Recent content in Ecology on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 03 Jun 2023 15:33:58 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/ecology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/ecology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Geomagnetic field may influence behaviour of wood mycorrhizas</title>
-      <link>https://www.ScienceChronicle.org/en/news/mycorrhizas-influence-geomagnetic-field/</link>
+      <link>http://localhost:1313/en/news/mycorrhizas-influence-geomagnetic-field/</link>
       <pubDate>Sat, 03 Jun 2023 15:33:58 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/mycorrhizas-influence-geomagnetic-field/</guid>
+      <guid>http://localhost:1313/en/news/mycorrhizas-influence-geomagnetic-field/</guid>
       <description>&lt;p&gt;Scientists from Helsinki University have discovered that the behaviour of wood mycorrhizas, the symbiotic relationships between fungi and plants, may be influenced by changes in the Earth&amp;rsquo;s geomagnetic field.&lt;/p&gt;&#xA;&lt;p&gt;The research, led by Dr. Maria Kõljalg, studied the growth rates and activity of different species of wood mycorrhizas in a controlled laboratory environment. By exposing the fungi to different levels and orientations of simulated magnetic fields, the researchers found that there was a correlation between the strength and direction of the field and the behaviour of the mycorrhizas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Understanding the Impact of Climate Change on Biodiversity and Ecosystems</title>
-      <link>https://www.ScienceChronicle.org/en/news/understanding-the-impact-of-climate-change-on-biodiversity-and-ecosystems/</link>
+      <link>http://localhost:1313/en/news/understanding-the-impact-of-climate-change-on-biodiversity-and-ecosystems/</link>
       <pubDate>Fri, 19 May 2023 10:24:09 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/understanding-the-impact-of-climate-change-on-biodiversity-and-ecosystems/</guid>
+      <guid>http://localhost:1313/en/news/understanding-the-impact-of-climate-change-on-biodiversity-and-ecosystems/</guid>
       <description>&lt;p&gt;Scientists at the University of Cape Town have been studying the impact of climate change on biodiversity and ecosystems, revealing some worrying trends. A team of researchers spent six years studying ten different ecosystems around the world, collecting data on species diversity and abundance, as well as environmental factors like temperature and precipitation. The results of their research show that climate change is having a significant impact on biodiversity and ecosystems, and that urgent action is needed to protect them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New spider species found that can survive without food for 2 years</title>
-      <link>https://www.ScienceChronicle.org/en/news/new-spider-species-found-that-can-survive-without-food-for-2-years/</link>
+      <link>http://localhost:1313/en/news/new-spider-species-found-that-can-survive-without-food-for-2-years/</link>
       <pubDate>Thu, 18 May 2023 12:45:11 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/new-spider-species-found-that-can-survive-without-food-for-2-years/</guid>
+      <guid>http://localhost:1313/en/news/new-spider-species-found-that-can-survive-without-food-for-2-years/</guid>
       <description>&lt;p&gt;Spider species that can survive without food for up to two years have been discovered by a team of researchers at the University of Bukharest. The new species, which has not yet been named, was found in the forests of Romania and exhibits a highly unusual behavior. The spider is able to survive periods of extreme food scarcity, such as droughts or cold winters, by entering a state of torpor, where it slows down its metabolism and becomes almost inactive. During this time, the spider is able to survive on a minimal amount of stored body fat and water, without eating any food. The researchers believe that this adaptation has evolved as a survival mechanism in response to the harsh environmental conditions of the region, which are characterized by long periods of food scarcity. The discovery of this species is a significant breakthrough in the field of spider research, as it sheds new light on the remarkable adaptation abilities of these creatures. In addition, it has important implications for our understanding of the ecological dynamics of forest ecosystems, and the ways in which species interact with each other and their environment.&lt;/p&gt;</description>
     </item>
   </channel>

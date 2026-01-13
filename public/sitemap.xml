@@ -2,21 +2,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://www.ScienceChronicle.org/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
     
       <lastmod>2026-01-13T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://www.ScienceChronicle.org/de/sitemap.xml</loc>
+    <loc>http://localhost:1313/de/sitemap.xml</loc>
     
       <lastmod>2024-02-03T01:10:25+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://www.ScienceChronicle.org/ru/sitemap.xml</loc>
+    <loc>http://localhost:1313/ru/sitemap.xml</loc>
     
       <lastmod>2025-02-16T01:00:40+00:00</lastmod>
     

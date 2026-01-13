@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>African Sleeping Sickness on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/african-sleeping-sickness/</link>
+    <link>http://localhost:1313/en/tags/african-sleeping-sickness/</link>
     <description>Recent content in African Sleeping Sickness on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Jan 2024 23:17:16 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/african-sleeping-sickness/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/african-sleeping-sickness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curing African Sleeping Sickness with a Biochemical Trojan Horse</title>
-      <link>https://www.ScienceChronicle.org/en/news/curing-african-sleeping-sickness-with-trojan/</link>
+      <link>http://localhost:1313/en/news/curing-african-sleeping-sickness-with-trojan/</link>
       <pubDate>Fri, 19 Jan 2024 23:17:16 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/curing-african-sleeping-sickness-with-trojan/</guid>
+      <guid>http://localhost:1313/en/news/curing-african-sleeping-sickness-with-trojan/</guid>
       <description>&lt;p&gt;African sleeping sickness, also known as African trypanosomiasis, is a disease triggered by single-celled eukaryotes known as trypanosomes. This illness, along with other diseases caused by trypanosomes, holds significant medical and economic impact in numerous developing countries. Historically, until the late 20th century, it was almost untreatable, with vaccines proving ineffective due to the parasite&amp;rsquo;s unique ability to bypass the host&amp;rsquo;s immune defense.&lt;/p&gt;&#xA;&lt;p&gt;The surface of trypanosome cells is coated with a single type of protein, which acts as the antigen triggering the human immune response. Periodically, through genetic recombination, some trypanosome cells alter their protein coat, rendering them unrecognized by the immune system. This &amp;ldquo;coat switching&amp;rdquo; can happen repeatedly, leading to a prolonged, cyclical infection. Initially, the host experiences fever, which diminishes as the immune system counters the initial wave of infection. However, trypanosomes with new coats trigger subsequent infections, causing recurring fevers. This ongoing cycle can continue for weeks, eventually leading to the host&amp;rsquo;s death due to the persistent weakening of their health.&lt;/p&gt;</description>
     </item>
   </channel>

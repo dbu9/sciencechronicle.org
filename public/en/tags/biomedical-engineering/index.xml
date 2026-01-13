@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biomedical Engineering on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/biomedical-engineering/</link>
+    <link>http://localhost:1313/en/tags/biomedical-engineering/</link>
     <description>Recent content in Biomedical Engineering on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 May 2023 10:27:53 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/biomedical-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/biomedical-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Developing Smart Materials with Shape-Shifting Capabilities for Applications in Robotics and Biomedical Engineering</title>
-      <link>https://www.ScienceChronicle.org/en/news/developing-smart-materials-shape-shifting-capabilities-robotics-biomedical-engineering/</link>
+      <link>http://localhost:1313/en/news/developing-smart-materials-shape-shifting-capabilities-robotics-biomedical-engineering/</link>
       <pubDate>Fri, 19 May 2023 10:27:53 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/developing-smart-materials-shape-shifting-capabilities-robotics-biomedical-engineering/</guid>
+      <guid>http://localhost:1313/en/news/developing-smart-materials-shape-shifting-capabilities-robotics-biomedical-engineering/</guid>
       <description>&lt;p&gt;Imperial College London researchers are making groundbreaking progress in smart materials with shape-shifting capabilities for use in robotics and biomedical engineering applications. These materials are at the forefront of cutting-edge technology and hold vast promise for creating innovative capabilities in fields such as prosthetics, medical devices, surgical tools, and robotics.&lt;/p&gt;&#xA;&lt;p&gt;With advancements in modern material science and engineering, smart materials have come to the forefront with their unique characteristics and abilities to change shape, adapt to environmental conditions or react to physical and chemical stimuli. These materials, with their distinct capabilities, are expected to revolutionize the way researchers approach technological problems, opening up new possibilities and solutions to a wide range of real-world scenarios.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Investigating the impact of artificial gravity on long-duration space travel and human health</title>
-      <link>https://www.ScienceChronicle.org/en/news/investigating-the-impact-of-artificial-gravity-on-long-duration-space-travel-and-human-health/</link>
+      <link>http://localhost:1313/en/news/investigating-the-impact-of-artificial-gravity-on-long-duration-space-travel-and-human-health/</link>
       <pubDate>Fri, 19 May 2023 01:15:53 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/investigating-the-impact-of-artificial-gravity-on-long-duration-space-travel-and-human-health/</guid>
+      <guid>http://localhost:1313/en/news/investigating-the-impact-of-artificial-gravity-on-long-duration-space-travel-and-human-health/</guid>
       <description>&lt;p&gt;The California Institute of Technology (Caltech) has launched a new study to investigate the impact of artificial gravity on long-duration space travel and human health. The research aims to explore whether artificial gravity can help mitigate the negative effects of prolonged weightlessness on the human body. The study, which is expected to take several years, will involve a range of experiments using both animal and human models. The findings could have significant implications for the future of space travel and the health of astronauts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>New Electromagnetic Device Effectively Cures Solid Tumors by Generated Magnetic Fields</title>
-      <link>https://www.ScienceChronicle.org/en/news/new-electromagnetic-device-effectively-cures-solid-tumors-by-generated-magnetic-fields/</link>
+      <link>http://localhost:1313/en/news/new-electromagnetic-device-effectively-cures-solid-tumors-by-generated-magnetic-fields/</link>
       <pubDate>Wed, 17 May 2023 19:21:05 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/new-electromagnetic-device-effectively-cures-solid-tumors-by-generated-magnetic-fields/</guid>
+      <guid>http://localhost:1313/en/news/new-electromagnetic-device-effectively-cures-solid-tumors-by-generated-magnetic-fields/</guid>
       <description>&lt;p&gt;Solid tumors have always been a challenge in the field of medical science due to their complex nature and resistance to conventional treatments. However, a recent development by the Lugano University research team promises a breakthrough in the treatment of solid tumors.&lt;/p&gt;&#xA;&lt;p&gt;The team has designed a new electromagnetic device that generates magnetic fields that are specially adjusted to resonate with solid tumors. The device causes selective heating of the tumor cells, which leads to their destruction while leaving surrounding healthy tissues unaffected. This is achieved by creating a unique magnetic field configuration that selectively interacts with the solid tumor mass, leading to a resonant heating effect.&lt;/p&gt;</description>
     </item>
   </channel>

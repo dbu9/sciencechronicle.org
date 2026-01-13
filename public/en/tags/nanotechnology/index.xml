@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nanotechnology on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/nanotechnology/</link>
+    <link>http://localhost:1313/en/tags/nanotechnology/</link>
     <description>Recent content in Nanotechnology on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 May 2023 01:24:19 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/nanotechnology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/nanotechnology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nanoswimmers Can Travel Significant Distances Inside Blood Stream To Find A Cancer Target In The Brain</title>
-      <link>https://www.ScienceChronicle.org/en/news/nanoswimmers-can-travel-significant-distances-inside-blood-stream-to-find-a-cancer-target-in-the-brain/</link>
+      <link>http://localhost:1313/en/news/nanoswimmers-can-travel-significant-distances-inside-blood-stream-to-find-a-cancer-target-in-the-brain/</link>
       <pubDate>Sat, 20 May 2023 01:24:19 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/nanoswimmers-can-travel-significant-distances-inside-blood-stream-to-find-a-cancer-target-in-the-brain/</guid>
+      <guid>http://localhost:1313/en/news/nanoswimmers-can-travel-significant-distances-inside-blood-stream-to-find-a-cancer-target-in-the-brain/</guid>
       <description>&lt;p&gt;Princeton University scientists have recently made a breakthrough by developing innovative nanoswimmers that can travel a long distance inside the human blood stream to find and attack a cancer target in the brain. This innovative approach is expected to bring about a significant reduction in the number of cancer cell deaths that originate from brain tumors.&lt;/p&gt;&#xA;&lt;p&gt;These nanoswimmers are composed of tiny, self-propelling robots that are only a few microns in size. They are designed to move through the human body and locate cancer cells in the brain. The biomedical applications of these nanobots are remarkable, as they represent a new way of thinking about cancer treatment. They travel through the bloodstream and can make their way to even the most remote areas of the body to search for cancer cells.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Exploring the use of nanomaterials for targeted cancer imaging and therapy</title>
-      <link>https://www.ScienceChronicle.org/en/news/exploring-use-nanomaterials-targeted-cancer-imaging-therapy/</link>
+      <link>http://localhost:1313/en/news/exploring-use-nanomaterials-targeted-cancer-imaging-therapy/</link>
       <pubDate>Fri, 19 May 2023 10:22:29 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/exploring-use-nanomaterials-targeted-cancer-imaging-therapy/</guid>
+      <guid>http://localhost:1313/en/news/exploring-use-nanomaterials-targeted-cancer-imaging-therapy/</guid>
       <description>&lt;p&gt;Researchers at Peking University in Beijing have been exploring the use of nanomaterials for targeted imaging and therapy of cancer.&lt;/p&gt;&#xA;&lt;p&gt;The team, led by Professor Jianjun Liu, has been working on developing nanomaterials that can selectively target cancer cells while avoiding healthy tissues. They have been using various materials, such as gold nanoparticles, carbon nanotubes, and lipid-based nanoparticles, to deliver imaging and therapeutic agents to cancer cells.&lt;/p&gt;&#xA;&lt;p&gt;The researchers have been studying the interactions between nanomaterials and cancer cells, as well as the toxicity and biodistribution of the materials in animal models. They have found that some of the materials can penetrate cancer cells, while others can induce apoptosis or cell death.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nanobots Target Cancer Cells with Breakthrough Chemotaxis Technology</title>
-      <link>https://www.ScienceChronicle.org/en/news/nanobots-target-cancer-cells-chemotaxis-technology/</link>
+      <link>http://localhost:1313/en/news/nanobots-target-cancer-cells-chemotaxis-technology/</link>
       <pubDate>Thu, 18 May 2023 18:52:14 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/nanobots-target-cancer-cells-chemotaxis-technology/</guid>
+      <guid>http://localhost:1313/en/news/nanobots-target-cancer-cells-chemotaxis-technology/</guid>
       <description>&lt;p&gt;Researchers at the University of Madrid have developed nanobots with the ability to target cancer cells by chemotaxis. This breakthrough technology utilizes the high glycolytic metabolism characteristic of cancer cells to guide the nanobots to their target.&lt;/p&gt;&#xA;&lt;p&gt;Dr. Maria Gomez, the lead researcher of the project, explains that chemotaxis is the process by which cells move towards or away from chemicals in their environment. By giving nanobots the ability to follow chemical gradients, they can be directed towards specific cells in the body. In this case, the nanobots were programmed to seek out cancer cells due to their high levels of glucose metabolism.&lt;/p&gt;</description>
     </item>
   </channel>

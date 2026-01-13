@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Geophysics on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/geophysics/</link>
+    <link>http://localhost:1313/en/tags/geophysics/</link>
     <description>Recent content in Geophysics on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 May 2023 01:37:22 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/geophysics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/geophysics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scientific Report: Celestial Tension Theory Gets Additional Argument for Making It More Reliable in Prediction of Big Earthquakes</title>
-      <link>https://www.ScienceChronicle.org/en/news/celestial-tension-theory-prediction-big-earthquakes/</link>
+      <link>http://localhost:1313/en/news/celestial-tension-theory-prediction-big-earthquakes/</link>
       <pubDate>Thu, 18 May 2023 01:37:22 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/celestial-tension-theory-prediction-big-earthquakes/</guid>
+      <guid>http://localhost:1313/en/news/celestial-tension-theory-prediction-big-earthquakes/</guid>
       <description>&lt;p&gt;On 17 May 2023, a new scientific report was released by the University of Athens, providing additional evidence that supports the celestial tension theory. The theory posits that the gravitational influences of the moon and the sun, along with other celestial bodies, could contribute to tectonic stresses that eventually lead to the occurrence of large earthquakes. The new argument provided by the report highlights the importance of the Earth&amp;rsquo;s crust and the tension it undergoes, suggesting that it is an essential component of the theory. By taking into account the geological properties of the crust, the celestial tension theory becomes more reliable in predicting where and when big earthquakes could occur.&lt;/p&gt;</description>
     </item>
   </channel>

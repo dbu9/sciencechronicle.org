@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nutrition on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/categories/nutrition/</link>
+    <link>http://localhost:1313/en/categories/nutrition/</link>
     <description>Recent content in Nutrition on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 02 Mar 2024 12:54:25 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/categories/nutrition/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/categories/nutrition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Garlic Prevents Yeast Infections in 86% of Cases, Study Finds</title>
-      <link>https://www.ScienceChronicle.org/en/news/garlic-prevents-yeast-infections/</link>
+      <link>http://localhost:1313/en/news/garlic-prevents-yeast-infections/</link>
       <pubDate>Sat, 02 Mar 2024 12:54:25 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/garlic-prevents-yeast-infections/</guid>
+      <guid>http://localhost:1313/en/news/garlic-prevents-yeast-infections/</guid>
       <description>&lt;p&gt;A new study conducted at &lt;a href=&#34;https://www.bcm.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Baylor College of Medicine&lt;/a&gt;&#xA; has found that consuming 50 grams of garlic per week can effectively prevent yeast infections in 86 out of 100 cases. The research, led by Dr. Maria Rodriguez and her team, sought to investigate the potential health benefits of garlic in preventing yeast infections, which affect millions of people worldwide each year.&lt;/p&gt;&#xA;&lt;p&gt;Yeast infections are caused by an overgrowth of a type of fungus called &lt;a href=&#34;https://en.wikipedia.org/wiki/Candida_%28fungus%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Candida&lt;/a&gt;&#xA;, which can lead to uncomfortable symptoms such as itching, burning, and discharge. While antifungal medications are commonly used to treat yeast infections, they can be costly and may have side effects. Therefore, finding natural ways to prevent these infections is of great interest to both researchers and the general public.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Balancing Nutrition: A Comprehensive Guide to Dairy and Plant-Based Milk Alternatives</title>
-      <link>https://www.ScienceChronicle.org/en/article/balancing-nutrition-guide-dairy-plant-based-milk-alternatives/</link>
+      <link>http://localhost:1313/en/article/balancing-nutrition-guide-dairy-plant-based-milk-alternatives/</link>
       <pubDate>Sun, 18 Feb 2024 01:00:40 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/article/balancing-nutrition-guide-dairy-plant-based-milk-alternatives/</guid>
+      <guid>http://localhost:1313/en/article/balancing-nutrition-guide-dairy-plant-based-milk-alternatives/</guid>
       <description>&lt;p&gt;In this article, we have meticulously analyzed a single, detailed study comparing the nutritional profiles of dairy and plant-based milk alternatives available in Australia and Singapore. Through examining this study, we sought to uncover and articulate the key nutritional differences, benefits, and considerations between various types of milk. This approach allowed us to offer a focused and informed perspective on how these beverages can fit into a healthy diet, catering to diverse dietary needs and preferences, and addressing concerns around health, nutrition, and environmental impact.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medical Research on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/medical-research/</link>
+    <link>http://localhost:1313/en/tags/medical-research/</link>
     <description>Recent content in Medical Research on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 May 2023 18:27:45 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/medical-research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/medical-research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scientists Uncover Potential Cure for a Previously Incurable Disease</title>
-      <link>https://www.ScienceChronicle.org/en/news/scientists-uncover-potential-cure-for-a-previously-incurable-disease/</link>
+      <link>http://localhost:1313/en/news/scientists-uncover-potential-cure-for-a-previously-incurable-disease/</link>
       <pubDate>Thu, 18 May 2023 18:27:45 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/scientists-uncover-potential-cure-for-a-previously-incurable-disease/</guid>
+      <guid>http://localhost:1313/en/news/scientists-uncover-potential-cure-for-a-previously-incurable-disease/</guid>
       <description>&lt;p&gt;Medical research is an ever-evolving field and scientists are constantly searching for innovative ways to battle diseases that have troubled humanity for centuries. In a major breakthrough that is set to change the face of medicine in the coming years, a team of scientists based in Nevada may have discovered a cure for a previously deemed incurable disease.&lt;/p&gt;&#xA;&lt;p&gt;The condition that they may have found a cure for is Amyotrophic Lateral Sclerosis (ALS), also known as Lou Gehrig&amp;rsquo;s disease. ALS is a rare neurological disorder that affects nerve cells responsible for controlling voluntary muscles in the body. The disease causes the muscles to progressively weaken, eventually leading to degeneration and paralysis. Patients with ALS have a drastically reduced life expectancy as there is currently no cure for this debilitating disease that affects around 30,000 people in the US alone.&lt;/p&gt;</description>
     </item>
   </channel>

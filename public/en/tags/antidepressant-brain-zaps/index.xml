@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antidepressant Brain Zaps on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/antidepressant-brain-zaps/</link>
+    <link>http://localhost:1313/en/tags/antidepressant-brain-zaps/</link>
     <description>Recent content in Antidepressant Brain Zaps on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 03 Jun 2023 15:52:32 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/antidepressant-brain-zaps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/antidepressant-brain-zaps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duration of Brain Zap Can Accompany Treatment with SSRI</title>
-      <link>https://www.ScienceChronicle.org/en/news/duration-brain-zap-accompany-treatment-ssri/</link>
+      <link>http://localhost:1313/en/news/duration-brain-zap-accompany-treatment-ssri/</link>
       <pubDate>Sat, 03 Jun 2023 15:52:32 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/duration-brain-zap-accompany-treatment-ssri/</guid>
+      <guid>http://localhost:1313/en/news/duration-brain-zap-accompany-treatment-ssri/</guid>
       <description>&lt;p&gt;A new study conducted at Toronto University has found that brain zaps, a common side effect experienced during treatment with Selective Serotonin Reuptake Inhibitors (SSRIs), can persist throughout the entire duration of the treatment and may only disappear a week after discontinuing the medication.&lt;/p&gt;&#xA;&lt;p&gt;SSRIs are a commonly prescribed class of antidepressants which work by altering the levels of serotonin, a neurotransmitter that regulates mood, in the brain. Some of the most well-known SSRIs include Prozac, Zoloft, and Lexapro. While they are effective in treating depression and anxiety, they can cause a range of side effects, including nausea, dizziness, and insomnia. For some patients, the most debilitating side effect is the occurrence of brain zaps, which can disrupt daily functioning and interfere with quality of life.&lt;/p&gt;</description>
     </item>
   </channel>

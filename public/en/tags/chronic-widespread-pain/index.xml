@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chronic Widespread Pain on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/chronic-widespread-pain/</link>
+    <link>http://localhost:1313/en/tags/chronic-widespread-pain/</link>
     <description>Recent content in Chronic Widespread Pain on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 24 Jan 2024 00:26:45 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/chronic-widespread-pain/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/chronic-widespread-pain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fibromyalgia Syndrome and Chronic Widespread Pain</title>
-      <link>https://www.ScienceChronicle.org/en/news/fibromyalgia-syndrome-and-chronic-widespread-pain/</link>
+      <link>http://localhost:1313/en/news/fibromyalgia-syndrome-and-chronic-widespread-pain/</link>
       <pubDate>Wed, 24 Jan 2024 00:26:45 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/fibromyalgia-syndrome-and-chronic-widespread-pain/</guid>
+      <guid>http://localhost:1313/en/news/fibromyalgia-syndrome-and-chronic-widespread-pain/</guid>
       <description>&lt;p&gt;A significant portion of the population experiences persistent and widespread pain, with about 11% in the UK affected. This condition leads to several challenges for both individuals and society, including decreased physical activity, feelings of depression, higher healthcare usage, and a decline in work efficiency. This blog article will primarily discuss fibromyalgia, a key example of a condition characterized by persistent widespread pain and tiredness.&lt;/p&gt;&#xA;&lt;p&gt;Fibromyalgia, also known as fibromyalgia syndrome (FMS), is a diverse pain-related condition with an uncertain cause. It impacts 0.5–5% of people globally and predominantly affects women. Given that single treatments typically offer limited effectiveness, the European League against Rheumatism (EULAR) suggests a comprehensive treatment strategy for fibromyalgia, tailored to the severity of symptoms, patient capabilities, and other related factors. The goal of this approach is to enhance physical, mental, and social well-being.&lt;/p&gt;</description>
     </item>
   </channel>

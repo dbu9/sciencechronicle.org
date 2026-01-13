@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electronics on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/electronics/</link>
+    <link>http://localhost:1313/en/tags/electronics/</link>
     <description>Recent content in Electronics on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 17 May 2023 19:22:50 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Crystal Lattice with Unique Piezo Effect Discovered at London University</title>
-      <link>https://www.ScienceChronicle.org/en/news/new-crystal-lattice-piezo-effect-london-university/</link>
+      <link>http://localhost:1313/en/news/new-crystal-lattice-piezo-effect-london-university/</link>
       <pubDate>Wed, 17 May 2023 19:22:50 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/new-crystal-lattice-piezo-effect-london-university/</guid>
+      <guid>http://localhost:1313/en/news/new-crystal-lattice-piezo-effect-london-university/</guid>
       <description>&lt;p&gt;In a groundbreaking discovery, researchers at London University have identified a new crystal lattice with a unique piezo effect that produces high electrical current. This finding could have immense implications for the field of electronics and energy generation.&lt;/p&gt;&#xA;&lt;p&gt;The crystal lattice, named CIL-13, was identified through a combination of computer simulations and experimentation. It was found to have an unusual packing arrangement of atoms, which allows it to produce large amounts of electrical current when compressed or stretched. This property, known as the piezo effect, has been observed in other materials, but the magnitude of the effect in CIL-13 is significantly higher than anything previously observed.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lung Cancer on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/lung-cancer/</link>
+    <link>http://localhost:1313/en/tags/lung-cancer/</link>
     <description>Recent content in Lung Cancer on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 May 2023 10:39:43 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/lung-cancer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/lung-cancer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adiponectin: A Potential Key to Unlocking New Therapies for Lung Cancer</title>
-      <link>https://www.ScienceChronicle.org/en/news/adiponectin-down-regulates-creb-and-inhibits-proliferation-of-a549-lung-cancer-cells/</link>
+      <link>http://localhost:1313/en/news/adiponectin-down-regulates-creb-and-inhibits-proliferation-of-a549-lung-cancer-cells/</link>
       <pubDate>Sat, 20 May 2023 10:39:43 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/adiponectin-down-regulates-creb-and-inhibits-proliferation-of-a549-lung-cancer-cells/</guid>
+      <guid>http://localhost:1313/en/news/adiponectin-down-regulates-creb-and-inhibits-proliferation-of-a549-lung-cancer-cells/</guid>
       <description>&lt;p&gt;In the ongoing battle against cancer, scientists are constantly in search of novel pathways and mechanisms that could lead to new therapeutic strategies. Among the myriad of molecules being studied, adipokines stand out for their significant role in cancer-related molecular pathways. Adiponectin, a major adipokine, is gaining attention for its anti-inflammatory properties and beneficial metabolic actions. &lt;a href=&#34;https://doi.org/10.1016/j.pupt.2017.05.009&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Recent research&lt;/a&gt;&#xA; has highlighted its potential anti-carcinogenic effects, suggesting a promising avenue for cancer therapy, particularly in lung cancer.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>According to the Endosymbiosis Theory on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/according-to-the-endosymbiosis-theory/</link>
+    <link>http://localhost:1313/en/tags/according-to-the-endosymbiosis-theory/</link>
     <description>Recent content in According to the Endosymbiosis Theory on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 02 Feb 2024 11:52:37 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/according-to-the-endosymbiosis-theory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/according-to-the-endosymbiosis-theory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Predators to Partners: The Evolutionary Saga of Eukaryotes and Their Symbiotic Ascent</title>
-      <link>https://www.ScienceChronicle.org/en/article/predators-to-partners-the-evolutionary-saga-of-eukaryotes/</link>
+      <link>http://localhost:1313/en/article/predators-to-partners-the-evolutionary-saga-of-eukaryotes/</link>
       <pubDate>Fri, 02 Feb 2024 11:52:37 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/article/predators-to-partners-the-evolutionary-saga-of-eukaryotes/</guid>
+      <guid>http://localhost:1313/en/article/predators-to-partners-the-evolutionary-saga-of-eukaryotes/</guid>
       <description>&lt;h2 id=&#34;the-evolutionary-path-to-eukaryotic-complexity&#34;&gt;The Evolutionary Path to Eukaryotic Complexity&lt;/h2&gt;&#xA;&lt;p&gt;Eukaryotic cells distinguish themselves through a unique structural organization, housing their genetic material within a nucleus encased by a nuclear envelope, a dual-layered membrane that delineates DNA from the cytoplasm. Unlike their prokaryotic counterparts, eukaryotic cells are significantly larger, often by tenfold in linear dimensions and a thousandfold in volume. They feature a sophisticated cytoskeleton composed of protein filaments that interlace the cytoplasm, supporting the cell&amp;rsquo;s structure, determining its shape, and facilitating movement with a network of structural proteins, acting as cellular scaffolds and motors. Beyond the nuclear envelope, eukaryotes possess a complex series of internal membranes akin to the plasma membrane, which form various compartments within the cell involved in processes such as digestion and secretion. Without the rigid cell walls found in many bacteria, animal cells and certain autonomous eukaryotic cells, known as protozoa, have the remarkable ability to swiftly alter their form and engulf other cells or particles through the process of phagocytosis.&lt;/p&gt;</description>
     </item>
   </channel>

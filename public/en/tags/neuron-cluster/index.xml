@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neuron Cluster on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/neuron-cluster/</link>
+    <link>http://localhost:1313/en/tags/neuron-cluster/</link>
     <description>Recent content in Neuron Cluster on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 May 2023 00:49:45 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/neuron-cluster/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/neuron-cluster/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Human Cerebral Neuron Cell Clusters Can Attain Unique States, According to Boston University Study</title>
-      <link>https://www.ScienceChronicle.org/en/news/human-cerebral-neuron-cell-clusters-unique-states-boston-university/</link>
+      <link>http://localhost:1313/en/news/human-cerebral-neuron-cell-clusters-unique-states-boston-university/</link>
       <pubDate>Thu, 18 May 2023 00:49:45 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/human-cerebral-neuron-cell-clusters-unique-states-boston-university/</guid>
+      <guid>http://localhost:1313/en/news/human-cerebral-neuron-cell-clusters-unique-states-boston-university/</guid>
       <description>&lt;p&gt;Boston University&amp;rsquo;s latest research on human cerebral neuron cell clusters has revealed some fascinating discoveries. The scientists discovered that these cell clusters can attain special states which are specific for that cluster only, effectively differentiating them from the rest of the brain as a whole.&lt;/p&gt;&#xA;&lt;p&gt;This discovery has significant implications for neuroscience as a whole, as it suggests that the way different parts of the brain communicate and function may be more complex and dynamic than previously thought. By achieving these unique states, the neuron cell clusters can perform functions that are specific to their cluster and cannot be performed by other cells in the brain, highlighting the importance of mapping out the brain&amp;rsquo;s networks and understanding how they function together.&lt;/p&gt;</description>
     </item>
   </channel>

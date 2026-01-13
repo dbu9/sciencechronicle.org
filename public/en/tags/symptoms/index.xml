@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Symptoms on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/symptoms/</link>
+    <link>http://localhost:1313/en/tags/symptoms/</link>
     <description>Recent content in Symptoms on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Feb 2024 13:15:13 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/symptoms/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/symptoms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is worse, osteoarthritis or osteoporosis</title>
-      <link>https://www.ScienceChronicle.org/en/news/what-is-worse-osteoarthritis-or-osteoporosis/</link>
+      <link>http://localhost:1313/en/news/what-is-worse-osteoarthritis-or-osteoporosis/</link>
       <pubDate>Thu, 01 Feb 2024 13:15:13 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/what-is-worse-osteoarthritis-or-osteoporosis/</guid>
+      <guid>http://localhost:1313/en/news/what-is-worse-osteoarthritis-or-osteoporosis/</guid>
       <description>&lt;p&gt;Determining which condition is worse between osteoarthritis and osteoporosis involves delving into the complexities of both diseases, their impact on individuals&amp;rsquo; health, quality of life, and the broader implications for public health. This comprehensive analysis aims to explore the pathological differences, symptomatic burdens, and societal impacts of osteoarthritis and osteoporosis, shedding light on the nuanced debate of which condition could be deemed &amp;ldquo;worse.&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;understanding-osteoarthritis-and-osteoporosis&#34;&gt;Understanding Osteoarthritis and Osteoporosis&lt;/h2&gt;&#xA;&lt;p&gt;Osteoarthritis is a degenerative joint disorder characterized by the breakdown of cartilage, the rubbery material that cushions the ends of bones within joints. This degeneration leads to pain, stiffness, swelling, and reduced mobility in affected joints, most commonly affecting the knees, hips, hands, and spine. The primary symptoms are joint pain and stiffness, especially after periods of rest or physical activity, which can progressively worsen, leading to significant discomfort and functional limitations.&lt;/p&gt;</description>
     </item>
   </channel>

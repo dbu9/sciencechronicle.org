@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dermatology on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/dermatology/</link>
+    <link>http://localhost:1313/en/tags/dermatology/</link>
     <description>Recent content in Dermatology on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 03 Jul 2024 16:31:57 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/dermatology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/dermatology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Psychosomatic Reason for Psoriasis: Emotional Coldness of Parents</title>
-      <link>https://www.ScienceChronicle.org/en/news/psychosomatic-reason-for-psoriasis-emotional-coldness-of-parents/</link>
+      <link>http://localhost:1313/en/news/psychosomatic-reason-for-psoriasis-emotional-coldness-of-parents/</link>
       <pubDate>Wed, 03 Jul 2024 16:31:57 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/psychosomatic-reason-for-psoriasis-emotional-coldness-of-parents/</guid>
+      <guid>http://localhost:1313/en/news/psychosomatic-reason-for-psoriasis-emotional-coldness-of-parents/</guid>
       <description>&lt;p&gt;A groundbreaking study conducted by researchers at Oslo University has revealed a potential psychosomatic reason for the development of psoriasis. The study suggests that the emotional coldness of parents may play a significant role in triggering the skin condition.&lt;/p&gt;&#xA;&lt;p&gt;The research, led by Dr. Emma Larsen and her team of psychologists, involved a comprehensive analysis of over 500 individuals with psoriasis. The participants were required to complete a series of questionnaires aimed at assessing their childhood experiences and the emotional dynamics within their family environment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Placebo Effect Used to Successfully Treat Mild Psoriasis</title>
-      <link>https://www.ScienceChronicle.org/en/news/placebo-effect-used-to-successfully-treat-mild-psoriasis/</link>
+      <link>http://localhost:1313/en/news/placebo-effect-used-to-successfully-treat-mild-psoriasis/</link>
       <pubDate>Tue, 23 May 2023 01:18:47 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/placebo-effect-used-to-successfully-treat-mild-psoriasis/</guid>
+      <guid>http://localhost:1313/en/news/placebo-effect-used-to-successfully-treat-mild-psoriasis/</guid>
       <description>&lt;p&gt;A groundbreaking study conducted by scientists at the Massachusetts Institute of Technology (MIT) has successfully treated mild psoriasis using the placebo effect. Psoriasis is a chronic skin condition that affects millions of people worldwide, causing itchy, scaly patches on the skin. While there is no cure for psoriasis, the new research has shown that the placebo effect could play a significant role in treating mild cases of the disease.&lt;/p&gt;&#xA;&lt;p&gt;The study, published in the Journal of the American Medical Association, involved 100 participants who were given a placebo pill instead of actual medication. According to Dr. John Smith, the lead author of the study, the patients who were given the placebo reported a significant improvement in their symptoms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hydroxylized Mometasone Furoate Could Diminish Adverse Effects of Topical Psoriasis Treatment</title>
-      <link>https://www.ScienceChronicle.org/en/news/hydroxylized-mometasone-furoate-diminish-adverse-effects-topical-psoriasis-treatment/</link>
+      <link>http://localhost:1313/en/news/hydroxylized-mometasone-furoate-diminish-adverse-effects-topical-psoriasis-treatment/</link>
       <pubDate>Thu, 18 May 2023 10:46:31 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/hydroxylized-mometasone-furoate-diminish-adverse-effects-topical-psoriasis-treatment/</guid>
+      <guid>http://localhost:1313/en/news/hydroxylized-mometasone-furoate-diminish-adverse-effects-topical-psoriasis-treatment/</guid>
       <description>&lt;p&gt;Topical psoriasis is a chronic inflammatory skin disease that affects millions worldwide and can significantly reduce a patient’s quality of life. Corticosteroids, such as mometasone furoate, are often used to alleviate the symptoms of psoriasis. However, the use of these medications can have adverse effects, such as skin atrophy and telangiectasia. A recent study conducted in South California, USA, aimed to explore whether hydroxylated mometasone furoate could effectively treat psoriasis while diminishing these adverse effects.&lt;/p&gt;</description>
     </item>
   </channel>

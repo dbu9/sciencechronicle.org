@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Herpes Virus on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/herpes-virus/</link>
+    <link>http://localhost:1313/en/tags/herpes-virus/</link>
     <description>Recent content in Herpes Virus on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jan 2024 17:48:53 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/herpes-virus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/herpes-virus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unveiling Hidden Pathways: The Evolution and Mechanics of Viral Cell-to-Cell Transmission</title>
-      <link>https://www.ScienceChronicle.org/en/news/cell-to-cell-transmission-of-viruses/</link>
+      <link>http://localhost:1313/en/news/cell-to-cell-transmission-of-viruses/</link>
       <pubDate>Thu, 18 Jan 2024 17:48:53 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/cell-to-cell-transmission-of-viruses/</guid>
+      <guid>http://localhost:1313/en/news/cell-to-cell-transmission-of-viruses/</guid>
       <description>&lt;p&gt;Viruses depend on host organisms for replication, as they are parasites that exist inside cells. Over time, they have evolved to hijack host cellular mechanisms to suit their reproductive needs, showing similarities in the phases of their life cycle such as entry, penetration, assembly, and release. The past three decades have seen extensive research on many of these stages. Yet, only recently have we started to uncover new aspects of viral life cycles. A particularly intriguing new discovery is the method of cell-to-cell transmission, which is gaining attention for its role in viral spread and its potential implications in treating persistent viral infections like AIDS and hepatitis.&lt;/p&gt;</description>
     </item>
   </channel>

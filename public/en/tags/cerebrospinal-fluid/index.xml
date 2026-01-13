@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cerebrospinal Fluid on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/cerebrospinal-fluid/</link>
+    <link>http://localhost:1313/en/tags/cerebrospinal-fluid/</link>
     <description>Recent content in Cerebrospinal Fluid on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:53:08 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/cerebrospinal-fluid/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/cerebrospinal-fluid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The biophysical mechanisms of how cerebrospinal fluid protects the brain from mechanical damage</title>
-      <link>https://www.ScienceChronicle.org/en/news/how-cerebrospinal-fluid-protects-the-brain/</link>
+      <link>http://localhost:1313/en/news/how-cerebrospinal-fluid-protects-the-brain/</link>
       <pubDate>Mon, 01 Jan 2024 00:53:08 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/how-cerebrospinal-fluid-protects-the-brain/</guid>
+      <guid>http://localhost:1313/en/news/how-cerebrospinal-fluid-protects-the-brain/</guid>
       <description>&lt;p&gt;Researchers at the &lt;a href=&#34;https://www.mr.mpg.de/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Max Planck Institute for Medical Research&lt;/a&gt;&#xA; have made a significant breakthrough in understanding the biophysics of how cerebrospinal fluid (CSF) mechanically protects the brain. Their study, published in the &lt;a href=&#34;https://www.jneurosci.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Neuroscience&lt;/a&gt;&#xA;, sheds light on the intricate mechanisms that enable the CSF to cushion and shield the brain from mechanical forces.&lt;/p&gt;&#xA;&lt;p&gt;The brain is a delicate organ that must be protected from the mechanical stresses and strains that occur during everyday activities. The CSF plays a crucial role in this regard, acting as a shock absorber and providing a buffer between the brain and the skull. Understanding how this process works at the biophysical level is essential for developing effective treatments for brain injuries and neurodegenerative diseases.&#xA;The research team used advanced imaging techniques and computational modeling to investigate the biophysical properties of CSF. They found that the fluid&amp;rsquo;s ability to dissipate mechanical forces is due to its unique viscoelastic properties. Viscoelastic materials exhibit both viscous (flow-like) and elastic (solid-like) behavior, allowing them to absorb and transmit mechanical energy effectively. In the case of CSF, this means that it can absorb sudden impacts and distribute the resulting forces throughout the brain, reducing the risk of injury.&lt;/p&gt;</description>
     </item>
   </channel>

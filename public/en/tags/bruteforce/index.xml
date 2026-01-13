@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bruteforce on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/bruteforce/</link>
+    <link>http://localhost:1313/en/tags/bruteforce/</link>
     <description>Recent content in Bruteforce on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 22 May 2024 01:58:40 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/bruteforce/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/bruteforce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Taking over Zabbix with Hydra</title>
-      <link>https://www.ScienceChronicle.org/en/article/taking-over-zabix-with-hydra/</link>
+      <link>http://localhost:1313/en/article/taking-over-zabix-with-hydra/</link>
       <pubDate>Wed, 22 May 2024 01:58:40 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/article/taking-over-zabix-with-hydra/</guid>
+      <guid>http://localhost:1313/en/article/taking-over-zabix-with-hydra/</guid>
       <description>&lt;h2 id=&#34;lab-experiment&#34;&gt;Lab experiment&lt;/h2&gt;&#xA;&lt;p&gt;As usual, we start with an experiment in highly constrolled conditions - in our virtual lab.&lt;/p&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s first install hydra:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo apt install hydra -y&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then let&amp;rsquo;s run &lt;a href=&#34;https://hub.docker.com/r/zabbix/zabbix-appliance/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;zabbix appliance&lt;/a&gt;&#xA; to have all zabbix components run in a single command:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;docker run --name some-zabbix-appliance -p 80:80 -p 10051:10051 -d zabbix/zabbix-appliance:tag&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;After docker ran, we can see exposed ports:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;docker ps&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;CONTAINER ID   IMAGE                     COMMAND                  CREATED             STATUS             PORTS                                                                                       NAMES&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;3b0230770aa0   zabbix/zabbix-appliance   &lt;span style=&#34;color:#f1fa8c&#34;&gt;&amp;#34;/sbin/tini -- /usr/…&amp;#34;&lt;/span&gt;   About an hour ago   Up About an hour   0.0.0.0:80-&amp;gt;80/tcp, :::80-&amp;gt;80/tcp, 0.0.0.0:10051-&amp;gt;10051/tcp, :::10051-&amp;gt;10051/tcp, 443/tcp   some-zabbix-appliance&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;and we get into the UI by going with browser to &lt;code&gt;http://localhost&lt;/code&gt;:&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asmr on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/asmr/</link>
+    <link>http://localhost:1313/en/tags/asmr/</link>
     <description>Recent content in Asmr on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Feb 2024 00:19:46 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/asmr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/asmr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Whispers of Wonder: A Deep Dive into ASMR through an Exclusive Interview</title>
-      <link>https://www.ScienceChronicle.org/en/news/asmr-research-interview-insights-exploration/</link>
+      <link>http://localhost:1313/en/news/asmr-research-interview-insights-exploration/</link>
       <pubDate>Mon, 05 Feb 2024 00:19:46 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/asmr-research-interview-insights-exploration/</guid>
+      <guid>http://localhost:1313/en/news/asmr-research-interview-insights-exploration/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Interview with the Authors of a Groundbreaking ASMR Research&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Interviewer (SD):&lt;/em&gt; &lt;strong&gt;Samantha Davis&lt;/strong&gt;, Editor at ScienceChronicle.org&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;SD:&lt;/strong&gt; Today, we&amp;rsquo;re speaking with the authors of a fascinating study on Autonomous Sensory Meridian Response (ASMR), recently &lt;a href=&#34;https://doi.org/10.1016/j.concog.2023.103584&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published&lt;/a&gt;&#xA;. Their work offers in-depth insights into ASMR triggers, their consistency over time, and the development of a comprehensive ASMR Trigger Checklist (ATC). This research is crucial for understanding how ASMR affects individuals differently and the potential therapeutic implications. Let&amp;rsquo;s dive into the questions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>ASMR Has Many Physiological Effects, Including the Potential to Heal Serious Illnesses Through Psychosomatic Effects</title>
-      <link>https://www.ScienceChronicle.org/en/news/asmr-has-many-physiological-effects-potential-to-heal-serious-illnesses/</link>
+      <link>http://localhost:1313/en/news/asmr-has-many-physiological-effects-potential-to-heal-serious-illnesses/</link>
       <pubDate>Thu, 25 Jan 2024 23:41:44 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/asmr-has-many-physiological-effects-potential-to-heal-serious-illnesses/</guid>
+      <guid>http://localhost:1313/en/news/asmr-has-many-physiological-effects-potential-to-heal-serious-illnesses/</guid>
       <description>&lt;p&gt;Recent research conducted by the University of Cambridge has shown that Autonomous Sensory Meridian Response (ASMR), a tingling sensation often triggered by certain visual or auditory stimuli in susceptible individuals, can have various physiological effects. The study found that ASMR had positive impacts on heart rate, respiration, and neurotransmitters, leading to lower stress levels and improved overall well-being.&lt;/p&gt;&#xA;&lt;p&gt;Additionally, the psychosomatic effects of ASMR have been noted, with some individuals reporting relief from chronic pain and even serious illnesses such as depression and anxiety. While further research is necessary to fully understand these effects, the potential for ASMR to aid in healing is promising.&lt;/p&gt;</description>
     </item>
   </channel>

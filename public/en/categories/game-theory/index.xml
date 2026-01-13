@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game Theory on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/categories/game-theory/</link>
+    <link>http://localhost:1313/en/categories/game-theory/</link>
     <description>Recent content in Game Theory on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 21 Dec 2024 11:52:37 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/categories/game-theory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/categories/game-theory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Slither.io and the Human Condition: A Game Theory Perspective</title>
-      <link>https://www.ScienceChronicle.org/en/article/slither-io-and-human-conditiona-a-game-theory-perspective/</link>
+      <link>http://localhost:1313/en/article/slither-io-and-human-conditiona-a-game-theory-perspective/</link>
       <pubDate>Sat, 21 Dec 2024 11:52:37 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/article/slither-io-and-human-conditiona-a-game-theory-perspective/</guid>
+      <guid>http://localhost:1313/en/article/slither-io-and-human-conditiona-a-game-theory-perspective/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;slither.io&lt;/em&gt; is more than just a simple online multiplayer game; it’s a fascinating microcosm of human behavior and societal dynamics. On the surface, players control a worm, collecting glowing orbs to grow larger and gain dominance. However, when we take a closer look, the game reveals complex strategic interactions, risk-reward trade-offs, and uncanny analogies to real-life social and economic behavior. Let’s dive into the deeper layers of &lt;em&gt;slither.io&lt;/em&gt; and explore its mechanics through the lens of game theory and human society.&lt;/p&gt;</description>
     </item>
   </channel>

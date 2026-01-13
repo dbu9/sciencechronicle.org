@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rosa Canina Cancer Treatment on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/rosa-canina-cancer-treatment/</link>
+    <link>http://localhost:1313/en/tags/rosa-canina-cancer-treatment/</link>
     <description>Recent content in Rosa Canina Cancer Treatment on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 07 Jan 2024 13:29:24 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/rosa-canina-cancer-treatment/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/rosa-canina-cancer-treatment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rosa Canina has a promising effect in treatment of breast cancer</title>
-      <link>https://www.ScienceChronicle.org/en/news/rosa-canina-promising-effect-treatment-breast-cancer/</link>
+      <link>http://localhost:1313/en/news/rosa-canina-promising-effect-treatment-breast-cancer/</link>
       <pubDate>Sun, 07 Jan 2024 13:29:24 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/rosa-canina-promising-effect-treatment-breast-cancer/</guid>
+      <guid>http://localhost:1313/en/news/rosa-canina-promising-effect-treatment-breast-cancer/</guid>
       <description>&lt;p&gt;Rosa canina, commonly known as the dog rose, has shown promising effects in the treatment of breast cancer, according to a recent study conducted at Heidelberg University Hospital. Researchers at the hospital&amp;rsquo;s Department of Oncology and Hematology have been investigating the potential anti-cancer properties of this wild rose species and have discovered that it contains compounds that could help combat the growth of breast cancer cells.&lt;/p&gt;&#xA;&lt;p&gt;Breast cancer is the most common type of cancer among women worldwide, with millions of new cases diagnosed each year. Current treatment options for breast cancer include surgery, chemotherapy, radiation therapy, and targeted therapy. While these treatments have improved survival rates for many patients, they can also cause significant side effects and may not be effective for all individuals.&lt;/p&gt;</description>
     </item>
   </channel>

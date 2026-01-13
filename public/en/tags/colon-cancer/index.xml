@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Colon Cancer on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/colon-cancer/</link>
+    <link>http://localhost:1313/en/tags/colon-cancer/</link>
     <description>Recent content in Colon Cancer on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 31 Dec 2023 02:18:24 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/colon-cancer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/colon-cancer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Prevent Colon Cancer: Simple Steps to Follow; Eat High-Fiber Content Food and Follow Intermittent Fasting</title>
-      <link>https://www.ScienceChronicle.org/en/news/how-to-prevent-colon-cancer-simple-steps-follow-eat-high-fiber-content-food-follow-intermittent-fasting/</link>
+      <link>http://localhost:1313/en/news/how-to-prevent-colon-cancer-simple-steps-follow-eat-high-fiber-content-food-follow-intermittent-fasting/</link>
       <pubDate>Sun, 31 Dec 2023 02:18:24 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/how-to-prevent-colon-cancer-simple-steps-follow-eat-high-fiber-content-food-follow-intermittent-fasting/</guid>
+      <guid>http://localhost:1313/en/news/how-to-prevent-colon-cancer-simple-steps-follow-eat-high-fiber-content-food-follow-intermittent-fasting/</guid>
       <description>&lt;p&gt;Researchers at Berlin University have discovered that there are simple steps that individuals can take to prevent colon cancer. By including high-fiber content foods in their diet and following intermittent fasting, people can significantly reduce their risk of developing this deadly disease. Colon cancer is one of the leading causes of cancer-related deaths worldwide, but with the implementation of these straightforward practices, individuals can take proactive measures to protect their health.&lt;/p&gt;</description>
     </item>
   </channel>

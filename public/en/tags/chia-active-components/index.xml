@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chia Active Components on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/chia-active-components/</link>
+    <link>http://localhost:1313/en/tags/chia-active-components/</link>
     <description>Recent content in Chia Active Components on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 26 Jan 2024 01:16:58 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/chia-active-components/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/chia-active-components/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring the Structural Complexity and Biological Potentials of Chia Seed Polysaccharides</title>
-      <link>https://www.ScienceChronicle.org/en/news/exploring-the-structural-complexity-and-biological-potentials-of-chia-seed-polysaccharides/</link>
+      <link>http://localhost:1313/en/news/exploring-the-structural-complexity-and-biological-potentials-of-chia-seed-polysaccharides/</link>
       <pubDate>Fri, 26 Jan 2024 01:16:58 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/exploring-the-structural-complexity-and-biological-potentials-of-chia-seed-polysaccharides/</guid>
+      <guid>http://localhost:1313/en/news/exploring-the-structural-complexity-and-biological-potentials-of-chia-seed-polysaccharides/</guid>
       <description>&lt;p&gt;The humble chia seed, a product of &lt;em&gt;Salvia hispanica L.&lt;/em&gt;, has long been valued for its rich nutritional profile. In recent scientific advancements, focus has shifted to exploring the intricate structures and potential health benefits of chia seed polysaccharides (CSPs). A detailed study by Zhijun Xiao and all has shed light on one such polysaccharide, CSP-A, revealing its structural intricacies and examining its antioxidant and immunomodulatory activities. This editorial delves deeper into these findings, elucidating the scientific and health implications of CSPs.&lt;/p&gt;</description>
     </item>
   </channel>

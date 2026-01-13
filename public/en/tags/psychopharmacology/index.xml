@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Psychopharmacology on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/psychopharmacology/</link>
+    <link>http://localhost:1313/en/tags/psychopharmacology/</link>
     <description>Recent content in Psychopharmacology on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 20 May 2023 10:33:21 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/psychopharmacology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/psychopharmacology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rapid Antidepressant Actions of Imiprazone Potentiated by Cuprum</title>
-      <link>https://www.ScienceChronicle.org/en/news/rapid-antidepressant-actions-imiprazone-potentiated-cuprum/</link>
+      <link>http://localhost:1313/en/news/rapid-antidepressant-actions-imiprazone-potentiated-cuprum/</link>
       <pubDate>Sat, 20 May 2023 10:33:21 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/rapid-antidepressant-actions-imiprazone-potentiated-cuprum/</guid>
+      <guid>http://localhost:1313/en/news/rapid-antidepressant-actions-imiprazone-potentiated-cuprum/</guid>
       <description>&lt;p&gt;Researchers at the University of Dublin have discovered a new treatment option for depression that could rapidly alleviate symptoms. In their study, published in the Journal of Psychopharmacology, the team found that the antidepressant actions of imiprazone can be potentiated by cuprum, a compound commonly known as copper.&lt;/p&gt;&#xA;&lt;p&gt;Depression is one of the most common mental disorders, affecting around 264 million people globally. Current treatments, such as selective serotonin reuptake inhibitors (SSRIs), can take several weeks to start working, and often have unpleasant side effects. This leaves many people struggling with their symptoms and looking for alternative treatment options.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ремонт ДНК on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/ru/tags/%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82-%D0%B4%D0%BD%D0%BA/</link>
+    <link>http://localhost:1313/ru/tags/%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82-%D0%B4%D0%BD%D0%BA/</link>
     <description>Recent content in Ремонт ДНК on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 18 Jan 2024 13:29:24 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/ru/tags/%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82-%D0%B4%D0%BD%D0%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/tags/%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82-%D0%B4%D0%BD%D0%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Раскрытие роли GSE1 в ответе на повреждение ДНК: Путь к пониманию геномной целостности</title>
-      <link>https://www.ScienceChronicle.org/ru/news/role-of-gse1-in-dna-damage-response/</link>
+      <link>http://localhost:1313/ru/news/role-of-gse1-in-dna-damage-response/</link>
       <pubDate>Thu, 18 Jan 2024 13:29:24 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/ru/news/role-of-gse1-in-dna-damage-response/</guid>
+      <guid>http://localhost:1313/ru/news/role-of-gse1-in-dna-damage-response/</guid>
       <description>&lt;p&gt;Недавно был обнаружен очень интересный результат в исследовании, проведенном Терезией Вцелковой, Вольфгангом Райтером и их командой, подчеркивающий ключевую роль Генетического Супрессорного Элемента 1 (GSE1) в ответе на повреждение ДНК (DDR) и регуляции модификации гистонов. Это исследование, опубликованное в &amp;ldquo;Nucleic Acids Research&amp;rdquo; в 2023 году, ознаменовало значительный прогресс в нашем понимании геномной целостности и ее поддержания, что является критическим аспектом в предотвращении заболеваний, таких как рак.&lt;/p&gt;&#xA;&lt;h1 id=&#34;сложный-танец-модификации-гистонов-в-ответе-на-повреждение-днк&#34;&gt;Сложный танец модификации гистонов в ответе на повреждение ДНК&lt;/h1&gt;&#xA;&lt;p&gt;Основа этого исследования лежит в критическом процессе посттрансляционных модификаций (PTMs) гистонов, которые играют ключевую роль в регуляции DDR. Гистоны, белковые компоненты хроматина, подвергаются различным модификациям, влияющим на механизмы ремонта ДНК. Исследователи использовали метод аффинной очистки с масс-спектрометрией (AP-MS) для изучения этих сложных взаимодействий. Особое внимание уделялось роли GSE1 в комплексе HDAC1/CoREST-корепрессоре, ключевом игроке в деацетилировании и деметилировании гистонов.&lt;/p&gt;</description>
     </item>
   </channel>

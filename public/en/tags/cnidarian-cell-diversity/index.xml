@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cnidarian Cell Diversity on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/cnidarian-cell-diversity/</link>
+    <link>http://localhost:1313/en/tags/cnidarian-cell-diversity/</link>
     <description>Recent content in Cnidarian Cell Diversity on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 Feb 2024 22:18:16 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/cnidarian-cell-diversity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/cnidarian-cell-diversity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unveiling the Depths: A Dive into Cnidarian Complexity and Evolution</title>
-      <link>https://www.ScienceChronicle.org/en/news/unveiling-cnidarian-complexity-evolution-interview/</link>
+      <link>http://localhost:1313/en/news/unveiling-cnidarian-complexity-evolution-interview/</link>
       <pubDate>Mon, 05 Feb 2024 22:18:16 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/unveiling-cnidarian-complexity-evolution-interview/</guid>
+      <guid>http://localhost:1313/en/news/unveiling-cnidarian-complexity-evolution-interview/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Interview with the Authors on &amp;ldquo;Cnidarian Cell Type Diversity and Regulation Revealed by Whole-Organism Single-Cell RNA-Seq&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Samantha Resenberg, Editor of ScienceChronicle.org (SC)&lt;/strong&gt;: Welcome to ScienceChronicle.org! Today, we&amp;rsquo;re diving into the fascinating world of cnidarians with the authors of a groundbreaking paper. They&amp;rsquo;ve mapped the cell types of the sea anemone &lt;em&gt;Nematostella vectensis&lt;/em&gt; using whole-organism single-cell RNA sequencing. This research reveals the complexity of cnidarian cells and provides insights into genomic regulation and evolution. Let&amp;rsquo;s get started!&lt;/p&gt;</description>
     </item>
   </channel>

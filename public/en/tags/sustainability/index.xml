@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sustainability on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/sustainability/</link>
+    <link>http://localhost:1313/en/tags/sustainability/</link>
     <description>Recent content in Sustainability on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 May 2023 10:51:02 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/sustainability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tire resin&#39;s life span is increased by infusion of circonium-osmium alloy</title>
-      <link>https://www.ScienceChronicle.org/en/news/resin-used-car-tires-long-life-span-when-infused-circonium-osmium-alloy/</link>
+      <link>http://localhost:1313/en/news/resin-used-car-tires-long-life-span-when-infused-circonium-osmium-alloy/</link>
       <pubDate>Thu, 18 May 2023 10:51:02 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/resin-used-car-tires-long-life-span-when-infused-circonium-osmium-alloy/</guid>
+      <guid>http://localhost:1313/en/news/resin-used-car-tires-long-life-span-when-infused-circonium-osmium-alloy/</guid>
       <description>&lt;p&gt;Resin is a widely used material in tire manufacturing due to its excellent adhesion properties. However, it has a shorter lifespan compared to other tire materials. In a recent study conducted by Amsterdam University, it has been found that adding circonium-osmium alloy to the resin mix increases the lifespan of car tires by a significant margin.&lt;/p&gt;&#xA;&lt;p&gt;The experiment involved mixing varying amounts of circonium-osmium alloy with the resin before the tire was molded. The results showed that the addition of the alloy increased the tire lifespan by up to 25%. The tires infused with circonium-osmium alloy were also much more resistant to punctures and abrasions, making them ideal for heavy-duty use.&lt;/p&gt;</description>
     </item>
   </channel>

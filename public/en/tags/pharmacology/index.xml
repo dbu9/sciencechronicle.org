@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pharmacology on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/pharmacology/</link>
+    <link>http://localhost:1313/en/tags/pharmacology/</link>
     <description>Recent content in Pharmacology on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 06 Jul 2024 09:50:14 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/pharmacology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/pharmacology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ashwagandha&#39;s Potential for Treating Diabetes Through Liver Metabolism Tuning</title>
-      <link>https://www.ScienceChronicle.org/en/news/ashwagandha-diabetes-liver-metabolism-tuning/</link>
+      <link>http://localhost:1313/en/news/ashwagandha-diabetes-liver-metabolism-tuning/</link>
       <pubDate>Sat, 06 Jul 2024 09:50:14 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/ashwagandha-diabetes-liver-metabolism-tuning/</guid>
+      <guid>http://localhost:1313/en/news/ashwagandha-diabetes-liver-metabolism-tuning/</guid>
       <description>&lt;p&gt;A recent study conducted at Cairo University in Egypt has suggested that ashwagandha, a popular herb in traditional Indian medicine, may be beneficial for treating diabetes through the complex and intricate tuning of liver metabolism. The study, led by Dr. Fatima Ali and her team of researchers, found that ashwagandha extract can have a significant impact on the regulation of blood sugar levels and insulin sensitivity, potentially offering a new approach to managing diabetes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hydroxylized Mometasone Furoate Could Diminish Adverse Effects of Topical Psoriasis Treatment</title>
-      <link>https://www.ScienceChronicle.org/en/news/hydroxylized-mometasone-furoate-diminish-adverse-effects-topical-psoriasis-treatment/</link>
+      <link>http://localhost:1313/en/news/hydroxylized-mometasone-furoate-diminish-adverse-effects-topical-psoriasis-treatment/</link>
       <pubDate>Thu, 18 May 2023 10:46:31 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/hydroxylized-mometasone-furoate-diminish-adverse-effects-topical-psoriasis-treatment/</guid>
+      <guid>http://localhost:1313/en/news/hydroxylized-mometasone-furoate-diminish-adverse-effects-topical-psoriasis-treatment/</guid>
       <description>&lt;p&gt;Topical psoriasis is a chronic inflammatory skin disease that affects millions worldwide and can significantly reduce a patient’s quality of life. Corticosteroids, such as mometasone furoate, are often used to alleviate the symptoms of psoriasis. However, the use of these medications can have adverse effects, such as skin atrophy and telangiectasia. A recent study conducted in South California, USA, aimed to explore whether hydroxylated mometasone furoate could effectively treat psoriasis while diminishing these adverse effects.&lt;/p&gt;</description>
     </item>
   </channel>

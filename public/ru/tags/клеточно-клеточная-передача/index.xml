@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Клеточно-Клеточная Передача on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/ru/tags/%D0%BA%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D0%BA%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0/</link>
+    <link>http://localhost:1313/ru/tags/%D0%BA%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D0%BA%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0/</link>
     <description>Recent content in Клеточно-Клеточная Передача on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 18 Jan 2024 17:48:53 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/ru/tags/%D0%BA%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D0%BA%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ru/tags/%D0%BA%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D0%BA%D0%BB%D0%B5%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Раскрытие скрытых путей: Эволюция и механика клеточно-клеточной передачи вирусов</title>
-      <link>https://www.ScienceChronicle.org/ru/news/cell-to-cell-transmission-of-viruses/</link>
+      <link>http://localhost:1313/ru/news/cell-to-cell-transmission-of-viruses/</link>
       <pubDate>Thu, 18 Jan 2024 17:48:53 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/ru/news/cell-to-cell-transmission-of-viruses/</guid>
+      <guid>http://localhost:1313/ru/news/cell-to-cell-transmission-of-viruses/</guid>
       <description>&lt;p&gt;Вирусы зависят от организма-хозяина для репликации, так как они являются паразитами, существующими внутри клеток. Со временем они эволюционировали, захватывая клеточные механизмы хозяина для удовлетворения своих репродуктивных потребностей, показывая сходства в фазах своего жизненного цикла, таких как вход, проникновение, сборка и выход. За последние три десятилетия были проведены обширные исследования многих из этих этапов. Тем не менее, только недавно мы начали раскрывать новые аспекты жизненного цикла вирусов. Особенно интересным новым открытием является метод клеточно-клеточной передачи, который привлекает внимание своей ролью в распространении вирусов и потенциальным значением в лечении устойчивых вирусных инфекций, таких как СПИД и гепатит.&lt;/p&gt;</description>
     </item>
   </channel>

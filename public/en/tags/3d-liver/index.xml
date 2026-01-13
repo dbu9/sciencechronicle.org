@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3d Liver on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/3d-liver/</link>
+    <link>http://localhost:1313/en/tags/3d-liver/</link>
     <description>Recent content in 3d Liver on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 May 2023 10:03:17 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/3d-liver/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/3d-liver/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Engineering Synthetic Organs Through 3D Bioprinting for Transplantation and Regenerative Medicine</title>
-      <link>https://www.ScienceChronicle.org/en/news/engineering-synthetic-organs-through-3d-bioprinting-for-transplantation-and-regenerative-medicine/</link>
+      <link>http://localhost:1313/en/news/engineering-synthetic-organs-through-3d-bioprinting-for-transplantation-and-regenerative-medicine/</link>
       <pubDate>Fri, 19 May 2023 10:03:17 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/engineering-synthetic-organs-through-3d-bioprinting-for-transplantation-and-regenerative-medicine/</guid>
+      <guid>http://localhost:1313/en/news/engineering-synthetic-organs-through-3d-bioprinting-for-transplantation-and-regenerative-medicine/</guid>
       <description>&lt;p&gt;Researchers at the University of Cambridge have made a breakthrough in engineering synthetic organs through 3D bioprinting for transplantation and regenerative medicine. The team of scientists led by Professor John Smith successfully created a functional liver using 3D bioprinting technology, marking a major milestone in the field of regenerative medicine.&lt;/p&gt;&#xA;&lt;p&gt;Synthetic organs can be developed through 3D bioprinting, a process that uses living cells and biomaterials to create three-dimensional structures that function like natural tissues and organs. By using this technology, scientists can develop replacement organs that are customised to the needs of the patient, reducing the risk of organ rejection.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Liver blood vessels were 3d printed and implanted to heal patient&#39;s liver</title>
-      <link>https://www.ScienceChronicle.org/en/news/3d-printed-liver-blood-vessel-network-heals-patient-liver/</link>
+      <link>http://localhost:1313/en/news/3d-printed-liver-blood-vessel-network-heals-patient-liver/</link>
       <pubDate>Thu, 18 May 2023 10:48:31 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/3d-printed-liver-blood-vessel-network-heals-patient-liver/</guid>
+      <guid>http://localhost:1313/en/news/3d-printed-liver-blood-vessel-network-heals-patient-liver/</guid>
       <description>&lt;p&gt;Researchers at Taiwan University have successfully 3D printed and implanted a complex network of liver blood vessels to heal a patient&amp;rsquo;s liver. The team used a combination of 3D printing and tissue engineering to fabricate a biomimetic scaffold that closely mimics the natural structure of liver blood vessels. The scaffold was then populated with the patient&amp;rsquo;s own liver cells to create a functional tissue-engineered liver.&lt;/p&gt;&#xA;&lt;p&gt;The liver is a highly vascular organ, with a complex network of blood vessels that deliver oxygen and nutrients to liver cells. When the liver is damaged, this network can become disrupted, leading to impaired liver function. The team&amp;rsquo;s goal was to create a biomimetic scaffold that could be implanted into the liver to restore the disrupted blood vessels and promote healing.&lt;/p&gt;</description>
     </item>
   </channel>

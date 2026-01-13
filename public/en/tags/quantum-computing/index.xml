@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum Computing on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/quantum-computing/</link>
+    <link>http://localhost:1313/en/tags/quantum-computing/</link>
     <description>Recent content in Quantum Computing on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 May 2023 10:07:24 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/quantum-computing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uncovering the potential of quantum machine learning algorithms for drug discovery</title>
-      <link>https://www.ScienceChronicle.org/en/news/uncovering-the-potential-of-quantum-machine-learning-algorithms-for-drug-discovery/</link>
+      <link>http://localhost:1313/en/news/uncovering-the-potential-of-quantum-machine-learning-algorithms-for-drug-discovery/</link>
       <pubDate>Fri, 19 May 2023 10:07:24 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/uncovering-the-potential-of-quantum-machine-learning-algorithms-for-drug-discovery/</guid>
+      <guid>http://localhost:1313/en/news/uncovering-the-potential-of-quantum-machine-learning-algorithms-for-drug-discovery/</guid>
       <description>&lt;p&gt;Scientists at the University of California, Berkeley have made significant progress in uncovering the vast potential of quantum machine learning algorithms for drug discovery. The research team composed of computer scientists and chemists have demonstrated that quantum computing combined with unsupervised machine learning algorithms can help identify potential drug candidates that can treat diseases more accurately and effectively. The team published their findings on June 9th, 2023, in the journal Nature Communications.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/categories/health/</link>
+    <link>http://localhost:1313/en/categories/health/</link>
     <description>Recent content in Health on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 06 Sep 2024 12:47:31 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/categories/health/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/categories/health/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The effects of chia seed consumption on reducing mild psoriasis symptoms</title>
-      <link>https://www.ScienceChronicle.org/en/news/the-effects-of-chia-seed-consumption-on-reducing-mild-psoriasis-symptoms/</link>
+      <link>http://localhost:1313/en/news/the-effects-of-chia-seed-consumption-on-reducing-mild-psoriasis-symptoms/</link>
       <pubDate>Fri, 06 Sep 2024 12:47:31 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/the-effects-of-chia-seed-consumption-on-reducing-mild-psoriasis-symptoms/</guid>
+      <guid>http://localhost:1313/en/news/the-effects-of-chia-seed-consumption-on-reducing-mild-psoriasis-symptoms/</guid>
       <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;&#xA;&lt;p&gt;Psoriasis, a chronic inflammatory skin condition, affects millions of individuals worldwide. While conventional treatments aim to control symptoms, natural dietary supplements are gaining attention for their potential therapeutic effects. This study investigates the impact of chia seed consumption on mild psoriasis symptoms over a 12-week period. Participants consuming chia seeds exhibited a significant reduction in &lt;strong&gt;Psoriasis Area and Severity Index (PASI)&lt;/strong&gt; scores, inflammation markers, and improvements in skin hydration. These findings suggest that chia seeds may serve as a natural, complementary therapy for managing psoriasis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reiki and Male Sexual Dysfunction: Can Energy Healing Help?</title>
-      <link>https://www.ScienceChronicle.org/en/news/reiki-and-male-sexual-disfunction-can-energy-healing-help/</link>
+      <link>http://localhost:1313/en/news/reiki-and-male-sexual-disfunction-can-energy-healing-help/</link>
       <pubDate>Fri, 06 Sep 2024 01:44:20 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/reiki-and-male-sexual-disfunction-can-energy-healing-help/</guid>
+      <guid>http://localhost:1313/en/news/reiki-and-male-sexual-disfunction-can-energy-healing-help/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Male sexual dysfunction, including issues like &lt;a href=&#34;https://www.healthline.com/health/erectile-dysfunction&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;erectile dysfunction (ED)&lt;/a&gt;&#xA;, &lt;a href=&#34;https://www.mayoclinic.org/diseases-conditions/premature-ejaculation/symptoms-causes/syc-20354902&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;premature ejaculation (PE)&lt;/a&gt;&#xA;, and low libido, affects many men and can take a toll on their quality of life and relationships. Conventional treatments—such as medications, therapy, and lifestyle changes—can be effective but are not always sufficient for everyone. Increasingly, some people are turning to alternative approaches, such as &lt;a href=&#34;https://www.healthline.com/health/reiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reiki&lt;/a&gt;&#xA;, a form of energy healing.&lt;/p&gt;&#xA;&lt;p&gt;Dr. Jonathan Fields and his research team at the &lt;strong&gt;Center for Integrative Health Research&lt;/strong&gt; at &lt;strong&gt;Greenwood University&lt;/strong&gt; decided to investigate whether Reiki could help men dealing with these sexual health issues. In their study, they explored whether Reiki&amp;rsquo;s claimed ability to balance energy and reduce stress could play a role in improving sexual function.&lt;/p&gt;</description>
     </item>
   </channel>

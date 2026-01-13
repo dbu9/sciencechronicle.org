@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cronjob on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/cronjob/</link>
+    <link>http://localhost:1313/en/tags/cronjob/</link>
     <description>Recent content in Cronjob on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 18 Aug 2024 01:58:40 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/cronjob/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/cronjob/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Cronjob Self-Deletion: Behavior and Implications When Restarting Cron Service on OpenWRT</title>
-      <link>https://www.ScienceChronicle.org/en/article/openwrt-understanding-cronjob-self-deletion/</link>
+      <link>http://localhost:1313/en/article/openwrt-understanding-cronjob-self-deletion/</link>
       <pubDate>Sun, 18 Aug 2024 01:58:40 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/article/openwrt-understanding-cronjob-self-deletion/</guid>
+      <guid>http://localhost:1313/en/article/openwrt-understanding-cronjob-self-deletion/</guid>
       <description>&lt;h3 id=&#34;intro&#34;&gt;Intro&lt;/h3&gt;&#xA;&lt;p&gt;The article addresses the question: Will a cronjob complete its run if it removes itself from the crontab and restarts the cron service? We conducted tests on OpenWRT version 23.05.3 240325 to find out.&lt;/p&gt;&#xA;&lt;h3 id=&#34;test&#34;&gt;Test&lt;/h3&gt;&#xA;&lt;p&gt;To answer this question, we wrote a short Perl script, &lt;code&gt;b.pl&lt;/code&gt;:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-perl&#34; data-lang=&#34;perl&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#6272a4&#34;&gt;#!/usr/bin/perl&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff79c6&#34;&gt;print&lt;/span&gt; &lt;span style=&#34;color:#f1fa8c&#34;&gt;&amp;#34;Start\n&amp;#34;&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f1fa8c&#34;&gt;`sed -i /b.pl/d /etc/crontabs/root`&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff79c6&#34;&gt;print&lt;/span&gt; &lt;span style=&#34;color:#f1fa8c&#34;&gt;&amp;#34;Removed crontab entry\n&amp;#34;&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f1fa8c&#34;&gt;`service cron restart`&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff79c6&#34;&gt;print&lt;/span&gt; &lt;span style=&#34;color:#f1fa8c&#34;&gt;&amp;#34;Restarted cron service\n&amp;#34;&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8be9fd;font-style:italic&#34;&gt;sleep&lt;/span&gt;(&lt;span style=&#34;color:#bd93f9&#34;&gt;10&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff79c6&#34;&gt;print&lt;/span&gt; &lt;span style=&#34;color:#f1fa8c&#34;&gt;&amp;#34;Slept 10 sec and now exiting\n&amp;#34;&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;We added the following crontab entry using &lt;code&gt;crontab -e&lt;/code&gt;:&lt;/p&gt;</description>
     </item>
   </channel>

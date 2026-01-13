@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Familial Cold Inflammatory Syndrome on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/familial-cold-inflammatory-syndrome/</link>
+    <link>http://localhost:1313/en/tags/familial-cold-inflammatory-syndrome/</link>
     <description>Recent content in Familial Cold Inflammatory Syndrome on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 02 Jan 2024 15:35:12 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/familial-cold-inflammatory-syndrome/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/familial-cold-inflammatory-syndrome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deciphering the Role of CARD15/NOD2 in Inflammatory Diseases: Insights into Crohn&#39;s Disease and Blau Syndrome</title>
-      <link>https://www.ScienceChronicle.org/en/news/ibs-genes/</link>
+      <link>http://localhost:1313/en/news/ibs-genes/</link>
       <pubDate>Tue, 02 Jan 2024 15:35:12 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/ibs-genes/</guid>
+      <guid>http://localhost:1313/en/news/ibs-genes/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.omim.org/entry/605956?search=card15&amp;amp;highlight=card15&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CARD15&lt;/a&gt;&#xA;/&lt;a href=&#34;https://www.omim.org/entry/605956?search=NOD2&amp;amp;highlight=nod2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NOD2&lt;/a&gt;&#xA; is the most prominent gene linked to Inflammatory Bowel Disease (IBD). Its connection to Crohn&amp;rsquo;s Disease (CD) was simultaneously identified by two research groups and has since been further validated by numerous studies. Located on chromosome &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/?term=human[organism]&amp;#43;AND&amp;#43;16q12&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;16q12&lt;/a&gt;&#xA;, corresponding to the IBD1 locus, the CARD15/NOD2 gene exhibits around 60 polymorphisms, including 30 mutations leading to significant amino acid changes in the protein. Most mutations in this gene are unique, with over 80% of the altered chromosomes displaying one of three primary variants: R702W, G908R, and 1007fs. In an examination of over 300 IBD families, none had chromosomes carrying two of these variants simultaneously, indicating that these mutations are independently related to the disease.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dna Damage on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/dna-damage/</link>
+    <link>http://localhost:1313/en/tags/dna-damage/</link>
     <description>Recent content in Dna Damage on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jan 2024 13:29:24 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/dna-damage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/dna-damage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unveiling the Role of GSE1 in DNA Damage Response: A Pathway to Understanding Genome Integrity</title>
-      <link>https://www.ScienceChronicle.org/en/news/role-of-gse1-in-dna-damage-response/</link>
+      <link>http://localhost:1313/en/news/role-of-gse1-in-dna-damage-response/</link>
       <pubDate>Thu, 18 Jan 2024 13:29:24 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/role-of-gse1-in-dna-damage-response/</guid>
+      <guid>http://localhost:1313/en/news/role-of-gse1-in-dna-damage-response/</guid>
       <description>&lt;p&gt;A very interesting result has been recently discovered in the study conducted by Terezia Vcelkova, Wolfgang Reiter, and their team, highlighting the pivotal role of Genetic Suppressor Element 1 (GSE1) in DNA damage response (DDR) and histone modification regulation. This research, published in &amp;ldquo;Nucleic Acids Research&amp;rdquo; in 2023, marks a significant advancement in our understanding of genomic integrity and its maintenance, a critical aspect in the prevention of diseases like cancer.&lt;/p&gt;</description>
     </item>
   </channel>

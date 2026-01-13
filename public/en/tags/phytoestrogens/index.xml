@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phytoestrogens on ScienceChronicle</title>
-    <link>https://www.ScienceChronicle.org/en/tags/phytoestrogens/</link>
+    <link>http://localhost:1313/en/tags/phytoestrogens/</link>
     <description>Recent content in Phytoestrogens on ScienceChronicle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 07 Feb 2024 22:55:42 +0000</lastBuildDate>
-    <atom:link href="https://www.ScienceChronicle.org/en/tags/phytoestrogens/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/phytoestrogens/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elucidation of Estroflavinol&#39;s Mechanism in Estrogen Biosynthesis: A Novel Flavonoid from Chia Seeds</title>
-      <link>https://www.ScienceChronicle.org/en/news/chia-seeds-estroflavinol-estrogen-biosynthesis-tokio-university-research/</link>
+      <link>http://localhost:1313/en/news/chia-seeds-estroflavinol-estrogen-biosynthesis-tokio-university-research/</link>
       <pubDate>Wed, 07 Feb 2024 22:55:42 +0000</pubDate>
-      <guid>https://www.ScienceChronicle.org/en/news/chia-seeds-estroflavinol-estrogen-biosynthesis-tokio-university-research/</guid>
+      <guid>http://localhost:1313/en/news/chia-seeds-estroflavinol-estrogen-biosynthesis-tokio-university-research/</guid>
       <description>&lt;p&gt;Recent discoveries at [Tokio University]9https://www.u-tokyo.ac.jp/en/ have identified a novel flavonoid, Estroflavinol, derived from &lt;a href=&#34;https://en.wikipedia.org/wiki/Chia_seed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chia seeds&lt;/a&gt;&#xA; (Salvia hispanica L.), which exhibits a direct activation effect on the &lt;a href=&#34;https://en.wikipedia.org/wiki/Precursor_%28chemistry%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;precursor molecules&lt;/a&gt;&#xA; of &lt;a href=&#34;https://en.wikipedia.org/wiki/Estrogen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;estrogen&lt;/a&gt;&#xA; hormones. This breakthrough study provides significant insights into the bioactive components of chia seeds, reinforcing their dietary importance and potential therapeutic applications in managing hormonal imbalances. Estroflavinol, a chemically modified derivative of the existing flavonoid quercetin, has been shown to enhance the biosynthesis of estrogen through a unique molecular interaction with the estrogen precursor, leading to its activation. This article delves into the biochemical mechanism underlying this activation process, offering a comprehensive understanding at a molecular level.&lt;/p&gt;</description>
     </item>
   </channel>
