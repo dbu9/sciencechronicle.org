@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>black hole on ScienceChronicle</title>
+    <title>Black Hole on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/black-hole/</link>
-    <description>Recent content in black hole on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 May 2023 21:51:11 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/black-hole/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Black Hole on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 May 2023 21:51:11 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/black-hole/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Small Black Hole Detected in Large Hadron Collider</title>
       <link>https://www.ScienceChronicle.org/en/news/small-black-hole-detected-lhc/</link>
       <pubDate>Wed, 17 May 2023 21:51:11 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/small-black-hole-detected-lhc/</guid>
-      <description>On 3 April 2023, a small black hole was detected in the Large Hadron Collider. This groundbreaking discovery is significant as it sheds light on the mysteries of black holes and their behavior. The black hole was created during a collision between two high-energy particles, which resulted in the formation of an extremely small and short-lived object with a mass of less than an atom.
-Scientists have long been interested in studying black holes, which are some of the most fascinating and mysterious objects in the universe.</description>
+      <description>&lt;p&gt;On 3 April 2023, a small black hole was detected in the Large Hadron Collider. This groundbreaking discovery is significant as it sheds light on the mysteries of black holes and their behavior. The black hole was created during a collision between two high-energy particles, which resulted in the formation of an extremely small and short-lived object with a mass of less than an atom.&lt;/p&gt;&#xA;&lt;p&gt;Scientists have long been interested in studying black holes, which are some of the most fascinating and mysterious objects in the universe. They are formed when massive stars collapse under their own gravity, and their extreme density causes a distortion in spacetime. Black holes are invisible to the naked eye, as they do not emit any light or radiation, and can only be detected through their effects on nearby matter.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -21,7 +21,7 @@ Hugo wird mit mehreren [Built-in Shortcodes](https://gohugo.io/content-managemen
 
 ## Twitter Simple Shortcode
 
-{{< twitter_simple 1085870671291310081 >}}
+{{< x user="SanDiegoZoo" id="1085870671291310081" >}}
 
 <br>
 

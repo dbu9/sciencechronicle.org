@@ -73,31 +73,42 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
   <title>
   Using SQLITE database with Perl on OpenWRT - ScienceChronicle
   </title>
-  <meta name="description" content="This article discusses using an SQLite database with Perl on the OpenWRT." /><meta name="generator" content="Hugo 0.105.0"><link
+  <meta name="description" content="This article discusses using an SQLite database with Perl on the OpenWRT." /><meta name="generator" content="Hugo 0.148.2"><link
     rel="stylesheet"
-    href="https://www.ScienceChronicle.org/css/styles.min.28f7df8c9d6eb4fea348f73e7323460d6a3344fa0625a85ced2a91f07eeb2034.css"
-    integrity="sha256-KPffjJ1utP6jSPc+cyNGDWozRPoGJahc7SqR8H7rIDQ="
+    href="https://www.ScienceChronicle.org/css/styles.min.888efb147f30e786dd517862b12d3aa2c35d44e193b0e84137233be456a25f08.css"
+    integrity="sha256-iI77FH8w54bdUXhisS06osNdROGTsOhBNyM75FaiXwg="
   />
   
   
 
-  <meta property="og:title" content="Using SQLITE database with Perl on OpenWRT" />
-<meta property="og:description" content="This article discusses using an SQLite database with Perl on the OpenWRT." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.ScienceChronicle.org/en/article/using-sqlite-with-perl-on-openwrt-no-dbd/" /><meta property="article:section" content="article" />
-<meta property="article:published_time" content="2024-08-21T03:58:40+00:00" />
-<meta property="article:modified_time" content="2024-08-21T03:58:40+00:00" />
+  <meta property="og:url" content="https://www.ScienceChronicle.org/en/article/using-sqlite-with-perl-on-openwrt-no-dbd/">
+  <meta property="og:site_name" content="ScienceChronicle">
+  <meta property="og:title" content="Using SQLITE database with Perl on OpenWRT">
+  <meta property="og:description" content="This article discusses using an SQLite database with Perl on the OpenWRT.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="article">
+    <meta property="article:published_time" content="2024-08-21T03:58:40+00:00">
+    <meta property="article:modified_time" content="2024-08-21T03:58:40+00:00">
+    <meta property="article:tag" content="Openwrt">
+    <meta property="article:tag" content="Perl">
+    <meta property="article:tag" content="Dbd">
+    <meta property="article:tag" content="Dbi">
+    <meta property="article:tag" content="Sqlite">
+    <meta property="article:tag" content="Database Is Locked (6)">
 
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Using SQLITE database with Perl on OpenWRT">
+  <meta name="twitter:description" content="This article discusses using an SQLite database with Perl on the OpenWRT.">
 
-  <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Using SQLITE database with Perl on OpenWRT"/>
-<meta name="twitter:description" content="This article discusses using an SQLite database with Perl on the OpenWRT."/>
-
+  
   <meta itemprop="name" content="Using SQLITE database with Perl on OpenWRT">
-<meta itemprop="description" content="This article discusses using an SQLite database with Perl on the OpenWRT."><meta itemprop="datePublished" content="2024-08-21T03:58:40+00:00" />
-<meta itemprop="dateModified" content="2024-08-21T03:58:40+00:00" />
-<meta itemprop="wordCount" content="485">
-<meta itemprop="keywords" content="openwrt,perl,dbd,dbi,sqlite,database is locked (6),busy_timeout," />
+  <meta itemprop="description" content="This article discusses using an SQLite database with Perl on the OpenWRT.">
+  <meta itemprop="datePublished" content="2024-08-21T03:58:40+00:00">
+  <meta itemprop="dateModified" content="2024-08-21T03:58:40+00:00">
+  <meta itemprop="wordCount" content="485">
+  <meta itemprop="keywords" content="Openwrt,Perl,Dbd,Dbi,Sqlite,Database Is Locked (6),Busy_timeout">
 
   
   <meta name="lang" content="en" />
@@ -157,11 +168,11 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
         
         
         
-        <a class="px-3 py-2 hover:bg-gray-200 dark:hover:bg-gray-700" href="/de" lang="de">Deutsch</a>
+        <a class="px-3 py-2 hover:bg-gray-200 dark:hover:bg-gray-700" href="/de/" lang="de">Deutsch</a>
         
         
         
-        <a class="px-3 py-2 hover:bg-gray-200 dark:hover:bg-gray-700" href="/ru" lang="ru">Русский</a>
+        <a class="px-3 py-2 hover:bg-gray-200 dark:hover:bg-gray-700" href="/ru/" lang="ru">Русский</a>
         
         
       </div>
@@ -194,12 +205,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
     <img src="/article/using-sqlite-with-perl-on-openwrt-no-dbd/thumb.png" class="rounded-lg shadow-sm w-full object-contain" />
     
     <div class="absolute top-4 right-8 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white px-2 py-0.5">
-      
-  
-    August 21, 2024
-  
-
-
+      August 21, 2024
     </div>
     
   </div>
@@ -218,12 +224,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
         <line x1="4" y1="11" x2="20" y2="11" />
         <rect x="8" y="15" width="2" height="2" />
       </svg>
-      Posted on 
-  
-    August 21, 2024
-  
-
-
+      Posted on August 21, 2024
       
         &nbsp;&bull;&nbsp;
       
@@ -232,7 +233,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
         <circle cx="12" cy="12" r="9" />
         <polyline points="12 7 12 12 15 15" />
       </svg>
-      3&nbsp;minutes
+      3&nbsp;&lt;no value&gt; minutes
       &nbsp;&bull;
       <svg xmlns="http://www.w3.org/2000/svg" class="mx-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
         <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
@@ -242,7 +243,7 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
         <line x1="12" y1="6" x2="12" y2="19" />
         <line x1="21" y1="6" x2="21" y2="19" />
       </svg>
-      485&nbsp;words
+      485&nbsp;&lt;no value&gt; words
       
         
       
@@ -389,43 +390,43 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
     
           <div class="p-2">
             <a href="https://www.ScienceChronicle.org/en/tags/openwrt/">
-              <div class="my-2 text-xl font-semibold">openwrt</div>
+              <div class="my-2 text-xl font-semibold">Openwrt</div>
             </a>
           </div>
     
           <div class="p-2">
             <a href="https://www.ScienceChronicle.org/en/tags/perl/">
-              <div class="my-2 text-xl font-semibold">perl</div>
+              <div class="my-2 text-xl font-semibold">Perl</div>
             </a>
           </div>
     
           <div class="p-2">
             <a href="https://www.ScienceChronicle.org/en/tags/dbd/">
-              <div class="my-2 text-xl font-semibold">dbd</div>
+              <div class="my-2 text-xl font-semibold">Dbd</div>
             </a>
           </div>
     
           <div class="p-2">
             <a href="https://www.ScienceChronicle.org/en/tags/dbi/">
-              <div class="my-2 text-xl font-semibold">dbi</div>
+              <div class="my-2 text-xl font-semibold">Dbi</div>
             </a>
           </div>
     
           <div class="p-2">
             <a href="https://www.ScienceChronicle.org/en/tags/sqlite/">
-              <div class="my-2 text-xl font-semibold">sqlite</div>
+              <div class="my-2 text-xl font-semibold">Sqlite</div>
             </a>
           </div>
     
           <div class="p-2">
             <a href="https://www.ScienceChronicle.org/en/tags/database-is-locked-6/">
-              <div class="my-2 text-xl font-semibold">database is locked (6)</div>
+              <div class="my-2 text-xl font-semibold">Database Is Locked (6)</div>
             </a>
           </div>
     
           <div class="p-2">
             <a href="https://www.ScienceChronicle.org/en/tags/busy_timeout/">
-              <div class="my-2 text-xl font-semibold">busy_timeout</div>
+              <div class="my-2 text-xl font-semibold">Busy_timeout</div>
             </a>
           </div>
     
@@ -489,6 +490,13 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
     <div>
       <div class="text-2xl font-bold mb-2">Support us</div>
       <p class="opacity-60">Science Chronicle</p>
+      
+      
+      
+      
+      
+      
+      
     </div>
 
     <ul class="flex justify-center gap-x-3 flex-wrap gap-y-2">
@@ -557,6 +565,8 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
 
       
 
+
+
       
 
       
@@ -622,6 +632,8 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
 
       
 
+
+
       
 
       
@@ -674,6 +686,8 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
       
 
       
+
+
     </ul>
   </div>
 </div>
@@ -730,17 +744,21 @@ src="https://www.facebook.com/tr?id=409789388518887&ev=PageView&noscript=1"
 <script src="https://www.ScienceChronicle.org/js/scripts.min.js"></script>
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LCXCFMHZQ7"></script>
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-LCXCFMHZQ7', { 'anonymize_ip': false });
-}
-</script>
 
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-LCXCFMHZQ7"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-LCXCFMHZQ7');
+        }
+      </script>
 
 
 <script>

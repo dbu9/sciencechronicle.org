@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>regenerative medicine on ScienceChronicle</title>
+    <title>Regenerative Medicine on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/regenerative-medicine/</link>
-    <description>Recent content in regenerative medicine on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Feb 2024 22:18:16 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/regenerative-medicine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Regenerative Medicine on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Feb 2024 22:18:16 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/regenerative-medicine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unveiling the Depths: A Dive into Cnidarian Complexity and Evolution</title>
       <link>https://www.ScienceChronicle.org/en/news/unveiling-cnidarian-complexity-evolution-interview/</link>
       <pubDate>Mon, 05 Feb 2024 22:18:16 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/unveiling-cnidarian-complexity-evolution-interview/</guid>
-      <description>Interview with the Authors on &amp;ldquo;Cnidarian Cell Type Diversity and Regulation Revealed by Whole-Organism Single-Cell RNA-Seq&amp;rdquo;
-Samantha Resenberg, Editor of ScienceChronicle.org (SC): Welcome to ScienceChronicle.org! Today, we&amp;rsquo;re diving into the fascinating world of cnidarians with the authors of a groundbreaking paper. They&amp;rsquo;ve mapped the cell types of the sea anemone Nematostella vectensis using whole-organism single-cell RNA sequencing. This research reveals the complexity of cnidarian cells and provides insights into genomic regulation and evolution.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Interview with the Authors on &amp;ldquo;Cnidarian Cell Type Diversity and Regulation Revealed by Whole-Organism Single-Cell RNA-Seq&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Samantha Resenberg, Editor of ScienceChronicle.org (SC)&lt;/strong&gt;: Welcome to ScienceChronicle.org! Today, we&amp;rsquo;re diving into the fascinating world of cnidarians with the authors of a groundbreaking paper. They&amp;rsquo;ve mapped the cell types of the sea anemone &lt;em&gt;Nematostella vectensis&lt;/em&gt; using whole-organism single-cell RNA sequencing. This research reveals the complexity of cnidarian cells and provides insights into genomic regulation and evolution. Let&amp;rsquo;s get started!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Unveiling the Liver&#39;s Remarkable Regenerative Prowess</title>
       <link>https://www.ScienceChronicle.org/en/news/unveiling-the-livers-remarkable-regenerative-prowess/</link>
       <pubDate>Sat, 27 Jan 2024 10:44:20 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/unveiling-the-livers-remarkable-regenerative-prowess/</guid>
-      <description>The liver&amp;rsquo;s inherent regenerative capacity is crucial, given its strategic physiological role. After digestion, a mix of nutrients, toxins, and bacterial products is transported to the liver via the portal vein . Essential for detoxifying, metabolizing, and synthesizing, the liver maintains systemic balance. Its ability to regenerate underscores the need for a minimal functional mass for these activities. Studying liver regeneration typically involves surgically removing two-thirds of its mass, triggering its natural repair mechanisms.</description>
+      <description>&lt;p&gt;The liver&amp;rsquo;s inherent regenerative capacity is crucial, given its strategic physiological role. After digestion, a mix of nutrients, toxins, and bacterial products is transported to the liver via the &lt;a href=&#34;https://en.wikipedia.org/wiki/Portal_vein&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;portal vein&lt;/a&gt;&#xA;. Essential for detoxifying, metabolizing, and synthesizing, the liver maintains systemic balance. Its ability to regenerate underscores the need for a minimal functional mass for these activities. Studying liver regeneration typically involves surgically removing two-thirds of its mass, triggering its natural repair mechanisms. This regeneration is controlled by the synchronized activation of various &lt;a href=&#34;https://en.wikipedia.org/wiki/Cell_signaling&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;signaling pathways&lt;/a&gt;&#xA;, a fact established through animal studies. These pathways ensure the proliferation of all liver cell types, critical for restoring the lost mass. Understanding these pathways is key in managing abnormal growth in liver tumors and has significant implications in medical fields such as oncology and regenerative medicine, including areas like stem cell differentiation, tissue engineering, and liver transplantation.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Harnessing the potential of exosomes for targeted drug delivery and regenerative therapies</title>
       <link>https://www.ScienceChronicle.org/en/news/harnessing-potential-exosomes-targeted-drug-delivery-regenerative-therapies/</link>
       <pubDate>Fri, 19 May 2023 00:52:02 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/harnessing-potential-exosomes-targeted-drug-delivery-regenerative-therapies/</guid>
-      <description>Researchers at Harvard University have made groundbreaking strides in the field of regenerative medicine by harnessing the potential of exosomes, tiny vesicles produced by cells, as vehicles for targeted drug delivery and regenerative therapies. Exosomes are known to contain a wide variety of biomolecules, such as proteins and nucleic acids, that can be transferred between cells and help regulate various cellular processes. However, until now, their potential as therapeutic agents has been largely untapped.</description>
+      <description>&lt;p&gt;Researchers at Harvard University have made groundbreaking strides in the field of regenerative medicine by harnessing the potential of exosomes, tiny vesicles produced by cells, as vehicles for targeted drug delivery and regenerative therapies. Exosomes are known to contain a wide variety of biomolecules, such as proteins and nucleic acids, that can be transferred between cells and help regulate various cellular processes. However, until now, their potential as therapeutic agents has been largely untapped.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

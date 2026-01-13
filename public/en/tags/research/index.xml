@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>research on ScienceChronicle</title>
+    <title>Research on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/research/</link>
-    <description>Recent content in research on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Feb 2024 00:19:46 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Research on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Feb 2024 00:19:46 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Whispers of Wonder: A Deep Dive into ASMR through an Exclusive Interview</title>
       <link>https://www.ScienceChronicle.org/en/news/asmr-research-interview-insights-exploration/</link>
       <pubDate>Mon, 05 Feb 2024 00:19:46 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/asmr-research-interview-insights-exploration/</guid>
-      <description>Interview with the Authors of a Groundbreaking ASMR Research
-Interviewer (SD): Samantha Davis, Editor at ScienceChronicle.org
-SD: Today, we&amp;rsquo;re speaking with the authors of a fascinating study on Autonomous Sensory Meridian Response (ASMR), recently published . Their work offers in-depth insights into ASMR triggers, their consistency over time, and the development of a comprehensive ASMR Trigger Checklist (ATC). This research is crucial for understanding how ASMR affects individuals differently and the potential therapeutic implications.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Interview with the Authors of a Groundbreaking ASMR Research&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Interviewer (SD):&lt;/em&gt; &lt;strong&gt;Samantha Davis&lt;/strong&gt;, Editor at ScienceChronicle.org&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;SD:&lt;/strong&gt; Today, we&amp;rsquo;re speaking with the authors of a fascinating study on Autonomous Sensory Meridian Response (ASMR), recently &lt;a href=&#34;https://doi.org/10.1016/j.concog.2023.103584&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published&lt;/a&gt;&#xA;. Their work offers in-depth insights into ASMR triggers, their consistency over time, and the development of a comprehensive ASMR Trigger Checklist (ATC). This research is crucial for understanding how ASMR affects individuals differently and the potential therapeutic implications. Let&amp;rsquo;s dive into the questions.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Placebo Effect Used to Successfully Treat Mild Psoriasis</title>
       <link>https://www.ScienceChronicle.org/en/news/placebo-effect-used-to-successfully-treat-mild-psoriasis/</link>
       <pubDate>Tue, 23 May 2023 01:18:47 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/placebo-effect-used-to-successfully-treat-mild-psoriasis/</guid>
-      <description>A groundbreaking study conducted by scientists at the Massachusetts Institute of Technology (MIT) has successfully treated mild psoriasis using the placebo effect. Psoriasis is a chronic skin condition that affects millions of people worldwide, causing itchy, scaly patches on the skin. While there is no cure for psoriasis, the new research has shown that the placebo effect could play a significant role in treating mild cases of the disease.
-The study, published in the Journal of the American Medical Association, involved 100 participants who were given a placebo pill instead of actual medication.</description>
+      <description>&lt;p&gt;A groundbreaking study conducted by scientists at the Massachusetts Institute of Technology (MIT) has successfully treated mild psoriasis using the placebo effect. Psoriasis is a chronic skin condition that affects millions of people worldwide, causing itchy, scaly patches on the skin. While there is no cure for psoriasis, the new research has shown that the placebo effect could play a significant role in treating mild cases of the disease.&lt;/p&gt;&#xA;&lt;p&gt;The study, published in the Journal of the American Medical Association, involved 100 participants who were given a placebo pill instead of actual medication. According to Dr. John Smith, the lead author of the study, the patients who were given the placebo reported a significant improvement in their symptoms.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

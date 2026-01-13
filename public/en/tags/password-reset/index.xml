@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>password reset on ScienceChronicle</title>
+    <title>Password Reset on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/password-reset/</link>
-    <description>Recent content in password reset on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 19 May 2024 02:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/password-reset/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Password Reset on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 May 2024 02:58:40 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/password-reset/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to reset Windows password in VirtualBox</title>
       <link>https://www.ScienceChronicle.org/en/article/how-to-reset-windows-password-in-virtual-box/</link>
       <pubDate>Sun, 19 May 2024 02:58:40 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/article/how-to-reset-windows-password-in-virtual-box/</guid>
-      <description>If you forgot your password for Windows running inside VirtualBOx, the solution is very simple. Here we desribe the steps to reset the password.
-We use VirtualBox Version 7.0.8 r156879 (Qt5.12.8) on Linux Mint 20.3 (Una) (Ubunti Codename=focal). The Windows running in VirtualBox is Windows 11 with standard user User for which Passw0rd! password was expired, then changed to something and this something was forgotten:
-Windows requires password Note: It seems MS removed passwords for the Vms at the time of writing this post (19 May 2024).</description>
+      <description>&lt;p&gt;If you forgot your password for Windows running inside VirtualBOx, the solution is very simple. Here we desribe the steps to reset the password.&lt;/p&gt;&#xA;&lt;p&gt;We use VirtualBox Version 7.0.8 r156879 (Qt5.12.8) on Linux Mint 20.3 (Una) (Ubunti Codename=focal).&#xA;The Windows running in VirtualBox is &lt;a href=&#34;https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Windows 11&lt;/a&gt;&#xA; with standard user &lt;code&gt;User&lt;/code&gt; for which &lt;code&gt;Passw0rd!&lt;/code&gt; password was expired, then changed to something and this something was forgotten:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Windows requires password&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://www.ScienceChronicle.org/article/how-to-reset-windows-password-in-virtual-box/forgotten.png&#34; alt=&#34;forgotten_password&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: It seems MS removed passwords for the Vms at the time of writing this post (19 May 2024).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

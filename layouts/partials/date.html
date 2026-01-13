@@ -1,0 +1,13 @@
+{{- $date := .date -}}
+{{- $format := .format | default "long" -}}
+{{- if $date -}}
+  {{- $layout := ":date_long" -}}
+  {{- if eq $format "short" -}}
+    {{- $layout = ":date_short" -}}
+  {{- else if eq $format "medium" -}}
+    {{- $layout = ":date_medium" -}}
+  {{- else if eq $format "full" -}}
+    {{- $layout = ":date_full" -}}
+  {{- end -}}
+  {{- $date | time.Format $layout -}}
+{{- end -}}

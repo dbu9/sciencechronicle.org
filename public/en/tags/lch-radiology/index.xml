@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lch radiology on ScienceChronicle</title>
+    <title>Lch Radiology on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/lch-radiology/</link>
-    <description>Recent content in lch radiology on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Jan 2024 14:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/lch-radiology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Lch Radiology on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jan 2024 14:58:40 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/lch-radiology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comprehensive Insight into Langerhans Cell Histiocytosis and Radiological Advancements</title>
       <link>https://www.ScienceChronicle.org/en/news/comprehensive-insight-into-langerhans-cell-histiocytosis-and-radiological-advancements/</link>
       <pubDate>Tue, 02 Jan 2024 14:58:40 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/comprehensive-insight-into-langerhans-cell-histiocytosis-and-radiological-advancements/</guid>
-      <description>Pathophysiology: Understanding the Cellular Culprit At its core, LCH is a disorder involving uncontrolled monoclonal proliferation of Langerhans cells. While often considered a malignancy due to its behavior, its biological nature is remarkably variable. Electron microscopy reveals characteristic Birbeck granules in these cells, and immunohistochemistry shows the expression of specific antigens like HLA-DR , CD1a, and CD207.
-The Role of Radiology in LCH Radiology plays a pivotal role in LCH diagnosis.</description>
+      <description>&lt;h2 id=&#34;pathophysiology-understanding-the-cellular-culprit&#34;&gt;Pathophysiology: Understanding the Cellular Culprit&lt;/h2&gt;&#xA;&lt;p&gt;At its core, LCH is a disorder involving uncontrolled monoclonal proliferation of Langerhans cells. While often considered a malignancy due to its behavior, its biological nature is remarkably variable. Electron microscopy reveals characteristic Birbeck granules in these cells, and immunohistochemistry shows the expression of specific antigens like &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/gene/3122&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HLA-DR&lt;/a&gt;&#xA;, CD1a, and CD207.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-role-of-radiology-in-lch&#34;&gt;The Role of Radiology in LCH&lt;/h2&gt;&#xA;&lt;p&gt;Radiology plays a pivotal role in LCH diagnosis. However, imaging features of LCH are often not pathognomonic, necessitating tissue diagnosis for definitive conclusions. The disease&amp;rsquo;s potential to affect multiple organ systems further complicates radiological interpretation.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

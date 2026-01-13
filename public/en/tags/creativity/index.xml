@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>creativity on ScienceChronicle</title>
+    <title>Creativity on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/creativity/</link>
-    <description>Recent content in creativity on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 13 Feb 2024 15:51:26 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/creativity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Creativity on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Feb 2024 15:51:26 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/creativity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vibrant Hues, Vibrant Minds: How Saturated Colors Spark Our Brain Activity</title>
       <link>https://www.ScienceChronicle.org/en/news/vibrant-hues-vibrant-minds-how-saturated-colors-spark-our-brain-activity/</link>
       <pubDate>Tue, 13 Feb 2024 15:51:26 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/vibrant-hues-vibrant-minds-how-saturated-colors-spark-our-brain-activity/</guid>
-      <description>Did you know that the colors surrounding us can do more than just please the eye? They have the power to stir our brains into action, influencing emotions, memories, and even decision-making processes. This isn&amp;rsquo;t just art meeting science; it&amp;rsquo;s about how deeply saturated colors can light up our minds!
-Research shows that vibrant, saturated colors can significantly affect our brain activity and emotional states. Bright reds can energize us, sparking feelings of excitement and passion.</description>
+      <description>&lt;p&gt;Did you know that the colors surrounding us can do more than just please the eye? They have the power to stir our brains into action, influencing emotions, memories, and even decision-making processes. This isn&amp;rsquo;t just art meeting science; it&amp;rsquo;s about how &lt;a href=&#34;https://en.wikipedia.org/wiki/Colorfulness&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;deeply saturated colors&lt;/a&gt;&#xA; can light up our minds!&lt;/p&gt;&#xA;&lt;p&gt;Research shows that vibrant, saturated colors can significantly affect our &lt;a href=&#34;https://en.wikipedia.org/wiki/Electroencephalography&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;brain activity&lt;/a&gt;&#xA; and emotional states. Bright reds can energize us, sparking feelings of excitement and passion. Lush greens often bring a sense of calm and renewal, akin to walking through a dense, invigorating forest. Brilliant blues can soothe the mind, encouraging relaxation and creativity.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

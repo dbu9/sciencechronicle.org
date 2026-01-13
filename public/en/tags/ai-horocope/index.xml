@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ai horocope on ScienceChronicle</title>
+    <title>Ai Horocope on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/ai-horocope/</link>
-    <description>Recent content in ai horocope on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 18 May 2023 01:15:49 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/ai-horocope/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Ai Horocope on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 May 2023 01:15:49 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/ai-horocope/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI-trained Astrology: Is there Evidence for Astrological Divinations?</title>
       <link>https://www.ScienceChronicle.org/en/news/ai-trained-astrology-evidence-astrological-divinations/</link>
       <pubDate>Thu, 18 May 2023 01:15:49 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/ai-trained-astrology-evidence-astrological-divinations/</guid>
-      <description>In recent years, there has been a growing interest in the potential of artificial intelligence (AI) to make astrological divinations. Astrology has been practiced for thousands of years and is based on the belief that the positions of celestial bodies can influence human affairs. However, many scientists have been skeptical of astrology, seeing it as a superstition rather than a science. Could AI change that?
-At Google Inc., researchers have been exploring the potential of AI to make astrological predictions.</description>
+      <description>&lt;p&gt;In recent years, there has been a growing interest in the potential of artificial intelligence (AI) to make astrological divinations. Astrology has been practiced for thousands of years and is based on the belief that the positions of celestial bodies can influence human affairs. However, many scientists have been skeptical of astrology, seeing it as a superstition rather than a science. Could AI change that?&lt;/p&gt;&#xA;&lt;p&gt;At Google Inc., researchers have been exploring the potential of AI to make astrological predictions. They have trained computer algorithms using large datasets of astrological charts and are using these algorithms to predict future events. These predictions range from the mundane (such as whether it will rain tomorrow) to the highly personal (such as whether someone will fall in love).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

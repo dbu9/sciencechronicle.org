@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vpn on ScienceChronicle</title>
+    <title>Vpn on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/vpn/</link>
-    <description>Recent content in vpn on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 18 Jul 2024 01:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Vpn on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jul 2024 01:58:40 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OpenWRT with WireGuard server which is connected through OpenVPN</title>
       <link>https://www.ScienceChronicle.org/en/article/openwrt-wg-server-through-vpn/</link>
       <pubDate>Thu, 18 Jul 2024 01:58:40 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/article/openwrt-wg-server-through-vpn/</guid>
-      <description>We setup a wireguard server on an OpenWRT router. We generate a setup file for the client. The wireguard server itself we connect through a VPN. The VPN itself can be socked through TOR (we don&amp;rsquo;t discuss this in the article).
-Generate keys umask go= wg genkey | tee wgserver.key | wg pubkey &amp;gt; wgserver.pub wg genkey | tee wgclient.key | wg pubkey &amp;gt; wgclient.pub wg genpsk &amp;gt; wgclient.psk Setup wireguard server Note, wireguard server is actually a kernel module and there is no a special application to be run.</description>
+      <description>&lt;p&gt;We setup a wireguard server on an OpenWRT router. We generate a setup file for the client. The wireguard server itself we connect through a VPN. The VPN itself can be socked through TOR (we don&amp;rsquo;t discuss this in the article).&lt;/p&gt;&#xA;&lt;h2 id=&#34;generate-keys&#34;&gt;Generate keys&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#8be9fd;font-style:italic&#34;&gt;umask&lt;/span&gt; &lt;span style=&#34;color:#8be9fd;font-style:italic&#34;&gt;go&lt;/span&gt;&lt;span style=&#34;color:#ff79c6&#34;&gt;=&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;wg genkey | tee wgserver.key | wg pubkey &amp;gt; wgserver.pub&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;wg genkey | tee wgclient.key | wg pubkey &amp;gt; wgclient.pub&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;wg genpsk &amp;gt; wgclient.psk&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;setup-wireguard-server&#34;&gt;Setup wireguard server&lt;/h2&gt;&#xA;&lt;p&gt;Note, wireguard server is actually a kernel module and there is no a special application to be run. The wireguard module exposes interface to &lt;code&gt;ip link&lt;/code&gt; with which one can create a device of type &lt;code&gt;wireguard&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

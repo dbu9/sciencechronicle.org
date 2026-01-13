@@ -4,17 +4,16 @@
     <title>Linguistics on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/linguistics/</link>
     <description>Recent content in Linguistics on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 May 2023 21:51:48 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/linguistics/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 May 2023 21:51:48 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/linguistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sumerian Clay Tablet Deciphered Using Specially Trained Chat GPT Model</title>
       <link>https://www.ScienceChronicle.org/en/news/sumerian-clay-tablet-deciphered-using-specially-trained-chat-gpt-model/</link>
       <pubDate>Wed, 17 May 2023 21:51:48 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/sumerian-clay-tablet-deciphered-using-specially-trained-chat-gpt-model/</guid>
-      <description>On January 8, 2023, researchers at Cairo University in Egypt successfully deciphered a Sumerian clay tablet by using a specially trained chat GPT model. The tablet dates back over 4,000 years and contains inscriptions written in cuneiform script, a system of writing used by ancient civilizations in Mesopotamia.
-The deciphering process involved inputting the inscriptions into the GPT model, which uses machine learning algorithms to understand and process human language. The GPT model was specifically trained to recognize the unique grammar and syntax of Sumerian cuneiform, making it possible to accurately translate the text.</description>
+      <description>&lt;p&gt;On January 8, 2023, researchers at Cairo University in Egypt successfully deciphered a Sumerian clay tablet by using a specially trained chat GPT model. The tablet dates back over 4,000 years and contains inscriptions written in cuneiform script, a system of writing used by ancient civilizations in Mesopotamia.&lt;/p&gt;&#xA;&lt;p&gt;The deciphering process involved inputting the inscriptions into the GPT model, which uses machine learning algorithms to understand and process human language. The GPT model was specifically trained to recognize the unique grammar and syntax of Sumerian cuneiform, making it possible to accurately translate the text.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

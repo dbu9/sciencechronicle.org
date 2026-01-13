@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>toxicology on ScienceChronicle</title>
+    <title>Toxicology on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/toxicology/</link>
-    <description>Recent content in toxicology on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 06 Jul 2024 10:12:56 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/toxicology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Toxicology on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Jul 2024 10:12:56 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/toxicology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Risks of Micro and Nonplastic Particles in Water Bottles Largely Exaggerated, Study Finds</title>
       <link>https://www.ScienceChronicle.org/en/news/risks-of-micro-and-nonplastic-particles-in-water-bottles-largely-exaggerated-study-finds/</link>
       <pubDate>Sat, 06 Jul 2024 10:12:56 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/risks-of-micro-and-nonplastic-particles-in-water-bottles-largely-exaggerated-study-finds/</guid>
-      <description>A new study conducted by a team of researchers at the University of New Yorkshire has found that the risks associated with micro and nonplastic particles in water bottles may have been largely exaggerated. The study, which was published in the Journal of Environmental Science, examined the ability of these particles to enter cells and the bloodstream, and found that their ability to do so is limited.
-Scale for nanoplastics The research was led by Dr.</description>
+      <description>&lt;p&gt;A new study conducted by a team of researchers at &lt;a href=&#34;https://www.nyu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the University of New Yorkshire&lt;/a&gt;&#xA; has found that the risks associated with micro and nonplastic particles in water bottles may have been largely exaggerated. The study, which was published in the Journal of Environmental Science, examined the ability of these particles to enter cells and the bloodstream, and found that their ability to do so is limited.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Scale for nanoplastics&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;https://www.ScienceChronicle.org/news/risks-of-micro-and-nonplastic-particles-in-water-bottles-largely-exaggerated-study-finds/nano.png&#34; alt=&#34;scale&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;The research was led by Dr. Emily Thompson, a leading expert in environmental toxicology. Dr. Thompson and her team set out to investigate the potential health risks posed by micro and nonplastic particles in water bottles, as concerns about their impact on human health have been growing in recent years.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

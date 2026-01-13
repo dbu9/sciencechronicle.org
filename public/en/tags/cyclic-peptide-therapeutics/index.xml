@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cyclic peptide therapeutics on ScienceChronicle</title>
+    <title>Cyclic Peptide Therapeutics on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/cyclic-peptide-therapeutics/</link>
-    <description>Recent content in cyclic peptide therapeutics on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 31 Dec 2023 17:35:11 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/cyclic-peptide-therapeutics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Cyclic Peptide Therapeutics on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Dec 2023 17:35:11 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/cyclic-peptide-therapeutics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scientists Develop New Class of Medicinal Drugs</title>
       <link>https://www.ScienceChronicle.org/en/news/scientists-develop-new-class-of-medicinal-drugs/</link>
       <pubDate>Sun, 31 Dec 2023 17:35:11 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/scientists-develop-new-class-of-medicinal-drugs/</guid>
-      <description>Scientists from the Federal Polytechnic School of Lausanne have developed a new class of medicinal drugs against a wide range of different diseases. The results of the study have been published in the journal Nature Chemical Biology. The scientific work is based on the use of cyclic peptides, which are compounds capable of binding to various target molecules. However, their use as oral drugs is hindered by the fact that they are quickly digested or poorly absorbed in the gastrointestinal tract.</description>
+      <description>&lt;p&gt;Scientists from the Federal Polytechnic School of Lausanne have developed a new class of medicinal drugs against a wide range of different diseases. The results of the study have been &lt;a href=&#34;https://www.nature.com/articles/s41589-023-01496-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published&lt;/a&gt;&#xA; in the journal Nature Chemical Biology. The scientific work is based on the use of cyclic peptides, which are compounds capable of binding to various target molecules. However, their use as oral drugs is hindered by the fact that they are quickly digested or poorly absorbed in the gastrointestinal tract. To stabilize cyclic peptides, a two-step combinatorial synthesis strategy was used, allowing the synthesis of a large library of 8448 cyclic peptides with thioether bonds, which increase their metabolic stability when taken orally. First, a cyclic structure or cycle is created, after which the peptide is acylated or an acyl compound residue is introduced. Experiments have shown that the oral availability of cyclic peptides increased from 2 to 18 percent. In the next stage of this project, scientists plan to use some intracellular protein-protein interactions as targets, for which it was difficult to develop inhibitors based on classical small molecules.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

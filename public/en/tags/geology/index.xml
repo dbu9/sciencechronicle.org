@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>geology on ScienceChronicle</title>
+    <title>Geology on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/geology/</link>
-    <description>Recent content in geology on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 22 Jun 2023 21:50:51 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/geology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Geology on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Jun 2023 21:50:51 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/geology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simulation Shows Effect of Exploding 10 Kiloton Bomb in Mariana Trench on Earth</title>
       <link>https://www.ScienceChronicle.org/en/news/simulation-effect-exploding-10-kiloton-bomb-mariana-trench-earth/</link>
       <pubDate>Thu, 22 Jun 2023 21:50:51 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/simulation-effect-exploding-10-kiloton-bomb-mariana-trench-earth/</guid>
-      <description>A team of scientists at New York University have conducted a simulation to show the catastrophic effects of detonating a 10 kiloton bomb in the Mariana Trench, the deepest part of the Earth&amp;rsquo;s oceans. The study aimed to examine the potential impact of such an explosion on the planet&amp;rsquo;s geological and environmental systems. The results of the simulation were stunning and suggest that such an event would have devastating consequences on both Earth&amp;rsquo;s natural systems and human civilization.</description>
+      <description>&lt;p&gt;A team of scientists at New York University have conducted a simulation to show the catastrophic effects of detonating a 10 kiloton bomb in the Mariana Trench, the deepest part of the Earth&amp;rsquo;s oceans. The study aimed to examine the potential impact of such an explosion on the planet&amp;rsquo;s geological and environmental systems. The results of the simulation were stunning and suggest that such an event would have devastating consequences on both Earth&amp;rsquo;s natural systems and human civilization.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tokyo University Develops A 3D Viscoelastic Finite-Element Model of Qinghai-Tibet Plateau With Bayan Har Block</title>
       <link>https://www.ScienceChronicle.org/en/news/tokyo-university-develops-3d-viscoelastic-finite-element-model-qinghai-tibet-plateau-bayan-har-block/</link>
       <pubDate>Sat, 20 May 2023 10:53:13 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/tokyo-university-develops-3d-viscoelastic-finite-element-model-qinghai-tibet-plateau-bayan-har-block/</guid>
-      <description>Scientists at Tokyo University have established a 3D viscoelastic finite-element model of the Qinghai-Tibet Plateau, which includes the Bayan Har block, in this new study. The model takes into account the differences in the geological structure of each region, the active fault zone, the active tectonic block, boundary fault zone, the irregular topography and layered lithospheric structure, as well as the seismic velocity structure of the crust and mantle. The researchers have called this new model a critical tool for future earthquake studies in the region.</description>
+      <description>&lt;p&gt;Scientists at Tokyo University have established a 3D viscoelastic finite-element model of the Qinghai-Tibet Plateau, which includes the Bayan Har block, in this new study. The model takes into account the differences in the geological structure of each region, the active fault zone, the active tectonic block, boundary fault zone, the irregular topography and layered lithospheric structure, as well as the seismic velocity structure of the crust and mantle. The researchers have called this new model a critical tool for future earthquake studies in the region. The study was published in the Journal of Geophysical Research: Solid Earth.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

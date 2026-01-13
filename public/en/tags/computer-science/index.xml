@@ -4,17 +4,16 @@
     <title>Computer Science on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/computer-science/</link>
     <description>Recent content in Computer Science on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 22 Jun 2023 21:51:51 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Jun 2023 21:51:51 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A new AI can effectively predict CPU vulnerabilities previously uncaught by all other tools, Intel invests into the research team</title>
       <link>https://www.ScienceChronicle.org/en/news/new-ai-effectively-predict-cpu-vulnerabilities-intel-invests-research-team/</link>
       <pubDate>Thu, 22 Jun 2023 21:51:51 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/new-ai-effectively-predict-cpu-vulnerabilities-intel-invests-research-team/</guid>
-      <description>A new artificial intelligence (AI) system has been developed that can predict central processing unit (CPU) vulnerabilities with unprecedented accuracy. This technology has been developed by a research team at the Technion University, and Intel has announced that they will be investing in the project. This innovative system is expected to revolutionize the field of cybersecurity, helping to prevent cyber attacks and safeguard sensitive information.
-Security experts have long been searching for a solution capable of identifying potential CPU vulnerabilities.</description>
+      <description>&lt;p&gt;A new artificial intelligence (AI) system has been developed that can predict central processing unit (CPU) vulnerabilities with unprecedented accuracy. This technology has been developed by a research team at the Technion University, and Intel has announced that they will be investing in the project. This innovative system is expected to revolutionize the field of cybersecurity, helping to prevent cyber attacks and safeguard sensitive information.&lt;/p&gt;&#xA;&lt;p&gt;Security experts have long been searching for a solution capable of identifying potential CPU vulnerabilities. These flaws can be exploited by hackers to manipulate computer systems, steal sensitive information, and cause system crashes. Currently, most cybersecurity solutions rely on the identification of known vulnerabilities and the development of patches to address them. However, this approach is far from perfect. The number of potential vulnerabilities is virtually limitless, and new ones are constantly being discovered. Moreover, not all vulnerabilities are equally easy to identify or resolve.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -4,178 +4,163 @@
     <title>Categories on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/categories/</link>
     <description>Recent content in Categories on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 Sep 2024 03:58:40 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Foundations</title>
+      <link>https://www.ScienceChronicle.org/en/categories/foundations/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.ScienceChronicle.org/en/categories/foundations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Science</title>
+      <link>https://www.ScienceChronicle.org/en/categories/science/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.ScienceChronicle.org/en/categories/science/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Computer</title>
       <link>https://www.ScienceChronicle.org/en/categories/computer/</link>
-      <pubDate>Tue, 17 Sep 2024 03:58:40 +0000</pubDate>
-      
+      <pubDate>Sat, 21 Dec 2024 11:52:37 +0000</pubDate>
       <guid>https://www.ScienceChronicle.org/en/categories/computer/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Game Theory</title>
+      <link>https://www.ScienceChronicle.org/en/categories/game-theory/</link>
+      <pubDate>Sat, 21 Dec 2024 11:52:37 +0000</pubDate>
+      <guid>https://www.ScienceChronicle.org/en/categories/game-theory/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Linux</title>
       <link>https://www.ScienceChronicle.org/en/categories/linux/</link>
       <pubDate>Tue, 17 Sep 2024 03:58:40 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/linux/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SQL</title>
       <link>https://www.ScienceChronicle.org/en/categories/sql/</link>
       <pubDate>Mon, 09 Sep 2024 11:52:37 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/sql/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Health</title>
       <link>https://www.ScienceChronicle.org/en/categories/health/</link>
       <pubDate>Fri, 06 Sep 2024 12:47:31 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/health/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Psychology</title>
       <link>https://www.ScienceChronicle.org/en/categories/psychology/</link>
       <pubDate>Wed, 04 Sep 2024 22:58:40 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/psychology/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>computers</title>
+      <title>Computers</title>
       <link>https://www.ScienceChronicle.org/en/categories/computers/</link>
       <pubDate>Sun, 01 Sep 2024 01:58:40 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/computers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>History</title>
       <link>https://www.ScienceChronicle.org/en/categories/history/</link>
       <pubDate>Thu, 01 Aug 2024 03:58:40 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/history/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>networks</title>
+      <title>Networks</title>
       <link>https://www.ScienceChronicle.org/en/categories/networks/</link>
       <pubDate>Thu, 18 Jul 2024 01:58:40 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/networks/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Networking</title>
       <link>https://www.ScienceChronicle.org/en/categories/networking/</link>
       <pubDate>Sun, 09 Jun 2024 11:52:37 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/networking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nodejs</title>
+      <title>Nodejs</title>
       <link>https://www.ScienceChronicle.org/en/categories/nodejs/</link>
       <pubDate>Mon, 27 May 2024 11:52:37 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/nodejs/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>typescript</title>
+      <title>Typescript</title>
       <link>https://www.ScienceChronicle.org/en/categories/typescript/</link>
       <pubDate>Mon, 27 May 2024 11:52:37 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/typescript/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nuclei</title>
+      <title>Nuclei</title>
       <link>https://www.ScienceChronicle.org/en/categories/nuclei/</link>
       <pubDate>Mon, 20 May 2024 01:58:40 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/nuclei/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nutriceuticals</title>
       <link>https://www.ScienceChronicle.org/en/categories/nutriceuticals/</link>
       <pubDate>Sat, 02 Mar 2024 13:14:43 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/nutriceuticals/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Medicine</title>
       <link>https://www.ScienceChronicle.org/en/categories/medicine/</link>
       <pubDate>Sat, 02 Mar 2024 13:14:21 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/medicine/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Microbiology</title>
       <link>https://www.ScienceChronicle.org/en/categories/microbiology/</link>
       <pubDate>Sat, 02 Mar 2024 12:54:25 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/microbiology/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Nutrition</title>
       <link>https://www.ScienceChronicle.org/en/categories/nutrition/</link>
       <pubDate>Sat, 02 Mar 2024 12:54:25 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/nutrition/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Biology</title>
       <link>https://www.ScienceChronicle.org/en/categories/biology/</link>
       <pubDate>Sun, 25 Feb 2024 01:00:40 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/biology/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Linguistics</title>
       <link>https://www.ScienceChronicle.org/en/categories/linguistics/</link>
       <pubDate>Thu, 15 Feb 2024 01:17:00 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/linguistics/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Arts</title>
       <link>https://www.ScienceChronicle.org/en/categories/arts/</link>
       <pubDate>Thu, 15 Feb 2024 00:51:20 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/categories/arts/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

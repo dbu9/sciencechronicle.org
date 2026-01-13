@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>water bear on ScienceChronicle</title>
+    <title>Water Bear on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/water-bear/</link>
-    <description>Recent content in water bear on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 18 May 2023 12:44:28 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/water-bear/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Water Bear on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 May 2023 12:44:28 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/water-bear/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Epigenetic Evolution is a Main Evolutionary Mechanism in Water Bears, According to Recent study at University of Tokyo</title>
       <link>https://www.ScienceChronicle.org/en/news/epigenetic-evolution-main-mechanism-water-bears-university-tokyo/</link>
       <pubDate>Thu, 18 May 2023 12:44:28 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/epigenetic-evolution-main-mechanism-water-bears-university-tokyo/</guid>
-      <description>A recent study conducted at the University of Tokyo has indicated that epigenetic evolution plays a crucial role in water bear&amp;rsquo;s evolutionary mechanisms. Water bears, also known as tardigrades, are microscopic animals that have the ability to survive in extreme environments, including high temperatures, pressure, and radiation. This study reveals that water bears have a unique way to alter their gene expression in response to environmental changes, and that such changes can be passed on to future generations without altering the DNA sequence.</description>
+      <description>&lt;p&gt;A recent study conducted at the University of Tokyo has indicated that epigenetic evolution plays a crucial role in water bear&amp;rsquo;s evolutionary mechanisms. Water bears, also known as tardigrades, are microscopic animals that have the ability to survive in extreme environments, including high temperatures, pressure, and radiation. This study reveals that water bears have a unique way to alter their gene expression in response to environmental changes, and that such changes can be passed on to future generations without altering the DNA sequence.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

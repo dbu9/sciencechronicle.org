@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>asmr trigger checklist on ScienceChronicle</title>
+    <title>Asmr Trigger Checklist on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/asmr-trigger-checklist/</link>
-    <description>Recent content in asmr trigger checklist on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Feb 2024 00:19:46 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/asmr-trigger-checklist/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Asmr Trigger Checklist on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Feb 2024 00:19:46 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/asmr-trigger-checklist/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Whispers of Wonder: A Deep Dive into ASMR through an Exclusive Interview</title>
       <link>https://www.ScienceChronicle.org/en/news/asmr-research-interview-insights-exploration/</link>
       <pubDate>Mon, 05 Feb 2024 00:19:46 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/asmr-research-interview-insights-exploration/</guid>
-      <description>Interview with the Authors of a Groundbreaking ASMR Research
-Interviewer (SD): Samantha Davis, Editor at ScienceChronicle.org
-SD: Today, we&amp;rsquo;re speaking with the authors of a fascinating study on Autonomous Sensory Meridian Response (ASMR), recently published . Their work offers in-depth insights into ASMR triggers, their consistency over time, and the development of a comprehensive ASMR Trigger Checklist (ATC). This research is crucial for understanding how ASMR affects individuals differently and the potential therapeutic implications.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Interview with the Authors of a Groundbreaking ASMR Research&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Interviewer (SD):&lt;/em&gt; &lt;strong&gt;Samantha Davis&lt;/strong&gt;, Editor at ScienceChronicle.org&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;SD:&lt;/strong&gt; Today, we&amp;rsquo;re speaking with the authors of a fascinating study on Autonomous Sensory Meridian Response (ASMR), recently &lt;a href=&#34;https://doi.org/10.1016/j.concog.2023.103584&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published&lt;/a&gt;&#xA;. Their work offers in-depth insights into ASMR triggers, their consistency over time, and the development of a comprehensive ASMR Trigger Checklist (ATC). This research is crucial for understanding how ASMR affects individuals differently and the potential therapeutic implications. Let&amp;rsquo;s dive into the questions.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

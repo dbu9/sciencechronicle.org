@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>trichothiodystrophy on ScienceChronicle</title>
+    <title>Trichothiodystrophy on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/trichothiodystrophy/</link>
-    <description>Recent content in trichothiodystrophy on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 03 Jan 2024 01:50:04 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/trichothiodystrophy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Trichothiodystrophy on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Jan 2024 01:50:04 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/trichothiodystrophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Revolutionary Discovery in Trichothiodystrophy: GTF2E2 Mutations and Their Impact</title>
       <link>https://www.ScienceChronicle.org/en/news/trichothiodystrophy-gtf2e2-mutation-discovery/</link>
       <pubDate>Wed, 03 Jan 2024 01:50:04 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/trichothiodystrophy-gtf2e2-mutation-discovery/</guid>
-      <description>Introduction In the field of genetic disorders, a groundbreaking study has recently emerged, casting new light on Trichothiodystrophy (TTD), a rare, autosomal-recessive disorder. This article delves into the comprehensive research conducted by Christiane Kuschal and colleagues, published in The American Journal of Human Genetics, which uncovers novel mutations in the GTF2E2 gene and their implications in TTD.
-Understanding Trichothiodystrophy TTD is characterized by brittle hair, intellectual disability, and physical growth impairment.</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In the field of genetic disorders, a groundbreaking study has recently emerged, casting new light on Trichothiodystrophy (TTD), a rare, autosomal-recessive disorder. This article delves into the comprehensive research conducted by Christiane Kuschal and colleagues, published in The American Journal of Human Genetics, which uncovers novel mutations in the GTF2E2 gene and their implications in TTD.&lt;/p&gt;&#xA;&lt;h2 id=&#34;understanding-trichothiodystrophy&#34;&gt;Understanding Trichothiodystrophy&lt;/h2&gt;&#xA;&lt;p&gt;TTD is characterized by brittle hair, intellectual disability, and physical growth impairment. Although photosensitivity is a common feature in TTD, it is absent in some cases. Kuschal et al. focused on two non-photosensitive TTD patients, revealing normal UV damage repair but abnormalities in the transcription process, a unique aspect of TTD.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

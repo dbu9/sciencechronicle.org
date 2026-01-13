@@ -1,44 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>perl on ScienceChronicle</title>
+    <title>Perl on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/perl/</link>
-    <description>Recent content in perl on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Sep 2024 11:52:37 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/perl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Perl on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Sep 2024 11:52:37 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/perl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing Perl::LanguageServer fails because IO:AIO error: c compiler cannot create executables</title>
       <link>https://www.ScienceChronicle.org/en/article/perl-language-server-io-aio-c-compiler-cannot-create-executables/</link>
       <pubDate>Fri, 06 Sep 2024 11:52:37 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/article/perl-language-server-io-aio-c-compiler-cannot-create-executables/</guid>
-      <description>The problem While attempting to install Perl::LanguageServer on my Linux Mint 20.3 Una, the following command:
-cpan install Perl::LanguageServer failed, reporting that the IO::AIO dependency was unsatisfied.
-I tried installing the IO::AIO module separately:
-cpan install IO::AIO However, this resulted in the following error:
-Continue anyways? [y] y checking for gcc... x86_64-linux-gnu-gcc checking whether the C compiler works... no configure: error: in `/home/morpher/.cpan/build/IO-AIO-4.81-7&amp;#39;: configure: error: C compiler cannot create executables See `config.</description>
+      <description>&lt;h2 id=&#34;the-problem&#34;&gt;The problem&lt;/h2&gt;&#xA;&lt;p&gt;While attempting to install &lt;code&gt;Perl::LanguageServer&lt;/code&gt; on my &lt;strong&gt;Linux Mint 20.3 Una&lt;/strong&gt;, the following command:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cpan install Perl::LanguageServer&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;failed, reporting that the &lt;code&gt;IO::AIO&lt;/code&gt; dependency was unsatisfied.&lt;/p&gt;&#xA;&lt;p&gt;I tried installing the &lt;code&gt;IO::AIO&lt;/code&gt; module separately:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cpan install IO::AIO&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;However, this resulted in the following error:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Continue anyways?  [y] y&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;checking for gcc... x86_64-linux-gnu-gcc&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;checking whether the C compiler works... no&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;configure: error: in `/home/morpher/.cpan/build/IO-AIO-4.81-7&amp;#39;:&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;configure: error: C compiler cannot create executables&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;See `config.log` for more details&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Warning: No success on command[/usr/bin/perl Makefile.PL INSTALLDIRS=site]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  MLEHMANN/IO-AIO-4.81.tar.gz&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  /usr/bin/perl Makefile.PL INSTALLDIRS=site -- NOT OK&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Next, I checked whether the required modules, as referred to by the &lt;a href=&#34;https://github.com/richterger/Perl-LanguageServer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perl-LanguageServer repository&lt;/a&gt;&#xA;, were installed by running:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A typical Perl project directory structure</title>
       <link>https://www.ScienceChronicle.org/en/article/typical-perl-project-directory-structure/</link>
       <pubDate>Sun, 01 Sep 2024 01:58:40 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/article/typical-perl-project-directory-structure/</guid>
-      <description>A typical Perl project directory structure is designed to separate the main script(s) from modules, configurations, and other resources like tests or documentation. Here’s an example of a standard Perl project directory structure:
-my_perl_project/ ├── bin/ │ └── main.pl ├── lib/ │ ├── MyApp/ │ │ ├── Module1.pm │ │ └── Module2.pm ├── t/ │ ├── 01_module1.t │ └── 02_module2.t ├── script/ │ └── some_utility_script.pl ├── doc/ │ └── README.md ├── Makefile.</description>
+      <description>&lt;p&gt;A typical Perl project directory structure is designed to separate the main script(s) from modules, configurations, and other resources like tests or documentation. Here’s an example of a standard Perl project directory structure:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;my_perl_project/&#xA;├── bin/&#xA;│   └── main.pl&#xA;├── lib/&#xA;│   ├── MyApp/&#xA;│   │   ├── Module1.pm&#xA;│   │   └── Module2.pm&#xA;├── t/&#xA;│   ├── 01_module1.t&#xA;│   └── 02_module2.t&#xA;├── script/&#xA;│   └── some_utility_script.pl&#xA;├── doc/&#xA;│   └── README.md&#xA;├── Makefile.PL&#xA;└── MANIFEST&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;breakdown-of-the-structure&#34;&gt;Breakdown of the Structure&lt;/h3&gt;&#xA;&lt;h4 id=&#34;1-bin&#34;&gt;1. &lt;strong&gt;&lt;code&gt;bin/&lt;/code&gt; Directory:&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; This directory contains the main executable scripts of your application.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; &lt;code&gt;main.pl&lt;/code&gt; is the main entry point for your application.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Content:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;main.pl&lt;/code&gt;: The main script that uses the modules from the &lt;code&gt;lib/&lt;/code&gt; directory.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;2-lib&#34;&gt;2. &lt;strong&gt;&lt;code&gt;lib/&lt;/code&gt; Directory:&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; This directory is where your Perl modules (libraries) reside.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; The &lt;code&gt;MyApp/&lt;/code&gt; directory within &lt;code&gt;lib/&lt;/code&gt; contains the modules &lt;code&gt;Module1.pm&lt;/code&gt; and &lt;code&gt;Module2.pm&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Content:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;MyApp/Module1.pm&lt;/code&gt;: A Perl module providing specific functionality.&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;MyApp/Module2.pm&lt;/code&gt;: Another Perl module.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Typical Module Structure:&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Using SQLITE database with Perl on OpenWRT</title>
       <link>https://www.ScienceChronicle.org/en/article/using-sqlite-with-perl-on-openwrt-no-dbd/</link>
       <pubDate>Wed, 21 Aug 2024 03:58:40 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/article/using-sqlite-with-perl-on-openwrt-no-dbd/</guid>
-      <description>This article discusses using an SQLite database with Perl on the OpenWRT openwrt-23.05 branch (git-23.233.52805-dae2684). We aim to use an SQLite database with Perl.
-First, we need to install the DBI module and then find and install DBD for SQLite. Let&amp;rsquo;s examine the directory of Perl modules available on OpenWRT: Perl Modules on OpenWRT .
-One can see that the DBI module is present: perl-dbi . After installing it, let&amp;rsquo;s check which DBD modules are included:</description>
+      <description>&lt;p&gt;This article discusses using an SQLite database with Perl on the OpenWRT &lt;code&gt;openwrt-23.05 branch (git-23.233.52805-dae2684)&lt;/code&gt;. We aim to use an SQLite database with Perl.&lt;/p&gt;&#xA;&lt;p&gt;First, we need to install the &lt;code&gt;DBI&lt;/code&gt; module and then find and install &lt;code&gt;DBD&lt;/code&gt; for SQLite. Let&amp;rsquo;s examine the directory of Perl modules available on OpenWRT: &lt;a href=&#34;https://openwrt.org/packages/index/languages---perl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Perl Modules on OpenWRT&lt;/a&gt;&#xA;.&lt;/p&gt;&#xA;&lt;p&gt;One can see that the &lt;code&gt;DBI&lt;/code&gt; module is present: &lt;a href=&#34;https://openwrt.org/packages/pkgdata/perl-dbi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;perl-dbi&lt;/a&gt;&#xA;. After installing it, let&amp;rsquo;s check which &lt;code&gt;DBD&lt;/code&gt; modules are included:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

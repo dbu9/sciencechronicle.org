@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jellyfish on ScienceChronicle</title>
+    <title>Jellyfish on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/jellyfish/</link>
-    <description>Recent content in jellyfish on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Feb 2024 03:16:58 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/jellyfish/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Jellyfish on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Feb 2024 03:16:58 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/jellyfish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exploring the Mysteries of Cnidarians: Form, Function, and Fascination in the Aquatic World</title>
       <link>https://www.ScienceChronicle.org/en/article/exploring-cnidarians-form-function-fascination-aquatic-world/</link>
       <pubDate>Mon, 05 Feb 2024 03:16:58 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/article/exploring-cnidarians-form-function-fascination-aquatic-world/</guid>
-      <description>This article compiles common questions about cnidarians, which we have gathered and answered extensively. It delves into the distinctive characteristics, feeding behaviors, movement mechanisms, and types of symmetry of these captivating aquatic creatures. From the shared traits of cnidarians and flatworms to their ecological importance and the complex strategies they employ to navigate their environments, this piece offers a comprehensive exploration of the form, function, and fascination surrounding cnidarians in the aquatic world.</description>
+      <description>&lt;p&gt;This article compiles common questions about cnidarians, which we have gathered and answered extensively. It delves into the distinctive characteristics, feeding behaviors, movement mechanisms, and types of symmetry of these captivating aquatic creatures. From the shared traits of cnidarians and flatworms to their ecological importance and the complex strategies they employ to navigate their environments, this piece offers a comprehensive exploration of the form, function, and fascination surrounding cnidarians in the aquatic world.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

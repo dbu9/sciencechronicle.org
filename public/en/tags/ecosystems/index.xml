@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ecosystems on ScienceChronicle</title>
+    <title>Ecosystems on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/ecosystems/</link>
-    <description>Recent content in ecosystems on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 May 2023 10:24:09 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/ecosystems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Ecosystems on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 May 2023 10:24:09 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/ecosystems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding the Impact of Climate Change on Biodiversity and Ecosystems</title>
       <link>https://www.ScienceChronicle.org/en/news/understanding-the-impact-of-climate-change-on-biodiversity-and-ecosystems/</link>
       <pubDate>Fri, 19 May 2023 10:24:09 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/understanding-the-impact-of-climate-change-on-biodiversity-and-ecosystems/</guid>
-      <description>Scientists at the University of Cape Town have been studying the impact of climate change on biodiversity and ecosystems, revealing some worrying trends. A team of researchers spent six years studying ten different ecosystems around the world, collecting data on species diversity and abundance, as well as environmental factors like temperature and precipitation. The results of their research show that climate change is having a significant impact on biodiversity and ecosystems, and that urgent action is needed to protect them.</description>
+      <description>&lt;p&gt;Scientists at the University of Cape Town have been studying the impact of climate change on biodiversity and ecosystems, revealing some worrying trends. A team of researchers spent six years studying ten different ecosystems around the world, collecting data on species diversity and abundance, as well as environmental factors like temperature and precipitation. The results of their research show that climate change is having a significant impact on biodiversity and ecosystems, and that urgent action is needed to protect them.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

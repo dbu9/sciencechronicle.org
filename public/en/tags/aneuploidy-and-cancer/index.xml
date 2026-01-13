@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>aneuploidy and cancer on ScienceChronicle</title>
+    <title>Aneuploidy and Cancer on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/aneuploidy-and-cancer/</link>
-    <description>Recent content in aneuploidy and cancer on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 08 Jul 2023 00:36:54 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/aneuploidy-and-cancer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Aneuploidy and Cancer on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 Jul 2023 00:36:54 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/aneuploidy-and-cancer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aneuploidy and Cancer: Removing Extra Chromosomes Can Prevent Cancer</title>
       <link>https://www.ScienceChronicle.org/en/news/aneuploidy-cancer-removing-extra-chromosomes-prevent-cancer/</link>
       <pubDate>Sat, 08 Jul 2023 00:36:54 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/aneuploidy-cancer-removing-extra-chromosomes-prevent-cancer/</guid>
-      <description>Aneuploidy, a condition characterized by an abnormal number of chromosomes, has long been associated with cancer. It is often observed that cancer cells have an altered chromosome count, with extra or missing copies of chromosomes. This phenomenon, known as aneuploidy , has intrigued scientists for decades, as understanding its role in cancer development could provide crucial insights for prevention and treatment.
-The July 2023 issue of Nature magazine features an exciting breakthrough in this field, with researchers suggesting that removing extra chromosomes can potentially prevent cancer.</description>
+      <description>&lt;p&gt;Aneuploidy, a condition characterized by an abnormal number of chromosomes, has long been associated with cancer. It is often observed that cancer cells have an altered chromosome count, with extra or missing copies of chromosomes. This phenomenon, known as &lt;a href=&#34;https://en.wikipedia.org/wiki/Aneuploidy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aneuploidy&lt;/a&gt;&#xA;, has intrigued scientists for decades, as understanding its role in cancer development could provide crucial insights for prevention and treatment.&lt;/p&gt;&#xA;&lt;p&gt;The July 2023 issue of Nature magazine features an exciting breakthrough in this field, with researchers suggesting that removing extra chromosomes can potentially prevent cancer. The study, led by a team of scientists from prominent institutions, sheds light on the relationship between aneuploidy and cancer, offering hope for new strategies in cancer prevention and treatment.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

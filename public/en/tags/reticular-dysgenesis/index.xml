@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reticular dysgenesis on ScienceChronicle</title>
+    <title>Reticular Dysgenesis on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/reticular-dysgenesis/</link>
-    <description>Recent content in reticular dysgenesis on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 02 Jan 2024 10:47:21 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/reticular-dysgenesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Reticular Dysgenesis on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jan 2024 10:47:21 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/reticular-dysgenesis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comprehensive Overview of Reticular Dysgenesis: History, Clinical Profile, Genetic Insights, and Treatment Advances</title>
       <link>https://www.ScienceChronicle.org/en/news/reticular-dysgenesis/</link>
       <pubDate>Tue, 02 Jan 2024 10:47:21 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/reticular-dysgenesis/</guid>
-      <description>History In 1959, De Vaal and Seynhaeve first documented a case of severe combined immunodeficiency (SCID) accompanied by congenital absence of white blood cells. This discovery was based on observations of monozygotic twin boys, born prematurely, who had no white blood cells at birth. Post-mortem examination of these infants, who unfortunately died from septic complications as neonates, showed conditions consistent with SCID. This included the absence of lymphoid cells in their lymphoid organs and myeloid cells in their bone marrow, while erythroid cells and megakaryocytes were present.</description>
+      <description>&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;&#xA;&lt;p&gt;In 1959, De Vaal and Seynhaeve first documented a case of severe combined immunodeficiency (SCID) accompanied by congenital absence of white blood cells. This discovery was based on observations of monozygotic twin boys, born prematurely, who had no white blood cells at birth. Post-mortem examination of these infants, who unfortunately died from septic complications as neonates, showed conditions consistent with SCID. This included the absence of lymphoid cells in their lymphoid organs and myeloid cells in their bone marrow, while erythroid cells and megakaryocytes were present. This unique combination of symptoms led the researchers to name the condition &amp;ldquo;reticular dysgenesis&amp;rdquo; (RD), attributing it to a failure in the &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2975965/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;development of early multipotent reticular cells into myeloid and lymphoid cells&lt;/a&gt;&#xA;. Further studies on RD revealed variations in white blood cell counts among patients, with some exhibiting immature myeloid cells up to the promyelocyte stage. Roper et al.&amp;rsquo;s extensive study, using cell-surface marker staining, indicated that RD might interfere with the late differentiation of lymphoid and myeloid cells. The first successful bone marrow transplantation (BMT) in 1983, which treated a patient with RD, pointed to the disease originating in stem cells rather than the bone marrow environment. RD patients were found to not respond to &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34772606/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G-CSF treatment&lt;/a&gt;&#xA; for granulopoiesis, unlike those with other congenital neutropenias. Additionally, primary sensorineural deafness emerged as another characteristic of RD, with adenylate kinase 2 deficiency identified as its molecular basis.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

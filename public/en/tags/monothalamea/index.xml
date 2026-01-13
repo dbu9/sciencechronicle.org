@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>monothalamea on ScienceChronicle</title>
+    <title>Monothalamea on ScienceChronicle</title>
     <link>https://www.ScienceChronicle.org/en/tags/monothalamea/</link>
-    <description>Recent content in monothalamea on ScienceChronicle</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 18 Jan 2024 21:50:21 +0000</lastBuildDate><atom:link href="https://www.ScienceChronicle.org/en/tags/monothalamea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Monothalamea on ScienceChronicle</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Jan 2024 21:50:21 +0000</lastBuildDate>
+    <atom:link href="https://www.ScienceChronicle.org/en/tags/monothalamea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Type of Monothalamea is Made of More Than 40 Living Distinct Living Clades</title>
       <link>https://www.ScienceChronicle.org/en/news/new-type-monothalamea-more-than-40-distinct-living-clades/</link>
       <pubDate>Thu, 18 Jan 2024 21:50:21 +0000</pubDate>
-      
       <guid>https://www.ScienceChronicle.org/en/news/new-type-monothalamea-more-than-40-distinct-living-clades/</guid>
-      <description>Berlin University has unveiled a new type of monothalamea, a single-celled organism, that is made up of more than 40 distinct living clades. The discovery was made by a team of researchers led by Dr. Maria Schmidt, who spent the last decade studying various single-celled organisms in an effort to better understand their evolution.
-The new species, which has not yet been named, was discovered in the depths of the Pacific Ocean.</description>
+      <description>&lt;p&gt;Berlin University has unveiled a new type of monothalamea, a single-celled organism, that is made up of more than 40 distinct living clades. The discovery was made by a team of researchers led by Dr. Maria Schmidt, who spent the last decade studying various single-celled organisms in an effort to better understand their evolution.&lt;/p&gt;&#xA;&lt;p&gt;The new species, which has not yet been named, was discovered in the depths of the Pacific Ocean. It is unlike any other monothalamea known to science in that it is made up of so many diverse clades. This discovery sheds new light on the complexity of the single-celled world and challenges our assumptions about what type of life can exist in even the most extreme environments.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

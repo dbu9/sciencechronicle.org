@@ -12,7 +12,7 @@ Fibromyalgia, a chronic condition characterized by widespread pain, fatigue, sle
 
 ## Understanding Fibromyalgia
 
-Before delving into natural remedies, it's crucial to understand [fibromyalgia]({{< ref "/fibromyalgia-syndrome-and-chronic-widespread-pain" >}}). This condition, affecting millions worldwide, manifests in muscle pain, joint stiffness, and fatigue, often accompanied by sleep problems, mood disturbances, and cognitive difficulties. The exact cause remains elusive, but researchers suggest it involves a combination of genetic, environmental, and psychological factors, leading to abnormal pain processing.
+Before delving into natural remedies, it's crucial to understand [fibromyalgia]({{< ref "/news/fibromyalgia-syndrome-and-chronic-widespread-pain" >}}). This condition, affecting millions worldwide, manifests in muscle pain, joint stiffness, and fatigue, often accompanied by sleep problems, mood disturbances, and cognitive difficulties. The exact cause remains elusive, but researchers suggest it involves a combination of genetic, environmental, and psychological factors, leading to abnormal pain processing.
 
 ## The Role of Diet
 
